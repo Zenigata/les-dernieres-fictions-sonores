@@ -68,10 +68,10 @@ body {
 }
 
 .date {
-  font-size: 24px;
   font-weight: 700;
   margin: 0;
   color: var(--nord09);
+  display: inline-block;
 }
 
 p {
