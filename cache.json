@@ -140,6 +140,56 @@
           "title": "Saga mp3 - LGMP - S1 Ep4 Premier cours de magie"
         }
       ]
+    },
+    {
+      "title": "[Saga MP3] Fénix Write : L'As Détourné",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLX9jskeW-ypfdvODNOFnWlrBKsonnhm0K",
+      "siteUrl": "http://www.youtube.com/feeds/videos.xml?playlist_id=PLX9jskeW-ypfdvODNOFnWlrBKsonnhm0K",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ztScOAlUHdw",
+          "author": null,
+          "description": "Actuellement disponible sur notre Tipeee : https://fr.tipeee.com/javras​Puis samedi à 21h, on fait un petit live pour écouter l'épisode 1 et le 2 ensemble : ...",
+          "link": "https://www.youtube.com/watch?v=ztScOAlUHdw",
+          "publishedOn": "2021-05-12T16:50:06.000Z",
+          "wordCount": 19,
+          "title": "FÉNIX WRITE - AVANT-PREMIERE DE L'ÉPISODE 2"
+        }
+      ]
+    },
+    {
+      "title": "Javras",
+      "feedUrl": "https://javras.fr/feed/podcast",
+      "siteUrl": "https://javras.fr/",
+      "articles": [
+        {
+          "id": "https://javras.fr/?p=17734",
+          "author": "Aibonn",
+          "description": "Hey, bande de personnes belles et talentueuses ! \nC’est votre dealer de fiction sonore Aibonn qui vous parle à travers ce texte pour vous dire que l’épisode 5 de Camlann est là ! Ooh oui, vous l’attendiez, vous le désiriez plus que tout, et bien le voilà ! C’est offert, gratuit. Cadeau de moi à vous, oh comment me remercier ?\nEn profitant de ce travail avec vos oreilles et en augmentant le nombre de mes cultistes auditeurs !\n\n\n\t\t\t\t\nRemercions une fois encore Kayji pour son travail pour l’intro de ma saga qu…",
+          "link": "https://javras.fr/2021/04/25/camlann-episode-5/",
+          "publishedOn": "2021-04-25T06:30:00.000Z",
+          "wordCount": 484,
+          "title": "Camlann – Épisode 5"
+        }
+      ]
+    },
+    {
+      "title": "Cosmose",
+      "feedUrl": "https://cosmose.lepodcast.fr/rss",
+      "siteUrl": "https://cosmose.lepodcast.fr/",
+      "articles": []
+    },
+    {
+      "title": "AEL - L'Art de l'Épée en Ligne",
+      "feedUrl": "https://ael-lasagamp3.blogspot.com/feeds/posts/default",
+      "siteUrl": "https://ael-lasagamp3.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "Wave's Avengers",
+      "feedUrl": "https://www.wavesavengers.fr/feed/",
+      "siteUrl": "https://www.wavesavengers.fr",
+      "articles": []
     }
   ],
   "cliVersion": "1.7.2"
