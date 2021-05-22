@@ -16,6 +16,7 @@
 
 ### ✨ [Le site](https://zenigata.github.io/les-dernieres-fictions-sonores/)
 
+Thème basé sur [onnyyonn](https://github.com/onnyyonn/feed).
 
 ## 🤝 Contributing
 
