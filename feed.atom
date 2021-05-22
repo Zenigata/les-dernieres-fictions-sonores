@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-05-22T14:42:58.665Z</updated>
+    <updated>2021-05-22T14:55:39.564Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -42,6 +42,46 @@ Musique : Pavane pour la petite guerre Jordi Savall Philidor L'Asiné]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[🎧 LA TRAVERSÉE DE FAËRIA | #03 TOME 2 - LA TOUR DES MAGES]]></title>
+        <id>https://www.youtube.com/watch?v=xrRXSyfN7Eg</id>
+        <link href="https://www.youtube.com/watch?v=xrRXSyfN7Eg"/>
+        <updated>2021-05-15T15:16:38.000Z</updated>
+        <summary type="html"><![CDATA[C'est cette fois devant l'imposante tour des mages que nos héros reprennent leur aventure. Vont-ils enfin en savoir plus sur la mystérieuse raison de leur ve...]]></summary>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSION | #02 Transpudding]]></title>
+        <id>https://www.youtube.com/watch?v=VLBzaVAK8fA</id>
+        <link href="https://www.youtube.com/watch?v=VLBzaVAK8fA"/>
+        <updated>2021-05-09T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Quand on ne sait plus quoi dire, mais qu'on veut quand même le dire, on digresse et ça part en digression digressante qui dégraisse la déglutition dégoulinan...]]></summary>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saga mp3 - LGMP - S1 Ep4 Premier cours de magie]]></title>
+        <id>https://www.youtube.com/watch?v=jokLLLGlhwM</id>
+        <link href="https://www.youtube.com/watch?v=jokLLLGlhwM"/>
+        <updated>2021-05-02T15:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Bonjour à toutes et tous. Après 7 mois d'attente, le voici enfin, l'épisode 4 du garçon aux mystérieux pouvoirs.Épisode 4 Premier cours de magieSynopsis: Au ...]]></summary>
+        <author>
+            <name>LGMP Saison 1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎧 ORANU | MES CHERS DEMONS]]></title>
+        <id>https://www.youtube.com/watch?v=Og4FDA0E8yE</id>
+        <link href="https://www.youtube.com/watch?v=Og4FDA0E8yE"/>
+        <updated>2021-05-01T15:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Les Chroniques de L’Oranu : Univers de SFMes Chers DémonsAprès sa défaite cuisante contre James Rico, Gwenn Douarnez aussi connu sous le nom du Fils de la Mo...]]></summary>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hector ou les Chroniques d'un Rastronaute : Episode Huitième, Partie A : Simple. Claire. Limpide. Fusibles ! (Final Saison 1)]]></title>
         <id>https://audioblog.arteradio.com/blog/158604/podcast/165324</id>
         <link href="https://audioblog.arteradio.com/blog/158604/podcast/165324"/>
@@ -70,6 +110,16 @@ Saison 1 - The Inner Path : "La rencontre de deux hommes à la croisée des chem
         <summary type="html"><![CDATA[The Walter Proof Experiment épisode 70 (saison 7) Au sommaire de cet épisode Le Dicovid des mots inventés Bureau d’études de la chanson Hieronymus Bosch : Butt music France Musique : tendez l’oreille Nirvana par une AI Covers : Chop Suey Bluegrass edition Bohemian Baby Pentatonix : 90’s Dance Medley Come together Swamp Blues Luigi...]]></summary>
         <author>
             <name>L'Inaudible de Walter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎧 LA TRAVERSÉE DE FAËRIA | #02 TOME2 - LE CAMP BANDIT]]></title>
+        <id>https://www.youtube.com/watch?v=uIxDDAWXVNU</id>
+        <link href="https://www.youtube.com/watch?v=uIxDDAWXVNU"/>
+        <updated>2021-04-24T15:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Poursuivez l'aventure à travers le Camp Bandit et tentez de le traverser discrètement, au plus vite. Il ne fait pas bon errer de ce côté des terres. La discr...]]></summary>
+        <author>
+            <name>Audiodidact</name>
         </author>
     </entry>
 </feed>
