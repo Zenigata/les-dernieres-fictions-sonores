@@ -1,22 +1,22 @@
 {
-  "name": "osmosfeed-template",
+  "name": "les-dernieres-fictions-sonores",
   "version": "1.0.0",
-  "description": "Use this template to create the UI and content of an RSS feed reader.",
+  "description": "Les derniers épisodes de fictions sonores francophones.",
   "main": "index.js",
   "scripts": {
     "build": "osmosfeed"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osmoscraft/osmosfeed-template.git"
+    "url": "git+https://github.com/Zenigata/les-dernieres-fictions-sonores.git"
   },
   "keywords": [],
-  "author": "osmoscraft",
+  "author": "zenigata",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/osmoscraft/osmosfeed-template/issues"
+    "url": "https://github.com/Zenigata/les-dernieres-fictions-sonores/issues"
   },
-  "homepage": "https://github.com/osmoscraft/osmosfeed-template#readme",
+  "homepage": "https://github.com/Zenigata/les-dernieres-fictions-sonores#readme",
   "dependencies": {
     "@osmoscraft/osmosfeed": "^1.2.2"
   }
