@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-05-22T21:18:45.998Z</updated>
+    <updated>2021-05-22T21:38:42.058Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hector ou les Chroniques d'un Rastronaute : Episode Huitième, Partie B : Simple. Claire. Limpide. Fusibles ! (Final Saison 1)]]></title>
+        <id>https://audioblog.arteradio.com/blog/158604/podcast/166539</id>
+        <link href="https://audioblog.arteradio.com/blog/158604/podcast/166539"/>
+        <updated>2021-05-22T21:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Parce qu'il faut bien débuter les fins de saison quelque part...Et parce qu'un rendez-vous chez un cuisiniste n'est rien d'autre qu'une plongée dans le monde de l'absurde...Un épisode qui répond à quelques questions.Du moins, qui tente de le faire.Parce qu'il faut bien, un jour, comprendre pourquoi.... pourquoi Hector. Enfin. Hectore plutôt. Pourquoi elle ?Une seconde partie qui rend à Douglas Adams ce qu'elle lui doit.Et puis aux autres aussi.Guest du jours :  dans le rôle de Créance Narnaque : Vincent Fro…]]></summary>
+        <author>
+            <name>Hector ou les Chroniques d'un Rastronaute</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 LA TRAVERSÉE DE FAËRIA | #04 TOME 2 - A LA RECHERCHE DU NAIN]]></title>
         <id>https://www.youtube.com/watch?v=ocCcU6OnZTU</id>
