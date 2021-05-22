@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
-    <title>osmos::feed</title>
-    <updated>2021-05-22T13:59:52.236Z</updated>
+    <title>Fictions sonores : nouveaux épisodes</title>
+    <updated>2021-05-22T14:07:26.894Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
