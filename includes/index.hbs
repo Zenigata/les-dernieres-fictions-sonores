@@ -15,16 +15,14 @@
   <link href="https://cdn.lineicons.com/2.0/LineIcons.css" rel="stylesheet">
   <section class="header-container">
     <div style="display:flex; justify-content:flex-end; align-items:flex-end;">
-      <div style="flex-grow:1;"><div class="header-title"><span style="color:#b48ead;">onnyyonn</span>//feed</div></div>
-      <div class=icons><a class="lni lni-32 lni-github" href="https://github.com/onnyyonn/feed" target="_blank" rel="noopener noreferrer"></a></div>
+      <div style="flex-grow:1;"><div class="header-title"><span style="color:#b48ead;">zenigata</span>{{siteTitle}}</div></div>
+      <div class=icons><a class="lni lni-32 lni-github" href="https://github.com/Zenigata/les-dernieres-fictions-sonores" target="_blank" rel="noopener noreferrer"></a></div>
     </div>
   </section>
 
-  {{#each dates}}
-  <section class="day-container">
-    <div class="date">{{isoPublishDate}}</div>
+  {{#each articles}}
 
-    {{#each articles}}
+  <section class="day-container">
     <article>
       <details>
         <Summary>{{title}}</Summary>
@@ -36,7 +34,6 @@
         </div
       </details>
     </article>
-    {{/each}}
 
   </section>
   {{/each}}
