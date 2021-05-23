@@ -1,15 +1,15 @@
 cacheUrl: https://zenigata.github.io/les-dernieres-fictions-sonores/cache.json
 sources:
-  - href: https://www.linaudible.com/feed/podcast/
-  - href: https://cyranodebergerac.lepodcast.fr/rss
-  - href: https://audioblog.arteradio.com/blog/158604/rss
-  - href: https://seasons.lepodcast.fr/rss
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvvYk2sA1XWtt3XHzA0CEWw
-  - href: https://www.youtube.com/feeds/videos.xml?playlist_id=PLaceYo0_H9hSkLemL6ngiyHmIUqZKRBsz
-  - href: https://www.youtube.com/feeds/videos.xml?playlist_id=PLX9jskeW-ypfdvODNOFnWlrBKsonnhm0K
-  - href: https://javras.fr/feed/podcast
-  - href: https://cosmose.lepodcast.fr/rss
-  - href: https://ael-lasagamp3.blogspot.com/feeds/posts/default
-  - href: https://www.wavesavengers.fr/feed/
+  - href: https://www.linaudible.com/feed/podcast/ # L'inaudible
+  - href: https://cyranodebergerac.lepodcast.fr/rss # Cyrano
+  - href: https://audioblog.arteradio.com/blog/158604/rss # Hectore
+  - href: https://seasons.lepodcast.fr/rss # Seasons
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvvYk2sA1XWtt3XHzA0CEWw # Audiodidact
+  - href: https://www.youtube.com/feeds/videos.xml?playlist_id=PLaceYo0_H9hSkLemL6ngiyHmIUqZKRBsz # Le garçon aux mystérieux pouvoirs
+  - href: https://www.youtube.com/feeds/videos.xml?playlist_id=PLX9jskeW-ypfdvODNOFnWlrBKsonnhm0K # Javras YouTube
+  - href: https://javras.fr/feed/podcast # Javras
+  - href: https://cosmose.lepodcast.fr/rss # Cosmose
+  - href: https://ael-lasagamp3.blogspot.com/feeds/posts/default # L'Art de l'Épée en ligne
+  - href: https://www.wavesavengers.fr/feed/ # Wave's Avengers
 
 siteTitle: "Fictions sonores : nouveaux épisodes"
