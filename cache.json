@@ -217,6 +217,76 @@
       "feedUrl": "https://www.wavesavengers.fr/feed/",
       "siteUrl": "https://www.wavesavengers.fr",
       "articles": []
+    },
+    {
+      "title": "Podcut Fictions",
+      "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
+      "siteUrl": "https://podcast.ausha.co/podcut-fictions",
+      "articles": [
+        {
+          "id": "73cc0a5f0675eb0382fe80a01b0dbac266948ec1",
+          "author": null,
+          "description": "Quelque Chose est une fiction audio produite par le label Podcut ! \n\nCette nouvelle aventure incarnée par Manu et Pomme, \na été écrite par David D. Ward et mise en son par Zu.\nLa musique a été composée par Julien Picard.\nLe logo a été réalisé par Kevin Boyer.  \n\nSi ça vous a plus n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/PodcutU\nInstagram https://instagram.com/podcutuniverse?igshid=9pvvqqadu5ji\nEt si vous souhaitez encourager le label : https://www.patreon.com/podcut\n\nMerci de nous avoir suivi et rendez-vous très vite pour de nouvelles histoires !",
+          "link": "https://podcast.ausha.co/podcut-fictions/quelque-chose-ep-4-ecce-homo",
+          "publishedOn": "2021-04-29T04:51:00.000Z",
+          "wordCount": 607,
+          "title": "Quelque Chose - Ep 4 Ecce homo"
+        }
+      ]
+    },
+    {
+      "title": "Fiqtion",
+      "feedUrl": "https://rss.acast.com/fiqtion",
+      "siteUrl": "https://feed.pippa.io/public/shows/fiqtion",
+      "articles": []
+    },
+    {
+      "title": "Noises",
+      "feedUrl": "https://rss.acast.com/noises",
+      "siteUrl": "http://ba-ba-bam.com/marques/noises/",
+      "articles": [
+        {
+          "id": "fa1414f2-8e70-4e43-af51-e5dd7e861389",
+          "author": null,
+          "description": "En 2037, la défiance envers le monde politique ne cesse de s’accroître. Alors que des élections sont organisées, une jeune hacktiviste se lance dans une enquête sans précédent pour révéler au grand public la vraie nature de ce scrutin.\n\n\n\"Silencio\" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond et Brice Borg. \n\n\nUn podcast à écouter sur toutes les plateformes d'écoutes : \nApple Podcasts, Spotify, Deezer, Castbox, Podcast Addict, Podinstall\n \n \n\nSee acast.com/privacy for privacy and opt-out information.",
+          "link": "https://play.acast.com/s/noises/silencio-lanouvellefictionevenementdebababam",
+          "publishedOn": "2021-05-03T03:00:00.000Z",
+          "wordCount": 292,
+          "title": "Silencio, la nouvelle fiction événement de Bababam"
+        }
+      ]
+    },
+    {
+      "title": "Red Universe",
+      "feedUrl": "https://reduniverse.lepodcast.fr/rss",
+      "siteUrl": "https://reduniverse.fr",
+      "articles": [
+        {
+          "id": "60a53fa3ebfd8b0047b5e93f",
+          "author": "raoulito",
+          "description": "Toutes les playlists de Red Universe ?\nOn peut VRAIMENT les écouter ?\noui, sur https://reduniverse.fr/musiques-themes/\n#reduniverse, #‎podcast, #‎sagamp3, #‎ebook, #‎soundtrack, #‎podcloud, #‎podradio, #sybel, #forcesmentales\nmusiques de RedU",
+          "link": "https://reduniverse.lepodcast.fr/les-musiques-de-red-universe-et-forces-mentales",
+          "publishedOn": "2021-05-19T16:41:00.000Z",
+          "wordCount": 77,
+          "title": "Les musiques de Red Universe & Forces Mentales !"
+        }
+      ]
+    },
+    {
+      "title": "Rouge Vif",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:985904854/sounds.rss",
+      "siteUrl": "https://soundcloud.com/user-181809735",
+      "articles": [
+        {
+          "id": "tag:soundcloud,2010:tracks/1050373534",
+          "author": null,
+          "description": "Dans un studio insonorisé, deux hommes enregistrent un podcast. Mais de curieux événements interrompent bientôt l'expérience...\n\nAttention ! Toute ressemblance avec des personnages fictifs serait purement fortuite.\n\n\n\n\n------------------------\n\nScénario, prise de son, montage, mixage et autres joyeusetés : Mehdi Bayad\n\nMusiques :\n> Chopin - Nocturne no.20 en do dièse mineur, op. posth.\n> CO.AG - Dark memories of the past still linger\n> Bensound - Instinct\n> CO.AG - The swing\n> Mehdi Bayad - Lumière Noire Thème\n> Heiko Franz - Crazy Violins\n> CO.AG - 3am\n\nComédiens n.1 et 2 : Mehdi Bayad",
+          "link": "https://soundcloud.com/user-181809735/rouge-vif",
+          "publishedOn": "2021-05-17T17:51:49.000Z",
+          "wordCount": 392,
+          "title": "Rouge Vif"
+        }
+      ]
     }
   ],
   "cliVersion": "1.8.1"
