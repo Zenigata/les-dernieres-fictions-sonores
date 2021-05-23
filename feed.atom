@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-05-22T21:38:42.058Z</updated>
+    <updated>2021-05-23T00:38:45.170Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fénix Write – Épisode 02]]></title>
+        <id>https://javras.fr/?p=17920</id>
+        <link href="https://javras.fr/2021/05/23/fenix-write-episode-02/"/>
+        <updated>2021-05-22T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Salut à tous, ici Erika ! Pour ceux qui ne le savent pas, je réalise une nouvelle parodie mp3 en compagnie de Richoult s’appelant “Fénix Write : l’As Détourné” qui est, comme vous pouvez vous en douter, une parodie du jeu “Phoenix Wright : Ace Attorney“. Pour ceux qui me connaissent, je suis non seulement une grande fan de Portal, mais aussi de Professeur Layton et Phoenix Wright. J’ai découvert cette licence grâce à la sortie du cross-over des deux licences en 2014. Cependant, j’en ai entendu parler en 201…]]></summary>
+        <author>
+            <name>Erika</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hector ou les Chroniques d'un Rastronaute : Episode Huitième, Partie B : Simple. Claire. Limpide. Fusibles ! (Final Saison 1)]]></title>
         <id>https://audioblog.arteradio.com/blog/158604/podcast/166539</id>
