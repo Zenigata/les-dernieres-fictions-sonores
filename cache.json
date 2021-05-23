@@ -156,6 +156,15 @@
       "siteUrl": "http://www.youtube.com/feeds/videos.xml?playlist_id=PLX9jskeW-ypfdvODNOFnWlrBKsonnhm0K",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iZTaKP9tzEQ",
+          "author": null,
+          "description": "Téléchargement gratuit du fichier mp3 sur : https://javras.fr/?p=17920D'autres sagas mp3 sur https://www.javras.fr​ .RÉSEAUX :Facebook : https://www.facebook...",
+          "link": "https://www.youtube.com/watch?v=iZTaKP9tzEQ",
+          "publishedOn": "2021-05-23T06:00:19.000Z",
+          "wordCount": 23,
+          "title": "Saga MP3 - Fenix Write : L'As Détourné - Episode 02"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ztScOAlUHdw",
           "author": null,
           "description": "Actuellement disponible sur notre Tipeee : https://fr.tipeee.com/javras​Puis samedi à 21h, on fait un petit live pour écouter l'épisode 1 et le 2 ensemble : ...",
@@ -210,5 +219,5 @@
       "articles": []
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }
