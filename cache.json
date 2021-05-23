@@ -262,6 +262,54 @@
           "title": "Rouge Vif"
         }
       ]
+    },
+    {
+      "title": "La Quête de Norulmyr",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:836258974/sounds.rss",
+      "siteUrl": "https://norulmyr.com/",
+      "articles": [
+        {
+          "id": "tag:soundcloud,2010:tracks/1047458791",
+          "author": null,
+          "description": "Jivé, Tarak et Veldem sont piégés dans un croiseur Zorax et vont tout faire pour ne pas finir en repas pour l'équipage...",
+          "link": "https://soundcloud.com/morphet-productions/episode-3-les-zorax",
+          "publishedOn": "2021-05-12T00:00:00.000Z",
+          "wordCount": 265,
+          "title": "Épisode 3 - Les Zorax"
+        }
+      ]
+    },
+    {
+      "title": "Studio TJP 💊 Fictions Sonores / Sagas MP3 / Séries Audio",
+      "feedUrl": "https://studio-tjp.lepodcast.fr/rss",
+      "siteUrl": "https://studiotjp.com",
+      "articles": [
+        {
+          "id": "6093e921b600fd0095059b10",
+          "author": "François TJP",
+          "description": "8 octobre 1983\n En route, mauvaise troupe !\n Une fiction sonore qui vous plonge au coeur de l’inventaire du château vendéen en 1983.\nEpisode 02 : Octobre 1983, à bord de la CX de l'office notarial où il est employé comme clerc, Paul Chapuis parcoure la route de Paris à St Cyr en Talmondais.\n Avec Yann Welfringer et Phaeton Bougre",
+          "link": "https://demonceaux.studiotjp.com",
+          "publishedOn": "2021-05-06T12:32:00.000Z",
+          "wordCount": 52,
+          "title": "La succession Demonceaux 📕 Fiction Sonore > Episode 02 - 8 octobre 1983 - En route, mauvaise troupe !"
+        }
+      ]
+    },
+    {
+      "title": "Le ShCrok Mel Sho ?",
+      "feedUrl": "https://feed.ausha.co/bzDrQcaR1xp7",
+      "siteUrl": "https://podcast.ausha.co/le-shcrok-mel-sho",
+      "articles": [
+        {
+          "id": "46eb4ba2c62a0c440eda080a0587aa2eb1d96315",
+          "author": null,
+          "description": "Holmes & Watson partent à la recherche d'une lapine blanche.",
+          "link": "https://podcast.ausha.co/le-shcrok-mel-sho/episode-20-sherlock-au-pays-des-mievres-reves",
+          "publishedOn": "2021-05-17T19:39:14.000Z",
+          "wordCount": 1044,
+          "title": "Episode 20 : \"Sherlock au pays des mièvres rêves\""
+        }
+      ]
     }
   ],
   "cliVersion": "1.8.1"

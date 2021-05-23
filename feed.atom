@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-05-23T19:38:13.057Z</updated>
+    <updated>2021-05-23T20:13:07.295Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -48,6 +48,16 @@ oui, sur https://reduniverse.fr/musiques-themes/
 musiques de RedU]]></summary>
         <author>
             <name>raoulito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 20 : "Sherlock au pays des mièvres rêves"]]></title>
+        <id>46eb4ba2c62a0c440eda080a0587aa2eb1d96315</id>
+        <link href="https://podcast.ausha.co/le-shcrok-mel-sho/episode-20-sherlock-au-pays-des-mievres-reves"/>
+        <updated>2021-05-17T19:39:14.000Z</updated>
+        <summary type="html"><![CDATA[Holmes & Watson partent à la recherche d'une lapine blanche.]]></summary>
+        <author>
+            <name>Le ShCrok Mel Sho ?</name>
         </author>
     </entry>
     <entry>
@@ -126,6 +136,16 @@ Musique : Pavane pour la petite guerre Jordi Savall Philidor L'Asiné]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Épisode 3 - Les Zorax]]></title>
+        <id>tag:soundcloud,2010:tracks/1047458791</id>
+        <link href="https://soundcloud.com/morphet-productions/episode-3-les-zorax"/>
+        <updated>2021-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jivé, Tarak et Veldem sont piégés dans un croiseur Zorax et vont tout faire pour ne pas finir en repas pour l'équipage...]]></summary>
+        <author>
+            <name>La Quête de Norulmyr</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🎧 DIGRESSION | #02 Transpudding]]></title>
         <id>https://www.youtube.com/watch?v=VLBzaVAK8fA</id>
         <link href="https://www.youtube.com/watch?v=VLBzaVAK8fA"/>
@@ -133,6 +153,20 @@ Musique : Pavane pour la petite guerre Jordi Savall Philidor L'Asiné]]></summar
         <summary type="html"><![CDATA[Quand on ne sait plus quoi dire, mais qu'on veut quand même le dire, on digresse et ça part en digression digressante qui dégraisse la déglutition dégoulinan...]]></summary>
         <author>
             <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La succession Demonceaux 📕 Fiction Sonore > Episode 02 - 8 octobre 1983 - En route, mauvaise troupe !]]></title>
+        <id>6093e921b600fd0095059b10</id>
+        <link href="https://demonceaux.studiotjp.com"/>
+        <updated>2021-05-06T12:32:00.000Z</updated>
+        <summary type="html"><![CDATA[8 octobre 1983
+ En route, mauvaise troupe !
+ Une fiction sonore qui vous plonge au coeur de l’inventaire du château vendéen en 1983.
+Episode 02 : Octobre 1983, à bord de la CX de l'office notarial où il est employé comme clerc, Paul Chapuis parcoure la route de Paris à St Cyr en Talmondais.
+ Avec Yann Welfringer et Phaeton Bougre]]></summary>
+        <author>
+            <name>François TJP</name>
         </author>
     </entry>
     <entry>
