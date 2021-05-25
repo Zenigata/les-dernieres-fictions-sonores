@@ -13,15 +13,6 @@
           "publishedOn": "2021-05-15T15:45:00.000Z",
           "wordCount": 1493,
           "title": "Oxymut 1.9"
-        },
-        {
-          "id": "https://www.linaudible.com/?p=11018",
-          "author": null,
-          "description": "The Walter Proof Experiment épisode 70 (saison 7) Au sommaire de cet épisode Le Dicovid des mots inventés Bureau d’études de la chanson Hieronymus Bosch : Butt music France Musique : tendez l’oreille Nirvana par une AI Covers : Chop Suey Bluegrass edition Bohemian Baby Pentatonix : 90’s Dance Medley Come together Swamp Blues Luigi...",
-          "link": "https://www.linaudible.com/2021/04/24/wapx070/",
-          "publishedOn": "2021-04-24T15:45:00.000Z",
-          "wordCount": 1614,
-          "title": "Wapx070"
         }
       ]
     },
@@ -71,6 +62,15 @@
       "feedUrl": "https://seasons.lepodcast.fr/rss",
       "siteUrl": "https://www.seasonsnovel.com",
       "articles": [
+        {
+          "id": "60996dde8a74c00081df6b88",
+          "author": "Seasons",
+          "description": "Seasons Loves - Épisode 03 - Ça (live à PodRennes)\nPour ce troisième numéro en direct de PodRennes (3 avril 2021), ego et Alex accompagnés par Katou évoquent un roman et un téléfilm qui leur ont valu quelques frayeurs et nuits blanches : Ça écrit par Stephen King (1986) et adapté par Tommy Lee Wallace en 1990. Un immense merci au public présent ce jour-là ainsi qu'aux équipes de PodRennes (https://www.badgeek.fr/podrennes/) et de BadGeek (https://www.badgeek.fr/). Bonne écoute !\nÇa :\nLa page Wikipédia du roman : https://fr.wikipedia.org/wiki/Ça_(roman)\nNos recommandations autour de Stephen King :\nStephen King on the Radio : https://www.franceculture.fr/emissions/fictions-le-feuilleton/stephen-king-radio-de-christophe-fiat\nTu aimes les films d'horreur ? : https://talfho.lepodcast.fr/\nLe Roi Stephen : https://podcast.ausha.co/le-roi-stephen\nLes Persifleurs du Mal : https://archive.org/details/FranceInter-LesPersifleursDuMal/LesPersifleursDuMal-Episode21-26.07.2010.mp3\nC'est qui le plus fort ? : https://www.microstockholm.fr/podcast/grippe-sou-vs-le-joker-le-clown-de-ca-defie-le-rieur-de-gotham/\nSeasons :\nFlux RSS : https://seasons.lepodcast.fr/rss\nPodcast : https://seasons.lepodcast.fr/\nYouTube : https://www.youtube.com/seasonsnovel\nSite officiel : https://www.seasonsnovel.com/\nTwitter : @seasonsnovel @alexjok5 @avantigwen @egovox",
+          "link": "https://seasons.lepodcast.fr/seasons-loves-episode-03-ca",
+          "publishedOn": "2021-05-24T04:00:00.000Z",
+          "wordCount": 199,
+          "title": "Seasons Loves - Épisode 03 - Ça"
+        },
         {
           "id": "60824ee11d043e00154dfa5c",
           "author": "Seasons",
@@ -122,15 +122,6 @@
           "publishedOn": "2021-05-01T15:00:14.000Z",
           "wordCount": 18,
           "title": "🎧 ORANU | MES CHERS DEMONS"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uIxDDAWXVNU",
-          "author": null,
-          "description": "Poursuivez l'aventure à travers le Camp Bandit et tentez de le traverser discrètement, au plus vite. Il ne fait pas bon errer de ce côté des terres. La discr...",
-          "link": "https://www.youtube.com/watch?v=uIxDDAWXVNU",
-          "publishedOn": "2021-04-24T15:00:19.000Z",
-          "wordCount": 24,
-          "title": "🎧 LA TRAVERSÉE DE FAËRIA | #02 TOME2 - LE CAMP BANDIT"
         }
       ]
     },
@@ -163,15 +154,6 @@
           "publishedOn": "2021-05-22T22:05:00.000Z",
           "wordCount": 800,
           "title": "Fénix Write – Épisode 02"
-        },
-        {
-          "id": "https://javras.fr/?p=17734",
-          "author": "Aibonn",
-          "description": "Hey, bande de personnes belles et talentueuses ! \nC’est votre dealer de fiction sonore Aibonn qui vous parle à travers ce texte pour vous dire que l’épisode 5 de Camlann est là ! Ooh oui, vous l’attendiez, vous le désiriez plus que tout, et bien le voilà ! C’est offert, gratuit. Cadeau de moi à vous, oh comment me remercier ?\nEn profitant de ce travail avec vos oreilles et en augmentant le nombre de mes cultistes auditeurs !\n\n\n\t\t\t\t\nRemercions une fois encore Kayji pour son travail pour l’intro de ma saga qu…",
-          "link": "https://javras.fr/2021/04/25/camlann-episode-5/",
-          "publishedOn": "2021-04-25T06:30:00.000Z",
-          "wordCount": 484,
-          "title": "Camlann – Épisode 5"
         }
       ]
     },
