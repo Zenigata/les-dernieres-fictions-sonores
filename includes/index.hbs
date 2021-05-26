@@ -28,13 +28,13 @@
         <div class="details-content">
           {{#if itunes}}
             {{#if enclosure}}
-            <div><audio src="{{enclosure.url}}" controls></audio></div>
-            <div>Duration: <time>{{itunes.duration}}</time></div>
+              <div><audio src="{{enclosure.url}}" controls></audio></div>
+              <div>Duration: <time>{{itunes.duration}}</time></div>
+            {{/if}}
           {{/if}}
-        {{/if}}
           <p>{{description}}</p>
           <div class="button">
-            <a href={{link}} target="_blank" rel="noopener noreferrer">Écouter</a>
+            <a href={{link}} target="_blank" rel="noopener noreferrer">Écouter en ligne</a>
             <a href={{source.siteUrl}} target="_blank" rel="noopener noreferrer">Site · {{source.title}}</a>
             <div class="date">{{isoPublishDate}}</div>
           </div>
