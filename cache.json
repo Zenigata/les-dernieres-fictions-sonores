@@ -70,15 +70,6 @@
           "publishedOn": "2021-05-24T04:00:00.000Z",
           "wordCount": 199,
           "title": "Seasons Loves - Épisode 03 - Ça"
-        },
-        {
-          "id": "60824ee11d043e00154dfa5c",
-          "author": "Seasons",
-          "description": "Seasons : un épisode de fiction, une chanson et une composition symphonique à chaque parution.\nSaison 1 - The Inner Path : \"La rencontre de deux hommes à la croisée des chemins. L'un fuit, l'autre marche. Ils prennent la route ensemble pour un voyage initiatique.\"",
-          "link": "https://seasons.lepodcast.fr/the-inner-path-soundtrack-05-the-laughing-fool",
-          "publishedOn": "2021-04-29T04:00:00.000Z",
-          "wordCount": 100,
-          "title": "The Inner Path - Soundtrack 05 - The Laughing Fool"
         }
       ]
     },
@@ -179,17 +170,7 @@
       "title": "Podcut Fictions",
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
-      "articles": [
-        {
-          "id": "73cc0a5f0675eb0382fe80a01b0dbac266948ec1",
-          "author": null,
-          "description": "Quelque Chose est une fiction audio produite par le label Podcut ! \n\nCette nouvelle aventure incarnée par Manu et Pomme, \na été écrite par David D. Ward et mise en son par Zu.\nLa musique a été composée par Julien Picard.\nLe logo a été réalisé par Kevin Boyer.  \n\nSi ça vous a plus n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/PodcutU\nInstagram https://instagram.com/podcutuniverse?igshid=9pvvqqadu5ji\nEt si vous souhaitez encourager le label : https://www.patreon.com/podcut\n\nMerci de nous avoir suivi et rendez-vous très vite pour de nouvelles histoires !",
-          "link": "https://podcast.ausha.co/podcut-fictions/quelque-chose-ep-4-ecce-homo",
-          "publishedOn": "2021-04-29T04:51:00.000Z",
-          "wordCount": 607,
-          "title": "Quelque Chose - Ep 4 Ecce homo"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Fiqtion",
