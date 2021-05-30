@@ -6,6 +6,23 @@
       "siteUrl": "https://www.linaudible.com/episodes-masonry/",
       "articles": [
         {
+          "id": "https://www.linaudible.com/?p=11045",
+          "author": null,
+          "description": "Walter Proof Experiment, épisode 71, saison 7 !",
+          "link": "https://www.linaudible.com/2021/05/29/wapx071/",
+          "publishedOn": "2021-05-29T15:45:00.000Z",
+          "wordCount": null,
+          "title": "Wapx071",
+          "itunes": {
+            "duration": "49:43"
+          },
+          "enclosure": {
+            "url": "https://media.blubrry.com/linaudible_de_walter/traffic.libsyn.com/secure/wproof/wapx071.mp3",
+            "length": "119649957",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "https://www.linaudible.com/?p=10777",
           "author": null,
           "description": "Sur une mystérieuse base secrète au coeur de l'Antarctique, de mystérieux personnages préparent l'exode de l'humanité vers une mystérieuse planète d'accueil. Tout cela est bien mystérieux.",
@@ -78,6 +95,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvvYk2sA1XWtt3XHzA0CEWw",
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=XgN3q_HQllw",
+          "author": null,
+          "description": "La tension est à son comble quand un bien sombre destin vous guette à la taverne de Gastortu. Nos héros arriveront ils à se sortir de cette mauvaise passe ? ...",
+          "link": "https://www.youtube.com/watch?v=XgN3q_HQllw",
+          "publishedOn": "2021-05-29T15:00:13.000Z",
+          "wordCount": 27,
+          "title": "🎧 LA TRAVERSÉE DE FAËRIA | #05.1 TOME 2 - UN NAIN PORTE QUOI ?"
+        },
         {
           "id": "https://www.youtube.com/watch?v=ocCcU6OnZTU",
           "author": null,
