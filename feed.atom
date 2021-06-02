@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-06-01T01:36:24.612Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-02T01:43:23.250Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
     <entry>
@@ -212,40 +212,6 @@ Episode 02 : Octobre 1983, à bord de la CX de l'office notarial où il est empl
  Avec Yann Welfringer et Phaeton Bougre]]></summary>
         <author>
             <name>François TJP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silencio, la nouvelle fiction événement de Bababam]]></title>
-        <id>fa1414f2-8e70-4e43-af51-e5dd7e861389</id>
-        <link href="https://play.acast.com/s/noises/silencio-lanouvellefictionevenementdebababam"/>
-        <updated>2021-05-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[En 2037, la défiance envers le monde politique ne cesse de s’accroître. Alors que des élections sont organisées, une jeune hacktiviste se lance dans une enquête sans précédent pour révéler au grand public la vraie nature de ce scrutin.
-
-
-"Silencio" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.
-
-
-Avec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond et Brice Borg. 
-
-
-Un podcast à écouter sur toutes les plateformes d'écoutes : 
-Apple Podcasts, Spotify, Deezer, Castbox, Podcast Addict, Podinstall
- 
- 
-
-See acast.com/privacy for privacy and opt-out information.]]></summary>
-        <author>
-            <name>Noises</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saga mp3 - LGMP - S1 Ep4 Premier cours de magie]]></title>
-        <id>https://www.youtube.com/watch?v=jokLLLGlhwM</id>
-        <link href="https://www.youtube.com/watch?v=jokLLLGlhwM"/>
-        <updated>2021-05-02T15:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Bonjour à toutes et tous. Après 7 mois d'attente, le voici enfin, l'épisode 4 du garçon aux mystérieux pouvoirs.Épisode 4 Premier cours de magieSynopsis: Au ...]]></summary>
-        <author>
-            <name>LGMP Saison 1</name>
         </author>
     </entry>
 </feed>
