@@ -148,6 +148,23 @@
           "id": "https://javras.fr/?p=18045",
           "author": "Erika",
           "description": "Salut à tous ! \nJ’arrive enfin avec un nouvel épisode d'”Amydale Crossing : New Life” !\nJe suis désolée pour le temps d’attente (je rappelle que l’épisode 03 est sorti en mars) mais entre mes lives, mes projets sur Youtube et “Fénix Write : l’As Détourné“, la nouvelle saga que je fais avec Richoult, je ne sais plus où donner de la tête. \nVous allez l’entendre mais il y a beaucoup de personnages qui sont introduits dans cet épisode. On peut notamment entendre les sœurs Doigts de Fée ainsi que les conservateurs du musée. Je suis d’ailleurs contente car ces cinq personnages ont gardé leur voix d’origine.\nJ’ai essayé de changer un peu mes transitions entre les scènes comparé à la V1.\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\nPuisque ce que ce sont des scènes séparées de plusieurs secondes, j’ai décidé de …",
+          "link": "https://javras.fr/2021/06/06/amydale-crossing-new-life-episode-04/",
+          "publishedOn": "2021-06-05T22:05:00.000Z",
+          "wordCount": null,
+          "title": "Amydale Crossing : New Life – Épisode 04",
+          "itunes": {
+            "duration": "17:50"
+          },
+          "enclosure": {
+            "url": "https://javras.fr/podcast-download/18045/amydale-crossing-new-life-episode-04.mp3",
+            "length": "43.5",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "https://javras.fr/?p=18045",
+          "author": "Erika",
+          "description": "Salut à tous ! \nJ’arrive enfin avec un nouvel épisode d'”Amydale Crossing : New Life” !\nJe suis désolée pour le temps d’attente (je rappelle que l’épisode 03 est sorti en mars) mais entre mes lives, mes projets sur Youtube et “Fénix Write : l’As Détourné“, la nouvelle saga que je fais avec Richoult, je ne sais plus où donner de la tête. \nVous allez l’entendre mais il y a beaucoup de personnages qui sont introduits dans cet épisode. On peut notamment entendre les sœurs Doigts de Fée ainsi que les conservateurs du musée. Je suis d’ailleurs contente car ces cinq personnages ont gardé leur voix d’origine.\nJ’ai essayé de changer un peu mes transitions entre les scènes comparé à la V1.\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\nPuisque ce que ce sont des scènes séparées de plusieurs secondes, j’ai décidé de …",
           "link": "https://javras.fr/2021/06/06/2/",
           "publishedOn": "2021-06-05T22:05:00.000Z",
           "wordCount": null,
@@ -260,7 +277,42 @@
       "title": "Studio TJP 💊 Fictions Sonores / Sagas MP3 / Séries Audio",
       "feedUrl": "https://studio-tjp.lepodcast.fr/rss",
       "siteUrl": "https://studiotjp.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "60bcd0a590eccb0d77cb1d77",
+          "author": "Mehdi Bayad",
+          "description": "Episode 02\n Patience\n Ce second épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par Mehdi Bayad. La suite dans le prochain épisode réalisé par Amandine du podcast la Librairie Yokai.",
+          "link": "https://styx.lepodcast.fr/episode-02-patience",
+          "publishedOn": "2021-06-06T13:13:00.000Z",
+          "wordCount": null,
+          "title": "STYX 🚢 Fiction sonore collaborative > Episode 02 - Patience",
+          "itunes": {
+            "duration": "0:07:20"
+          },
+          "enclosure": {
+            "url": "https://stats.podcloud.fr/studio-tjp/styx-fiction-sonore-collaborative-episode-02-patience/enclosure.f2578cbd55a6120d7f7d7fdf25a9b0e3fc79cd3fb87cb70e4c6236438f0fb3b9.mp3?p=f",
+            "length": "18414941",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "60bcd0a690eccb0d77cb1d7d",
+          "author": "François TJP",
+          "description": "Episode 01\n Alors apparemment, c'est mon tour...\n Ce premier épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par François TJP. La suite dans le prochain épisode réalisé par Mehdi Bayad.",
+          "link": "https://styx.lepodcast.fr/episode-01-alors-apparemment-cest-mon-tour-point-point-point",
+          "publishedOn": "2021-06-06T13:08:00.000Z",
+          "wordCount": null,
+          "title": "STYX 🚢 Fiction sonore collaborative > Episode 01 - Alors apparemment, c'est mon tour...",
+          "itunes": {
+            "duration": "0:08:16"
+          },
+          "enclosure": {
+            "url": "https://stats.podcloud.fr/studio-tjp/styx-fiction-sonore-collaborative-episode-01-alors-apparemment-cest-mon-tour-point-point-point/enclosure.b9d7ad560962d1e889f95e83170dacc599b74447e8291adb5140467eedbd9252.mp3?p=f",
+            "length": "20638964",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     },
     {
       "title": "Le ShCrok Mel Sho ?",
@@ -275,6 +327,47 @@
           "publishedOn": "2021-05-17T19:39:14.000Z",
           "wordCount": 1044,
           "title": "Episode 20 : \"Sherlock au pays des mièvres rêves\""
+        }
+      ]
+    },
+    {
+      "title": "STYX 🚢 Fiction sonore collaborative",
+      "feedUrl": "https://styx.lepodcast.fr/rss",
+      "siteUrl": "https://styx.lepodcast.fr/",
+      "articles": [
+        {
+          "id": "60bcc9e19cfae5010513fe0c",
+          "author": "Mehdi Bayad",
+          "description": "Episode 02\nPatience\nCe second épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par Mehdi Bayad. La suite dans le prochain épisode réalisé par Amandine du podcast la Librairie Yokai.",
+          "link": "https://styx.lepodcast.fr/episode-02-patience",
+          "publishedOn": "2021-06-06T13:13:00.000Z",
+          "wordCount": null,
+          "title": "Episode 02 - Patience",
+          "itunes": {
+            "duration": "0:07:20"
+          },
+          "enclosure": {
+            "url": "https://stats.podcloud.fr/styx/episode-02-patience/enclosure.038ba429d85de73f249bfbf3bb55f41eaad674fa3b76f2740291285922776b2d.mp3?p=f",
+            "length": "18414941",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "60bcc8c49cfae50015140514",
+          "author": "François TJP",
+          "description": "Episode 01\nAlors apparemment, c'est mon tour...\nCe premier épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par François TJP. La suite dans le prochain épisode réalisé par Mehdi Bayad.",
+          "link": "https://styx.lepodcast.fr/episode-01-alors-apparemment-cest-mon-tour-point-point-point",
+          "publishedOn": "2021-06-06T13:08:00.000Z",
+          "wordCount": null,
+          "title": "Episode 01 - Alors apparemment, c'est mon tour...",
+          "itunes": {
+            "duration": "0:08:16"
+          },
+          "enclosure": {
+            "url": "https://stats.podcloud.fr/styx/episode-01-alors-apparemment-cest-mon-tour-point-point-point/enclosure.e1e2947d1ba39a4dc529da9d6ea14aa6d87fead0fae504bb9952abe2d4f7eb9c.mp3?p=f",
+            "length": "20638964",
+            "type": "audio/mpeg"
+          }
         }
       ]
     }

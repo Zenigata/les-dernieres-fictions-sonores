@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-06-06T00:47:58.540Z</updated>
+    <updated>2021-06-06T18:10:57.384Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 02 - Patience]]></title>
+        <id>60bcd0a590eccb0d77cb1d77</id>
+        <link href="https://styx.lepodcast.fr/episode-02-patience"/>
+        <updated>2021-06-06T13:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Episode 02
+ Patience
+ Ce second épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par Mehdi Bayad. La suite dans le prochain épisode réalisé par Amandine du podcast la Librairie Yokai.]]></summary>
+        <author>
+            <name>Mehdi Bayad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 02 - Patience]]></title>
+        <id>60bcc9e19cfae5010513fe0c</id>
+        <link href="https://styx.lepodcast.fr/episode-02-patience"/>
+        <updated>2021-06-06T13:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Episode 02
+Patience
+Ce second épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par Mehdi Bayad. La suite dans le prochain épisode réalisé par Amandine du podcast la Librairie Yokai.]]></summary>
+        <author>
+            <name>Mehdi Bayad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 01 - Alors apparemment, c'est mon tour...]]></title>
+        <id>60bcd0a690eccb0d77cb1d7d</id>
+        <link href="https://styx.lepodcast.fr/episode-01-alors-apparemment-cest-mon-tour-point-point-point"/>
+        <updated>2021-06-06T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Episode 01
+ Alors apparemment, c'est mon tour...
+ Ce premier épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par François TJP. La suite dans le prochain épisode réalisé par Mehdi Bayad.]]></summary>
+        <author>
+            <name>François TJP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 01 - Alors apparemment, c'est mon tour...]]></title>
+        <id>60bcc8c49cfae50015140514</id>
+        <link href="https://styx.lepodcast.fr/episode-01-alors-apparemment-cest-mon-tour-point-point-point"/>
+        <updated>2021-06-06T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Episode 01
+Alors apparemment, c'est mon tour...
+Ce premier épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par François TJP. La suite dans le prochain épisode réalisé par Mehdi Bayad.]]></summary>
+        <author>
+            <name>François TJP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amydale Crossing : New Life – Épisode 04]]></title>
+        <id>https://javras.fr/?p=18045</id>
+        <link href="https://javras.fr/2021/06/06/amydale-crossing-new-life-episode-04/"/>
+        <updated>2021-06-05T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Salut à tous ! 
+J’arrive enfin avec un nouvel épisode d'”Amydale Crossing : New Life” !
+Je suis désolée pour le temps d’attente (je rappelle que l’épisode 03 est sorti en mars) mais entre mes lives, mes projets sur Youtube et “Fénix Write : l’As Détourné“, la nouvelle saga que je fais avec Richoult, je ne sais plus où donner de la tête. 
+Vous allez l’entendre mais il y a beaucoup de personnages qui sont introduits dans cet épisode. On peut notamment entendre les sœurs Doigts de Fée ainsi que les conservateurs du musée. Je suis d’ailleurs contente car ces cinq personnages ont gardé leur voix d’origine.
+J’ai essayé de changer un peu mes transitions entre les scènes comparé à la V1.
+
+				
+											
+											
+Puisque ce que ce sont des scènes séparées de plusieurs secondes, j’ai décidé de …]]></summary>
+        <author>
+            <name>Erika</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amydale Crossing : New Life – Épisode 04]]></title>
         <id>https://javras.fr/?p=18045</id>
