@@ -329,47 +329,6 @@
           "title": "Episode 20 : \"Sherlock au pays des mièvres rêves\""
         }
       ]
-    },
-    {
-      "title": "STYX 🚢 Fiction sonore collaborative",
-      "feedUrl": "https://styx.lepodcast.fr/rss",
-      "siteUrl": "https://styx.lepodcast.fr/",
-      "articles": [
-        {
-          "id": "60bcc9e19cfae5010513fe0c",
-          "author": "Mehdi Bayad",
-          "description": "Episode 02\nPatience\nCe second épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par Mehdi Bayad. La suite dans le prochain épisode réalisé par Amandine du podcast la Librairie Yokai.",
-          "link": "https://styx.lepodcast.fr/episode-02-patience",
-          "publishedOn": "2021-06-06T13:13:00.000Z",
-          "wordCount": null,
-          "title": "Episode 02 - Patience",
-          "itunes": {
-            "duration": "0:07:20"
-          },
-          "enclosure": {
-            "url": "https://stats.podcloud.fr/styx/episode-02-patience/enclosure.038ba429d85de73f249bfbf3bb55f41eaad674fa3b76f2740291285922776b2d.mp3?p=f",
-            "length": "18414941",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "60bcc8c49cfae50015140514",
-          "author": "François TJP",
-          "description": "Episode 01\nAlors apparemment, c'est mon tour...\nCe premier épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par François TJP. La suite dans le prochain épisode réalisé par Mehdi Bayad.",
-          "link": "https://styx.lepodcast.fr/episode-01-alors-apparemment-cest-mon-tour-point-point-point",
-          "publishedOn": "2021-06-06T13:08:00.000Z",
-          "wordCount": null,
-          "title": "Episode 01 - Alors apparemment, c'est mon tour...",
-          "itunes": {
-            "duration": "0:08:16"
-          },
-          "enclosure": {
-            "url": "https://stats.podcloud.fr/styx/episode-01-alors-apparemment-cest-mon-tour-point-point-point/enclosure.e1e2947d1ba39a4dc529da9d6ea14aa6d87fead0fae504bb9952abe2d4f7eb9c.mp3?p=f",
-            "length": "20638964",
-            "type": "audio/mpeg"
-          }
-        }
-      ]
     }
   ],
   "cliVersion": "1.10.2"
