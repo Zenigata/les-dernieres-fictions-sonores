@@ -121,15 +121,6 @@
           "publishedOn": "2021-05-15T15:16:38.000Z",
           "wordCount": 26,
           "title": "🎧 LA TRAVERSÉE DE FAËRIA | #03 TOME 2 - LA TOUR DES MAGES"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VLBzaVAK8fA",
-          "author": null,
-          "description": "Quand on ne sait plus quoi dire, mais qu'on veut quand même le dire, on digresse et ça part en digression digressante qui dégraisse la déglutition dégoulinan...",
-          "link": "https://www.youtube.com/watch?v=VLBzaVAK8fA",
-          "publishedOn": "2021-05-09T15:00:12.000Z",
-          "wordCount": 17,
-          "title": "🎧 DIGRESSION | #02 Transpudding"
         }
       ]
     },
@@ -282,6 +273,23 @@
           "id": "60bcd0a590eccb0d77cb1d77",
           "author": "Mehdi Bayad",
           "description": "Episode 02\n Patience\n Ce second épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par Mehdi Bayad. La suite dans le prochain épisode réalisé par Amandine du podcast la Librairie Yokai.",
+          "link": "https://styx.studiotjp.com",
+          "publishedOn": "2021-06-06T13:13:00.000Z",
+          "wordCount": null,
+          "title": "STYX 🚢 Fiction sonore collaborative > Episode 02 - Patience",
+          "itunes": {
+            "duration": "0:07:20"
+          },
+          "enclosure": {
+            "url": "https://stats.podcloud.fr/studio-tjp/styx-fiction-sonore-collaborative-episode-02-patience/enclosure.f2578cbd55a6120d7f7d7fdf25a9b0e3fc79cd3fb87cb70e4c6236438f0fb3b9.mp3?p=f",
+            "length": "18414941",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "60bcd0a590eccb0d77cb1d77",
+          "author": "Mehdi Bayad",
+          "description": "Episode 02\n Patience\n Ce second épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par Mehdi Bayad. La suite dans le prochain épisode réalisé par Amandine du podcast la Librairie Yokai.",
           "link": "https://styx.lepodcast.fr/episode-02-patience",
           "publishedOn": "2021-06-06T13:13:00.000Z",
           "wordCount": null,
@@ -292,6 +300,23 @@
           "enclosure": {
             "url": "https://stats.podcloud.fr/studio-tjp/styx-fiction-sonore-collaborative-episode-02-patience/enclosure.f2578cbd55a6120d7f7d7fdf25a9b0e3fc79cd3fb87cb70e4c6236438f0fb3b9.mp3?p=f",
             "length": "18414941",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "60bcd0a690eccb0d77cb1d7d",
+          "author": "François TJP",
+          "description": "Episode 01\n Alors apparemment, c'est mon tour...\n Ce premier épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par François TJP. La suite dans le prochain épisode réalisé par Mehdi Bayad.",
+          "link": "https://styx.studiotjp.com",
+          "publishedOn": "2021-06-06T13:08:00.000Z",
+          "wordCount": null,
+          "title": "STYX 🚢 Fiction sonore collaborative > Episode 01 - Alors apparemment, c'est mon tour...",
+          "itunes": {
+            "duration": "0:08:16"
+          },
+          "enclosure": {
+            "url": "https://stats.podcloud.fr/studio-tjp/styx-fiction-sonore-collaborative-episode-01-alors-apparemment-cest-mon-tour-point-point-point/enclosure.b9d7ad560962d1e889f95e83170dacc599b74447e8291adb5140467eedbd9252.mp3?p=f",
+            "length": "20638964",
             "type": "audio/mpeg"
           }
         },

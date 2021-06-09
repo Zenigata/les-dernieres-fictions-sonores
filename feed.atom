@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-06-08T00:48:56.326Z</updated>
+    <updated>2021-06-09T00:31:36.757Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 02 - Patience]]></title>
+        <id>60bcd0a590eccb0d77cb1d77</id>
+        <link href="https://styx.studiotjp.com"/>
+        <updated>2021-06-06T13:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Episode 02
+ Patience
+ Ce second épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par Mehdi Bayad. La suite dans le prochain épisode réalisé par Amandine du podcast la Librairie Yokai.]]></summary>
+        <author>
+            <name>Mehdi Bayad</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 02 - Patience]]></title>
         <id>60bcd0a590eccb0d77cb1d77</id>
@@ -16,6 +28,18 @@
  Ce second épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par Mehdi Bayad. La suite dans le prochain épisode réalisé par Amandine du podcast la Librairie Yokai.]]></summary>
         <author>
             <name>Mehdi Bayad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 01 - Alors apparemment, c'est mon tour...]]></title>
+        <id>60bcd0a690eccb0d77cb1d7d</id>
+        <link href="https://styx.studiotjp.com"/>
+        <updated>2021-06-06T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Episode 01
+ Alors apparemment, c'est mon tour...
+ Ce premier épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par François TJP. La suite dans le prochain épisode réalisé par Mehdi Bayad.]]></summary>
+        <author>
+            <name>François TJP</name>
         </author>
     </entry>
     <entry>
@@ -260,16 +284,6 @@ Musique : Pavane pour la petite guerre Jordi Savall Philidor L'Asiné]]></summar
         <summary type="html"><![CDATA[Jivé, Tarak et Veldem sont piégés dans un croiseur Zorax et vont tout faire pour ne pas finir en repas pour l'équipage...]]></summary>
         <author>
             <name>La Quête de Norulmyr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎧 DIGRESSION | #02 Transpudding]]></title>
-        <id>https://www.youtube.com/watch?v=VLBzaVAK8fA</id>
-        <link href="https://www.youtube.com/watch?v=VLBzaVAK8fA"/>
-        <updated>2021-05-09T15:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Quand on ne sait plus quoi dire, mais qu'on veut quand même le dire, on digresse et ça part en digression digressante qui dégraisse la déglutition dégoulinan...]]></summary>
-        <author>
-            <name>Audiodidact</name>
         </author>
     </entry>
 </feed>
