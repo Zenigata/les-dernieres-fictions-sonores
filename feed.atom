@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-06-10T00:30:34.938Z</updated>
+    <updated>2021-06-10T15:11:33.376Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -274,16 +274,6 @@ Musique : Pavane pour la petite guerre Jordi Savall Philidor L'Asiné]]></summar
         <summary type="html"><![CDATA[C'est cette fois devant l'imposante tour des mages que nos héros reprennent leur aventure. Vont-ils enfin en savoir plus sur la mystérieuse raison de leur ve...]]></summary>
         <author>
             <name>Audiodidact</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Épisode 3 - Les Zorax]]></title>
-        <id>tag:soundcloud,2010:tracks/1047458791</id>
-        <link href="https://soundcloud.com/morphet-productions/episode-3-les-zorax"/>
-        <updated>2021-05-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jivé, Tarak et Veldem sont piégés dans un croiseur Zorax et vont tout faire pour ne pas finir en repas pour l'équipage...]]></summary>
-        <author>
-            <name>La Quête de Norulmyr</name>
         </author>
     </entry>
 </feed>
