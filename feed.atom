@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-06-11T00:27:54.815Z</updated>
+    <updated>2021-06-12T00:24:44.526Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSION | #03 Western Spaghetto]]></title>
+        <id>https://www.youtube.com/watch?v=bdKBQoOFkSQ</id>
+        <link href="https://www.youtube.com/watch?v=bdKBQoOFkSQ"/>
+        <updated>2021-06-11T15:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Quand on ne sait plus quoi dire, mais qu'on veut quand même le dire, on digresse et ça part en digression digressante qui dégraisse la déglutition dégoulinan...]]></summary>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 02 - Patience]]></title>
         <id>60bcd0a590eccb0d77cb1d77</id>
