@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-06-12T00:24:44.526Z</updated>
+    <updated>2021-06-13T00:30:03.471Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LIVE - LA TRAVERSÉE DE FAËRIA]]></title>
+        <id>https://www.youtube.com/watch?v=pFie2RgiK2Q</id>
+        <link href="https://www.youtube.com/watch?v=pFie2RgiK2Q"/>
+        <updated>2021-06-12T20:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Bonsoir Faëriens ! Ce soir c'est le grand soir. Après votre écoute des Tomes 1 et 2 de La traversée de Faëria, on vous a promis un live d'exception, plein de...]]></summary>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oxymut 1.10]]></title>
+        <id>https://www.linaudible.com/?p=10781</id>
+        <link href="https://www.linaudible.com/2021/06/12/oxymut10/"/>
+        <updated>2021-06-12T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Sur une mystérieuse base secrète au coeur de l'Antarctique, de mystérieux personnages préparent l'exode de l'humanité vers une mystérieuse planète d'accueil. Tout cela est bien mystérieux.]]></summary>
+        <author>
+            <name>L'Inaudible de Walter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSION | #03 Western Spaghetto]]></title>
         <id>https://www.youtube.com/watch?v=bdKBQoOFkSQ</id>
