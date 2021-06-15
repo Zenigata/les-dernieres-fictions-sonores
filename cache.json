@@ -38,15 +38,6 @@
             "length": "119649957",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://www.linaudible.com/?p=10777",
-          "author": null,
-          "description": "Sur une mystérieuse base secrète au coeur de l'Antarctique, de mystérieux personnages préparent l'exode de l'humanité vers une mystérieuse planète d'accueil. Tout cela est bien mystérieux.",
-          "link": "https://www.linaudible.com/2021/05/15/oxymut109/",
-          "publishedOn": "2021-05-15T15:45:00.000Z",
-          "wordCount": 1493,
-          "title": "Oxymut 1.9"
         }
       ]
     },
@@ -54,17 +45,7 @@
       "title": "Cyrano de Bergerac",
       "feedUrl": "https://cyranodebergerac.lepodcast.fr/rss",
       "siteUrl": "https://cyranodebergerac.lepodcast.fr/",
-      "articles": [
-        {
-          "id": "609ff8747523710118e2a355",
-          "author": "Leto75",
-          "description": "Distribution :\nLeto75 : Cyrano, un cadet\nNaïde L. : Roxane\nSilverson : Ragueneau\nKhelian : Christian de Neuvillette\nBlast : Comte de Guiche\nJBX :  Carbon de Castel-Jaloux\nDrWolf : Le Bret\nMik180 : Un cadet\nRafa96 : Un cadet\nLamusé : Un cadet\nMoodstaach : Plusieurs cadets\nMateo Gaona : Un officier espagnol\nTexte : Edmond Rostand\nRecrutement, direction d'acteur, montage, mixage, illustration : Leto 75\nMusique : Pavane pour la petite guerre Jordi Savall Philidor L'Asiné",
-          "link": "https://cyranodebergerac.lepodcast.fr/cyrano-de-bergerac-acte-iv",
-          "publishedOn": "2021-05-15T16:36:00.000Z",
-          "wordCount": 127,
-          "title": "Cyrano de Bergerac, Acte IV"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Hectore ou les Chroniques d'un Rastronaute",
@@ -147,15 +128,6 @@
           "publishedOn": "2021-05-22T15:00:18.000Z",
           "wordCount": 27,
           "title": "🎧 LA TRAVERSÉE DE FAËRIA | #04 TOME 2 - A LA RECHERCHE DU NAIN"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xrRXSyfN7Eg",
-          "author": null,
-          "description": "C'est cette fois devant l'imposante tour des mages que nos héros reprennent leur aventure. Vont-ils enfin en savoir plus sur la mystérieuse raison de leur ve...",
-          "link": "https://www.youtube.com/watch?v=xrRXSyfN7Eg",
-          "publishedOn": "2021-05-15T15:16:38.000Z",
-          "wordCount": 26,
-          "title": "🎧 LA TRAVERSÉE DE FAËRIA | #03 TOME 2 - LA TOUR DES MAGES"
         }
       ]
     },
