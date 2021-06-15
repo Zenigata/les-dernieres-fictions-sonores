@@ -357,6 +357,81 @@
       "feedUrl": "https://www.audiodramax.com/?feed=podcast",
       "siteUrl": "https://www.audiodramax.com/",
       "articles": []
+    },
+    {
+      "title": "Silencio",
+      "feedUrl": "https://rss.acast.com/silencio",
+      "siteUrl": "https://podcasts.ba-ba-bam.com/bababam-silencio/",
+      "articles": [
+        {
+          "id": "db5c4eaa-1454-4569-bde1-dff52106fe35",
+          "author": null,
+          "description": "Dans l'épisode précédent... Gabriel Breton, tiraillé entre les Administrateurs et Andréa Salvény a fait une découverte traumatisante qui a mis Millie en danger. \n\n\nDans cet épisode, Gabriel tente de retrouver Millie et pour ce faire, il va repousser les limites de La Sauvegarde. \n\n\n\"Silencio\" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond, Brice Borg.\n\n\n﻿Le prochain épisode sera disponible le 21 juin 2021 sur toutes les applications de podcasts, plateformes de streaming et sur podcasts.ba-ba-bam.com\n \n \n\nSee acast.com/privacy for privacy and opt-out information.",
+          "link": "https://play.acast.com/s/silencio/episode8-lafureur",
+          "publishedOn": "2021-06-14T03:00:00.000Z",
+          "wordCount": null,
+          "title": "Épisode 8 : La fureur",
+          "itunes": {
+            "duration": "00:12:11"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/silencio/episode8-lafureur/media.mp3",
+            "length": "11712051",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "d800a969-a6bf-4cb8-aab9-19f1fd154954",
+          "author": null,
+          "description": "Dans l'épisode précédent... Andréa Salvény hésitait à faire des révélations chocs dans la presse, alors que Gabriel Breton enquête sur la relation étrange qu'elle entretient avec un certain Joseph de Rastin. \n\n\nDans cet épisode, les Administrateurs vont confronter Gabriel à un dilemme particulièrement difficile. De plus en plus sous pression, Salvény le convoque immédiatement. \n\n\n\"Silencio\" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond, Brice Borg.\n\n\nLe prochain épisode sera disponible le 14 juin 2021 sur toutes les applications de podcasts, plateformes de streaming et sur podcasts.ba-ba-bam.com\n \n \n\nSee acast.com/privacy for privacy and opt-out information.",
+          "link": "https://play.acast.com/s/silencio/episode7-latrahison",
+          "publishedOn": "2021-06-07T03:00:00.000Z",
+          "wordCount": null,
+          "title": "Épisode 7 : La trahison",
+          "itunes": {
+            "duration": "00:09:57"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/silencio/episode7-latrahison/media.mp3",
+            "length": "9554546",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "80f7d034-25ac-4d55-9a49-8fe6395669ef",
+          "author": null,
+          "description": "Dans l'épisode précédent.... Le débat TV entre Andréa Salvény et son opposant Philippe Nacquart ne s'est pas vraiment passé comme prévu... \n\n\nDans cet épisode, Andréa Salvény est secouée par ce qui s’est passé et décide de faire des révélations à la presse. Gabriel, maintenant proche de la candidate, enquête sur sa relation avec Joseph De Rastin, mania des médias et des télécoms. \n\n\n\"Silencio\" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond, Brice Borg.\n\n\nLe prochain épisode sera disponible le 7 juin 2021 sur toutes les applications de podcasts, plateformes de streaming et sur podcasts.ba-ba-bam.com\n \n \n\nSee acast.com/privacy for privacy and opt-out information.",
+          "link": "https://play.acast.com/s/silencio/episode6-lebasculement",
+          "publishedOn": "2021-05-31T03:00:00.000Z",
+          "wordCount": null,
+          "title": "Épisode 6 : Le basculement",
+          "itunes": {
+            "duration": "00:11:03"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/silencio/episode6-lebasculement/media.mp3",
+            "length": "10611564",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "099102c9-b227-4986-a235-5910a2ce622e",
+          "author": null,
+          "description": "Dans l'épisode précédent.... Natsé a débuté sa mission particulière, et pour sa réussite, elle a dû faire de gros sacrifices personnels… . De leur côté, Gabriel et Millie se sont rapprochés.\n\n\nDans cet épisode, découvrez le débat TV entre Andréa Salvény et son opposant Philippe Nacquart. Mais attention... une menace plane et, en coulisses, la tension est à son comble...\n\n\n\"Silencio\" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond, Brice Borg.\n\n\nLe prochain épisode sera disponible le 31 mai 2021 sur toutes les applications de podcasts, plateformes de streaming et sur podcasts.ba-ba-bam.com\n \n \n\nSee acast.com/privacy for privacy and opt-out information.",
+          "link": "https://play.acast.com/s/silencio/episode5-larevelation",
+          "publishedOn": "2021-05-24T03:00:00.000Z",
+          "wordCount": null,
+          "title": "Épisode 5 : La révélation",
+          "itunes": {
+            "duration": "00:15:37"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/silencio/episode5-larevelation/media.mp3",
+            "length": "14997628",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     }
   ],
   "cliVersion": "1.10.2"
