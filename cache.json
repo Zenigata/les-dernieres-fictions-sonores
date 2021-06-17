@@ -229,6 +229,23 @@
       "siteUrl": "https://reduniverse.fr",
       "articles": [
         {
+          "id": "60ca4892fb58c4001dc4e10a",
+          "author": "raoulito",
+          "description": "RED UNIVERSE SE DÉCONFINE AVEC VOUS CET ÉTÉ !\nSortie littéraires et la fin du chapitre III ! \nStay tuned sur reduniverse.fr\n#reduniverse, #‎podcast, #‎sagamp3, #‎ebook, #‎soundtrack, #‎podcloud, #‎podradio, #sybel, #forcesmentales",
+          "link": "https://reduniverse.lepodcast.fr/reduniverse-et-forces-mentales-se-deconfinent",
+          "publishedOn": "2021-06-16T18:53:00.000Z",
+          "wordCount": null,
+          "title": "RedUniverse & Forces mentales se déconfinent !",
+          "itunes": {
+            "duration": "0:00:17"
+          },
+          "enclosure": {
+            "url": "https://stats.podcloud.fr/reduniverse/reduniverse-et-forces-mentales-se-deconfinent/enclosure.9daab27bdd67f0ad9006dc5dfcddb11309a39bf04cf3e00ff1bca5fcc813dc2e.m4v?p=f",
+            "length": "11325388",
+            "type": "video/x-m4v"
+          }
+        },
+        {
           "id": "60a53fa3ebfd8b0047b5e93f",
           "author": "raoulito",
           "description": "Toutes les playlists de Red Universe ?\nOn peut VRAIMENT les écouter ?\noui, sur https://reduniverse.fr/musiques-themes/\n#reduniverse, #‎podcast, #‎sagamp3, #‎ebook, #‎soundtrack, #‎podcloud, #‎podradio, #sybel, #forcesmentales\nmusiques de RedU",
@@ -243,17 +260,7 @@
       "title": "Rouge Vif",
       "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:985904854/sounds.rss",
       "siteUrl": "https://soundcloud.com/user-181809735",
-      "articles": [
-        {
-          "id": "tag:soundcloud,2010:tracks/1050373534",
-          "author": null,
-          "description": "Dans un studio insonorisé, deux hommes enregistrent un podcast. Mais de curieux événements interrompent bientôt l'expérience...\n\nAttention ! Toute ressemblance avec des personnages fictifs serait purement fortuite.\n\n\n\n\n------------------------\n\nScénario, prise de son, montage, mixage et autres joyeusetés : Mehdi Bayad\n\nMusiques :\n> Chopin - Nocturne no.20 en do dièse mineur, op. posth.\n> CO.AG - Dark memories of the past still linger\n> Bensound - Instinct\n> CO.AG - The swing\n> Mehdi Bayad - Lumière Noire Thème\n> Heiko Franz - Crazy Violins\n> CO.AG - 3am\n\nComédiens n.1 et 2 : Mehdi Bayad",
-          "link": "https://soundcloud.com/user-181809735/rouge-vif",
-          "publishedOn": "2021-05-17T17:51:49.000Z",
-          "wordCount": 392,
-          "title": "Rouge Vif"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "La Quête de Norulmyr",
@@ -340,17 +347,7 @@
       "title": "Le ShCrok Mel Sho ?",
       "feedUrl": "https://feed.ausha.co/bzDrQcaR1xp7",
       "siteUrl": "https://podcast.ausha.co/le-shcrok-mel-sho",
-      "articles": [
-        {
-          "id": "46eb4ba2c62a0c440eda080a0587aa2eb1d96315",
-          "author": null,
-          "description": "Holmes & Watson partent à la recherche d'une lapine blanche.",
-          "link": "https://podcast.ausha.co/le-shcrok-mel-sho/episode-20-sherlock-au-pays-des-mievres-reves",
-          "publishedOn": "2021-05-17T19:39:14.000Z",
-          "wordCount": 1044,
-          "title": "Episode 20 : \"Sherlock au pays des mièvres rêves\""
-        }
-      ]
+      "articles": []
     },
     {
       "title": "AudioDramax",

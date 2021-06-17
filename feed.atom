@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-06-16T00:29:03.368Z</updated>
+    <updated>2021-06-17T00:25:52.705Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RedUniverse & Forces mentales se déconfinent !]]></title>
+        <id>60ca4892fb58c4001dc4e10a</id>
+        <link href="https://reduniverse.lepodcast.fr/reduniverse-et-forces-mentales-se-deconfinent"/>
+        <updated>2021-06-16T18:53:00.000Z</updated>
+        <summary type="html"><![CDATA[RED UNIVERSE SE DÉCONFINE AVEC VOUS CET ÉTÉ !
+Sortie littéraires et la fin du chapitre III ! 
+Stay tuned sur reduniverse.fr
+#reduniverse, #‎podcast, #‎sagamp3, #‎ebook, #‎soundtrack, #‎podcloud, #‎podradio, #sybel, #forcesmentales]]></summary>
+        <author>
+            <name>raoulito</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Épisode 8 : La fureur]]></title>
         <id>db5c4eaa-1454-4569-bde1-dff52106fe35</id>
@@ -323,46 +336,6 @@ oui, sur https://reduniverse.fr/musiques-themes/
 musiques de RedU]]></summary>
         <author>
             <name>raoulito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Episode 20 : "Sherlock au pays des mièvres rêves"]]></title>
-        <id>46eb4ba2c62a0c440eda080a0587aa2eb1d96315</id>
-        <link href="https://podcast.ausha.co/le-shcrok-mel-sho/episode-20-sherlock-au-pays-des-mievres-reves"/>
-        <updated>2021-05-17T19:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Holmes & Watson partent à la recherche d'une lapine blanche.]]></summary>
-        <author>
-            <name>Le ShCrok Mel Sho ?</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rouge Vif]]></title>
-        <id>tag:soundcloud,2010:tracks/1050373534</id>
-        <link href="https://soundcloud.com/user-181809735/rouge-vif"/>
-        <updated>2021-05-17T17:51:49.000Z</updated>
-        <summary type="html"><![CDATA[Dans un studio insonorisé, deux hommes enregistrent un podcast. Mais de curieux événements interrompent bientôt l'expérience...
-
-Attention ! Toute ressemblance avec des personnages fictifs serait purement fortuite.
-
-
-
-
-------------------------
-
-Scénario, prise de son, montage, mixage et autres joyeusetés : Mehdi Bayad
-
-Musiques :
-> Chopin - Nocturne no.20 en do dièse mineur, op. posth.
-> CO.AG - Dark memories of the past still linger
-> Bensound - Instinct
-> CO.AG - The swing
-> Mehdi Bayad - Lumière Noire Thème
-> Heiko Franz - Crazy Violins
-> CO.AG - 3am
-
-Comédiens n.1 et 2 : Mehdi Bayad]]></summary>
-        <author>
-            <name>Rouge Vif</name>
         </author>
     </entry>
 </feed>
