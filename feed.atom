@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-06-18T00:27:11.666Z</updated>
+    <updated>2021-06-19T00:27:49.742Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -322,20 +322,6 @@ See acast.com/privacy for privacy and opt-out information.]]></summary>
         <summary type="html"><![CDATA[Après votre visite à la tour des mages, votre mission est maintenant claire. Visitez le château d'Enkor et allez y solliciter un portail de transport pour re...]]></summary>
         <author>
             <name>Audiodidact</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les musiques de Red Universe & Forces Mentales !]]></title>
-        <id>60a53fa3ebfd8b0047b5e93f</id>
-        <link href="https://reduniverse.lepodcast.fr/les-musiques-de-red-universe-et-forces-mentales"/>
-        <updated>2021-05-19T16:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Toutes les playlists de Red Universe ?
-On peut VRAIMENT les écouter ?
-oui, sur https://reduniverse.fr/musiques-themes/
-#reduniverse, #‎podcast, #‎sagamp3, #‎ebook, #‎soundtrack, #‎podcloud, #‎podradio, #sybel, #forcesmentales
-musiques de RedU]]></summary>
-        <author>
-            <name>raoulito</name>
         </author>
     </entry>
 </feed>
