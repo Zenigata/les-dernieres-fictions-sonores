@@ -85,6 +85,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TnRKSQDPWKw",
+          "author": null,
+          "description": "Quand on ne sait plus quoi dire, mais qu'on veut quand même le dire, on digresse et ça part en digression... Retrouvez Jean-Pierre Fuckauld sur le plateau de...",
+          "link": "https://www.youtube.com/watch?v=TnRKSQDPWKw",
+          "publishedOn": "2021-06-19T15:00:10.000Z",
+          "wordCount": 20,
+          "title": "🎧 DIGRESSION | #04 Qui est Cul ?"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pFie2RgiK2Q",
           "author": null,
           "description": "Bonsoir Faëriens ! Ce soir c'est le grand soir. Après votre écoute des Tomes 1 et 2 de La traversée de Faëria, on vous a promis un live d'exception, plein de...",
