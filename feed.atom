@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-06-21T00:29:10.635Z</updated>
+    <updated>2021-06-21T20:34:17.262Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Épisode 9 : La folie]]></title>
+        <id>0612547e-7351-41cd-8be6-b215e1837600</id>
+        <link href="https://play.acast.com/s/silencio/episode9-lafolie"/>
+        <updated>2021-06-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dans l'épisode précédent, Gabriel Breton a tenté de repousser les limites de la Sauvegarde pour sauver Millie. 
+
+
+Dans cet épisode, Gabriel, Millie et Jack découvrent la vérité sur le BlackNet. 
+
+
+"Silencio" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.
+
+
+Avec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond, Brice Borg.
+
+
+﻿Le prochain épisode sera disponible le 28 juin 2021 sur toutes les applications de podcasts, plateformes de streaming et sur podcasts.ba-ba-bam.com
+ 
+ 
+
+See acast.com/privacy for privacy and opt-out information.]]></summary>
+        <author>
+            <name>Silencio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSION | #04 Qui est Cul ?]]></title>
         <id>https://www.youtube.com/watch?v=TnRKSQDPWKw</id>
@@ -302,36 +328,6 @@ Le prochain épisode sera disponible le 31 mai 2021 sur toutes les applications 
 See acast.com/privacy for privacy and opt-out information.]]></summary>
         <author>
             <name>Silencio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fénix Write – Épisode 02]]></title>
-        <id>https://javras.fr/?p=17920</id>
-        <link href="https://javras.fr/2021/05/23/fenix-write-episode-02/"/>
-        <updated>2021-05-22T22:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Salut à tous, ici Erika ! Pour ceux qui ne le savent pas, je réalise une nouvelle parodie mp3 en compagnie de Richoult s’appelant “Fénix Write : l’As Détourné” qui est, comme vous pouvez vous en douter, une parodie du jeu “Phoenix Wright : Ace Attorney“. Pour ceux qui me connaissent, je suis non seulement une grande fan de Portal, mais aussi de Professeur Layton et Phoenix Wright. J’ai découvert cette licence grâce à la sortie du cross-over des deux licences en 2014. Cependant, j’en ai entendu parler en 201…]]></summary>
-        <author>
-            <name>Erika</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hector ou les Chroniques d'un Rastronaute : Episode Huitième, Partie B : Simple. Claire. Limpide. Fusibles ! (Final Saison 1)]]></title>
-        <id>https://audioblog.arteradio.com/blog/158604/podcast/166539</id>
-        <link href="https://audioblog.arteradio.com/blog/158604/podcast/166539"/>
-        <updated>2021-05-22T21:17:32.000Z</updated>
-        <summary type="html"><![CDATA[Parce qu'il faut bien débuter les fins de saison quelque part...Et parce qu'un rendez-vous chez un cuisiniste n'est rien d'autre qu'une plongée dans le monde de l'absurde...Un épisode qui répond à quelques questions.Du moins, qui tente de le faire.Parce qu'il faut bien, un jour, comprendre pourquoi.... pourquoi Hector. Enfin. Hectore plutôt. Pourquoi elle ?Une seconde partie qui rend à Douglas Adams ce qu'elle lui doit.Et puis aux autres aussi.Guest du jours :  dans le rôle de Créance Narnaque : Vincent Fro…]]></summary>
-        <author>
-            <name>Hector ou les Chroniques d'un Rastronaute</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎧 LA TRAVERSÉE DE FAËRIA | #04 TOME 2 - A LA RECHERCHE DU NAIN]]></title>
-        <id>https://www.youtube.com/watch?v=ocCcU6OnZTU</id>
-        <link href="https://www.youtube.com/watch?v=ocCcU6OnZTU"/>
-        <updated>2021-05-22T15:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Après votre visite à la tour des mages, votre mission est maintenant claire. Visitez le château d'Enkor et allez y solliciter un portail de transport pour re...]]></summary>
-        <author>
-            <name>Audiodidact</name>
         </author>
     </entry>
 </feed>

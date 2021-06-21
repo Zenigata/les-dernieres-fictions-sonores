@@ -51,17 +51,7 @@
       "title": "Hectore ou les Chroniques d'un Rastronaute",
       "feedUrl": "https://audioblog.arteradio.com/blog/158604/rss",
       "siteUrl": "https://audioblog.arteradio.com",
-      "articles": [
-        {
-          "id": "https://audioblog.arteradio.com/blog/158604/podcast/166539",
-          "author": "Hector ou les Chroniques d'un Rastronaute",
-          "description": "Parce qu'il faut bien débuter les fins de saison quelque part...Et parce qu'un rendez-vous chez un cuisiniste n'est rien d'autre qu'une plongée dans le monde de l'absurde...Un épisode qui répond à quelques questions.Du moins, qui tente de le faire.Parce qu'il faut bien, un jour, comprendre pourquoi.... pourquoi Hector. Enfin. Hectore plutôt. Pourquoi elle ?Une seconde partie qui rend à Douglas Adams ce qu'elle lui doit.Et puis aux autres aussi.Guest du jours :  dans le rôle de Créance Narnaque : Vincent Fro…",
-          "link": "https://audioblog.arteradio.com/blog/158604/podcast/166539",
-          "publishedOn": "2021-05-22T21:17:32.000Z",
-          "wordCount": 33,
-          "title": "Hector ou les Chroniques d'un Rastronaute : Episode Huitième, Partie B : Simple. Claire. Limpide. Fusibles ! (Final Saison 1)"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Seasons",
@@ -128,15 +118,6 @@
           "publishedOn": "2021-05-29T15:00:13.000Z",
           "wordCount": 27,
           "title": "🎧 LA TRAVERSÉE DE FAËRIA | #05.1 TOME 2 - UN NAIN PORTE QUOI ?"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ocCcU6OnZTU",
-          "author": null,
-          "description": "Après votre visite à la tour des mages, votre mission est maintenant claire. Visitez le château d'Enkor et allez y solliciter un portail de transport pour re...",
-          "link": "https://www.youtube.com/watch?v=ocCcU6OnZTU",
-          "publishedOn": "2021-05-22T15:00:18.000Z",
-          "wordCount": 27,
-          "title": "🎧 LA TRAVERSÉE DE FAËRIA | #04 TOME 2 - A LA RECHERCHE DU NAIN"
         }
       ]
     },
@@ -184,15 +165,6 @@
             "length": "43.5",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://javras.fr/?p=17920",
-          "author": "Erika",
-          "description": "Salut à tous, ici Erika ! Pour ceux qui ne le savent pas, je réalise une nouvelle parodie mp3 en compagnie de Richoult s’appelant “Fénix Write : l’As Détourné” qui est, comme vous pouvez vous en douter, une parodie du jeu “Phoenix Wright : Ace Attorney“. Pour ceux qui me connaissent, je suis non seulement une grande fan de Portal, mais aussi de Professeur Layton et Phoenix Wright. J’ai découvert cette licence grâce à la sortie du cross-over des deux licences en 2014. Cependant, j’en ai entendu parler en 201…",
-          "link": "https://javras.fr/2021/05/23/fenix-write-episode-02/",
-          "publishedOn": "2021-05-22T22:05:00.000Z",
-          "wordCount": 800,
-          "title": "Fénix Write – Épisode 02"
         }
       ]
     },
@@ -361,6 +333,23 @@
       "siteUrl": "https://podcasts.ba-ba-bam.com/bababam-silencio/",
       "articles": [
         {
+          "id": "0612547e-7351-41cd-8be6-b215e1837600",
+          "author": null,
+          "description": "Dans l'épisode précédent, Gabriel Breton a tenté de repousser les limites de la Sauvegarde pour sauver Millie. \n\n\nDans cet épisode, Gabriel, Millie et Jack découvrent la vérité sur le BlackNet. \n\n\n\"Silencio\" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond, Brice Borg.\n\n\n﻿Le prochain épisode sera disponible le 28 juin 2021 sur toutes les applications de podcasts, plateformes de streaming et sur podcasts.ba-ba-bam.com\n \n \n\nSee acast.com/privacy for privacy and opt-out information.",
+          "link": "https://play.acast.com/s/silencio/episode9-lafolie",
+          "publishedOn": "2021-06-21T03:00:00.000Z",
+          "wordCount": null,
+          "title": "Épisode 9 : La folie",
+          "itunes": {
+            "duration": "00:12:51"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/silencio/episode9-lafolie/media.mp3",
+            "length": "12344423",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "db5c4eaa-1454-4569-bde1-dff52106fe35",
           "author": null,
           "description": "Dans l'épisode précédent... Gabriel Breton, tiraillé entre les Administrateurs et Andréa Salvény a fait une découverte traumatisante qui a mis Millie en danger. \n\n\nDans cet épisode, Gabriel tente de retrouver Millie et pour ce faire, il va repousser les limites de La Sauvegarde. \n\n\n\"Silencio\" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond, Brice Borg.\n\n\n﻿Le prochain épisode sera disponible le 21 juin 2021 sur toutes les applications de podcasts, plateformes de streaming et sur podcasts.ba-ba-bam.com\n \n \n\nSee acast.com/privacy for privacy and opt-out information.",
@@ -429,6 +418,12 @@
           }
         }
       ]
+    },
+    {
+      "title": "Ma Langue au chat",
+      "feedUrl": "https://rss.art19.com/petit-ne",
+      "siteUrl": "https://art19.com/shows/petit-ne",
+      "articles": []
     }
   ],
   "cliVersion": "1.10.2"
