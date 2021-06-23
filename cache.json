@@ -345,7 +345,13 @@
       "feedUrl": "https://rss.art19.com/petit-ne",
       "siteUrl": "https://art19.com/shows/petit-ne",
       "articles": []
+    },
+    {
+      "title": "CapitaineGloomy.com",
+      "feedUrl": "https://www.capitainegloomy.com/feed/saga-mp3",
+      "siteUrl": "https://capitainegloomy.com/",
+      "articles": []
     }
   ],
-  "cliVersion": "1.10.2"
+  "cliVersion": "1.11.0"
 }
