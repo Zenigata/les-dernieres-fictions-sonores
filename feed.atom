@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-06-23T15:09:38.380Z</updated>
+    <updated>2021-06-24T00:21:26.356Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La légende de Xantah / Ep 9 - Xantah EP9 – DAVE]]></title>
+        <id>https://www.capitainegloomy.com/download/1065/</id>
+        <link href="https://www.capitainegloomy.com/episodes/xantah-ep9-dave/"/>
+        <updated>2021-06-22T19:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Pitch : Plusieurs semaines se sont écoulées depuis les événements de GREEN-18 et nos héros sont encore et toujours traqués par les Forces Terriennes. Engagés dans une course poursuite spatiale et sans Hyperespace, Rosten, Kannitsh et Gonto font leur possible pour survivre. Gloomy, quant à lui, découvre la nature de Farra et la raison de sa présence à ses côtés.]]></summary>
+        <author>
+            <name>Nico et Matt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Épisode 9 : La folie]]></title>
         <id>0612547e-7351-41cd-8be6-b215e1837600</id>

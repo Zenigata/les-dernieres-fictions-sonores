@@ -350,7 +350,23 @@
       "title": "CapitaineGloomy.com",
       "feedUrl": "https://www.capitainegloomy.com/feed/saga-mp3",
       "siteUrl": "https://capitainegloomy.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.capitainegloomy.com/download/1065/",
+          "author": "Nico et Matt",
+          "description": "Pitch : Plusieurs semaines se sont écoulées depuis les événements de GREEN-18 et nos héros sont encore et toujours traqués par les Forces Terriennes. Engagés dans une course poursuite spatiale et sans Hyperespace, Rosten, Kannitsh et Gonto font leur possible pour survivre. Gloomy, quant à lui, découvre la nature de Farra et la raison de sa présence à ses côtés.",
+          "link": "https://www.capitainegloomy.com/episodes/xantah-ep9-dave/",
+          "publishedOn": "2021-06-22T19:58:51.000Z",
+          "wordCount": null,
+          "title": "La légende de Xantah / Ep 9 - Xantah EP9 – DAVE",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://www.capitainegloomy.com/download/1065/",
+            "length": "76193681",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
