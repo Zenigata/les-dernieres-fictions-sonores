@@ -6,6 +6,23 @@
       "siteUrl": "https://www.linaudible.com/episodes-masonry/",
       "articles": [
         {
+          "id": "https://www.linaudible.com/?p=11065",
+          "author": null,
+          "description": "Walter Proof Experiment 072 ! Dernier épisode de la saison !",
+          "link": "https://www.linaudible.com/2021/06/26/wapx072/",
+          "publishedOn": "2021-06-26T15:40:00.000Z",
+          "wordCount": null,
+          "title": "Wapx072",
+          "itunes": {
+            "duration": "55:28"
+          },
+          "enclosure": {
+            "url": "https://media.blubrry.com/linaudible_de_walter/traffic.libsyn.com/secure/wproof/wapx072.mp3",
+            "length": "133327570",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "https://www.linaudible.com/?p=10781",
           "author": null,
           "description": "Sur une mystérieuse base secrète au coeur de l'Antarctique, de mystérieux personnages préparent l'exode de l'humanité vers une mystérieuse planète d'accueil. Tout cela est bien mystérieux.",
@@ -45,7 +62,25 @@
       "title": "Cyrano de Bergerac",
       "feedUrl": "https://cyranodebergerac.lepodcast.fr/rss",
       "siteUrl": "https://cyranodebergerac.lepodcast.fr/",
-      "articles": []
+      "articles": [
+        {
+          "id": "60d701add294a30078844507",
+          "author": "Leto75",
+          "description": "Distribution :\nLeto75 : Cyrano\nNaïde L. : Roxane\nSilverson : Ragueneau\nDRWolf : Le Bret\nBlast : Comte de Guiche\nFélice Olivesi : Mère Marguerite de Jésus\nChloé François : Sœur Marthe\nImzadi : Sœur Claire\nViatou : Une nonne\nChristine Nancy : Une autre nonne\nTexte : Edmond Rostand\nRecrutement, direction d'acteur, montage, mixage, illustrations : Leto 75\nMusique : Praetorius, Jean Marion",
+          "link": "https://cyranodebergerac.lepodcast.fr/cyrano-de-bergerac-acte-v",
+          "publishedOn": "2021-06-26T16:30:00.000Z",
+          "wordCount": null,
+          "title": "Cyrano de Bergerac, Acte V",
+          "itunes": {
+            "duration": "0:26:52"
+          },
+          "enclosure": {
+            "url": "https://stats.podcloud.fr/cyranodebergerac/cyrano-de-bergerac-acte-v/enclosure.59ed5c4f4c90be9bf99b25b328cdb807973158b56138710a1e358b25314bfc8d.mp3?p=f",
+            "length": "65022323",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     },
     {
       "title": "Hectore ou les Chroniques d'un Rastronaute",
