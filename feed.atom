@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-06-28T00:30:20.248Z</updated>
+    <updated>2021-06-29T00:27:32.347Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Épisode 10 : Un autre monde]]></title>
+        <id>526c6d9d-2637-4074-b469-0e71c62b0e10</id>
+        <link href="https://play.acast.com/s/silencio/episode10-unautremonde"/>
+        <updated>2021-06-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dans l'épisode précédent, les héros de Silencio ont découvert avec stupéfaction la vérité sur le Blacknet. 
+
+
+Dans cet épisode, Millie et Gabriel, pris au piège, sont proches de la mort. Mais, Breton a un plan qui va peut-être tout changer. 
+
+
+"Silencio" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.
+
+
+Avec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond, Brice Borg.
+
+
+L'intégralité des épisodes de Silencio sont disponibles sur toutes les applications de podcasts, plateformes de streaming et sur podcasts.ba-ba-bam.com
+ 
+ 
+
+See acast.com/privacy for privacy and opt-out information.]]></summary>
+        <author>
+            <name>Silencio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mono – Javras, le correspondant]]></title>
         <id>https://javras.fr/?p=18151</id>
@@ -275,16 +301,6 @@ Le prochain épisode sera disponible le 7 juin 2021 sur toutes les applications 
 See acast.com/privacy for privacy and opt-out information.]]></summary>
         <author>
             <name>Silencio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wapx071]]></title>
-        <id>https://www.linaudible.com/?p=11045</id>
-        <link href="https://www.linaudible.com/2021/05/29/wapx071/"/>
-        <updated>2021-05-29T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Walter Proof Experiment, épisode 71, saison 7 !]]></summary>
-        <author>
-            <name>L'Inaudible de Walter</name>
         </author>
     </entry>
 </feed>

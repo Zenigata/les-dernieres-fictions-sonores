@@ -38,23 +38,6 @@
             "length": "24646743",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://www.linaudible.com/?p=11045",
-          "author": null,
-          "description": "Walter Proof Experiment, épisode 71, saison 7 !",
-          "link": "https://www.linaudible.com/2021/05/29/wapx071/",
-          "publishedOn": "2021-05-29T15:45:00.000Z",
-          "wordCount": null,
-          "title": "Wapx071",
-          "itunes": {
-            "duration": "49:43"
-          },
-          "enclosure": {
-            "url": "https://media.blubrry.com/linaudible_de_walter/traffic.libsyn.com/secure/wproof/wapx071.mp3",
-            "length": "119649957",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -322,6 +305,23 @@
       "feedUrl": "https://rss.acast.com/silencio",
       "siteUrl": "https://podcasts.ba-ba-bam.com/bababam-silencio/",
       "articles": [
+        {
+          "id": "526c6d9d-2637-4074-b469-0e71c62b0e10",
+          "author": null,
+          "description": "Dans l'épisode précédent, les héros de Silencio ont découvert avec stupéfaction la vérité sur le Blacknet. \n\n\nDans cet épisode, Millie et Gabriel, pris au piège, sont proches de la mort. Mais, Breton a un plan qui va peut-être tout changer. \n\n\n\"Silencio\" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond, Brice Borg.\n\n\nL'intégralité des épisodes de Silencio sont disponibles sur toutes les applications de podcasts, plateformes de streaming et sur podcasts.ba-ba-bam.com\n \n \n\nSee acast.com/privacy for privacy and opt-out information.",
+          "link": "https://play.acast.com/s/silencio/episode10-unautremonde",
+          "publishedOn": "2021-06-28T03:00:00.000Z",
+          "wordCount": null,
+          "title": "Épisode 10 : Un autre monde",
+          "itunes": {
+            "duration": "00:13:20"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/silencio/episode10-unautremonde/media.mp3",
+            "length": "12808358",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "0612547e-7351-41cd-8be6-b215e1837600",
           "author": null,
