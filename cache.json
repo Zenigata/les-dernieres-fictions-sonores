@@ -163,7 +163,25 @@
       "title": "Podcut Fictions",
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
-      "articles": []
+      "articles": [
+        {
+          "id": "752407fa69d5a1b42f93d619b908646d23244dc3",
+          "author": null,
+          "description": "Pépites est une fiction audio produite par le label Podcut !\n \nJuliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...\n \nDans ce premier épisode, Juliette se rend dans un restaurant de spécialités du Sud-Ouest au concept bien particulier… Le prix des plats est fixé en fonction du nombre de calories.\n \nCe podcast a été écrit et incarnée par Anouk Krief, dans le rôle de Juliette, et mise en son par Zu. Thomas Bondon, du podcast Certains l’aiment à chaud, joue le rôle d’Oscar.\n\nLe logo a été réalisé par Kevin Boyer.   \n \nSi ça vous a plus n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7\n\nRendez-vous la semaine prochaine pour une nouvelle Pépite !",
+          "link": "https://podcast.ausha.co/podcut-fictions/pepites-ep-1-le-restaurant-grattons-co",
+          "publishedOn": "2021-07-01T04:43:00.000Z",
+          "wordCount": null,
+          "title": "Pépites - Ep 1 Le restaurant Grattons & Co",
+          "itunes": {
+            "duration": "10:09"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/b7YGAC6pR5eG.mp3?t=1624829839",
+            "length": "9758973",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     },
     {
       "title": "Fiqtion",

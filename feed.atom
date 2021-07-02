@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-07-01T00:29:32.765Z</updated>
+    <updated>2021-07-02T00:27:34.892Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pépites - Ep 1 Le restaurant Grattons & Co]]></title>
+        <id>752407fa69d5a1b42f93d619b908646d23244dc3</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/pepites-ep-1-le-restaurant-grattons-co"/>
+        <updated>2021-07-01T04:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Pépites est une fiction audio produite par le label Podcut !
+ 
+Juliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...
+ 
+Dans ce premier épisode, Juliette se rend dans un restaurant de spécialités du Sud-Ouest au concept bien particulier… Le prix des plats est fixé en fonction du nombre de calories.
+ 
+Ce podcast a été écrit et incarnée par Anouk Krief, dans le rôle de Juliette, et mise en son par Zu. Thomas Bondon, du podcast Certains l’aiment à chaud, joue le rôle d’Oscar.
+
+Le logo a été réalisé par Kevin Boyer.   
+ 
+Si ça vous a plus n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7
+
+Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Épisode 10 : Un autre monde]]></title>
         <id>526c6d9d-2637-4074-b469-0e71c62b0e10</id>
