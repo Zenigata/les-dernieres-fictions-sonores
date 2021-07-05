@@ -95,6 +95,40 @@
       "articles": []
     },
     {
+      "title": "Audiodidact",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvvYk2sA1XWtt3XHzA0CEWw",
+      "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=TnRKSQDPWKw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TnRKSQDPWKw",
+          "publishedOn": "2021-06-19T15:00:10.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSION | #04 Qui est Cul ?"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pFie2RgiK2Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pFie2RgiK2Q",
+          "publishedOn": "2021-06-12T20:42:19.000Z",
+          "wordCount": null,
+          "title": "LIVE - LA TRAVERSÉE DE FAËRIA"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bdKBQoOFkSQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bdKBQoOFkSQ",
+          "publishedOn": "2021-06-11T15:00:15.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSION | #03 Western Spaghetto"
+        }
+      ]
+    },
+    {
       "title": "LGMP Saison 1",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLaceYo0_H9hSkLemL6ngiyHmIUqZKRBsz",
       "siteUrl": "http://www.youtube.com/feeds/videos.xml?playlist_id=PLaceYo0_H9hSkLemL6ngiyHmIUqZKRBsz",
@@ -119,40 +153,6 @@
           "enclosure": {
             "url": "https://javras.fr/podcast-download/18151/mono-javras-le-correspondant.mp3",
             "length": "31,4",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "https://javras.fr/?p=18045",
-          "author": "Erika",
-          "description": "Salut à tous ! \nJ’arrive enfin avec un nouvel épisode d'”Amydale Crossing : New Life” !\nJe suis désolée pour le temps d’attente (je rappelle que l’épisode 03 est sorti en mars) mais entre mes lives, mes projets sur Youtube et “Fénix Write : l’As Détourné“, la nouvelle saga que je fais avec Richoult, je ne sais plus où donner de la tête. \nVous allez l’entendre mais il y a beaucoup de personnages qui sont introduits dans cet épisode. On peut notamment entendre les sœurs Doigts de Fée ainsi que les conservateurs du musée. Je suis d’ailleurs contente car ces cinq personnages ont gardé leur voix d’origine.\nJ’ai essayé de changer un peu mes transitions entre les scènes comparé à la V1.\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\nPuisque ce que ce sont des scènes séparées de plusieurs secondes, j’ai décidé de …",
-          "link": "https://javras.fr/2021/06/06/amydale-crossing-new-life-episode-04/",
-          "publishedOn": "2021-06-05T22:05:00.000Z",
-          "wordCount": null,
-          "title": "Amydale Crossing : New Life – Épisode 04",
-          "itunes": {
-            "duration": "17:50"
-          },
-          "enclosure": {
-            "url": "https://javras.fr/podcast-download/18045/amydale-crossing-new-life-episode-04.mp3",
-            "length": "43.5",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "https://javras.fr/?p=18045",
-          "author": "Erika",
-          "description": "Salut à tous ! \nJ’arrive enfin avec un nouvel épisode d'”Amydale Crossing : New Life” !\nJe suis désolée pour le temps d’attente (je rappelle que l’épisode 03 est sorti en mars) mais entre mes lives, mes projets sur Youtube et “Fénix Write : l’As Détourné“, la nouvelle saga que je fais avec Richoult, je ne sais plus où donner de la tête. \nVous allez l’entendre mais il y a beaucoup de personnages qui sont introduits dans cet épisode. On peut notamment entendre les sœurs Doigts de Fée ainsi que les conservateurs du musée. Je suis d’ailleurs contente car ces cinq personnages ont gardé leur voix d’origine.\nJ’ai essayé de changer un peu mes transitions entre les scènes comparé à la V1.\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\nPuisque ce que ce sont des scènes séparées de plusieurs secondes, j’ai décidé de …",
-          "link": "https://javras.fr/2021/06/06/2/",
-          "publishedOn": "2021-06-05T22:05:00.000Z",
-          "wordCount": null,
-          "title": "Amydale Crossing : New Life – Épisode 04",
-          "itunes": {
-            "duration": "17:50"
-          },
-          "enclosure": {
-            "url": "https://javras.fr/podcast-download/18045/2.mp3",
-            "length": "43.5",
             "type": "audio/mpeg"
           }
         }
@@ -512,6 +512,12 @@
           }
         }
       ]
+    },
+    {
+      "title": "Détective Froussin",
+      "feedUrl": "http://detectivefroussin.libsyn.com/rss",
+      "siteUrl": "https://www.facebook.com/search/top/?q=froussin%20%3A%20d%C3%A9tective%20priv%C3%A9",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"
