@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-07-06T00:28:46.580Z</updated>
+    <updated>2021-07-07T00:28:41.451Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -333,80 +333,6 @@ Crédit Musique: 
 "I LOVE TO LOVE"  (Tina Charles & Bon entendeur)]]></summary>
         <author>
             <name>Les dessous de Savin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Épisode 7 : La trahison]]></title>
-        <id>d800a969-a6bf-4cb8-aab9-19f1fd154954</id>
-        <link href="https://play.acast.com/s/silencio/episode7-latrahison"/>
-        <updated>2021-06-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dans l'épisode précédent... Andréa Salvény hésitait à faire des révélations chocs dans la presse, alors que Gabriel Breton enquête sur la relation étrange qu'elle entretient avec un certain Joseph de Rastin. 
-
-
-Dans cet épisode, les Administrateurs vont confronter Gabriel à un dilemme particulièrement difficile. De plus en plus sous pression, Salvény le convoque immédiatement. 
-
-
-"Silencio" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.
-
-
-Avec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond, Brice Borg.
-
-
-Le prochain épisode sera disponible le 14 juin 2021 sur toutes les applications de podcasts, plateformes de streaming et sur podcasts.ba-ba-bam.com
- 
- 
-
-See acast.com/privacy for privacy and opt-out information.]]></summary>
-        <author>
-            <name>Silencio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 02 - Patience]]></title>
-        <id>60bcd0a590eccb0d77cb1d77</id>
-        <link href="https://styx.studiotjp.com"/>
-        <updated>2021-06-06T13:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Episode 02
- Patience
- Ce second épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par Mehdi Bayad. La suite dans le prochain épisode réalisé par Amandine du podcast la Librairie Yokai.]]></summary>
-        <author>
-            <name>Mehdi Bayad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 02 - Patience]]></title>
-        <id>60bcd0a590eccb0d77cb1d77</id>
-        <link href="https://styx.lepodcast.fr/episode-02-patience"/>
-        <updated>2021-06-06T13:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Episode 02
- Patience
- Ce second épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par Mehdi Bayad. La suite dans le prochain épisode réalisé par Amandine du podcast la Librairie Yokai.]]></summary>
-        <author>
-            <name>Mehdi Bayad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 01 - Alors apparemment, c'est mon tour...]]></title>
-        <id>60bcd0a690eccb0d77cb1d7d</id>
-        <link href="https://styx.studiotjp.com"/>
-        <updated>2021-06-06T13:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Episode 01
- Alors apparemment, c'est mon tour...
- Ce premier épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par François TJP. La suite dans le prochain épisode réalisé par Mehdi Bayad.]]></summary>
-        <author>
-            <name>François TJP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 01 - Alors apparemment, c'est mon tour...]]></title>
-        <id>60bcd0a690eccb0d77cb1d7d</id>
-        <link href="https://styx.lepodcast.fr/episode-01-alors-apparemment-cest-mon-tour-point-point-point"/>
-        <updated>2021-06-06T13:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Episode 01
- Alors apparemment, c'est mon tour...
- Ce premier épisode de la fiction collaborative Styx proposée par Mehdi Bayad et François TJP est écrit, réalisé et interprété par François TJP. La suite dans le prochain épisode réalisé par Mehdi Bayad.]]></summary>
-        <author>
-            <name>François TJP</name>
         </author>
     </entry>
 </feed>
