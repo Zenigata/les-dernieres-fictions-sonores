@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-07-08T00:27:01.408Z</updated>
+    <updated>2021-07-09T00:29:31.881Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pépites - Ep 2 Le bar à Perroquets]]></title>
+        <id>0a42c5a8ff8521ac3f600cd687a3c66727a7feec</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/pepites-ep-2-le-bar-a-perroquets"/>
+        <updated>2021-07-08T04:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Pépites est une fiction audio produite par le label Podcut !
+ 
+Juliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...
+ 
+Dans cet épisode, Juliette se rend dans un tout nouveau type de bar… 
+Un bar à perroquets !  
+ 
+Ce podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette ;
+
+Sébastien Savin, du podcast Les dessous de Savin dans le rôle de François ;
+https://smartlink.ausha.co/les-dessous-de-savin
+
+Arezki Chougar, du podcast Chougar Free, dans le rôle de Jonathan ;
+https://www.chougarfree.com/
+
+Héloïse Logié, dans le rôle de la perroquette ;
+Zu, Alexandre Mencarelli et Héloïse Logié dans le rôle des perroquets marseillais.
+https://www.instagram.com/charlieetsabierea2balles/
+
+La série est mise en son par Zu.  
+Le logo a été réalisé par Kevin Boyer.   
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7
+
+Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oxymut – saison 1 : l’intégrale]]></title>
         <id>https://www.linaudible.com/?p=11092</id>
