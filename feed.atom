@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-07-09T00:29:31.881Z</updated>
+    <updated>2021-07-10T00:27:40.041Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 LES AVENTURES INSOLITES DE L'AF13| #00 - DECOLLAGE!]]></title>
+        <id>https://www.youtube.com/watch?v=89qjvlP_ncc</id>
+        <link href="https://www.youtube.com/watch?v=89qjvlP_ncc"/>
+        <updated>2021-07-09T15:00:06.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#1 - 🌞 Ton Pod de plage 🌞 "Sortie de crise" - (Rediff saison 1 - Part 1)]]></title>
+        <id>eb5e0bea746f43ca58e0af50da6fd6ff7ba592c8</id>
+        <link href="https://podcast.ausha.co/les-dessous-de-savin/1-ton-pod-de-plage-sortie-de-crise-rediff-saison-1-part-1"/>
+        <updated>2021-07-09T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello cher-e-s ami-e-s!
+Bienvenue à toutes celles et tous ceux qui écoutent ce podcast pour la première fois.
+
+Je m’appelle Sébastien Savin je suis auteur et comédien, et il y a déjà plus d’un an alors que nous étions confinés pour la première fois j’ai entrepris de créer cette fiction audio. 
+
+Les dessous de Savin. 
+Au départ, Les dessous de Savin était un spectacle un seul en scène que j’ai écrit avec Frédérique Lelaure qui s’est joué au festival Off d’Avignon en 2015 puis un peu partout en tournée.
+Cette première version pour la scène, racontait de manière romancée l’enfance du petit Sébastien dans la boucherie familiale, comment il s’est formé aux métiers de danseur puis de comédien, ses premiers pas sur une scène en tant que professionnel, puis la découverte de son homosexualité jusqu…]]></summary>
+        <author>
+            <name>Les dessous de Savin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pépites - Ep 2 Le bar à Perroquets]]></title>
         <id>0a42c5a8ff8521ac3f600cd687a3c66727a7feec</id>

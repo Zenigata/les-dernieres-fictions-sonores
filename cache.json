@@ -100,6 +100,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=89qjvlP_ncc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=89qjvlP_ncc",
+          "publishedOn": "2021-07-09T15:00:06.000Z",
+          "wordCount": null,
+          "title": "🎧 LES AVENTURES INSOLITES DE L'AF13| #00 - DECOLLAGE!"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TnRKSQDPWKw",
           "author": null,
           "description": "",
@@ -374,6 +383,23 @@
       "feedUrl": "https://feed.ausha.co/bYYk7uvg81gZ",
       "siteUrl": "https://podcast.ausha.co/les-dessous-de-savin",
       "articles": [
+        {
+          "id": "eb5e0bea746f43ca58e0af50da6fd6ff7ba592c8",
+          "author": null,
+          "description": "Hello cher-e-s ami-e-s!\nBienvenue à toutes celles et tous ceux qui écoutent ce podcast pour la première fois.\n\nJe m’appelle Sébastien Savin je suis auteur et comédien, et il y a déjà plus d’un an alors que nous étions confinés pour la première fois j’ai entrepris de créer cette fiction audio. \n\nLes dessous de Savin. \nAu départ, Les dessous de Savin était un spectacle un seul en scène que j’ai écrit avec Frédérique Lelaure qui s’est joué au festival Off d’Avignon en 2015 puis un peu partout en tournée.\nCette première version pour la scène, racontait de manière romancée l’enfance du petit Sébastien dans la boucherie familiale, comment il s’est formé aux métiers de danseur puis de comédien, ses premiers pas sur une scène en tant que professionnel, puis la découverte de son homosexualité jusqu…",
+          "link": "https://podcast.ausha.co/les-dessous-de-savin/1-ton-pod-de-plage-sortie-de-crise-rediff-saison-1-part-1",
+          "publishedOn": "2021-07-09T01:00:00.000Z",
+          "wordCount": null,
+          "title": "#1 - 🌞 Ton Pod de plage 🌞 \"Sortie de crise\" - (Rediff saison 1 - Part 1)",
+          "itunes": {
+            "duration": "46:02"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/owzAgIzQ4V4W.mp3?t=1625295659",
+            "length": "44205360",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "887199cab1ed1fd6cb22df3315f46a6874a44d7a",
           "author": null,
