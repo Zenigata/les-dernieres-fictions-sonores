@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-07-11T00:29:37.175Z</updated>
+    <updated>2021-07-12T00:28:32.292Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -425,15 +425,6 @@ See acast.com/privacy for privacy and opt-out information.]]></summary>
         <summary type="html"><![CDATA[Sur une mystérieuse base secrète au coeur de l'Antarctique, de mystérieux personnages préparent l'exode de l'humanité vers une mystérieuse planète d'accueil. Tout cela est bien mystérieux.]]></summary>
         <author>
             <name>L'Inaudible de Walter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎧 DIGRESSION | #03 Western Spaghetto]]></title>
-        <id>https://www.youtube.com/watch?v=bdKBQoOFkSQ</id>
-        <link href="https://www.youtube.com/watch?v=bdKBQoOFkSQ"/>
-        <updated>2021-06-11T15:00:15.000Z</updated>
-        <author>
-            <name>Audiodidact</name>
         </author>
     </entry>
 </feed>
