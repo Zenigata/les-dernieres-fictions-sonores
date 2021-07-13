@@ -38,23 +38,6 @@
             "length": "133327570",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://www.linaudible.com/?p=10781",
-          "author": null,
-          "description": "Sur une mystérieuse base secrète au coeur de l'Antarctique, de mystérieux personnages préparent l'exode de l'humanité vers une mystérieuse planète d'accueil. Tout cela est bien mystérieux.",
-          "link": "https://www.linaudible.com/2021/06/12/oxymut10/",
-          "publishedOn": "2021-06-12T15:45:00.000Z",
-          "wordCount": null,
-          "title": "Oxymut 1.10",
-          "itunes": {
-            "duration": "15:12"
-          },
-          "enclosure": {
-            "url": "https://media.blubrry.com/linaudible_de_walter/traffic.libsyn.com/secure/wproof/oxymut110.mp3",
-            "length": "24646743",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -134,15 +117,6 @@
           "publishedOn": "2021-06-19T15:00:10.000Z",
           "wordCount": null,
           "title": "🎧 DIGRESSION | #04 Qui est Cul ?"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pFie2RgiK2Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pFie2RgiK2Q",
-          "publishedOn": "2021-06-12T20:42:19.000Z",
-          "wordCount": null,
-          "title": "LIVE - LA TRAVERSÉE DE FAËRIA"
         }
       ]
     },
