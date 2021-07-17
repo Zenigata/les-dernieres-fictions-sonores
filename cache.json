@@ -259,25 +259,7 @@
       "title": "Red Universe",
       "feedUrl": "https://reduniverse.lepodcast.fr/rss",
       "siteUrl": "https://reduniverse.fr",
-      "articles": [
-        {
-          "id": "60ca4892fb58c4001dc4e10a",
-          "author": "raoulito",
-          "description": "RED UNIVERSE SE DÉCONFINE AVEC VOUS CET ÉTÉ !\nSortie littéraires et la fin du chapitre III ! \nStay tuned sur reduniverse.fr\n#reduniverse, #‎podcast, #‎sagamp3, #‎ebook, #‎soundtrack, #‎podcloud, #‎podradio, #sybel, #forcesmentales",
-          "link": "https://reduniverse.lepodcast.fr/reduniverse-et-forces-mentales-se-deconfinent",
-          "publishedOn": "2021-06-16T18:53:00.000Z",
-          "wordCount": null,
-          "title": "RedUniverse & Forces mentales se déconfinent !",
-          "itunes": {
-            "duration": "0:00:17"
-          },
-          "enclosure": {
-            "url": "https://stats.podcloud.fr/reduniverse/reduniverse-et-forces-mentales-se-deconfinent/enclosure.9daab27bdd67f0ad9006dc5dfcddb11309a39bf04cf3e00ff1bca5fcc813dc2e.m4v?p=f",
-            "length": "11325388",
-            "type": "video/x-m4v"
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Rouge Vif",
@@ -383,6 +365,23 @@
       "feedUrl": "https://feed.ausha.co/bYYk7uvg81gZ",
       "siteUrl": "https://podcast.ausha.co/les-dessous-de-savin",
       "articles": [
+        {
+          "id": "042a4b627b288c82245dd2051c771b2ba0691b83",
+          "author": null,
+          "description": "🌞\nÀ l’occasion de cette pause estivale j’ai choisi de vous proposer une version « voyage » du podcast. En rediffusant les différentes saisons de l’émission. \n\nÇa dure environ 1 heure, les épisodes s’enchainent, vous n’avez plus qu’à vous détendre… \n\nÇa peut aussi être aussi un bon format pour faire découvrir le podcast à ceux que vous aimez.\nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin www.sebastiensavin.com \n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\nListe des épisodes de cette semaine:\n\n1- Toucher les étoiles\n\n2- Love me again\n\n3- Ex, botox et rock'n'roll (Part-1)\n\n4- Ex, botox et rock'n'roll (Part-2)\n\n5- Ex, botox et rock'n'roll (Fin)\n\n6- Taxi Driver\n\n7- Kundalini yoga",
+          "link": "https://podcast.ausha.co/les-dessous-de-savin/rediff",
+          "publishedOn": "2021-07-16T01:00:00.000Z",
+          "wordCount": null,
+          "title": "#2 - 🌞Ton Pod de plage 🌞 \"Ex, botox et rock'n'roll\" (Rediff Saison 1 - Part 2)",
+          "itunes": {
+            "duration": "48:19"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/b3d1NCRzeAY5.mp3?t=1625299296",
+            "length": "46393376",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "eb5e0bea746f43ca58e0af50da6fd6ff7ba592c8",
           "author": null,
