@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-07-20T00:28:44.655Z</updated>
+    <updated>2021-07-21T00:30:18.016Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -374,32 +374,6 @@ Un épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute
         <summary type="html"><![CDATA[Pitch : Plusieurs semaines se sont écoulées depuis les événements de GREEN-18 et nos héros sont encore et toujours traqués par les Forces Terriennes. Engagés dans une course poursuite spatiale et sans Hyperespace, Rosten, Kannitsh et Gonto font leur possible pour survivre. Gloomy, quant à lui, découvre la nature de Farra et la raison de sa présence à ses côtés.]]></summary>
         <author>
             <name>Nico et Matt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Épisode 9 : La folie]]></title>
-        <id>0612547e-7351-41cd-8be6-b215e1837600</id>
-        <link href="https://play.acast.com/s/silencio/episode9-lafolie"/>
-        <updated>2021-06-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dans l'épisode précédent, Gabriel Breton a tenté de repousser les limites de la Sauvegarde pour sauver Millie. 
-
-
-Dans cet épisode, Gabriel, Millie et Jack découvrent la vérité sur le BlackNet. 
-
-
-"Silencio" est la nouvelle fiction événement de Bababam. Un thriller politique et une véritable expérience sonore. Une fiction écrite par Thomas Le Petit-Corps, réalisée par Nathalie Bernas, montée par Jean-Gabriel Rassat. La musique a été composée par Simon Lauris. L'enregistrement a été effectué au studio L'arrière Boutique.
-
-
-Avec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond, Brice Borg.
-
-
-﻿Le prochain épisode sera disponible le 28 juin 2021 sur toutes les applications de podcasts, plateformes de streaming et sur podcasts.ba-ba-bam.com
- 
- 
-
-See acast.com/privacy for privacy and opt-out information.]]></summary>
-        <author>
-            <name>Silencio</name>
         </author>
     </entry>
 </feed>
