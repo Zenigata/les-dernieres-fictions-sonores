@@ -182,6 +182,23 @@
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
         {
+          "id": "f4b5e30e839813850eca18e9edafc017c1465e8c",
+          "author": null,
+          "description": "Pépites est une fiction audio produite par le label Podcut !\n \nJuliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...\n \nDans cet épisode, Juliette rencontre une traiteuse végan paléo casher qui ne cesse de faire évoluer son menu pour être au plus proche de la nature et respecter au mieux l’environnement.   \n \nCe podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette ; \net Colette, du podcast Colette se confesse dans le rôle de Yaël.\nhttps://www.coletteseconfesse.fr\n\nLa série est mise en son par Zu. \nLe logo a été réalisé par Kevin Boyer.   \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7\n\nRendez-vous la semaine prochaine pour une nouvelle Pépite !",
+          "link": "https://podcast.ausha.co/podcut-fictions/pepites-ep-4-la-traiteuse-vegan-paleo-casher",
+          "publishedOn": "2021-07-22T04:33:00.000Z",
+          "wordCount": null,
+          "title": "Pépites - Ep 4 La traiteuse vegan paléo casher",
+          "itunes": {
+            "duration": "09:35"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/bzN0JHR1Qek3.mp3?t=1625215999",
+            "length": "9207684",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "b89cb4ce8418ff3c0bbbcbd4319c5c76ca6872c2",
           "author": null,
           "description": "Pépites est une fiction audio produite par le label Podcut !\n \nJuliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...\n \nDans cet épisode, Juliette rencontre les créatrices de la marque Jambon-Beurre, des sœurs jumelles américaines très fusionnelles. Une marque végan américaine 100% made in France.   \n \nCe podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette; \navec Mahaut dans le rôle Clémentine ;\nhttps://www.instagram.com/mahautdrama/\n\net Fanny Cohen-Moreau du podcast Passion Médiéviste dans le rôle de Tangerine\n https://passionmedievistes.fr/\n\nLa série est mise en son par Zu. \nLe logo a été réalisé par Kevin Boyer.   \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7\n\nRendez-vous la semaine prochaine pour une nouvelle Pépite !",
@@ -316,23 +333,7 @@
       "title": "CapitaineGloomy.com",
       "feedUrl": "https://www.capitainegloomy.com/feed/saga-mp3",
       "siteUrl": "https://capitainegloomy.com/",
-      "articles": [
-        {
-          "id": "https://www.capitainegloomy.com/download/1065/",
-          "author": "Nico et Matt",
-          "description": "Pitch : Plusieurs semaines se sont écoulées depuis les événements de GREEN-18 et nos héros sont encore et toujours traqués par les Forces Terriennes. Engagés dans une course poursuite spatiale et sans Hyperespace, Rosten, Kannitsh et Gonto font leur possible pour survivre. Gloomy, quant à lui, découvre la nature de Farra et la raison de sa présence à ses côtés.",
-          "link": "https://www.capitainegloomy.com/episodes/xantah-ep9-dave/",
-          "publishedOn": "2021-06-22T19:58:51.000Z",
-          "wordCount": null,
-          "title": "La légende de Xantah / Ep 9 - Xantah EP9 – DAVE",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://www.capitainegloomy.com/download/1065/",
-            "length": "76193681",
-            "type": "audio/mpeg"
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Les dessous de Savin",
