@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-07-24T00:28:10.659Z</updated>
+    <updated>2021-07-25T00:28:36.217Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Episode 23 : Le village disparu]]></title>
+        <id>60fad74ecbab1900ca604412</id>
+        <link href="https://adad.lepodcast.fr/episode-23-le-village-disparu"/>
+        <updated>2021-07-24T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonsoir, bienvenue dans l’épisode 23 d’Avant d’aller dormir.
+Installez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux...
+...Mais d'abord, on trouvait qu'il n'y avait pas assez de femmes dans le podcast game, alors pour leur donner toute la place qu'elles méritent, on leur laisse les clés du podcast pendant qu'on se le coule douce en vacances ;)
+Un immense merci à Oak Leaf, Liliy, Lady Lococco et Jess d'avoir pris soin du studio en notre absence! Vous nous avez rendu fiers!
+Liens vers les histoires
+Ma chère soeur par, u/TeamDeltaleader
+Le village disparu, par UnDixGo
+Souvenirs oubliés, par Liliy
+The Woman, par simulatislacrimis
+Merci à tous les auteurs d’avoir accepté de faire partie de cet épisode, n’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr
+Rejoignez-nous !
+Discord
+Instagram
+Facebook
+YouTube
+Twitch
+Notre messagerie vocale : 07 49 25 27 90
+Soutenez-nous
+En nous versant quelques deniers sur Patreon (https://patreon.com/adad), en échange vous recevrez chaque mois les épisodes en avance et du contenu exclusif ! On remerciera tous les nouveaux patrons lors du prochain épisode, promis ;)
+En nous mettant une super note sur SensCritique, Apple Podcasts ou Podcast Addict.
+Ou tout simplement en parlant de nous à tous vos proches.
+Tous ces liens sont disponibles sur https://avantdallerdormir.fr
+🏞 Illustration : renarmaro
+Il est maintenant temps de trouver le sommeil. À bientôt…
+Avant d'aller dormir, un podcast produit par Les Yeux Fermés.]]></summary>
+        <author>
+            <name>Avant d’aller dormir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#3 - 🌞Ton Pod de plage🌞  "Des cigales, et à poil!" - (Rediff saison 2)]]></title>
         <id>06a1e263c6facbc7ed9101d7e8b0600ec13bc70e</id>
@@ -396,35 +430,6 @@ Avant d'aller dormir, un podcast produit par Les Yeux Fermés.]]></summary>
         <summary type="html"><![CDATA[Walter Proof Experiment 072 ! Dernier épisode de la saison !]]></summary>
         <author>
             <name>L'Inaudible de Walter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#25 - S05/EP25 - "Cliffhanger"]]></title>
-        <id>69223f3881fbd3ef866647beb968d7bb8cd35ca1</id>
-        <link href="https://podcast.ausha.co/les-dessous-de-savin/25-s05-ep25-cliffhanger"/>
-        <updated>2021-06-25T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[📍S05/EP25 - "Cliffhanger"📍
-
-1 mois que je ne l’avais pas vu. Alors quelle surprise ce matin là de le voir apparaître à la terrasse de notre QG de la place des Abbesses.
-Mes amis sont alors venus prendre le pouls de ce brave Manu.
-
-Il était parfait. Et moi? En quoi allais-je être utile à cette histoire naissante?
-
-Ces 15 mois n’auront pas été le début d’un monde nouveau pour moi. À l’image des Dauphins à Venise ou des canards de la rue de Rivoli. Juste un bouton pause. Le couvercle de la cocotte minute Seb bien vissé. Vous percevez le sifflement du bouchon et son tournoiement incohérent?
-
-Voici Cliffhanger l’avant dernier épisode de la saison 5 des dessous de Savin…
-
-
-"Les dessous de Savin" 
-Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. 
-
-Un épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin.  📸 INSTAGRAM& FACEBOOK📸 www.sebastiensavin.com 
-
-🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
-
-"STATIC" composé par Stel https://www.instagram.com/stel_musique/]]></summary>
-        <author>
-            <name>Les dessous de Savin</name>
         </author>
     </entry>
 </feed>
