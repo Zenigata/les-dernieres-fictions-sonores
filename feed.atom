@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-07-25T00:28:36.217Z</updated>
+    <updated>2021-07-26T00:30:37.212Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Disconvention – 01 – Nantes Maker Campus]]></title>
+        <id>https://javras.fr/?p=18449</id>
+        <link href="https://javras.fr/2021/07/25/disconvention-01-nantes-maker-campus/"/>
+        <updated>2021-07-25T06:49:26.000Z</updated>
+        <summary type="html"><![CDATA[Bonjour à tous, ici Richoult !
+Comme indiqué sur nos réseaux sociaux, nous lançons un nouveau podcast de discutions. 
+La particularité de ce podcast ? On l’enregistre en convention avec vous, nos auditeurs. C’est Disconvention !
+Dans ce podcast, vous pouvez retrouver des informations sur notre façon de travailler, entendre les personnes qui sont derrière les fictions audio de Javras, découvrir nos nouveaux projets, des anecdotes, des news et pleins d’autres choses.
+Un grand merci aux organisateurs de Nantes Maker Campus, à savoir Make Me et Les Machines de Nantes, à Lmorel un auditeur qui nous suit depuis plus de 5 ans et à Hanabi Wyrd et Thibaud.
+N’hésitez pas à nous faire un retour sur ce podcast et nous envoyer des mails et nous rencontrer, voir participer à ce podcast, lors de notre pr…]]></summary>
+        <author>
+            <name>Team Javras</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Episode 23 : Le village disparu]]></title>
         <id>60fad74ecbab1900ca604412</id>

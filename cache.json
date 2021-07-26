@@ -123,6 +123,23 @@
       "siteUrl": "https://javras.fr/",
       "articles": [
         {
+          "id": "https://javras.fr/?p=18449",
+          "author": "Team Javras",
+          "description": "Bonjour à tous, ici Richoult !\nComme indiqué sur nos réseaux sociaux, nous lançons un nouveau podcast de discutions. \nLa particularité de ce podcast ? On l’enregistre en convention avec vous, nos auditeurs. C’est Disconvention !\nDans ce podcast, vous pouvez retrouver des informations sur notre façon de travailler, entendre les personnes qui sont derrière les fictions audio de Javras, découvrir nos nouveaux projets, des anecdotes, des news et pleins d’autres choses.\nUn grand merci aux organisateurs de Nantes Maker Campus, à savoir Make Me et Les Machines de Nantes, à Lmorel un auditeur qui nous suit depuis plus de 5 ans et à Hanabi Wyrd et Thibaud.\nN’hésitez pas à nous faire un retour sur ce podcast et nous envoyer des mails et nous rencontrer, voir participer à ce podcast, lors de notre pr…",
+          "link": "https://javras.fr/2021/07/25/disconvention-01-nantes-maker-campus/",
+          "publishedOn": "2021-07-25T06:49:26.000Z",
+          "wordCount": null,
+          "title": "Disconvention – 01 – Nantes Maker Campus",
+          "itunes": {
+            "duration": "51:51"
+          },
+          "enclosure": {
+            "url": "https://javras.fr/podcast-download/18449/disconvention-01-nantes-maker-campus.mp3",
+            "length": "95,1",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "https://javras.fr/?p=18213",
           "author": "Erika",
           "description": "Salut à tous ! \nAprès un mois d’attente, voici la suite de la saga parodique “Amydale Crossing : New Life” ! Cet épisode est un peu plus court que l’épisode 04 mais c’est surtout pour introduire un nouvel élément dans l’histoire (je ne vous en dis pas plus pour l’instant ^^).\nJe peux annoncer que le tiers des épisodes est sorti et que du coup, j’ai sorti autant d’épisodes que la V1. Pour ceux qui ne le savent pas, j’ai sorti une première version de la saga en 2013-2014 mais j’ai décidé de la recommencer à zéro à cause d’acteurs où je n’ai aucun contact ou de blocage au niveau du scénario. Là, cette fois, j’ai écrit toute la saga et contacté tous les acteurs à l’avance pour ne plus avoir ce genre de problèmes pour cette saga.\nJe pense avoir tout dit. Normalement, le premier bêtisier de la s…",
