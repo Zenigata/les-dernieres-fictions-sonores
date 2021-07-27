@@ -21,23 +21,6 @@
             "length": "340060958",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://www.linaudible.com/?p=11065",
-          "author": null,
-          "description": "Walter Proof Experiment 072 ! Dernier épisode de la saison !",
-          "link": "https://www.linaudible.com/2021/06/26/wapx072/",
-          "publishedOn": "2021-06-26T15:40:00.000Z",
-          "wordCount": null,
-          "title": "Wapx072",
-          "itunes": {
-            "duration": "55:28"
-          },
-          "enclosure": {
-            "url": "https://media.blubrry.com/linaudible_de_walter/traffic.libsyn.com/secure/wproof/wapx072.mp3",
-            "length": "133327570",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -45,25 +28,7 @@
       "title": "Cyrano de Bergerac",
       "feedUrl": "https://cyranodebergerac.lepodcast.fr/rss",
       "siteUrl": "https://cyranodebergerac.lepodcast.fr/",
-      "articles": [
-        {
-          "id": "60d701add294a30078844507",
-          "author": "Leto75",
-          "description": "Distribution :\nLeto75 : Cyrano\nNaïde L. : Roxane\nSilverson : Ragueneau\nDRWolf : Le Bret\nBlast : Comte de Guiche\nFélice Olivesi : Mère Marguerite de Jésus\nChloé François : Sœur Marthe\nImzadi : Sœur Claire\nViatou : Une nonne\nChristine Nancy : Une autre nonne\nTexte : Edmond Rostand\nRecrutement, direction d'acteur, montage, mixage, illustrations : Leto 75\nMusique : Praetorius, Jean Marion",
-          "link": "https://cyranodebergerac.lepodcast.fr/cyrano-de-bergerac-acte-v",
-          "publishedOn": "2021-06-26T16:30:00.000Z",
-          "wordCount": null,
-          "title": "Cyrano de Bergerac, Acte V",
-          "itunes": {
-            "duration": "0:26:52"
-          },
-          "enclosure": {
-            "url": "https://stats.podcloud.fr/cyranodebergerac/cyrano-de-bergerac-acte-v/enclosure.59ed5c4f4c90be9bf99b25b328cdb807973158b56138710a1e358b25314bfc8d.mp3?p=f",
-            "length": "65022323",
-            "type": "audio/mpeg"
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Hectore ou les Chroniques d'un Rastronaute",
@@ -100,6 +65,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvvYk2sA1XWtt3XHzA0CEWw",
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=A1m99pgtgno",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A1m99pgtgno",
+          "publishedOn": "2021-07-26T15:00:56.000Z",
+          "wordCount": null,
+          "title": "Audiodidact.fr ouvre ses portes."
+        },
         {
           "id": "https://www.youtube.com/watch?v=89qjvlP_ncc",
           "author": null,
@@ -153,23 +127,6 @@
           "enclosure": {
             "url": "https://javras.fr/podcast-download/18213/amydale-crossing-new-life-episode-05-2.mp3",
             "length": "33,2",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "https://javras.fr/?p=18151",
-          "author": "Richoult",
-          "description": "Bonjour à tous !\nIci Richoult qui prend le micro pour vous annoncer la sortie d’un nouveau mono dans l’univers de la série Javras. Ça faisait tellement longtemps, le dernier mono date de Novembre 2018, entre temps nous avons réalisé le CD “Javras, une délicieuse enquête” qui se passe dans le même univers.\nCe nouveau mono, écrit il y a un an par Melectrik, nous ramène dans les bâtiments de Javras, avec nos personnages préférés. Cela m’a pris beaucoup de temps pour sortir ce mono (encore désolé, Melectrik), c’est toujours compliqué de se motiver et réaliser une œuvre qui n’est pas de votre plume, d’autant plus que j’avais peur de la décevoir sur la mise en scène.\nVous trouverez quelques références cachés, des musiques déjà utilisées, un Mago carnassier et bien entendu Henry Dès.\n\t\t\t\t\t\nBonjou…",
-          "link": "https://javras.fr/2021/06/27/mono-javras-le-correspondant/",
-          "publishedOn": "2021-06-26T22:05:00.000Z",
-          "wordCount": null,
-          "title": "Mono – Javras, le correspondant",
-          "itunes": {
-            "duration": "16:33"
-          },
-          "enclosure": {
-            "url": "https://javras.fr/podcast-download/18151/mono-javras-le-correspondant.mp3",
-            "length": "31,4",
             "type": "audio/mpeg"
           }
         }
@@ -452,23 +409,6 @@
           "enclosure": {
             "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/episode-23-le-village-disparu/enclosure.067ea613243e804673b0b65b3060d73906710f51768790e652f63b748714bcb7.mp3?p=f",
             "length": "62490664",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "60d64080d294a3004a843ee6",
-          "author": "Avant d’aller dormir",
-          "description": "Vous pensiez vraiment que c'était fini ? Que vous pouviez dormir sur vos deux oreilles ? Que les histoires du premier chapitre ne reviendraient pas vous hanter ? \nDétrompez-vous.\nBienvenue dans le premier chapitre d’Avant d’aller dormir. \nInstallez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.\nLiens vers les histoires\nLe sous-sol de la bibliothèque, par Sergeant_Darwin (YouTube Channel)\nLes bougies rouges, par u/GasolineMonkey\nLa cabine 22, par Siruppus\nLe timbre de Bronson, par redblackblueandyou\nRetour à l'envoyeur, par Manen Lyset\nLes ombres..., par PossiblyTheInternet\nMerci à tous les auteurs d’avoir accepté de faire partie de cet épisode, n’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr\nRejoignez-nous !\nDiscord\nInstagram\nFacebook\nYouTube\nTwitch\nNotre messagerie vocale : 07 49 25 27 90\nSoutenez-nous\nEn nous versant quelques deniers sur Patreon (https://patreon.com/adad), en échange vous recevrez chaque mois les épisodes en avance et du contenu exclusif !\nEn nous mettant une super note sur SensCritique, Apple Podcasts ou Podcast Addict.\nOu tout simplement en parlant de nous à tous vos proches.\nTous ces liens sont disponibles sur https://avantdallerdormir.fr\nL'équipe\n🎙️ Vos humbles serviteurs, Yop (Instagram / Youtube / Podcasts) & UnDixGo (Instagram / Twitch)\n🏞 Illustration : renarmaro\nIl est maintenant temps de trouver le sommeil. À bientôt…\nAvant d'aller dormir, un podcast produit par Les Yeux Fermés.",
-          "link": "https://adad.lepodcast.fr/chapitre-1-back-from-the-grave",
-          "publishedOn": "2021-06-26T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Chapitre 1 : Back from the grave",
-          "itunes": {
-            "duration": "0:53:28"
-          },
-          "enclosure": {
-            "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/chapitre-1-back-from-the-grave/enclosure.c4a7a64ca43060a2d1dab7e386aa7faaac079c7c3f0eec1058c700bc820f18ef.mp3?p=f",
-            "length": "77850950",
             "type": "audio/mpeg"
           }
         }
