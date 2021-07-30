@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-07-29T00:28:26.520Z</updated>
+    <updated>2021-07-30T00:29:01.349Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pépites - Ep 5 Le consultant en potager]]></title>
+        <id>f1acfe263e2f809e844eddf1ef96c7227e822450</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/pepites-ep-5-le-consultant-en-potager"/>
+        <updated>2021-07-29T04:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Pépites est une fiction audio produite par le label Podcut !
+
+Juliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...
+
+Dans cet épisode, Juliette rencontre un consultant en potager qui remplace le sol des appartements parisiens par des potagers géants. 
+ 
+Ce podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette ; 
+et Joseph, des podcasts Détective Froussin et Deux passages dans le rôle de Lucas.
+https://detectivefroussin.libsyn.com/
+https://deuxpassages.libsyn.com/
+
+La série est mise en son par Zu. 
+Le logo a été réalisé par Kevin Boyer.   
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7
+
+Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Audiodidact.fr ouvre ses portes.]]></title>
         <id>https://www.youtube.com/watch?v=A1m99pgtgno</id>
