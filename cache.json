@@ -412,6 +412,64 @@
           }
         }
       ]
+    },
+    {
+      "title": "Les Chroniques Galactiques - la Fiction audio Star Wars",
+      "feedUrl": "https://feeds.podcastics.com/podcastics/podcasts/rss/2327_c913d2dc7b6c8298e5afd2c7e3575bc2.rss",
+      "siteUrl": "https://unfandestarwars.com/les-chroniques-galactiques/",
+      "articles": [
+        {
+          "id": "86233",
+          "author": null,
+          "description": "Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la meilleure fiction audio Star Wars de toute la bordure extérieure) est lancée !  \nEpisode 2 : Injustice\nWilhem et Daan participent à la grande vente aux enchères de Fostar Haven dans l'espoir de renflouer les caisses. Mais l'arrivée d'un mystérieux acheteur pourrait bien contrarier leur plan... \nToute l'actu de la saga mp3 \"Les Chroniques Galactiques\" sur notre site, Facebook et Twitter !\nEcoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/\nLes Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.",
+          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
+          "publishedOn": "2021-07-30T22:01:00.000Z",
+          "wordCount": null,
+          "title": "Saison 3 - EP. 2/7 - Injustice",
+          "itunes": {
+            "duration": "00:15:02"
+          },
+          "enclosure": {
+            "url": "https://www.podcastics.com/podcast/episode/86233/file.mp3?s=36216580",
+            "type": "audio/mpeg",
+            "length": "36216580"
+          }
+        },
+        {
+          "id": "82665",
+          "author": null,
+          "description": "Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la meilleure fiction audio Star Wars de toute la bordure extérieure) est lancée !  \nEpisode 1 : Honnête Contrebande\nLa terreur règne ! Après avoir écrasé la rébellion sur la planète glacière Hoth, L’infâme Empire Galactique pourchasse ses derniers partisans à travers la galaxie.\n\nToute l'actu de la saga mp3 \"Les Chroniques Galactiques\" sur notre site, Facebook et Twitter !\nEcoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/\nLes Chroniques Galactiques est une fan-fiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fan-fiction audio n'est en aucun cas liée aux entreprises susmentionnées.",
+          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
+          "publishedOn": "2021-07-23T22:01:00.000Z",
+          "wordCount": null,
+          "title": "Saison 3 - EP. 1/7 - Honnête Contrebande",
+          "itunes": {
+            "duration": "00:20:07"
+          },
+          "enclosure": {
+            "url": "https://www.podcastics.com/podcast/episode/82665/file.mp3?s=48426254",
+            "type": "audio/mpeg",
+            "length": "48426254"
+          }
+        },
+        {
+          "id": "82235",
+          "author": null,
+          "description": "Les Chroniques Galactiques, la fiction audio Star Wars garantie sans Jedi conclue sa trilogie cet été avec une troisième saison. Sortie prévu : Juillet 2021 !  \nEn attendant, n'hésitez pas à écouter les deux premières saisons",
+          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
+          "publishedOn": "2021-07-06T09:39:00.000Z",
+          "wordCount": null,
+          "title": "Saison 3 - Teaser 3",
+          "itunes": {
+            "duration": "00:00:46"
+          },
+          "enclosure": {
+            "url": "https://www.podcastics.com/podcast/episode/82235/file.mp3?s=1993894",
+            "type": "audio/mpeg",
+            "length": "1993894"
+          }
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
