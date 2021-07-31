@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-07-30T00:29:01.349Z</updated>
+    <updated>2021-07-31T00:28:29.345Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#4 - 🌞Ton Pod de plage🌞 - "Love is in the hair" (Rediff saison 3 part 1)]]></title>
+        <id>d3e10a1cd3df4cf5522565c851bbe931562f7407</id>
+        <link href="https://podcast.ausha.co/les-dessous-de-savin/4-ton-pod-de-plage-love-is-in-the-hair-rediff-saison-3-part-1"/>
+        <updated>2021-07-30T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🌞
+À l’occasion de cette pause estivale j’ai choisi de vous proposer une version « voyage » du podcast. En rediffusant les différentes saisons de l’émission. 
+Ça dure environ 1 heure, les épisodes s’enchainent, vous n’avez plus qu’à vous détendre… 
+Ça peut aussi être aussi un bon format pour faire découvrir le podcast à ceux que vous aimez.
+
+Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin www.sebastiensavin.com 
+
+🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
+
+"STATIC" composé par Stel https://www.instagram.com/stel_musique/
+
+Liste des épisodes de cette semaine:
+
+1- La rentrée
+2- Lisieux pour pleurer
+3- L'amour est dans le pré
+4- Formidable
+5- Love is in the hair
+6- Sous les ponts de Paris]]></summary>
+        <author>
+            <name>Les dessous de Savin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pépites - Ep 5 Le consultant en potager]]></title>
         <id>f1acfe263e2f809e844eddf1ef96c7227e822450</id>
@@ -347,33 +375,6 @@ Un épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute
 "STATIC" composé par Stel https://www.instagram.com/stel_musique/]]></summary>
         <author>
             <name>Les dessous de Savin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pépites - Ep 1 Le restaurant Grattons & Co]]></title>
-        <id>752407fa69d5a1b42f93d619b908646d23244dc3</id>
-        <link href="https://podcast.ausha.co/podcut-fictions/pepites-ep-1-le-restaurant-grattons-co"/>
-        <updated>2021-07-01T04:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Pépites est une fiction audio produite par le label Podcut !
- 
-Juliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...
- 
-Dans ce premier épisode, Juliette se rend dans un restaurant de spécialités du Sud-Ouest au concept bien particulier… Le prix des plats est fixé en fonction du nombre de calories.
- 
-Ce podcast a été écrit et incarnée par Anouk Krief, dans le rôle de Juliette, et mise en son par Zu. Thomas Bondon, du podcast Certains l’aiment à chaud, joue le rôle d’Oscar.
-
-Le logo a été réalisé par Kevin Boyer.   
- 
-Si ça vous a plus n’hésitez pas à nous le dire sur les réseaux du label.
-Facebook https://www.facebook.com/podcut/
-Twitter https://twitter.com/Podcut_label/
-Instagram https://www.instagram.com/podcut_label/
-Si vous souhaitez encourager le label : https://www.patreon.com/podcut
-et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7
-
-Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
-        <author>
-            <name>Podcut Fictions</name>
         </author>
     </entry>
 </feed>
