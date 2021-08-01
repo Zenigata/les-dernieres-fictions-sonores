@@ -66,6 +66,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3bjt3i_4e2Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3bjt3i_4e2Y",
+          "publishedOn": "2021-07-31T15:00:12.000Z",
+          "wordCount": null,
+          "title": "🎧 JAMES RICO | LA VILLE DES ENRAGES"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=A1m99pgtgno",
           "author": null,
           "description": "",
@@ -361,23 +370,6 @@
           "enclosure": {
             "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/owzAgIzQ4V4W.mp3?t=1625295659",
             "length": "44205360",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "887199cab1ed1fd6cb22df3315f46a6874a44d7a",
-          "author": null,
-          "description": "📍S05/EP26 - \"Pride\"📍\nJe me suis senti bien  ridicule ce jour là en quittant Manu sur le quai de la Gare de Lyon car je prenais conscience qu’à mon âge je n’avais encore jamais célébré la gay pride…\nJ’avais donc 15 jours pour organiser notre Gay Pride. Pour Manu qui était sorti du placard grâce à moi, et ça, ça méritait bien une célébration, et pour moi aussi qui avait la bagatelle de 43 Gay Pride de retard…\n\nVoici \"Pride\" le dernier épisode de la saison 5 des dessous de Savin…\n\n\"Les dessous de Savin\" \n\nOu les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. \n\nUn épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin.  📸 INSTAGRAM& FACEBOOK📸 www.sebastiensavin.com \n\n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/",
-          "link": "https://podcast.ausha.co/les-dessous-de-savin/26-s05-ep26-pride",
-          "publishedOn": "2021-07-02T01:00:00.000Z",
-          "wordCount": null,
-          "title": "#26 - S05/EP26 - \"Pride\"",
-          "itunes": {
-            "duration": "13:15"
-          },
-          "enclosure": {
-            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/yOOAWH9G9Dkv.mp3?t=1625168128",
-            "length": "12721885",
             "type": "audio/mpeg"
           }
         }

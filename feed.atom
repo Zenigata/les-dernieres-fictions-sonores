@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-07-31T10:35:25.424Z</updated>
+    <updated>2021-08-01T00:32:28.216Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 JAMES RICO | LA VILLE DES ENRAGES]]></title>
+        <id>https://www.youtube.com/watch?v=3bjt3i_4e2Y</id>
+        <link href="https://www.youtube.com/watch?v=3bjt3i_4e2Y"/>
+        <updated>2021-07-31T15:00:12.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saison 3 - EP. 2/7 - Injustice]]></title>
         <id>86233</id>
@@ -391,32 +400,6 @@ En attendant, n'hésitez pas à écouter les deux premières saisons]]></summary
         <summary type="html"><![CDATA[L'intégrale de la première saison d'Oxymut : 2 heures et 21 minutes !]]></summary>
         <author>
             <name>L'Inaudible de Walter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#26 - S05/EP26 - "Pride"]]></title>
-        <id>887199cab1ed1fd6cb22df3315f46a6874a44d7a</id>
-        <link href="https://podcast.ausha.co/les-dessous-de-savin/26-s05-ep26-pride"/>
-        <updated>2021-07-02T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[📍S05/EP26 - "Pride"📍
-Je me suis senti bien  ridicule ce jour là en quittant Manu sur le quai de la Gare de Lyon car je prenais conscience qu’à mon âge je n’avais encore jamais célébré la gay pride…
-J’avais donc 15 jours pour organiser notre Gay Pride. Pour Manu qui était sorti du placard grâce à moi, et ça, ça méritait bien une célébration, et pour moi aussi qui avait la bagatelle de 43 Gay Pride de retard…
-
-Voici "Pride" le dernier épisode de la saison 5 des dessous de Savin…
-
-"Les dessous de Savin" 
-
-Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. 
-
-Un épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin.  📸 INSTAGRAM& FACEBOOK📸 www.sebastiensavin.com 
-
-
-🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
-
-
-"STATIC" composé par Stel https://www.instagram.com/stel_musique/]]></summary>
-        <author>
-            <name>Les dessous de Savin</name>
         </author>
     </entry>
 </feed>
