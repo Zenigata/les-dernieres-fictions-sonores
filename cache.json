@@ -4,25 +4,7 @@
       "title": "L'Inaudible de Walter",
       "feedUrl": "https://www.linaudible.com/feed/podcast/",
       "siteUrl": "https://www.linaudible.com/episodes-masonry/",
-      "articles": [
-        {
-          "id": "https://www.linaudible.com/?p=11092",
-          "author": null,
-          "description": "L'intégrale de la première saison d'Oxymut : 2 heures et 21 minutes !",
-          "link": "https://www.linaudible.com/2021/07/03/oxymut-saison1-integrale/",
-          "publishedOn": "2021-07-03T15:45:00.000Z",
-          "wordCount": null,
-          "title": "Oxymut – saison 1 : l’intégrale",
-          "itunes": {
-            "duration": "2:21:22"
-          },
-          "enclosure": {
-            "url": "https://media.blubrry.com/linaudible_de_walter/traffic.libsyn.com/secure/wproof/oxymut01integrale.mp3",
-            "length": "340060958",
-            "type": "audio/mpeg"
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Cyrano de Bergerac",

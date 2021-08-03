@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-08-02T00:28:42.857Z</updated>
+    <updated>2021-08-03T00:35:42.538Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -390,16 +390,6 @@ Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
 En attendant, n'hésitez pas à écouter les deux premières saisons]]></summary>
         <author>
             <name>Les Chroniques Galactiques - la Fiction audio Star Wars</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oxymut – saison 1 : l’intégrale]]></title>
-        <id>https://www.linaudible.com/?p=11092</id>
-        <link href="https://www.linaudible.com/2021/07/03/oxymut-saison1-integrale/"/>
-        <updated>2021-07-03T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[L'intégrale de la première saison d'Oxymut : 2 heures et 21 minutes !]]></summary>
-        <author>
-            <name>L'Inaudible de Walter</name>
         </author>
     </entry>
 </feed>
