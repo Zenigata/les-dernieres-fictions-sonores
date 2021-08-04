@@ -444,6 +444,12 @@
           }
         }
       ]
+    },
+    {
+      "title": "ASpaceMR",
+      "feedUrl": "https://aspacemr.lepodcast.fr/rss",
+      "siteUrl": "https://aspacemr.fr",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"
