@@ -425,23 +425,6 @@
             "type": "audio/mpeg",
             "length": "48426254"
           }
-        },
-        {
-          "id": "82235",
-          "author": null,
-          "description": "Les Chroniques Galactiques, la fiction audio Star Wars garantie sans Jedi conclue sa trilogie cet été avec une troisième saison. Sortie prévu : Juillet 2021 !  \nEn attendant, n'hésitez pas à écouter les deux premières saisons",
-          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
-          "publishedOn": "2021-07-06T09:39:00.000Z",
-          "wordCount": null,
-          "title": "Saison 3 - Teaser 3",
-          "itunes": {
-            "duration": "00:00:46"
-          },
-          "enclosure": {
-            "url": "https://www.podcastics.com/podcast/episode/82235/file.mp3?s=1993894",
-            "type": "audio/mpeg",
-            "length": "1993894"
-          }
         }
       ]
     },
