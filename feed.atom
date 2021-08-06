@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-08-05T00:30:09.813Z</updated>
+    <updated>2021-08-06T00:30:01.606Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pépites - Ep 6 Le cinéma à commentaires]]></title>
+        <id>4f1a431721823eaa8ac356ecd6a6243867ada0a3</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/pepites-ep-6-le-cinema-a-commentaires"/>
+        <updated>2021-08-05T04:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Pépites est une fiction audio produite par le label Podcut !
+
+Juliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...
+
+Dans cet épisode, Juliette rencontre Bertrand et Jules, un duo père-fils qui a lancé une affaire : un cinéma à commentaire... 
+
+Ce podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette ; 
+avec Cédric du podcast Popcorn Impact joue le rôle de Jules ; 
+https://smartlink.ausha.co/popcorn-impact
+
+et Clément du podcast Tartine ta culture joue le rôle de Bertrand.
+https://smartlink.ausha.co/tartine-ta-culture
+
+La série est mise en son par Zu. 
+Le logo a été réalisé par Kevin Boyer.   
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7
+
+Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Épisode 6 – Confessions d'un homme assommant]]></title>
         <id>ec6d37ca-db2e-4309-8bdc-3ad4d34d793b</id>
