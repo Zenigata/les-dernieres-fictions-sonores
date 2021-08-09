@@ -73,15 +73,6 @@
           "publishedOn": "2021-07-26T15:00:56.000Z",
           "wordCount": null,
           "title": "Audiodidact.fr ouvre ses portes."
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=89qjvlP_ncc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=89qjvlP_ncc",
-          "publishedOn": "2021-07-09T15:00:06.000Z",
-          "wordCount": null,
-          "title": "🎧 LES AVENTURES INSOLITES DE L'AF13| #00 - DECOLLAGE!"
         }
       ]
     },
@@ -96,6 +87,23 @@
       "feedUrl": "https://javras.fr/feed/podcast",
       "siteUrl": "https://javras.fr/",
       "articles": [
+        {
+          "id": "https://javras.fr/?p=18515",
+          "author": "Erika",
+          "description": "Salut à tous, ici Erika ! Nous sommes officiellement au tiers de ma saga parodique “Amydale Crossing : New Life“.\nJe vous offre donc aujourd’hui le premier bêtisier de la saga. Contrairement aux bêtisiers de “Por] [tail 2” et “Another Time“, je me suis moins prise la tête pour mixer celui-là par manque de temps. En effet, j’ai deux sagas en cours avec “Fénix Write : l’As Détourné” et avec mes autres projets en dehors de Javras, c’est compliqué de trouver du temps pour faire un bêtisier élaboré comme ceux que j’avais fait avant.\nJ’espère que malgré cela, ce bêtisier vous fera rire comme il m’a fait rire quand je l’ai mixé. Vous pourrez notamment entendre : Darkspriteangels, Hesdea, Melectrik, Richoult, Michiko, Tolémet, Haru, Wigwam, Jillyne et bien d’autres.\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nJe vous laisse savourer toutes les scènes ratées des épisodes 01 à 05 de la saga et je vous dis bonne écoute et à bientôt pour l’épisode 06 ! \n\t\t\t\t\t\ndocument.createElement('audio');\nhttps://javras.fr/Audio/SagasMP3/AmydaleCrossing/Amydale%20Crossing%20New%20Life%20-%20B%C3%AAtisier%201%20%28Bonus%29.mp3\t\t\n\n\t\t\n\n\n\n\t Amydale Crossing : New Life – Bêtisier 1 ( 62 MB)\n Cliquez pour télécharger –\t152 téléchargements\n\n\nÉcouter la saga mp3\n\t\t\t\t\t\nSuivez-nous sur nos réseaux sociaux :\n\t\t\nFacebook\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\nTwitter\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\nInstagram\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\nYoutube\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\nVous pouvez nous aider en soutenant la team Javras sur Tipeee !\nPartagez cet épisode, mettez une note sur Itunes et/ou laissez un commentaire.\n\t\t\t\t\t\nIls sont 34 et ils ont soutenu cet épisode, sur Tipeee :\nNackrikor, Richoult, Zenigata, Place, Itineris, Watchinofoye, Kauraly, Jill Lyandja, Sorenran, Sylvebarbe, Lucas D., Stellatsu, Ruby-lin, LaurentDoucet, Thomas S., Titus, LC, Thomas Lecavelier, FanyCOMO, Clément, Socolin, Neron, JPPJ, Monololo, Reshkaf, Mopolo, Thomas H., Adelyx, Flamingfox, Lord purple Peignoir, Alméride, Melectrik, Yohann Lorant et MrBadger.\nMerci infiniment !",
+          "link": "https://javras.fr/2021/08/08/amydale-crossing-new-life-betisier-1-bonus/",
+          "publishedOn": "2021-08-08T08:09:47.000Z",
+          "wordCount": null,
+          "title": "Amydale Crossing : New Life – Bêtisier 1 (Bonus)",
+          "itunes": {
+            "duration": "25:51"
+          },
+          "enclosure": {
+            "url": "https://javras.fr/podcast-download/18515/amydale-crossing-new-life-betisier-1-bonus.mp3",
+            "length": "61,8",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://javras.fr/?p=18449",
           "author": "Team Javras",
