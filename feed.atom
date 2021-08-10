@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-08-09T00:31:09.096Z</updated>
+    <updated>2021-08-10T00:31:22.206Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Épisode 7 – Arme à Milton]]></title>
+        <id>63a79566-bbb0-49cf-b85f-9af6470170ed</id>
+        <link href="https://play.acast.com/s/demain-le-soleil-se-couchera-deux-fois/episode7-armeamilton"/>
+        <updated>2021-08-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Milton Hatch tient ANA, Müller et Sally à sa merci. Ils n'ont aucun moyen d'en réchapper. C'est sans compter Yegor et Mishka qui s'introduisent dans le bunker avec toute la subtilité soviétique dont ils sont capables. Milton Hatch profite de la confusion pour déclencher l'autodestruction du bâtiment et se faire la malle. Les ennemis d'hier vont devoir s'allier s'ils ne veulent pas finir grillés. 
+
+
+Demain, le Soleil se couchera deux fois est une fiction audio Allianz. 
+Scénario et dialogues : Cyril Legrais
+Réalisation : Andréa Brusque
+Composition musicale : Julien Boulfray 
+Supervision musicale : Phantom Punch
+
+
+Production : BABABAM 
+Montage et sound-design : Célia Brondeau et Jean-Gabriel Rassat 
+Enregistrements : L’Arrière Boutique Studio
+
+
+Distribution : 
+Sally J.Sally : Camille Lockhart,
+Jacques Muller : François Briault,
+ANA : Ariane Brousse, 
+Milton Hatch : Stephan Druet
+Dr. René Rameaux : Philippe Mambon 
+Yegor et Mishka Poliakoff : Miglen Mirtchev, 
+Journaliste radio : Andréa Brusque
+
+
+
+ 
+ 
+
+See acast.com/privacy for privacy and opt-out information.]]></summary>
+        <author>
+            <name>Demain, Le Soleil Se Couchera Deux Fois</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amydale Crossing : New Life – Bêtisier 1 (Bonus)]]></title>
         <id>https://javras.fr/?p=18515</id>
@@ -548,29 +587,6 @@ Journaliste radio : Andréa Brusque
 See acast.com/privacy for privacy and opt-out information.]]></summary>
         <author>
             <name>Demain, Le Soleil Se Couchera Deux Fois</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amydale Crossing : New Life – Épisode 05]]></title>
-        <id>https://javras.fr/?p=18213</id>
-        <link href="https://javras.fr/2021/07/11/amydale-crossing-new-life-episode-05-2/"/>
-        <updated>2021-07-10T22:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Salut à tous ! 
-Après un mois d’attente, voici la suite de la saga parodique “Amydale Crossing : New Life” ! Cet épisode est un peu plus court que l’épisode 04 mais c’est surtout pour introduire un nouvel élément dans l’histoire (je ne vous en dis pas plus pour l’instant ^^).
-Je peux annoncer que le tiers des épisodes est sorti et que du coup, j’ai sorti autant d’épisodes que la V1. Pour ceux qui ne le savent pas, j’ai sorti une première version de la saga en 2013-2014 mais j’ai décidé de la recommencer à zéro à cause d’acteurs où je n’ai aucun contact ou de blocage au niveau du scénario. Là, cette fois, j’ai écrit toute la saga et contacté tous les acteurs à l’avance pour ne plus avoir ce genre de problèmes pour cette saga.
-Je pense avoir tout dit. Normalement, le premier bêtisier de la s…]]></summary>
-        <author>
-            <name>Erika</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hectore ou les Chroniques d'un Rastronaute : Le résumé de la Saison première !]]></title>
-        <id>https://audioblog.arteradio.com/blog/158604/podcast/169525</id>
-        <link href="https://audioblog.arteradio.com/blog/158604/podcast/169525"/>
-        <updated>2021-07-10T17:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Bon.Parce que des fois, une saison complète c'est long.Et parce que c'est parfois aussi clair que de la roche sans eau.La Loutre vous propose un résumé.Il est pas plus limpide.Mais il est plus court.Même si, on le sait, la taille ne fait pas tout.Avec de vrai morceaux de Loutre dedans.Avec dans le rôle de Farine Misempli et en spéciale Guest : la  Scarlette Johanson des Hauts-de Doutre Elise Verchère (Et ouai !) (http://labellechute.fr et https://www.lesexpresso.com )Et dans le rôle de Tagliatelle Sasserdosse : la  Scarlette Johanson des Hauts-de Doutre Elise Verchère (Et ouai !) (http://labellechute.fr/ et https://www.lesexpresso.com/). Et ouai. C'est la même !Voix Off : La LoutreProduction : La LoutreEcriture : La LoutreSur-jeu : La LoutreEnregistré par La Loutre au Stoutre, le studio de la LoutreCrédit musique : https://freemusicarchive.org/music/Mbius/Per_Aspera_Ad_Astra/foot210_05-mobius-space_tunaCrédit nouveau générique : https://fr.linkedin.com/in/rodolphevrillaudcompositeur et http://www.rodolphevrillaud.com/]]></summary>
-        <author>
-            <name>Hectore ou les Chroniques d'un Rastronaute</name>
         </author>
     </entry>
 </feed>
