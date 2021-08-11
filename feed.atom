@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-08-10T00:31:22.206Z</updated>
+    <updated>2021-08-11T00:33:57.236Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -553,40 +553,6 @@ et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre 
 Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
         <author>
             <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Épisode 3 – Nous, moches et méchants]]></title>
-        <id>7e115cd5-f614-4b60-9f19-2470bc635b20</id>
-        <link href="https://play.acast.com/s/demain-le-soleil-se-couchera-deux-fois/episode3-nous-mochesetmechants"/>
-        <updated>2021-07-12T07:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Alors qu'ANA leur a révélé qu'ils étaient victimes d'un effet placebo, Müller et Sally décident de retourner demander des comptes au Docteur Rameaux. Mais, à la place du scientifique qui a disparu, ils trouvent Yegor et Mishka Poliakoff, des jumeaux à la botte des services de renseignements russes. ANA, Müller et Sally usent de tous les moyens pour les faire parler.
-
-
-Demain, le Soleil se couchera deux fois est une fiction audio Allianz. 
-Scénario et dialogues : Cyril Legrais
-Réalisation : Andréa Brusque
-Composition musicale : Julien Boulfray 
-Supervision musicale : Phantom Punch
-
-
-Production : BABABAM 
-Montage et sound-design : Célia Brondeau et Jean-Gabriel Rassat 
-Enregistrements : L’Arrière Boutique Studio
-
-
-Distribution : 
-Sally J.Sally : Camille Lockhart,
-Jacques Muller : François Briault,
-ANA : Ariane Brousse, 
-Yegor et Mishka Poliakoff : Miglen Mirtchev, 
-Journaliste radio : Andréa Brusque
- 
- 
-
-See acast.com/privacy for privacy and opt-out information.]]></summary>
-        <author>
-            <name>Demain, Le Soleil Se Couchera Deux Fois</name>
         </author>
     </entry>
 </feed>
