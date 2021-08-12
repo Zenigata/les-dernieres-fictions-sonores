@@ -214,7 +214,25 @@
       "title": "Red Universe",
       "feedUrl": "https://reduniverse.lepodcast.fr/rss",
       "siteUrl": "https://reduniverse.fr",
-      "articles": []
+      "articles": [
+        {
+          "id": "61140e93156e1400b9ce490f",
+          "author": "raoulito",
+          "description": "Résumé Chapitre 3 \"Maman-lolo\" - 2eme partie\nLes transporteurs de l'Exode font escale sur la station de ravitaillement principale de MaterOne \"Maman-lolo\". Mais de nombreux arrivants imprévus débarquent également tels ces pirates, ce mental nommé Fabio Ouli, la Princesse Azala ou Phil Goud et Adénor Kerichi, ces amoureux naïfs croyant avoir négocié un bonne affaire avec un groupe de docker. Les fameux docks géants de Maman-Lolo vont être le théâtre d'un affrontement sans merci.\nProduction : PodShows / Raoulito\nRéalisation : Raoulito\nResponsable écriture: Cléa Cassia\nMontage : Raoulito\nDérushage : Coles / Guilitane / Gvillaume / Miiop\nActeurs :\nnarration : Leto75\nReda : 20Side\nRedaB : Moodstach\nRadouane : Mik180\nPhil goud : Lorendil\nAdénor : Coupie\nFabio Ouli : My-ëve\nAurora Benkana : Anya Krysten\nJ.F.Hill : Raoulito\nGénéral Décembre : Raoulito\nPrincesse Azala : Elioza\nPhiloas : Éric\nPoliticien Junta : Arthur Milchior\nThèmes musicaux :\nPrincipal : \nTension (V.G.)\nSecondaires : \nLe_blue_de_JFHill (Rafa96)\nL'ombre Pirate (V.G.)\nThème Fabio ouli (Pierre-louis Neron)\nThème Junta (V.G.)\nThème Conseil des commandants (Pierre-louis Neron)\nThème Adénor & Phil (Pierre-louis Neron)\nIntroduction chapitre 1 (Reprise) (Pierre-louis Neron)\nThème \"Maman-lolo\" (V.G.)\nThèmes externes (musiques libres de droits) :\nDesert Brawl (Vans in Japan)\nune production de l'association podShows\nMerci à toute l'équipe de RedUniverse.",
+          "link": "https://reduniverse.lepodcast.fr/tome-1-chapitre-3-maman-lolo-2eme-partie",
+          "publishedOn": "2021-08-11T17:53:00.000Z",
+          "wordCount": null,
+          "title": "Tome 1 Chapitre 3 « Maman-lolo\"  - 2eme partie",
+          "itunes": {
+            "duration": "0:38:25"
+          },
+          "enclosure": {
+            "url": "https://stats.podcloud.fr/reduniverse/tome-1-chapitre-3-maman-lolo-2eme-partie/enclosure.135a4dc7543acd5016653b20c12bcc14b41ad1347074a957f3a4a3ca26018541.mp3?p=f",
+            "length": "61320507",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     },
     {
       "title": "Rouge Vif",
