@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-08-12T00:29:36.206Z</updated>
+    <updated>2021-08-13T00:29:47.582Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pépites - Ep 7 Coach vegan pour animaux]]></title>
+        <id>76ba2aaf41babd65b7f496732ab74487d1a78c7b</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/pepites-ep-7-coach-vegan-pour-animaux"/>
+        <updated>2021-08-12T04:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Pépites est une fiction audio produite par le label Podcut !
+ 
+Juliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...
+
+Dans cet épisode, Juliette rencontre Isabelle, une coach pour animaux de compagnie qui leur apprend à devenir végans… 
+ 
+Ce podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette; 
+avec Pomme dans le rôle d'Isabelle.
+https://www.instagram.com/pomme_padour_/
+
+La série est mise en son par Zu. 
+Le logo a été réalisé par Kevin Boyer.   
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7
+
+Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tome 1 Chapitre 3 « Maman-lolo"  - 2eme partie]]></title>
         <id>61140e93156e1400b9ce490f</id>
