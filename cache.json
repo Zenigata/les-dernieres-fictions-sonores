@@ -25,40 +25,6 @@
       "articles": []
     },
     {
-      "title": "Audiodidact",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvvYk2sA1XWtt3XHzA0CEWw",
-      "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=jwPJMUa3Gkk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jwPJMUa3Gkk",
-          "publishedOn": "2021-08-07T16:00:10.000Z",
-          "wordCount": null,
-          "title": "🎧 JOURNAL DE BORD | #04 - CONFESSION"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3bjt3i_4e2Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3bjt3i_4e2Y",
-          "publishedOn": "2021-07-31T15:00:12.000Z",
-          "wordCount": null,
-          "title": "🎧 JAMES RICO | LA VILLE DES ENRAGES"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A1m99pgtgno",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A1m99pgtgno",
-          "publishedOn": "2021-07-26T15:00:56.000Z",
-          "wordCount": null,
-          "title": "Audiodidact.fr ouvre ses portes."
-        }
-      ]
-    },
-    {
       "title": "LGMP Saison 1",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLaceYo0_H9hSkLemL6ngiyHmIUqZKRBsz",
       "siteUrl": "http://www.youtube.com/feeds/videos.xml?playlist_id=PLaceYo0_H9hSkLemL6ngiyHmIUqZKRBsz",
@@ -69,6 +35,23 @@
       "feedUrl": "https://javras.fr/feed/podcast",
       "siteUrl": "https://javras.fr/",
       "articles": [
+        {
+          "id": "https://javras.fr/?p=18576",
+          "author": "Aibonn",
+          "description": "Hey bande de gens merveilleux ! Ici Aibonn, oui le type qui a écrit Camlann, c’est moi. Ça faisait un moment que vous m’aviez plus entendu parler, certains pensaient que j’étais mort, d’autres que je suis devenu sain d’esprit.\nMais je suis toujours là ! Et comme le disait un célèbre allemand : “I’m Bach.” (ou Back, je sais plus, ils ont des noms chelou ces allemands-là).\n\t\t\t\t\t\nMes petits amis, voici arriver en grandes pompes votre dose de bonheur auditive, voici un ASMR sur un tailleur, l’épisode 6 de Camlann !\nComme dans tous mes éditos, je vais une fois de plus remercier Kayji pour son travail sur l’intro et l’outro de ma saga. Intro qui réveille mes auditeurs selon les dires de certains d’entre vous.\nMerci aussi aux acteurs qui ont prêté leurs voix pour la réalisation de cet épisode, et…",
+          "link": "https://javras.fr/2021/08/15/camlann-episode-6/",
+          "publishedOn": "2021-08-14T22:05:00.000Z",
+          "wordCount": null,
+          "title": "CAMLANN – ÉPISODE 6",
+          "itunes": {
+            "duration": "5:12"
+          },
+          "enclosure": {
+            "url": "https://javras.fr/podcast-download/18576/camlann-episode-6.mp3",
+            "length": "13,8",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://javras.fr/?p=18515",
           "author": "Erika",
@@ -354,23 +337,6 @@
             "length": "64444197",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "042a4b627b288c82245dd2051c771b2ba0691b83",
-          "author": null,
-          "description": "🌞\nÀ l’occasion de cette pause estivale j’ai choisi de vous proposer une version « voyage » du podcast. En rediffusant les différentes saisons de l’émission. \n\nÇa dure environ 1 heure, les épisodes s’enchainent, vous n’avez plus qu’à vous détendre… \n\nÇa peut aussi être aussi un bon format pour faire découvrir le podcast à ceux que vous aimez.\nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin www.sebastiensavin.com \n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\nListe des épisodes de cette semaine:\n\n1- Toucher les étoiles\n\n2- Love me again\n\n3- Ex, botox et rock'n'roll (Part-1)\n\n4- Ex, botox et rock'n'roll (Part-2)\n\n5- Ex, botox et rock'n'roll (Fin)\n\n6- Taxi Driver\n\n7- Kundalini yoga",
-          "link": "https://podcast.ausha.co/les-dessous-de-savin/rediff",
-          "publishedOn": "2021-07-16T01:00:00.000Z",
-          "wordCount": null,
-          "title": "#2 - 🌞Ton Pod de plage 🌞 \"Ex, botox et rock'n'roll\" (Rediff Saison 1 - Part 2)",
-          "itunes": {
-            "duration": "48:19"
-          },
-          "enclosure": {
-            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/b3d1NCRzeAY5.mp3?t=1625299296",
-            "length": "46393376",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -462,6 +428,23 @@
       "feedUrl": "https://rss.acast.com/demain-le-soleil-se-couchera-deux-fois",
       "siteUrl": "https://play.acast.com/s/demain-le-soleil-se-couchera-deux-fois",
       "articles": [
+        {
+          "id": "6fc3217a-0b54-4ec2-9add-dba798c08af9",
+          "author": null,
+          "description": "ANA, Müller et Sally sont parvenus à quitter le bunker de Milton Hatch en un seul morceau. Mais un dernier défi les attend pour mener à bien leur mission : désactiver le satellite de Milton Hatch. Ils se rendent sur la base de lancement de Kourou afin de monter dans la prochaine fusée en partance pour les étoiles. Le monde entier compte sur eux. Seront-ils à la hauteur ?\n\n\nDemain, le Soleil se couchera deux fois est une fiction audio Allianz. \nScénario et dialogues : Cyril Legrais\nRéalisation : Andréa Brusque\nComposition musicale : Julien Boulfray \nSupervision musicale : Phantom Punch\n\n\nProduction : BABABAM \nMontage et sound-design : Célia Brondeau et Jean-Gabriel Rassat \nEnregistrements : L’Arrière Boutique Studio\n\n\nDistribution : \nSally J.Sally : Camille Lockhart,\nJacques Muller : François Briault,\nANA : Ariane Brousse, \nMilton Hatch : Stephan Druet\nDr. René Rameaux : Philippe Mambon \nYegor et Mishka Poliakoff : Miglen Mirtchev, \nOfficiel : Nicolas Perrochet \nJournaliste radio : Andréa Brusque\n \n \n\nSee acast.com/privacy for privacy and opt-out information.",
+          "link": "https://play.acast.com/s/demain-le-soleil-se-couchera-deux-fois/episode8-2021-lodysseedelespece",
+          "publishedOn": "2021-08-16T03:00:00.000Z",
+          "wordCount": null,
+          "title": "Épisode 8 – 2021, L'Odyssée de l'espèce",
+          "itunes": {
+            "duration": "00:15:30"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/demain-le-soleil-se-couchera-deux-fois/episode8-2021-lodysseedelespece/media.mp3",
+            "length": "14894463",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "63a79566-bbb0-49cf-b85f-9af6470170ed",
           "author": null,

@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-08-14T00:27:28.600Z</updated>
+    <updated>2021-08-16T21:10:57.069Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Épisode 8 – 2021, L'Odyssée de l'espèce]]></title>
+        <id>6fc3217a-0b54-4ec2-9add-dba798c08af9</id>
+        <link href="https://play.acast.com/s/demain-le-soleil-se-couchera-deux-fois/episode8-2021-lodysseedelespece"/>
+        <updated>2021-08-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ANA, Müller et Sally sont parvenus à quitter le bunker de Milton Hatch en un seul morceau. Mais un dernier défi les attend pour mener à bien leur mission : désactiver le satellite de Milton Hatch. Ils se rendent sur la base de lancement de Kourou afin de monter dans la prochaine fusée en partance pour les étoiles. Le monde entier compte sur eux. Seront-ils à la hauteur ?
+
+
+Demain, le Soleil se couchera deux fois est une fiction audio Allianz. 
+Scénario et dialogues : Cyril Legrais
+Réalisation : Andréa Brusque
+Composition musicale : Julien Boulfray 
+Supervision musicale : Phantom Punch
+
+
+Production : BABABAM 
+Montage et sound-design : Célia Brondeau et Jean-Gabriel Rassat 
+Enregistrements : L’Arrière Boutique Studio
+
+
+Distribution : 
+Sally J.Sally : Camille Lockhart,
+Jacques Muller : François Briault,
+ANA : Ariane Brousse, 
+Milton Hatch : Stephan Druet
+Dr. René Rameaux : Philippe Mambon 
+Yegor et Mishka Poliakoff : Miglen Mirtchev, 
+Officiel : Nicolas Perrochet 
+Journaliste radio : Andréa Brusque
+ 
+ 
+
+See acast.com/privacy for privacy and opt-out information.]]></summary>
+        <author>
+            <name>Demain, Le Soleil Se Couchera Deux Fois</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAMLANN – ÉPISODE 6]]></title>
+        <id>https://javras.fr/?p=18576</id>
+        <link href="https://javras.fr/2021/08/15/camlann-episode-6/"/>
+        <updated>2021-08-14T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey bande de gens merveilleux ! Ici Aibonn, oui le type qui a écrit Camlann, c’est moi. Ça faisait un moment que vous m’aviez plus entendu parler, certains pensaient que j’étais mort, d’autres que je suis devenu sain d’esprit.
+Mais je suis toujours là ! Et comme le disait un célèbre allemand : “I’m Bach.” (ou Back, je sais plus, ils ont des noms chelou ces allemands-là).
+					
+Mes petits amis, voici arriver en grandes pompes votre dose de bonheur auditive, voici un ASMR sur un tailleur, l’épisode 6 de Camlann !
+Comme dans tous mes éditos, je vais une fois de plus remercier Kayji pour son travail sur l’intro et l’outro de ma saga. Intro qui réveille mes auditeurs selon les dires de certains d’entre vous.
+Merci aussi aux acteurs qui ont prêté leurs voix pour la réalisation de cet épisode, et…]]></summary>
+        <author>
+            <name>Aibonn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#6 - 🌞 Ton Pod de plage🌞  "Hypersensible" - (Rediff saison 5 part 1)]]></title>
         <id>5c0deab7d79f579b5dee0fe2b2b8b323da68f6ef</id>
@@ -200,15 +252,6 @@ Merci infiniment !]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎧 JOURNAL DE BORD | #04 - CONFESSION]]></title>
-        <id>https://www.youtube.com/watch?v=jwPJMUa3Gkk</id>
-        <link href="https://www.youtube.com/watch?v=jwPJMUa3Gkk"/>
-        <updated>2021-08-07T16:00:10.000Z</updated>
-        <author>
-            <name>Audiodidact</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#5 - 🌞Ton Pod de plage🌞  "La France a peur"- (Rediff saison 3 part 2)]]></title>
         <id>29391f778a03c3d9810cef4b5ecda3a768b10b69</id>
         <link href="https://podcast.ausha.co/les-dessous-de-savin/5-ton-pod-de-plage-la-france-a-peur-rediff-saison-3-part-2"/>
@@ -305,15 +348,6 @@ See acast.com/privacy for privacy and opt-out information.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎧 JAMES RICO | LA VILLE DES ENRAGES]]></title>
-        <id>https://www.youtube.com/watch?v=3bjt3i_4e2Y</id>
-        <link href="https://www.youtube.com/watch?v=3bjt3i_4e2Y"/>
-        <updated>2021-07-31T15:00:12.000Z</updated>
-        <author>
-            <name>Audiodidact</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Saison 3 - EP. 2/7 - Injustice]]></title>
         <id>86233</id>
         <link href="https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/"/>
@@ -386,15 +420,6 @@ et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre 
 Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
         <author>
             <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audiodidact.fr ouvre ses portes.]]></title>
-        <id>https://www.youtube.com/watch?v=A1m99pgtgno</id>
-        <link href="https://www.youtube.com/watch?v=A1m99pgtgno"/>
-        <updated>2021-07-26T15:00:56.000Z</updated>
-        <author>
-            <name>Audiodidact</name>
         </author>
     </entry>
     <entry>
@@ -590,41 +615,6 @@ Journaliste radio : Andréa Brusque
 See acast.com/privacy for privacy and opt-out information.]]></summary>
         <author>
             <name>Demain, Le Soleil Se Couchera Deux Fois</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#2 - 🌞Ton Pod de plage 🌞 "Ex, botox et rock'n'roll" (Rediff Saison 1 - Part 2)]]></title>
-        <id>042a4b627b288c82245dd2051c771b2ba0691b83</id>
-        <link href="https://podcast.ausha.co/les-dessous-de-savin/rediff"/>
-        <updated>2021-07-16T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🌞
-À l’occasion de cette pause estivale j’ai choisi de vous proposer une version « voyage » du podcast. En rediffusant les différentes saisons de l’émission. 
-
-Ça dure environ 1 heure, les épisodes s’enchainent, vous n’avez plus qu’à vous détendre… 
-
-Ça peut aussi être aussi un bon format pour faire découvrir le podcast à ceux que vous aimez.
-Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin www.sebastiensavin.com 
-🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
-
-"STATIC" composé par Stel https://www.instagram.com/stel_musique/
-
-Liste des épisodes de cette semaine:
-
-1- Toucher les étoiles
-
-2- Love me again
-
-3- Ex, botox et rock'n'roll (Part-1)
-
-4- Ex, botox et rock'n'roll (Part-2)
-
-5- Ex, botox et rock'n'roll (Fin)
-
-6- Taxi Driver
-
-7- Kundalini yoga]]></summary>
-        <author>
-            <name>Les dessous de Savin</name>
         </author>
     </entry>
 </feed>
