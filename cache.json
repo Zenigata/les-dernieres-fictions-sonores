@@ -178,23 +178,6 @@
             "length": "10524674",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "f4b5e30e839813850eca18e9edafc017c1465e8c",
-          "author": null,
-          "description": "Pépites est une fiction audio produite par le label Podcut !\n \nJuliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...\n \nDans cet épisode, Juliette rencontre une traiteuse végan paléo casher qui ne cesse de faire évoluer son menu pour être au plus proche de la nature et respecter au mieux l’environnement.   \n \nCe podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette ; \net Colette, du podcast Colette se confesse dans le rôle de Yaël.\nhttps://www.coletteseconfesse.fr\n\nLa série est mise en son par Zu. \nLe logo a été réalisé par Kevin Boyer.   \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7\n\nRendez-vous la semaine prochaine pour une nouvelle Pépite !",
-          "link": "https://podcast.ausha.co/podcut-fictions/pepites-ep-4-la-traiteuse-vegan-paleo-casher",
-          "publishedOn": "2021-07-22T04:33:00.000Z",
-          "wordCount": null,
-          "title": "Pépites - Ep 4 La traiteuse vegan paléo casher",
-          "itunes": {
-            "duration": "09:35"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/bzN0JHR1Qek3.mp3?t=1625215999",
-            "length": "9207684",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -287,6 +270,23 @@
       "feedUrl": "https://feed.ausha.co/bYYk7uvg81gZ",
       "siteUrl": "https://podcast.ausha.co/les-dessous-de-savin",
       "articles": [
+        {
+          "id": "2ad77f8d075d94e987cdf7be6b0b72da7dc7c595",
+          "author": null,
+          "description": "🌞\nÀ l’occasion de cette pause estivale j’ai choisi de vous proposer une version « voyage » du podcast. En rediffusant les différentes saisons de l’émission. \nÇa dure environ 1 heure, les épisodes s’enchainent, vous n’avez plus qu’à vous détendre… \nÇa peut aussi être aussi un bon format pour faire découvrir le podcast à ceux que vous aimez.\n\nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin www.sebastiensavin.com \n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\nListe des épisodes de cette semaine:\n\n1- Sans moral, peu de morale (Part2)\n2- Sans moral, peu de morale (Fin)\n3- Coronaversaire\n4- La clandé\n5- Spoutnik\n6- L'architecte\n7- La poutre\n8- Wizard\n9- Un jour nouveau\n10- Mariage du siècle",
+          "link": "https://podcast.ausha.co/les-dessous-de-savin/7-ton-pod-de-plage-l-architecte-rediff-saison-5-part-2",
+          "publishedOn": "2021-08-20T01:00:00.000Z",
+          "wordCount": null,
+          "title": "#7 - 🌞 Ton Pod de plage 🌞  \"L'architecte\" - (Rediff saison 5 part 2)",
+          "itunes": {
+            "duration": "1:14:00"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/bVQxZhJ9NxDr.mp3?t=1625305765",
+            "length": "71048370",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "5c0deab7d79f579b5dee0fe2b2b8b323da68f6ef",
           "author": null,
