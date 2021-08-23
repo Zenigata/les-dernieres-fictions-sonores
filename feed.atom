@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-08-22T00:28:44.589Z</updated>
+    <updated>2021-08-23T00:27:00.948Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -692,22 +692,6 @@ Il est maintenant temps de trouver le sommeil. À bientôt…
 Avant d'aller dormir, un podcast produit par Les Yeux Fermés.]]></summary>
         <author>
             <name>Avant d’aller dormir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saison 3 - EP. 1/7 - Honnête Contrebande]]></title>
-        <id>82665</id>
-        <link href="https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/"/>
-        <updated>2021-07-23T22:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la meilleure fiction audio Star Wars de toute la bordure extérieure) est lancée !  
-Episode 1 : Honnête Contrebande
-La terreur règne ! Après avoir écrasé la rébellion sur la planète glacière Hoth, L’infâme Empire Galactique pourchasse ses derniers partisans à travers la galaxie.
-
-Toute l'actu de la saga mp3 "Les Chroniques Galactiques" sur notre site, Facebook et Twitter !
-Ecoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/
-Les Chroniques Galactiques est une fan-fiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fan-fiction audio n'est en aucun cas liée aux entreprises susmentionnées.]]></summary>
-        <author>
-            <name>Les Chroniques Galactiques - la Fiction audio Star Wars</name>
         </author>
     </entry>
 </feed>
