@@ -68,23 +68,6 @@
             "length": "61,8",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://javras.fr/?p=18449",
-          "author": "Team Javras",
-          "description": "Bonjour à tous, ici Richoult !\nComme indiqué sur nos réseaux sociaux, nous lançons un nouveau podcast de discutions. \nLa particularité de ce podcast ? On l’enregistre en convention avec vous, nos auditeurs. C’est Disconvention !\nDans ce podcast, vous pouvez retrouver des informations sur notre façon de travailler, entendre les personnes qui sont derrière les fictions audio de Javras, découvrir nos nouveaux projets, des anecdotes, des news et pleins d’autres choses.\nUn grand merci aux organisateurs de Nantes Maker Campus, à savoir Make Me et Les Machines de Nantes, à Lmorel un auditeur qui nous suit depuis plus de 5 ans et à Hanabi Wyrd et Thibaud.\nN’hésitez pas à nous faire un retour sur ce podcast et nous envoyer des mails et nous rencontrer, voir participer à ce podcast, lors de notre pr…",
-          "link": "https://javras.fr/2021/07/25/disconvention-01-nantes-maker-campus/",
-          "publishedOn": "2021-07-25T06:49:26.000Z",
-          "wordCount": null,
-          "title": "Disconvention – 01 – Nantes Maker Campus",
-          "itunes": {
-            "duration": "51:51"
-          },
-          "enclosure": {
-            "url": "https://javras.fr/podcast-download/18449/disconvention-01-nantes-maker-campus.mp3",
-            "length": "95,1",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -104,13 +87,40 @@
       "title": "Wave's Avengers",
       "feedUrl": "https://www.wavesavengers.fr/feed/",
       "siteUrl": "https://www.wavesavengers.fr",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.wavesavengers.fr/?p=3631",
+          "author": "Cladall",
+          "description": "C’est en ce jour du 17 Août 2021 que l’équipe Wave’s Avengers a soufflé sa dixième bougie d’existence !Dix années de créations de fictions audio…Enfin, dix années de ralentissement de créations de fictions audio et de diversification de contenu car je reste assez touche à tout et d’humeur changeante rapidement. Je voulais profiter de cet … \nLire la suite",
+          "link": "https://www.wavesavengers.fr/10-ans-de-waves-avengers-deja/",
+          "publishedOn": "2021-08-23T17:02:18.000Z",
+          "wordCount": 2887,
+          "title": "10 ans de Wave’s Avengers. Déjà ?"
+        }
+      ]
     },
     {
       "title": "Podcut Fictions",
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "ef41267a17826142dd788db694a6b1b7e6c39fa9",
+          "author": null,
+          "description": "Si vous vous demandez ce que voyait et entendait Juliette pendant sa visite de la boulangerie Pain, voilà un aperçu !\n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/pepites-ep-8-5-pendant-ce-temps-dans-l-esprit-de-juliette",
+          "publishedOn": "2021-08-23T04:36:00.000Z",
+          "wordCount": null,
+          "title": "Pépites - Ep 8.5 Pendant ce temps dans l'esprit de Juliette",
+          "itunes": {
+            "duration": "02:28"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/y8OgrfLWxjKo.mp3?t=1628516148",
+            "length": "2372380",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "519bb207fb7fc134a1e91a33c50d05338ea76165",
           "author": null,
@@ -191,7 +201,25 @@
       "title": "Noises",
       "feedUrl": "https://rss.acast.com/noises",
       "siteUrl": "http://ba-ba-bam.com/marques/noises/",
-      "articles": []
+      "articles": [
+        {
+          "id": "611e1f602e233c0012a94ae1",
+          "author": null,
+          "description": "Un an après le succès de \"Passage à l'acte\", voici la saison en intégralité, à découvrir en un épisode. \n\nDécouvrez la descente aux enfers des \"Lambert\" une famille de notaires. C’est une enquête familiale, qui se découvre comme une partie de Cluedo. Une enquête dans laquelle l’auditeur est directement interpellé par le narrateur qui, au fil des épisodes, lui fournit les clés pour résoudre l’énigme de cette histoire.\n\nAvec les participations de Jean-Pierre Kalfon, Yannik Landrein, Jeanne Rosa, Amaury de Crayencour, Caroline Chaniolleau, Anne Cosmao, Olivier Cruveiller, Jean-Jacques Vanier, Justin Blanckaert, Antoine Berry-Roger, Ivan Cori, Laura Boujenah. Passage à l'acte est une fiction écrite par Pierre Sérisier, réalisée par Andrea Brusque, montée par Jean-Gabriel Rassat. La musique a été composée par Jean-Marc Thurier. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
+          "link": "https://shows.acast.com/noises/episodes/passage-a-lacte-lintegrale",
+          "publishedOn": "2021-08-23T03:00:20.000Z",
+          "wordCount": null,
+          "title": "Passage à l'acte : l'intégrale",
+          "itunes": {
+            "duration": "1:01:55"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/acast/s/noises/e/611e1f602e233c0012a94ae1/media.mp3",
+            "length": "59440553",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     },
     {
       "title": "Red Universe",
@@ -251,7 +279,25 @@
       "title": "Silencio",
       "feedUrl": "https://rss.acast.com/silencio",
       "siteUrl": "https://podcasts.ba-ba-bam.com/bababam-silencio/",
-      "articles": []
+      "articles": [
+        {
+          "id": "611e213a503a890013bc8752",
+          "author": null,
+          "description": "Un an après le succès de \"Passage à l'acte\", voici la saison en intégralité, à découvrir en un épisode. \n\nDécouvrez la descente aux enfers des \"Lambert\" une famille de notaires. C’est une enquête familiale, qui se découvre comme une partie de Cluedo. Une enquête dans laquelle l’auditeur est directement interpellé par le narrateur qui, au fil des épisodes, lui fournit les clés pour résoudre l’énigme de cette histoire.\n\nAvec les participations de Jean-Pierre Kalfon, Yannik Landrein, Jeanne Rosa, Amaury de Crayencour, Caroline Chaniolleau, Anne Cosmao, Olivier Cruveiller, Jean-Jacques Vanier, Justin Blanckaert, Antoine Berry-Roger, Ivan Cori, Laura Boujenah. Passage à l'acte est une fiction écrite par Pierre Sérisier, réalisée par Andrea Brusque, montée par Jean-Gabriel Rassat. La musique a été composée par Jean-Marc Thurier. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
+          "link": "https://shows.acast.com/silencio/episodes/passage-a-lacte-lintegrale",
+          "publishedOn": "2021-08-23T03:00:27.000Z",
+          "wordCount": null,
+          "title": "Passage à l'acte : l'intégrale",
+          "itunes": {
+            "duration": "1:01:55"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/acast/s/silencio/e/611e213a503a890013bc8752/media.mp3",
+            "length": "59440553",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     },
     {
       "title": "Ma Langue au chat",
@@ -350,25 +396,7 @@
       "title": "Avant d'aller dormir",
       "feedUrl": "https://adad.lepodcast.fr/rss",
       "siteUrl": "https://avantdallerdormir.fr/",
-      "articles": [
-        {
-          "id": "60fad74ecbab1900ca604412",
-          "author": "Avant d’aller dormir",
-          "description": "Bonsoir, bienvenue dans l’épisode 23 d’Avant d’aller dormir.\nInstallez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux...\n...Mais d'abord, on trouvait qu'il n'y avait pas assez de femmes dans le podcast game, alors pour leur donner toute la place qu'elles méritent, on leur laisse les clés du podcast pendant qu'on se le coule douce en vacances ;)\nUn immense merci à Oak Leaf, Liliy, Lady Lococco et Jess d'avoir pris soin du studio en notre absence! Vous nous avez rendu fiers!\nLiens vers les histoires\nMa chère soeur par, u/TeamDeltaleader\nLe village disparu, par UnDixGo\nSouvenirs oubliés, par Liliy\nThe Woman, par simulatislacrimis\nMerci à tous les auteurs d’avoir accepté de faire partie de cet épisode, n’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr\nRejoignez-nous !\nDiscord\nInstagram\nFacebook\nYouTube\nTwitch\nNotre messagerie vocale : 07 49 25 27 90\nSoutenez-nous\nEn nous versant quelques deniers sur Patreon (https://patreon.com/adad), en échange vous recevrez chaque mois les épisodes en avance et du contenu exclusif ! On remerciera tous les nouveaux patrons lors du prochain épisode, promis ;)\nEn nous mettant une super note sur SensCritique, Apple Podcasts ou Podcast Addict.\nOu tout simplement en parlant de nous à tous vos proches.\nTous ces liens sont disponibles sur https://avantdallerdormir.fr\n🏞 Illustration : renarmaro\nIl est maintenant temps de trouver le sommeil. À bientôt…\nAvant d'aller dormir, un podcast produit par Les Yeux Fermés.",
-          "link": "https://adad.lepodcast.fr/episode-23-le-village-disparu",
-          "publishedOn": "2021-07-24T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Episode 23 : Le village disparu",
-          "itunes": {
-            "duration": "0:42:35"
-          },
-          "enclosure": {
-            "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/episode-23-le-village-disparu/enclosure.067ea613243e804673b0b65b3060d73906710f51768790e652f63b748714bcb7.mp3?p=f",
-            "length": "62490664",
-            "type": "audio/mpeg"
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Les Chroniques Galactiques - la Fiction audio Star Wars",
@@ -404,7 +432,25 @@
       "title": "Noises",
       "feedUrl": "https://rss.acast.com/noises",
       "siteUrl": "http://ba-ba-bam.com/marques/noises/",
-      "articles": []
+      "articles": [
+        {
+          "id": "611e1f602e233c0012a94ae1",
+          "author": null,
+          "description": "Un an après le succès de \"Passage à l'acte\", voici la saison en intégralité, à découvrir en un épisode. \n\nDécouvrez la descente aux enfers des \"Lambert\" une famille de notaires. C’est une enquête familiale, qui se découvre comme une partie de Cluedo. Une enquête dans laquelle l’auditeur est directement interpellé par le narrateur qui, au fil des épisodes, lui fournit les clés pour résoudre l’énigme de cette histoire.\n\nAvec les participations de Jean-Pierre Kalfon, Yannik Landrein, Jeanne Rosa, Amaury de Crayencour, Caroline Chaniolleau, Anne Cosmao, Olivier Cruveiller, Jean-Jacques Vanier, Justin Blanckaert, Antoine Berry-Roger, Ivan Cori, Laura Boujenah. Passage à l'acte est une fiction écrite par Pierre Sérisier, réalisée par Andrea Brusque, montée par Jean-Gabriel Rassat. La musique a été composée par Jean-Marc Thurier. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
+          "link": "https://shows.acast.com/noises/episodes/passage-a-lacte-lintegrale",
+          "publishedOn": "2021-08-23T03:00:20.000Z",
+          "wordCount": null,
+          "title": "Passage à l'acte : l'intégrale",
+          "itunes": {
+            "duration": "1:01:55"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/acast/s/noises/e/611e1f602e233c0012a94ae1/media.mp3",
+            "length": "59440553",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     },
     {
       "title": "Demain, Le Soleil Se Couchera Deux Fois",
