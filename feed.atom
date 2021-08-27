@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-08-26T00:27:48.680Z</updated>
+    <updated>2021-08-27T00:31:42.283Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pépites - Ep 9 Le relais routier]]></title>
+        <id>103d943bfbf72fc3a9ad6a51ac49ab02c28fc64e</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/pepites-ep-9-le-relais-routier"/>
+        <updated>2021-08-26T04:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Pépites est une fiction audio produite par le label Podcut !
+ 
+Juliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...
+ 
+Dans cet épisode, Juliette présente sa première Pépite en dehors de Paris : un restaurant routier hipster malgré lui. Elle essaye de dissimuler un lourd secret sur son passé...
+ 
+Ce podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette, et mis en son par Zu.
+Zu joue le rôle de Marcel
+Amandine Gay joue le rôle de Josiane
+Adèle Fugazi joue le rôle d’Arsène
+
+Le logo a été réalisé par Kevin Boyer.   
+ 
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7
+
+Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 ans de Wave’s Avengers. Déjà ?]]></title>
         <id>https://www.wavesavengers.fr/?p=3631</id>
