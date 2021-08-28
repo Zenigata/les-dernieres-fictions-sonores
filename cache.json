@@ -188,23 +188,6 @@
             "length": "11385670",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "f1acfe263e2f809e844eddf1ef96c7227e822450",
-          "author": null,
-          "description": "Pépites est une fiction audio produite par le label Podcut !\n\nJuliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...\n\nDans cet épisode, Juliette rencontre un consultant en potager qui remplace le sol des appartements parisiens par des potagers géants. \n \nCe podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette ; \net Joseph, des podcasts Détective Froussin et Deux passages dans le rôle de Lucas.\nhttps://detectivefroussin.libsyn.com/\nhttps://deuxpassages.libsyn.com/\n\nLa série est mise en son par Zu. \nLe logo a été réalisé par Kevin Boyer.   \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7\n\nRendez-vous la semaine prochaine pour une nouvelle Pépite !",
-          "link": "https://podcast.ausha.co/podcut-fictions/pepites-ep-5-le-consultant-en-potager",
-          "publishedOn": "2021-07-29T04:10:00.000Z",
-          "wordCount": null,
-          "title": "Pépites - Ep 5 Le consultant en potager",
-          "itunes": {
-            "duration": "10:57"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/oZ0jWh9QWDZQ.mp3?t=1625764228",
-            "length": "10524674",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -333,6 +316,23 @@
       "feedUrl": "https://feed.ausha.co/bYYk7uvg81gZ",
       "siteUrl": "https://podcast.ausha.co/les-dessous-de-savin",
       "articles": [
+        {
+          "id": "2ea95c4d262e7fda303b4fc210f3f7e02a60a01d",
+          "author": null,
+          "description": "🌞\nÀ l’occasion de cette pause estivale j’ai choisi de vous proposer une version « voyage » du podcast. En rediffusant les différentes saisons de l’émission. \nÇa dure environ 1 heure, les épisodes s’enchainent, vous n’avez plus qu’à vous détendre… \nÇa peut aussi être aussi un bon format pour faire découvrir le podcast à ceux que vous aimez.\n\nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin www.sebastiensavin.com \n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\nListe des épisodes de cette semaine:\n\n1- Le Baiser\n2- La coupe mulet\n3- La Tyrolienne\n4- La marâtre\n5- I love to love\n6- En slip\n7- La relation de la maturité\n8- Cliffhanger\n9- Pride",
+          "link": "https://podcast.ausha.co/les-dessous-de-savin/redif",
+          "publishedOn": "2021-08-27T01:00:00.000Z",
+          "wordCount": null,
+          "title": "#8 - 🌞 Ton Pod de plage 🌞 \"Way back into love\" - (Rediff saison 5 part 3)",
+          "itunes": {
+            "duration": "1:19:58"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/B4dqGCaQznVB.mp3?t=1625307245",
+            "length": "76779009",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "2ad77f8d075d94e987cdf7be6b0b72da7dc7c595",
           "author": null,

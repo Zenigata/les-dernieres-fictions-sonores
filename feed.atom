@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-08-27T00:31:42.283Z</updated>
+    <updated>2021-08-28T00:27:52.204Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#8 - 🌞 Ton Pod de plage 🌞 "Way back into love" - (Rediff saison 5 part 3)]]></title>
+        <id>2ea95c4d262e7fda303b4fc210f3f7e02a60a01d</id>
+        <link href="https://podcast.ausha.co/les-dessous-de-savin/redif"/>
+        <updated>2021-08-27T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🌞
+À l’occasion de cette pause estivale j’ai choisi de vous proposer une version « voyage » du podcast. En rediffusant les différentes saisons de l’émission. 
+Ça dure environ 1 heure, les épisodes s’enchainent, vous n’avez plus qu’à vous détendre… 
+Ça peut aussi être aussi un bon format pour faire découvrir le podcast à ceux que vous aimez.
+
+Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin www.sebastiensavin.com 
+
+🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
+
+"STATIC" composé par Stel https://www.instagram.com/stel_musique/
+
+Liste des épisodes de cette semaine:
+
+1- Le Baiser
+2- La coupe mulet
+3- La Tyrolienne
+4- La marâtre
+5- I love to love
+6- En slip
+7- La relation de la maturité
+8- Cliffhanger
+9- Pride]]></summary>
+        <author>
+            <name>Les dessous de Savin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pépites - Ep 9 Le relais routier]]></title>
         <id>103d943bfbf72fc3a9ad6a51ac49ab02c28fc64e</id>
@@ -650,38 +681,6 @@ Liste des épisodes de cette semaine:
 6- Sous les ponts de Paris]]></summary>
         <author>
             <name>Les dessous de Savin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pépites - Ep 5 Le consultant en potager]]></title>
-        <id>f1acfe263e2f809e844eddf1ef96c7227e822450</id>
-        <link href="https://podcast.ausha.co/podcut-fictions/pepites-ep-5-le-consultant-en-potager"/>
-        <updated>2021-07-29T04:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Pépites est une fiction audio produite par le label Podcut !
-
-Juliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...
-
-Dans cet épisode, Juliette rencontre un consultant en potager qui remplace le sol des appartements parisiens par des potagers géants. 
- 
-Ce podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette ; 
-et Joseph, des podcasts Détective Froussin et Deux passages dans le rôle de Lucas.
-https://detectivefroussin.libsyn.com/
-https://deuxpassages.libsyn.com/
-
-La série est mise en son par Zu. 
-Le logo a été réalisé par Kevin Boyer.   
-
-Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
-Facebook https://www.facebook.com/podcut/
-Twitter https://twitter.com/Podcut_label/
-Instagram https://www.instagram.com/podcut_label/
-
-Si vous souhaitez encourager le label : https://www.patreon.com/podcut
-et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7
-
-Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
-        <author>
-            <name>Podcut Fictions</name>
         </author>
     </entry>
 </feed>
