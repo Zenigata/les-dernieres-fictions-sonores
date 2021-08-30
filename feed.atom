@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-08-29T00:30:34.592Z</updated>
+    <updated>2021-08-30T00:29:47.094Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -672,21 +672,6 @@ Journaliste radio : Andréa Brusque
 See acast.com/privacy for privacy and opt-out information.]]></summary>
         <author>
             <name>Demain, Le Soleil Se Couchera Deux Fois</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saison 3 - EP. 2/7 - Injustice]]></title>
-        <id>86233</id>
-        <link href="https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/"/>
-        <updated>2021-07-30T22:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la meilleure fiction audio Star Wars de toute la bordure extérieure) est lancée !  
-Episode 2 : Injustice
-Wilhem et Daan participent à la grande vente aux enchères de Fostar Haven dans l'espoir de renflouer les caisses. Mais l'arrivée d'un mystérieux acheteur pourrait bien contrarier leur plan... 
-Toute l'actu de la saga mp3 "Les Chroniques Galactiques" sur notre site, Facebook et Twitter !
-Ecoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/
-Les Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.]]></summary>
-        <author>
-            <name>Les Chroniques Galactiques - la Fiction audio Star Wars</name>
         </author>
     </entry>
 </feed>
