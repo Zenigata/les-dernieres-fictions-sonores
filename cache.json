@@ -203,6 +203,23 @@
       "siteUrl": "http://ba-ba-bam.com/marques/noises/",
       "articles": [
         {
+          "id": "6128a546f5142d00125eb25f",
+          "author": null,
+          "description": "Redécouvrez en intégralité notre série audio Silencio, sélectionnée au festival Séries Mania. \n\nEn 2037, la défiance envers le monde politique ne cesse de s’accroître. Alors que des élections sont organisées, une jeune hacktiviste se lance dans une enquête sans précédent pour révéler au grand public la vraie nature de ce scrutin.\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond et Brice Borg.\nUn podcast écrit par Thomas Le Petit-Corps et réalisé par Nathalie Bernas pour Bababam.\nMusique : Simon Lauris\nMontage : Jean-Gabriel Rassat\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
+          "link": "https://shows.acast.com/noises/episodes/silencio-lintegrale",
+          "publishedOn": "2021-08-30T03:00:37.000Z",
+          "wordCount": null,
+          "title": "Silencio : l'intégrale",
+          "itunes": {
+            "duration": "2:04:21"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/acast/s/noises/e/6128a546f5142d00125eb25f/media.mp3",
+            "length": "119382169",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "611e1f602e233c0012a94ae1",
           "author": null,
           "description": "Un an après le succès de \"Passage à l'acte\", voici la saison en intégralité, à découvrir en un épisode. \n\nDécouvrez la descente aux enfers des \"Lambert\" une famille de notaires. C’est une enquête familiale, qui se découvre comme une partie de Cluedo. Une enquête dans laquelle l’auditeur est directement interpellé par le narrateur qui, au fil des épisodes, lui fournit les clés pour résoudre l’énigme de cette histoire.\n\nAvec les participations de Jean-Pierre Kalfon, Yannik Landrein, Jeanne Rosa, Amaury de Crayencour, Caroline Chaniolleau, Anne Cosmao, Olivier Cruveiller, Jean-Jacques Vanier, Justin Blanckaert, Antoine Berry-Roger, Ivan Cori, Laura Boujenah. Passage à l'acte est une fiction écrite par Pierre Sérisier, réalisée par Andrea Brusque, montée par Jean-Gabriel Rassat. La musique a été composée par Jean-Marc Thurier. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
@@ -280,6 +297,23 @@
       "feedUrl": "https://rss.acast.com/silencio",
       "siteUrl": "https://podcasts.ba-ba-bam.com/bababam-silencio/",
       "articles": [
+        {
+          "id": "6128a43ccd91a700126b4023",
+          "author": null,
+          "description": "Redécouvrez en intégralité notre série audio Silencio, sélectionnée au festival Séries Mania. \n\nEn 2037, la défiance envers le monde politique ne cesse de s’accroître. Alors que des élections sont organisées, une jeune hacktiviste se lance dans une enquête sans précédent pour révéler au grand public la vraie nature de ce scrutin.\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond et Brice Borg.\nUn podcast écrit par Thomas Le Petit-Corps et réalisé par Nathalie Bernas pour Bababam.\nMusique : Simon Lauris\nMontage : Jean-Gabriel Rassat\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
+          "link": "https://shows.acast.com/silencio/episodes/silencio-lintegrale",
+          "publishedOn": "2021-08-30T03:00:17.000Z",
+          "wordCount": null,
+          "title": "Silencio : l'intégrale",
+          "itunes": {
+            "duration": "2:04:21"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/acast/s/silencio/e/6128a43ccd91a700126b4023/media.mp3",
+            "length": "119382169",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "611e213a503a890013bc8752",
           "author": null,
@@ -420,7 +454,59 @@
       "title": "Les Chroniques Galactiques - la Fiction audio Star Wars",
       "feedUrl": "https://feeds.podcastics.com/podcastics/podcasts/rss/2327_c913d2dc7b6c8298e5afd2c7e3575bc2.rss",
       "siteUrl": "https://unfandestarwars.com/les-chroniques-galactiques/",
-      "articles": []
+      "articles": [
+        {
+          "id": "91435",
+          "author": null,
+          "description": "Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la meilleure fiction audio de tous les temps selon son créateur) continue avec ce quatrième épisode !\nEpisode 5 : Une saine distraction\nL'étau se resserre autour de Daan, Wilhem et Trovarn. Ils vont devoir faire face à leur némésis, qui les tient entre ses mains... \nToute l'actu de la saga mp3 \"Les Chroniques Galactiques\" sur notre site, Facebook et Twitter !\nEcoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/\nLes Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.",
+          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
+          "publishedOn": "2021-08-21T22:40:00.000Z",
+          "wordCount": null,
+          "title": "Saison 3 - EP. 5/7 - Une saine distraction",
+          "itunes": {
+            "duration": "00:18:51"
+          },
+          "enclosure": {
+            "url": "https://www.podcastics.com/podcast/episode/91435/file.mp3?s=45375131",
+            "type": "audio/mpeg",
+            "length": "45375131"
+          }
+        },
+        {
+          "id": "89186",
+          "author": null,
+          "description": "Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la meilleure fiction audio de tous les temps selon son créateur) continue avec ce quatrième épisode !\nEpisode 4 : L'amas de la mâchoire\nNotre équipe de contrebandiers se décide à reprendre les choses en mains... en braquant l'Empire galactique !\nToute l'actu de la saga mp3 \"Les Chroniques Galactiques\" sur notre site, Facebook et Twitter !\nEcoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/\nLes Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.",
+          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
+          "publishedOn": "2021-08-14T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Saison 3 - EP. 4/7 - L'amas de la mâchoire",
+          "itunes": {
+            "duration": "00:13:11"
+          },
+          "enclosure": {
+            "url": "https://www.podcastics.com/podcast/episode/89186/file.mp3?s=31793506",
+            "type": "audio/mpeg",
+            "length": "31793506"
+          }
+        },
+        {
+          "id": "87197",
+          "author": null,
+          "description": "Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la meilleure fiction audio Star Wars de toute la bordure extérieure) continue avec ce troisième épisode. \nEpisode 3 : Baronne du crime\nWilhem et Daan doivent trouver le plus vite possible une somme d'argent à peine concevable ! Leur vie en dépend... \nToute l'actu de la saga mp3 \"Les Chroniques Galactiques\" sur notre site, Facebook et Twitter !\nEcoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/\nLes Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.",
+          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
+          "publishedOn": "2021-08-06T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Saison 3 - EP. 3/7 - Baronne du crime",
+          "itunes": {
+            "duration": "00:14:31"
+          },
+          "enclosure": {
+            "url": "https://www.podcastics.com/podcast/episode/87197/file.mp3?s=34964771",
+            "type": "audio/mpeg",
+            "length": "34964771"
+          }
+        }
+      ]
     },
     {
       "title": "ASpaceMR",
@@ -433,6 +519,23 @@
       "feedUrl": "https://rss.acast.com/noises",
       "siteUrl": "http://ba-ba-bam.com/marques/noises/",
       "articles": [
+        {
+          "id": "6128a546f5142d00125eb25f",
+          "author": null,
+          "description": "Redécouvrez en intégralité notre série audio Silencio, sélectionnée au festival Séries Mania. \n\nEn 2037, la défiance envers le monde politique ne cesse de s’accroître. Alors que des élections sont organisées, une jeune hacktiviste se lance dans une enquête sans précédent pour révéler au grand public la vraie nature de ce scrutin.\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond et Brice Borg.\nUn podcast écrit par Thomas Le Petit-Corps et réalisé par Nathalie Bernas pour Bababam.\nMusique : Simon Lauris\nMontage : Jean-Gabriel Rassat\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
+          "link": "https://shows.acast.com/noises/episodes/silencio-lintegrale",
+          "publishedOn": "2021-08-30T03:00:37.000Z",
+          "wordCount": null,
+          "title": "Silencio : l'intégrale",
+          "itunes": {
+            "duration": "2:04:21"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/acast/s/noises/e/6128a546f5142d00125eb25f/media.mp3",
+            "length": "119382169",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "611e1f602e233c0012a94ae1",
           "author": null,
