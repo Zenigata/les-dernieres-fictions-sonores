@@ -105,6 +105,40 @@
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
         {
+          "id": "2a60e6b6dce7742a723238fa49ac4a3ed81236c4",
+          "author": null,
+          "description": "Pépites est une fiction audio produite par le label Podcut !\n \nJuliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...\n \nDans cet épisode Anouk et Zu vous présentent l'ensemble des personnes qui ont permis la réalisation de cette fiction.\n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7\n\nA très vite pour de nouvelles fictions",
+          "link": "https://podcast.ausha.co/podcut-fictions/pepites-le-generique",
+          "publishedOn": "2021-09-02T04:50:00.000Z",
+          "wordCount": null,
+          "title": "Pépites - Le générique",
+          "itunes": {
+            "duration": "07:04"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/yg0qrheOaAmb.mp3?t=1628516387",
+            "length": "6793005",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "25292466c1e10976cf3610b7e0cbcb20d68c19af",
+          "author": null,
+          "description": "Pépites est une fiction audio produite par le label Podcut !\n \nJuliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...\n \nDans le dernier épisode de la saison, Juliette est toujours chez Marcel, le relais routier. Elle rencontre Christian et Raoul, des camionneurs devenus influenceurs. \n \nCe podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette ;\n\nFibreTigre joue le rôle de Raoul\nDaz joue le rôle de Jean-Pierre\n\nLa série est mise en son par Zu.  \nLe logo a été réalisé par Kevin Boyer.   \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7\n\nRendez-vous la semaine prochaine pour une nouvelle Pépite !",
+          "link": "https://podcast.ausha.co/podcut-fictions/pepites-ep-10-les-influenceurs-truck-life",
+          "publishedOn": "2021-09-02T04:45:00.000Z",
+          "wordCount": null,
+          "title": "Pépites - Ep 10 Les influenceurs truck life",
+          "itunes": {
+            "duration": "13:55"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/b7YGACQWZldK.mp3?t=1628502250",
+            "length": "13361709",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "103d943bfbf72fc3a9ad6a51ac49ab02c28fc64e",
           "author": null,
           "description": "Pépites est une fiction audio produite par le label Podcut !\n \nJuliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...\n \nDans cet épisode, Juliette présente sa première Pépite en dehors de Paris : un restaurant routier hipster malgré lui. Elle essaye de dissimuler un lourd secret sur son passé...\n \nCe podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette, et mis en son par Zu.\nZu joue le rôle de Marcel\nAmandine Gay joue le rôle de Josiane\nAdèle Fugazi joue le rôle d’Arsène\n\nLe logo a été réalisé par Kevin Boyer.   \n \nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7\n\nRendez-vous la semaine prochaine pour une nouvelle Pépite !",
@@ -530,47 +564,6 @@
       "feedUrl": "https://aspacemr.lepodcast.fr/rss",
       "siteUrl": "https://aspacemr.fr",
       "articles": []
-    },
-    {
-      "title": "Noises",
-      "feedUrl": "https://rss.acast.com/noises",
-      "siteUrl": "http://ba-ba-bam.com/marques/noises/",
-      "articles": [
-        {
-          "id": "6128a546f5142d00125eb25f",
-          "author": null,
-          "description": "Redécouvrez en intégralité notre série audio Silencio, sélectionnée au festival Séries Mania. \n\nEn 2037, la défiance envers le monde politique ne cesse de s’accroître. Alors que des élections sont organisées, une jeune hacktiviste se lance dans une enquête sans précédent pour révéler au grand public la vraie nature de ce scrutin.\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond et Brice Borg.\nUn podcast écrit par Thomas Le Petit-Corps et réalisé par Nathalie Bernas pour Bababam.\nMusique : Simon Lauris\nMontage : Jean-Gabriel Rassat\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
-          "link": "https://shows.acast.com/noises/episodes/silencio-lintegrale",
-          "publishedOn": "2021-08-30T03:00:37.000Z",
-          "wordCount": null,
-          "title": "Silencio : l'intégrale",
-          "itunes": {
-            "duration": "2:04:21"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/acast/s/noises/e/6128a546f5142d00125eb25f/media.mp3",
-            "length": "119382169",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "611e1f602e233c0012a94ae1",
-          "author": null,
-          "description": "Un an après le succès de \"Passage à l'acte\", voici la saison en intégralité, à découvrir en un épisode. \n\nDécouvrez la descente aux enfers des \"Lambert\" une famille de notaires. C’est une enquête familiale, qui se découvre comme une partie de Cluedo. Une enquête dans laquelle l’auditeur est directement interpellé par le narrateur qui, au fil des épisodes, lui fournit les clés pour résoudre l’énigme de cette histoire.\n\nAvec les participations de Jean-Pierre Kalfon, Yannik Landrein, Jeanne Rosa, Amaury de Crayencour, Caroline Chaniolleau, Anne Cosmao, Olivier Cruveiller, Jean-Jacques Vanier, Justin Blanckaert, Antoine Berry-Roger, Ivan Cori, Laura Boujenah. Passage à l'acte est une fiction écrite par Pierre Sérisier, réalisée par Andrea Brusque, montée par Jean-Gabriel Rassat. La musique a été composée par Jean-Marc Thurier. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
-          "link": "https://shows.acast.com/noises/episodes/passage-a-lacte-lintegrale",
-          "publishedOn": "2021-08-23T03:00:20.000Z",
-          "wordCount": null,
-          "title": "Passage à l'acte : l'intégrale",
-          "itunes": {
-            "duration": "1:01:55"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/acast/s/noises/e/611e1f602e233c0012a94ae1/media.mp3",
-            "length": "59440553",
-            "type": "audio/mpeg"
-          }
-        }
-      ]
     },
     {
       "title": "Demain, Le Soleil Se Couchera Deux Fois",
