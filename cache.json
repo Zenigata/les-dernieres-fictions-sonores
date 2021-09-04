@@ -205,23 +205,6 @@
             "length": "9428781",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "4f1a431721823eaa8ac356ecd6a6243867ada0a3",
-          "author": null,
-          "description": "Pépites est une fiction audio produite par le label Podcut !\n\nJuliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...\n\nDans cet épisode, Juliette rencontre Bertrand et Jules, un duo père-fils qui a lancé une affaire : un cinéma à commentaire... \n\nCe podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette ; \navec Cédric du podcast Popcorn Impact joue le rôle de Jules ; \nhttps://smartlink.ausha.co/popcorn-impact\n\net Clément du podcast Tartine ta culture joue le rôle de Bertrand.\nhttps://smartlink.ausha.co/tartine-ta-culture\n\nLa série est mise en son par Zu. \nLe logo a été réalisé par Kevin Boyer.   \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7\n\nRendez-vous la semaine prochaine pour une nouvelle Pépite !",
-          "link": "https://podcast.ausha.co/podcut-fictions/pepites-ep-6-le-cinema-a-commentaires",
-          "publishedOn": "2021-08-05T04:16:00.000Z",
-          "wordCount": null,
-          "title": "Pépites - Ep 6 Le cinéma à commentaires",
-          "itunes": {
-            "duration": "11:51"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/B1wVYclDQ3lD.mp3?t=1625764633",
-            "length": "11385670",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -384,6 +367,23 @@
       "feedUrl": "https://feed.ausha.co/bYYk7uvg81gZ",
       "siteUrl": "https://podcast.ausha.co/les-dessous-de-savin",
       "articles": [
+        {
+          "id": "271ed6ac24147c59831422dfc372de25cf602b35",
+          "author": null,
+          "description": "📍S06/EP01 - \"Effets secondaires\"📍\n\nCela fait 2 mois que je ne vous ai pas donné de mes nouvelles. \nDeux mois c'est long. Sauf quand on ne s’ennuit pas. Et je n’ai pas vu le temps passer car selon un proverbe Italien \"L'amour fait passer le temps.\" La deuxième partie de ce proverbe dit aussi « Et le temps fait passer l’amour… ». Mais je ne veux pas y croire. Pas tout de suite, pas déjà… \n J’ai rencontré Manu il y a seulement quatre mois.\nAh mon architecte, mon bâtisseur, les pieds ancrés dans la réalité. Mon pic, mon cap, mon roc. (Edmond Rostang). Il faut que je site mes sources. C’est un important. C’est très puissant d’inclure des citations, des proverbes… Très puissant…\n\nNous sommes en vacances en Provence. Une déconnexion totale, une bouffée d’air, à mille lieux des préoccupations sanitaires, et des jugements de valeurs qui ont animé les conversations estivales et qui divisent.\n\nVoici \"Effets secondaires\" le nouvel épisode du podcast \"Les dessous de Savin\"\n\n\"Les dessous de Savin\"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. \n\nUn épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. \nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! \nPartagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  📸 INSTAGRAM\n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\n\"MAMBO ITALIANO\"  (Carla Boni)\n\"TAKE ON ME\"  (a-ha)",
+          "link": "https://podcast.ausha.co/les-dessous-de-savin/1-s06-ep01-effets-secondaires",
+          "publishedOn": "2021-09-03T01:00:00.000Z",
+          "wordCount": null,
+          "title": "#1 - S06/EP01 - \"Effets secondaires\"",
+          "itunes": {
+            "duration": "09:23"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/bPNPWCj1D211.mp3?t=1630534695",
+            "length": "9017095",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "5b3a46538805c28b7dabd12165c567de0801021b",
           "author": null,

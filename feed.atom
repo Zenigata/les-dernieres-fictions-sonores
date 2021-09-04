@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-03T00:28:27.767Z</updated>
+    <updated>2021-09-04T00:28:56.008Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#1 - S06/EP01 - "Effets secondaires"]]></title>
+        <id>271ed6ac24147c59831422dfc372de25cf602b35</id>
+        <link href="https://podcast.ausha.co/les-dessous-de-savin/1-s06-ep01-effets-secondaires"/>
+        <updated>2021-09-03T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[📍S06/EP01 - "Effets secondaires"📍
+
+Cela fait 2 mois que je ne vous ai pas donné de mes nouvelles. 
+Deux mois c'est long. Sauf quand on ne s’ennuit pas. Et je n’ai pas vu le temps passer car selon un proverbe Italien "L'amour fait passer le temps." La deuxième partie de ce proverbe dit aussi « Et le temps fait passer l’amour… ». Mais je ne veux pas y croire. Pas tout de suite, pas déjà… 
+ J’ai rencontré Manu il y a seulement quatre mois.
+Ah mon architecte, mon bâtisseur, les pieds ancrés dans la réalité. Mon pic, mon cap, mon roc. (Edmond Rostang). Il faut que je site mes sources. C’est un important. C’est très puissant d’inclure des citations, des proverbes… Très puissant…
+
+Nous sommes en vacances en Provence. Une déconnexion totale, une bouffée d’air, à mille lieux des préoccupations sanitaires, et des jugements de valeurs qui ont animé les conversations estivales et qui divisent.
+
+Voici "Effets secondaires" le nouvel épisode du podcast "Les dessous de Savin"
+
+"Les dessous de Savin"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. 
+
+Un épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. 
+Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! 
+Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  📸 INSTAGRAM
+
+🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
+
+"STATIC" composé par Stel https://www.instagram.com/stel_musique/
+
+"MAMBO ITALIANO"  (Carla Boni)
+"TAKE ON ME"  (a-ha)]]></summary>
+        <author>
+            <name>Les dessous de Savin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pépites - Le générique]]></title>
         <id>2a60e6b6dce7742a723238fa49ac4a3ed81236c4</id>
@@ -720,40 +752,6 @@ Liste des épisodes de cette semaine:
 6- On se retrouvera]]></summary>
         <author>
             <name>Les dessous de Savin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pépites - Ep 6 Le cinéma à commentaires]]></title>
-        <id>4f1a431721823eaa8ac356ecd6a6243867ada0a3</id>
-        <link href="https://podcast.ausha.co/podcut-fictions/pepites-ep-6-le-cinema-a-commentaires"/>
-        <updated>2021-08-05T04:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Pépites est une fiction audio produite par le label Podcut !
-
-Juliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...
-
-Dans cet épisode, Juliette rencontre Bertrand et Jules, un duo père-fils qui a lancé une affaire : un cinéma à commentaire... 
-
-Ce podcast a été écrit et incarné par Anouk Krief, dans le rôle de Juliette ; 
-avec Cédric du podcast Popcorn Impact joue le rôle de Jules ; 
-https://smartlink.ausha.co/popcorn-impact
-
-et Clément du podcast Tartine ta culture joue le rôle de Bertrand.
-https://smartlink.ausha.co/tartine-ta-culture
-
-La série est mise en son par Zu. 
-Le logo a été réalisé par Kevin Boyer.   
-
-Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
-Facebook https://www.facebook.com/podcut/
-Twitter https://twitter.com/Podcut_label/
-Instagram https://www.instagram.com/podcut_label/
-
-Si vous souhaitez encourager le label : https://www.patreon.com/podcut
-et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7
-
-Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
-        <author>
-            <name>Podcut Fictions</name>
         </author>
     </entry>
 </feed>
