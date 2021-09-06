@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-05T00:32:38.535Z</updated>
+    <updated>2021-09-06T00:33:26.548Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La Croisade Solitaire – Épisode 12]]></title>
+        <id>https://javras.fr/?p=18653</id>
+        <link href="https://javras.fr/2021/09/05/la-croisade-solitaire-episode-12/"/>
+        <updated>2021-09-05T08:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Française, Français, je vous ai compris Auditeurs, Auditrices, moi, Reshkaf, annonce que je me suis fourvoyé.
+Cela fait presque 9 mois que vous avez été sans nouvelle de moi et l’un dans l’autre je ne suis pas vraiment sûr que vous ayez paniqué à ce sujet.
+En ce dimanche, je vous livre cet antépénultième épisode de La Croisade Solitaire où nos camarades arrivent dans une ville balnéaire au milieu des montagnes.
+“Comment est-ce possible ?” vous direz-vous peut-être,
+“Il n’a pas abandonné sa saga ?” vous direz-vous sans doute,
+“Est-ce que je peux piper un dé avec de la naphtaline ?” ne s’est jamais demandé qui que ce soit au monde
+					
+														
+Les réponses vont en suivant :
+– C’est expliqué dans l’épisode
+– Non
+– Je sais pas, mais la question est intéressante et ça doit sans doute dé…]]></summary>
+        <author>
+            <name>Reshkaf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#1 - S06/EP01 - "Effets secondaires"]]></title>
         <id>271ed6ac24147c59831422dfc372de25cf602b35</id>
@@ -709,21 +730,6 @@ Nackrikor, Richoult, Zenigata, Place, Itineris, Watchinofoye, Kauraly, Jill Lyan
 Merci infiniment !]]></summary>
         <author>
             <name>Erika</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saison 3 - EP. 3/7 - Baronne du crime]]></title>
-        <id>87197</id>
-        <link href="https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/"/>
-        <updated>2021-08-06T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la meilleure fiction audio Star Wars de toute la bordure extérieure) continue avec ce troisième épisode. 
-Episode 3 : Baronne du crime
-Wilhem et Daan doivent trouver le plus vite possible une somme d'argent à peine concevable ! Leur vie en dépend... 
-Toute l'actu de la saga mp3 "Les Chroniques Galactiques" sur notre site, Facebook et Twitter !
-Ecoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/
-Les Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.]]></summary>
-        <author>
-            <name>Les Chroniques Galactiques - la Fiction audio Star Wars</name>
         </author>
     </entry>
 </feed>
