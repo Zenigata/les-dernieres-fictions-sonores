@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-07T00:28:21.146Z</updated>
+    <updated>2021-09-08T00:28:53.760Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -659,78 +659,6 @@ une production de l'association podShows
 Merci à toute l'équipe de RedUniverse.]]></summary>
         <author>
             <name>raoulito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Épisode 7 – Arme à Milton]]></title>
-        <id>63a79566-bbb0-49cf-b85f-9af6470170ed</id>
-        <link href="https://shows.acast.com/demain-le-soleil-se-couchera-deux-fois/episodes/episode7-armeamilton"/>
-        <updated>2021-08-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Milton Hatch tient ANA, Müller et Sally à sa merci. Ils n'ont aucun moyen d'en réchapper. C'est sans compter Yegor et Mishka qui s'introduisent dans le bunker avec toute la subtilité soviétique dont ils sont capables. Milton Hatch profite de la confusion pour déclencher l'autodestruction du bâtiment et se faire la malle. Les ennemis d'hier vont devoir s'allier s'ils ne veulent pas finir grillés. 
-
-Demain, le Soleil se couchera deux fois est une fiction audio Allianz. 
-Scénario et dialogues : Cyril Legrais
-Réalisation : Andréa Brusque
-Composition musicale : Julien Boulfray 
-Supervision musicale : Phantom Punch
-
-Production : BABABAM 
-Montage et sound-design : Célia Brondeau et Jean-Gabriel Rassat 
-Enregistrements : L’Arrière Boutique Studio
-
-Distribution : 
-Sally J.Sally : Camille Lockhart,
-Jacques Muller : François Briault,
-ANA : Ariane Brousse, 
-Milton Hatch : Stephan Druet
-Dr. René Rameaux : Philippe Mambon 
-Yegor et Mishka Poliakoff : Miglen Mirtchev, 
-Journaliste radio : Andréa Brusque
-
-
-
- Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.]]></summary>
-        <author>
-            <name>Demain, Le Soleil Se Couchera Deux Fois</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Épisode 7 – Arme à Milton]]></title>
-        <id>63a79566-bbb0-49cf-b85f-9af6470170ed</id>
-        <link href="https://play.acast.com/s/demain-le-soleil-se-couchera-deux-fois/episode7-armeamilton"/>
-        <updated>2021-08-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Milton Hatch tient ANA, Müller et Sally à sa merci. Ils n'ont aucun moyen d'en réchapper. C'est sans compter Yegor et Mishka qui s'introduisent dans le bunker avec toute la subtilité soviétique dont ils sont capables. Milton Hatch profite de la confusion pour déclencher l'autodestruction du bâtiment et se faire la malle. Les ennemis d'hier vont devoir s'allier s'ils ne veulent pas finir grillés. 
-
-
-Demain, le Soleil se couchera deux fois est une fiction audio Allianz. 
-Scénario et dialogues : Cyril Legrais
-Réalisation : Andréa Brusque
-Composition musicale : Julien Boulfray 
-Supervision musicale : Phantom Punch
-
-
-Production : BABABAM 
-Montage et sound-design : Célia Brondeau et Jean-Gabriel Rassat 
-Enregistrements : L’Arrière Boutique Studio
-
-
-Distribution : 
-Sally J.Sally : Camille Lockhart,
-Jacques Muller : François Briault,
-ANA : Ariane Brousse, 
-Milton Hatch : Stephan Druet
-Dr. René Rameaux : Philippe Mambon 
-Yegor et Mishka Poliakoff : Miglen Mirtchev, 
-Journaliste radio : Andréa Brusque
-
-
-
- 
- 
-
-See acast.com/privacy for privacy and opt-out information.]]></summary>
-        <author>
-            <name>Demain, Le Soleil Se Couchera Deux Fois</name>
         </author>
     </entry>
 </feed>
