@@ -500,6 +500,23 @@
       "siteUrl": "https://avantdallerdormir.fr/",
       "articles": [
         {
+          "id": "61390e239f008d0079282816",
+          "author": "Avant d'aller dormir",
+          "description": "\"Cette année, ON DOUBLE !\"\nVenez frissonner avec nous en octobre pour le mois de l'horreur 2, au programme :\nUne cérémonie d'ouverture d'exception sur Twitch le 1er octobre : envoyez vos histoires dès maintenant sur hello@avantdallerdormir.fr\n3 histoires par semaine pour les patrons\nUn épisode chaque samedi, pour tout le monde\nOn vous donne RDV au Paris Podcast Festival du 15 au 17/10 pour boire des bières avec nous\nUn JDR horrifique le 31/10 également sur Twitch\nEt pour suivre tout ça, ça se passe ici :\nhttps://www.patreon.com/adad\nhttps://www.twitch.tv/avantdallerdormir",
+          "link": "https://adad.lepodcast.fr/le-mois-de-lhorreur-2",
+          "publishedOn": "2021-09-08T20:00:00.000Z",
+          "wordCount": null,
+          "title": "LE MOIS DE L'HORREUR 2",
+          "itunes": {
+            "duration": "0:02:07"
+          },
+          "enclosure": {
+            "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/le-mois-de-lhorreur-2/enclosure.316c422791b7eecce236c2e5f768b526073b0c474ddef2a893aad59dea89d401.mp3?p=f",
+            "length": "4072511",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "611ffd55156e14005f5e3496",
           "author": "Avant d’aller dormir",
           "description": "Bonsoir, bienvenue dans l’épisode 24 d’Avant d’aller dormir.\nInstallez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.\nLiens vers les histoires\nPersonne n’aime mon collègue, par SalamiMommie\nLa maison qui brille, par MikeJesus\nFerdinand, par HEAVYMETALNERDYGURL\nMa copine parle dans son sommeil, par u/ervanlerpton\nMerci à tous les auteurs d’avoir accepté de faire partie de cet épisode, n’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr\nEncore un grand merci à Jess, Oak, Liliy et Lady Lococco pour nous permettre de terrifier vos nuits avec des histoires qui nécessitent une touche féminine !\nRejoignez-nous !\nDiscord\nInstagram\nFacebook\nYouTube\nTwitch\nNotre messagerie vocale : 07 49 25 27 90\nSoutenez-nous\nEn nous versant quelques deniers sur Patreon (https://patreon.com/adad), en échange vous recevrez chaque mois les épisodes en avance et du contenu exclusif ! Un remerciement tout particulier à nos nouveaux patrons : Cyril, Valentine, Asmaa, Leyx, Margot, Saki, Tiago, Rodolphe, Oak, Sarah, Kim, Hervé, Ankolas, et Nicole\nEn nous mettant une super note sur SensCritique, Apple Podcasts ou Podcast Addict.\nOu tout simplement en parlant de nous à tous vos proches.\nTous ces liens sont disponibles sur https://avantdallerdormir.fr\nL'équipe\n🎙️ Vos humbles serviteurs, Yop (Instagram / Youtube / Podcasts) & UnDixGo (Instagram / Twitch)\n🏞 Illustration : renarmaro\nIl est maintenant temps de trouver le sommeil. À bientôt…",
@@ -601,6 +618,183 @@
           "enclosure": {
             "url": "https://sphinx.acast.com/demain-le-soleil-se-couchera-deux-fois/episode8-2021-lodysseedelespece/media.mp3",
             "length": "14894463",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Le Feuilleton",
+      "feedUrl": "https://radiofrance-podcast.net/podcast09/rss_11495.xml",
+      "siteUrl": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+      "articles": [
+        {
+          "id": "18da6620-a6d2-4654-a871-bb56bbfc17d2",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:40 - Le Feuilleton - Tandis que Horst Wächter et sa mère Charlotte ont toujours été convaincus de la mort par empoisonnement d’Otto, Philippe Sands va chercher à étayer cette thèse en interrogeant une anthropologue biologique spécialisée dans les empoisonnements",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-10-10",
+          "publishedOn": "2021-08-29T23:00:09.000Z",
+          "wordCount": null,
+          "title": "\"La Filière\" de Philippe Sands 10/10 : Plus blanc que blanc",
+          "itunes": {
+            "duration": "00:28:40"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/deca0b97-4627-4344-bf7c-f89abacf93d8/11495-30.08.2021-ITEMA_22753895-2021C3480E0161.mp3",
+            "length": "27545791",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "00976df5-94c1-4a35-8693-c0bed48a1cb5",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:17 - Le Feuilleton - Un homme a recruté ces anciens nazis, il s’agit de Thomas Lucid, un Américain qui a participé à la création de la CIA. Or, au cours de son enquête, Philippe Sands va mettre au jour d’incroyables coïncidences concernant Karl Hass et Thomas Lucid…",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-9-10",
+          "publishedOn": "2021-08-29T23:00:08.000Z",
+          "wordCount": null,
+          "title": "\"La Filière\" de Philippe Sands 9/10 : Agents doubles et doubles vies",
+          "itunes": {
+            "duration": "00:28:17"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/edd6e76e-d4e0-40a2-bb55-26188fa4602b/11495-30.08.2021-ITEMA_22753895-2021C3480E0160.mp3",
+            "length": "27178623",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "fba08ba3-eafd-45d9-a03c-f72c6610f9d5",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:27:46 - Le Feuilleton - Le \"vieux camarade\" d’Otto Wächter avec lequel il a déjeuné peu avant sa mort, Karl Hass, était-il un agent double à la solde des Soviétiques et des Américains ?",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-8-10",
+          "publishedOn": "2021-08-29T23:00:07.000Z",
+          "wordCount": null,
+          "title": "\"La Filière\" de Philippe Sands 8/10 : Rome, nid d'espions ?",
+          "itunes": {
+            "duration": "00:27:46"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/e37003f9-5bbe-40c1-b7c8-b0fdb200109a/11495-30.08.2021-ITEMA_22753895-2021C3480E0159.mp3",
+            "length": "26690692",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "5d044e48-23a1-4f8b-90d1-3eab818ac48a",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:00 - Le Feuilleton - Philippe Sands parvient à établir que Monseigneur Hudal, qui a accueilli Otto Wächter à Rome, était le pivot d’une filière d’exfiltration de nazis vers l’Amérique du Sud, mais pas seulement.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-7-10",
+          "publishedOn": "2021-08-29T23:00:06.000Z",
+          "wordCount": null,
+          "title": "\"La Filière\" de Philippe Sands 7/10 : Mort au Vatican",
+          "itunes": {
+            "duration": "00:28:00"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/23e65f92-27df-4ec4-be88-a39c5944cbc9/11495-30.08.2021-ITEMA_22753895-2021C3480E0158.mp3",
+            "length": "26917268",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "36b15f7c-1d36-4d37-9799-87cadaa859cd",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:27:20 - Le Feuilleton - Otto Wächter tombe malade début juillet, après un déjeuner chez un mystérieux ami près de Rome et meurt quelques jours plus tard, le corps entièrement noirci. Pour savoir s’il aurait pu être assassiné, Philippe Sands fait appel à John Le Carré, qui fut espion à cette époque.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-6-10",
+          "publishedOn": "2021-08-29T23:00:05.000Z",
+          "wordCount": null,
+          "title": "\"La Filière\" de Philippe Sands 6/10 : John Le Carré à la rescousse",
+          "itunes": {
+            "duration": "00:27:20"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/d57b4aa7-0c75-497f-a2aa-396aa5b26492/11495-30.08.2021-ITEMA_22753895-2021C3480E0157.mp3",
+            "length": "26267955",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "a5c91c62-3262-431b-bb63-40428160ec55",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:27:34 - Le Feuilleton - En avril 1949, Otto Wächter arrive à la gare de Rome sous un faux nom et sans un sou. Grâce à l’appui de Monseigneur Hudal, il prépare son exfiltration en Amérique du Sud.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-5-10",
+          "publishedOn": "2021-08-29T23:00:04.000Z",
+          "wordCount": null,
+          "title": "\"La Filière\" de Philippe Sands 5/10 : Un fugitif à Cinecitta",
+          "itunes": {
+            "duration": "00:27:34"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/a851648a-b81b-49b1-b974-2d0ccf639748/11495-30.08.2021-ITEMA_22753895-2021C3480E0156.mp3",
+            "length": "26487622",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "1a6a4b66-4032-46a3-b068-96fa5bea6c03",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:27:10 - Le Feuilleton - A la fin de la guerre, Otto Wächter se cache pendant trois ans dans les montagnes autrichiennes pour échapper à ceux qui sont alors à ses trousses. Sa femme vient régulièrement le ravitailler et ni l’un ni l’autre ne sont jamais inquiétés.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-4-10",
+          "publishedOn": "2021-08-29T23:00:03.000Z",
+          "wordCount": null,
+          "title": "\"La Filière\" de Philippe Sands 4/10 : Deux nazis en haute montagne",
+          "itunes": {
+            "duration": "00:27:10"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/44c2cd09-5d63-4c2e-9fb5-92c0b87065c5/11495-30.08.2021-ITEMA_22753895-2021C3480E0155.mp3",
+            "length": "26117042",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "835ea00d-eb21-4d41-a8a4-9c587d6ed83c",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:40 - Le Feuilleton - Au fil de son enquête, Philippe Sands trouve les traces administratives des responsabilités d’Otto Wächter dans l’extermination de la famille de son grand-père Léon Buchholz en 1942.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-3-10",
+          "publishedOn": "2021-08-29T23:00:02.000Z",
+          "wordCount": null,
+          "title": "\"La Filière\" de Philippe Sands 3/10 : La grande Rafle",
+          "itunes": {
+            "duration": "00:28:40"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/e9878204-f0b6-41f7-bfdf-032cad84f583/11495-30.08.2021-ITEMA_22753895-2021C3480E0154.mp3",
+            "length": "27553350",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "d11c0f01-55d8-4f77-9c6e-60c30b00fdd5",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:45 - Le Feuilleton - Grâce aux archives de la famille Wächter que lui a confiées Horst, Philippe Sands peut reconstituer pour partie la vie d’Otto Wächter et celle de sa femme, Charlotte, de leurs années de jeunesse jusqu’à la Seconde Guerre mondiale.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-2-10",
+          "publishedOn": "2021-08-29T23:00:01.000Z",
+          "wordCount": null,
+          "title": "\"La Filière\" de Philippe Sands 2/10 : Des jeunes gens de bonne famille",
+          "itunes": {
+            "duration": "00:28:45"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/df547a1f-43f0-4666-bd49-c00c01078a58/11495-30.08.2021-ITEMA_22753895-2021C3480E0153.mp3",
+            "length": "27633310",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "33100d56-11ba-43f2-a705-6dad689bee4e",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:27:14 - Le Feuilleton - Philippe Sands a rencontré Horst Wächter, le fils d’un officier nazi, Otto Wächter, alors qu’il écrivait un livre sur Nuremberg. Il se rend chez lui, à Hagenberg près de Vienne, parce que Horst a accepté de lui confier ses archives familiales…",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-1-10",
+          "publishedOn": "2021-08-29T23:00:00.000Z",
+          "wordCount": null,
+          "title": "\"La Filière\" de Philippe Sands 1/10 : Un château en Autriche",
+          "itunes": {
+            "duration": "00:27:14"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/271e5ed3-93b9-46c2-80cb-91a13232eeca/11495-30.08.2021-ITEMA_22753895-2021C3480E0152.mp3",
+            "length": "26166701",
             "type": "audio/mpeg"
           }
         }
