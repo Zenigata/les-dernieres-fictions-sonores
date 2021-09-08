@@ -799,6 +799,30 @@
           }
         }
       ]
+    },
+    {
+      "title": "Samedi noir",
+      "feedUrl": "https://radiofrance-podcast.net/podcast09/rss_11496.xml",
+      "siteUrl": "https://www.franceculture.fr/emissions/fictions-samedi-noir",
+      "articles": [
+        {
+          "id": "2e98e0a8-15ba-49f5-9bc6-72e533f604e7",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:57:26 - Fictions / Samedi noir - par : Blandine Masson - Alfa Ndiaye et Mademba Diop, tirailleurs sénégalais et amis d'enfance, font partie d'un terrible assaut lancé un matin de la Grande Guerre. Blessé à mort, Mademba s'écroule sous les yeux d'Alfa, qui perd la raison et répand la violence sur le champ de bataille.",
+          "link": "https://www.franceculture.fr/emissions/fictions-samedi-noir/frere-d-ame-de-david-diop",
+          "publishedOn": "2021-09-04T19:58:36.000Z",
+          "wordCount": null,
+          "title": "\"Frêre d'âme\" de David Diop",
+          "itunes": {
+            "duration": "00:57:26"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/8074e024-0168-43e0-82eb-5b62c77f6d77/11496-04.09.2021-ITEMA_22763256-2021C3067E0147.mp3",
+            "length": "55168219",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
