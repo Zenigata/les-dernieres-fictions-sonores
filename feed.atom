@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-11T00:29:37.677Z</updated>
+    <updated>2021-09-11T18:19:09.433Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -419,6 +419,15 @@ Il est maintenant temps de trouver le sommeil. À bientôt…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSION | #05 Un digresseur sachant digresser doit savoir digresser sans son chien]]></title>
+        <id>https://www.youtube.com/watch?v=HRLOB14VKIY</id>
+        <link href="https://www.youtube.com/watch?v=HRLOB14VKIY"/>
+        <updated>2021-08-27T15:30:24.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[#8 - 🌞 Ton Pod de plage 🌞 "Way back into love" - (Rediff saison 5 part 3)]]></title>
         <id>2ea95c4d262e7fda303b4fc210f3f7e02a60a01d</id>
         <link href="https://podcast.ausha.co/les-dessous-de-savin/redif"/>
@@ -552,6 +561,15 @@ Ecoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podc
 Les Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.]]></summary>
         <author>
             <name>Les Chroniques Galactiques - la Fiction audio Star Wars</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎧 NEW KIND | #02 - UN NOUVEAU DEPART]]></title>
+        <id>https://www.youtube.com/watch?v=2vxTBz1KPgw</id>
+        <link href="https://www.youtube.com/watch?v=2vxTBz1KPgw"/>
+        <updated>2021-08-21T16:30:00.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
         </author>
     </entry>
     <entry>
@@ -713,35 +731,6 @@ Ecoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podc
 Les Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.]]></summary>
         <author>
             <name>Les Chroniques Galactiques - la Fiction audio Star Wars</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#6 - 🌞 Ton Pod de plage🌞  "Hypersensible" - (Rediff saison 5 part 1)]]></title>
-        <id>5c0deab7d79f579b5dee0fe2b2b8b323da68f6ef</id>
-        <link href="https://podcast.ausha.co/les-dessous-de-savin/6-ton-pod-de-plage-hypersensible-rediff-saison-5-part-1"/>
-        <updated>2021-08-13T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🌞
-À l’occasion de cette pause estivale j’ai choisi de vous proposer une version « voyage » du podcast. En rediffusant les différentes saisons de l’émission. 
-Ça dure environ 1 heure, les épisodes s’enchainent, vous n’avez plus qu’à vous détendre… 
-Ça peut aussi être aussi un bon format pour faire découvrir le podcast à ceux que vous aimez.
-
-Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin www.sebastiensavin.com 
-
-🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
-
-"STATIC" composé par Stel https://www.instagram.com/stel_musique/
-
-Liste des épisodes de cette semaine:
-
-1- Hypersensible
-2- Empathe
-3- No gender
-4- Jude Law
-5- Comme par magie
-6- Avec ou sans Valentin?
-7- Sans moral, peu de morale (Part1)]]></summary>
-        <author>
-            <name>Les dessous de Savin</name>
         </author>
     </entry>
 </feed>

@@ -25,6 +25,31 @@
       "articles": []
     },
     {
+      "title": "Audiodidact",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvvYk2sA1XWtt3XHzA0CEWw",
+      "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HRLOB14VKIY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HRLOB14VKIY",
+          "publishedOn": "2021-08-27T15:30:24.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSION | #05 Un digresseur sachant digresser doit savoir digresser sans son chien"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2vxTBz1KPgw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2vxTBz1KPgw",
+          "publishedOn": "2021-08-21T16:30:00.000Z",
+          "wordCount": null,
+          "title": "🎧 NEW KIND | #02 - UN NOUVEAU DEPART"
+        }
+      ]
+    },
+    {
       "title": "LGMP Saison 1",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLaceYo0_H9hSkLemL6ngiyHmIUqZKRBsz",
       "siteUrl": "http://www.youtube.com/feeds/videos.xml?playlist_id=PLaceYo0_H9hSkLemL6ngiyHmIUqZKRBsz",
@@ -448,23 +473,6 @@
           "enclosure": {
             "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/bVQxZhJ9NxDr.mp3?t=1625305765",
             "length": "71048370",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "5c0deab7d79f579b5dee0fe2b2b8b323da68f6ef",
-          "author": null,
-          "description": "🌞\nÀ l’occasion de cette pause estivale j’ai choisi de vous proposer une version « voyage » du podcast. En rediffusant les différentes saisons de l’émission. \nÇa dure environ 1 heure, les épisodes s’enchainent, vous n’avez plus qu’à vous détendre… \nÇa peut aussi être aussi un bon format pour faire découvrir le podcast à ceux que vous aimez.\n\nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin www.sebastiensavin.com \n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\nListe des épisodes de cette semaine:\n\n1- Hypersensible\n2- Empathe\n3- No gender\n4- Jude Law\n5- Comme par magie\n6- Avec ou sans Valentin?\n7- Sans moral, peu de morale (Part1)",
-          "link": "https://podcast.ausha.co/les-dessous-de-savin/6-ton-pod-de-plage-hypersensible-rediff-saison-5-part-1",
-          "publishedOn": "2021-08-13T01:00:00.000Z",
-          "wordCount": null,
-          "title": "#6 - 🌞 Ton Pod de plage🌞  \"Hypersensible\" - (Rediff saison 5 part 1)",
-          "itunes": {
-            "duration": "50:53"
-          },
-          "enclosure": {
-            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/yJPGRIGp9Jqj.mp3?t=1625303311",
-            "length": "48852648",
             "type": "audio/mpeg"
           }
         }
