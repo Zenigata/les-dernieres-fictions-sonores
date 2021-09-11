@@ -4,7 +4,7 @@ sources:
   - href: https://cyranodebergerac.lepodcast.fr/rss # Cyrano
   - href: https://audioblog.arteradio.com/blog/158604/rss # Hectore
   - href: https://seasons.lepodcast.fr/rss # Seasons
-  #- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvvYk2sA1XWtt3XHzA0CEWw # Audiodidact
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvvYk2sA1XWtt3XHzA0CEWw # Audiodidact
   - href: https://www.youtube.com/feeds/videos.xml?playlist_id=PLaceYo0_H9hSkLemL6ngiyHmIUqZKRBsz # Le garçon aux mystérieux pouvoirs
   - href: https://javras.fr/feed/podcast # Javras
   - href: https://cosmose.lepodcast.fr/rss # Cosmose
