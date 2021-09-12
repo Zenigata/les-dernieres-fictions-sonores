@@ -796,6 +796,23 @@
       "siteUrl": "https://www.franceculture.fr/emissions/fictions-samedi-noir",
       "articles": [
         {
+          "id": "7cc69bab-dc3a-45e4-8e5d-89838c04633f",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:57:55 - Fictions / Samedi noir - par : Blandine Masson - Commémoration du 11 septembre 2001 \nComment écrire le réel ?",
+          "link": "https://www.franceculture.fr/emissions/fictions-samedi-noir/trois-semaines-apres-le-paradis-de-israel-horovitz",
+          "publishedOn": "2021-09-11T19:58:55.000Z",
+          "wordCount": null,
+          "title": "\"Trois semaines après le paradis\" de Israël Horovitz",
+          "itunes": {
+            "duration": "00:57:55"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/fc40f080-0b6d-4b3e-a7f7-0e5e74230d1a/11496-11.09.2021-ITEMA_22770974-2021C3067E0150-21.mp3",
+            "length": "55626368",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "2e98e0a8-15ba-49f5-9bc6-72e533f604e7",
           "author": "podcast@radiofrance.com (Radio France)",
           "description": "durée : 00:57:26 - Fictions / Samedi noir - par : Blandine Masson - Alfa Ndiaye et Mademba Diop, tirailleurs sénégalais et amis d'enfance, font partie d'un terrible assaut lancé un matin de la Grande Guerre. Blessé à mort, Mademba s'écroule sous les yeux d'Alfa, qui perd la raison et répand la violence sur le champ de bataille.",

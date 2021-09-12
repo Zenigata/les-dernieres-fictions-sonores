@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-11T18:19:09.433Z</updated>
+    <updated>2021-09-12T00:32:10.602Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Trois semaines après le paradis" de Israël Horovitz]]></title>
+        <id>7cc69bab-dc3a-45e4-8e5d-89838c04633f</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-samedi-noir/trois-semaines-apres-le-paradis-de-israel-horovitz"/>
+        <updated>2021-09-11T19:58:55.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:57:55 - Fictions / Samedi noir - par : Blandine Masson - Commémoration du 11 septembre 2001 
+Comment écrire le réel ?]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#2 - S06/EP02 - "Les platanes"]]></title>
         <id>a61f7de27d8bb62742c602c4d4d2756fedd0fb72</id>
