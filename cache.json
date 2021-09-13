@@ -61,6 +61,23 @@
       "siteUrl": "https://javras.fr/",
       "articles": [
         {
+          "id": "https://javras.fr/?p=18703",
+          "author": "Erika",
+          "description": "Salut à tous !\nL’été n’est pas encore terminé donc voici l’épisode 06 d’Amydale Crossing : New Life ! Je peux officiellement dire que j’ai dépassé la V1 que j’ai sorti en 2014. \nJe suis assez contente de ce que donne cette nouvelle version et des retours que j’ai dessus. Merci à tous pour votre soutien.\nParlons maintenant de cet épisode. L’épisode parle globalement d’Amy et de son passage à Tortiland. Je voulais absolument le sortir cet été vu que l’épisode entier a un thème estival avec la plage, la plongée, etc. C’était le meilleur moment pour le sortir. Aussi, cet épisode traite de la place d’Amy au sein de Zoonderland, qui est assez important pour le développement de l’héroïne.\nPour ceux qui étaient présents pendant les live où je mixais l’épisode, je me suis assez éclatée sur les prem…",
+          "link": "https://javras.fr/2021/09/12/amydale-crossing-new-life-episode-06/",
+          "publishedOn": "2021-09-12T07:30:00.000Z",
+          "wordCount": null,
+          "title": "Amydale Crossing : New Life – Épisode 06",
+          "itunes": {
+            "duration": "16:23"
+          },
+          "enclosure": {
+            "url": "https://javras.fr/podcast-download/18703/amydale-crossing-new-life-episode-06.mp3",
+            "length": "40,1",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "https://javras.fr/?p=18653",
           "author": "Reshkaf",
           "description": "Française, Français, je vous ai compris Auditeurs, Auditrices, moi, Reshkaf, annonce que je me suis fourvoyé.\nCela fait presque 9 mois que vous avez été sans nouvelle de moi et l’un dans l’autre je ne suis pas vraiment sûr que vous ayez paniqué à ce sujet.\nEn ce dimanche, je vous livre cet antépénultième épisode de La Croisade Solitaire où nos camarades arrivent dans une ville balnéaire au milieu des montagnes.\n“Comment est-ce possible ?” vous direz-vous peut-être,\n“Il n’a pas abandonné sa saga ?” vous direz-vous sans doute,\n“Est-ce que je peux piper un dé avec de la naphtaline ?” ne s’est jamais demandé qui que ce soit au monde\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nLes réponses vont en suivant :\n– C’est expliqué dans l’épisode\n– Non\n– Je sais pas, mais la question est intéressante et ça doit sans doute dé…",
@@ -618,6 +635,176 @@
       "feedUrl": "https://radiofrance-podcast.net/podcast09/rss_11495.xml",
       "siteUrl": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
       "articles": [
+        {
+          "id": "ce252a69-94e1-45d6-9033-53ff043fbc24",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:27 - Le Feuilleton - Dans un an, le tsunami continuera de frapper, de l’autre côté de la planète. Il sera à bout de course. Presque rien, une vague d’une trentaine de centimètres",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-09-12T23:00:09.000Z",
+          "wordCount": null,
+          "title": "\"Autour du monde\" de Laurent Mauvignier 10/10 : Pour finir, rentrer au Japon",
+          "itunes": {
+            "duration": "00:28:27"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/272c36d6-5e9a-40e2-84af-6edbe0a2aee4/11495-13.09.2021-ITEMA_22765519-2021C3480E0109-21.mp3",
+            "length": "27342233",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "fe7df64e-d34f-4703-8084-7a3e870e7e33",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:31 - Autour du monde de Laurent Mauvignier 9/10 - Laurent Mauvignier réunit une communauté d'esclaves économiques dont il devine admirablement les plaies et les espérances. Le seul lien entre les personnages, c'est l'événement vers lequel tous les regards convergent en mars 2011 : le tsunami au Japon, feuilleton médiatique donnant à tous le sentiment et l'illusion de partager le même monde. Mais si tout se fond dans la vitesse de cette globalisation où nous sommes enchaînés les uns aux autres, si chacun peut partir très loin, il reste d'abord rivé à lui-même et à ses propres histoires dans l'anonymat. \nDix ans après la catastrophe, Louise Loubrieu (adaptatrice) et Juliette Heymann (réalisatrice) ouvrent les pages de ce roman pour en faire un feuilleton radiophonique. Comment embarquer l'auditeur dans un roman qui s'arrête dès la vingtième page pour se glisser subtilement dans un autre situé à 10 000 kilomètres de là ? Comment ces quatorze histoires Autour du Monde se font tsunamis intérieurs à l'instant où la vague déferle sur la côte Est du Japon ?\nLa radio, par le seul moyen de l'écoute, permet de survoler les frontières, de dilater le temps et de traduire l'urgence de dire ce qui fait écho dans les personnages à cet instant-là : sont-ils passés à côté de cet événement ou, comme une bombe à retardement, la vague de Fukushima va-t-elle révéler un secret enfoui, un traumatisme caché ?\nLa langue babélienne de Laurent Mauvignier permet de questionner l'étrangeté, de se regarder soi à travers un autre, à travers la langue d'un autre, la nationalité d'un autre, à travers la littérature. Il faut plusieurs histoires pour parler de la catastrophe - ou plutôt, pour retranscrire sa déflagration. \nPour adapter Autour du Monde il a fallu chercher une façon de suspendre quelque chose dans l'air, une fragilité, une émotion ou comment par la voix et par les mots provoquer le désir d'en entendre plus, d'en savoir plus.",
+          "link": "https://www.radiofrance.fr",
+          "publishedOn": "2021-09-12T23:00:08.000Z",
+          "wordCount": null,
+          "title": "Autour du monde de Laurent Mauvignier 9/10",
+          "itunes": {
+            "duration": "00:28:31"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/7567b689-7b1d-4802-b1b8-3f16259043bc/11495-13.09.2021-ITEMA_22765519-2021C3480E0108-21.mp3",
+            "length": "27404102",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "4fb0cd6e-93e1-4760-ab85-77101014f1a1",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:41 - Autour du monde de Laurent Mauvignier 8/10 - Laurent Mauvignier réunit une communauté d'esclaves économiques dont il devine admirablement les plaies et les espérances. Le seul lien entre les personnages, c'est l'événement vers lequel tous les regards convergent en mars 2011 : le tsunami au Japon, feuilleton médiatique donnant à tous le sentiment et l'illusion de partager le même monde. Mais si tout se fond dans la vitesse de cette globalisation où nous sommes enchaînés les uns aux autres, si chacun peut partir très loin, il reste d'abord rivé à lui-même et à ses propres histoires dans l'anonymat. \nDix ans après la catastrophe, Louise Loubrieu (adaptatrice) et Juliette Heymann (réalisatrice) ouvrent les pages de ce roman pour en faire un feuilleton radiophonique. Comment embarquer l'auditeur dans un roman qui s'arrête dès la vingtième page pour se glisser subtilement dans un autre situé à 10 000 kilomètres de là ? Comment ces quatorze histoires Autour du Monde se font tsunamis intérieurs à l'instant où la vague déferle sur la côte Est du Japon ?\nLa radio, par le seul moyen de l'écoute, permet de survoler les frontières, de dilater le temps et de traduire l'urgence de dire ce qui fait écho dans les personnages à cet instant-là : sont-ils passés à côté de cet événement ou, comme une bombe à retardement, la vague de Fukushima va-t-elle révéler un secret enfoui, un traumatisme caché ?\nLa langue babélienne de Laurent Mauvignier permet de questionner l'étrangeté, de se regarder soi à travers un autre, à travers la langue d'un autre, la nationalité d'un autre, à travers la littérature. Il faut plusieurs histoires pour parler de la catastrophe - ou plutôt, pour retranscrire sa déflagration. \nPour adapter Autour du Monde il a fallu chercher une façon de suspendre quelque chose dans l'air, une fragilité, une émotion ou comment par la voix et par les mots provoquer le désir d'en entendre plus, d'en savoir plus.",
+          "link": "https://www.radiofrance.fr",
+          "publishedOn": "2021-09-12T23:00:07.000Z",
+          "wordCount": null,
+          "title": "Autour du monde de Laurent Mauvignier 8/10",
+          "itunes": {
+            "duration": "00:28:41"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/616b4f26-9ba4-4e67-8ed9-c39fff700b72/11495-13.09.2021-ITEMA_22765519-2021C3480E0107-21.mp3",
+            "length": "27561673",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "fe1fad9b-9ac5-4f11-ab2f-9c5f7a263a18",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:39 - Autour du monde de Laurent Mauvignier 7/10 - Laurent Mauvignier réunit une communauté d'esclaves économiques dont il devine admirablement les plaies et les espérances. Le seul lien entre les personnages, c'est l'événement vers lequel tous les regards convergent en mars 2011 : le tsunami au Japon, feuilleton médiatique donnant à tous le sentiment et l'illusion de partager le même monde. Mais si tout se fond dans la vitesse de cette globalisation où nous sommes enchaînés les uns aux autres, si chacun peut partir très loin, il reste d'abord rivé à lui-même et à ses propres histoires dans l'anonymat. \nDix ans après la catastrophe, Louise Loubrieu (adaptatrice) et Juliette Heymann (réalisatrice) ouvrent les pages de ce roman pour en faire un feuilleton radiophonique. Comment embarquer l'auditeur dans un roman qui s'arrête dès la vingtième page pour se glisser subtilement dans un autre situé à 10 000 kilomètres de là ? Comment ces quatorze histoires Autour du Monde se font tsunamis intérieurs à l'instant où la vague déferle sur la côte Est du Japon ?\nLa radio, par le seul moyen de l'écoute, permet de survoler les frontières, de dilater le temps et de traduire l'urgence de dire ce qui fait écho dans les personnages à cet instant-là : sont-ils passés à côté de cet événement ou, comme une bombe à retardement, la vague de Fukushima va-t-elle révéler un secret enfoui, un traumatisme caché ?\nLa langue babélienne de Laurent Mauvignier permet de questionner l'étrangeté, de se regarder soi à travers un autre, à travers la langue d'un autre, la nationalité d'un autre, à travers la littérature. Il faut plusieurs histoires pour parler de la catastrophe - ou plutôt, pour retranscrire sa déflagration. \nPour adapter Autour du Monde il a fallu chercher une façon de suspendre quelque chose dans l'air, une fragilité, une émotion ou comment par la voix et par les mots provoquer le désir d'en entendre plus, d'en savoir plus.",
+          "link": "https://www.radiofrance.fr",
+          "publishedOn": "2021-09-12T23:00:06.000Z",
+          "wordCount": null,
+          "title": "Autour du monde de Laurent Mauvignier 7/10",
+          "itunes": {
+            "duration": "00:28:39"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/a839909a-ed48-4fbe-93e8-45da9d481878/11495-13.09.2021-ITEMA_22765519-2021C3480E0106-21.mp3",
+            "length": "27529072",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "43e3825b-9a16-4025-bb75-4c44e9a96a27",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:44 - Autour du monde de Laurent Mauvignier 6/10 - Laurent Mauvignier réunit une communauté d'esclaves économiques dont il devine admirablement les plaies et les espérances. Le seul lien entre les personnages, c'est l'événement vers lequel tous les regards convergent en mars 2011 : le tsunami au Japon, feuilleton médiatique donnant à tous le sentiment et l'illusion de partager le même monde. Mais si tout se fond dans la vitesse de cette globalisation où nous sommes enchaînés les uns aux autres, si chacun peut partir très loin, il reste d'abord rivé à lui-même et à ses propres histoires dans l'anonymat. \nDix ans après la catastrophe, Louise Loubrieu (adaptatrice) et Juliette Heymann (réalisatrice) ouvrent les pages de ce roman pour en faire un feuilleton radiophonique. Comment embarquer l'auditeur dans un roman qui s'arrête dès la vingtième page pour se glisser subtilement dans un autre situé à 10 000 kilomètres de là ? Comment ces quatorze histoires Autour du Monde se font tsunamis intérieurs à l'instant où la vague déferle sur la côte Est du Japon ?\nLa radio, par le seul moyen de l'écoute, permet de survoler les frontières, de dilater le temps et de traduire l'urgence de dire ce qui fait écho dans les personnages à cet instant-là : sont-ils passés à côté de cet événement ou, comme une bombe à retardement, la vague de Fukushima va-t-elle révéler un secret enfoui, un traumatisme caché ?\nLa langue babélienne de Laurent Mauvignier permet de questionner l'étrangeté, de se regarder soi à travers un autre, à travers la langue d'un autre, la nationalité d'un autre, à travers la littérature. Il faut plusieurs histoires pour parler de la catastrophe - ou plutôt, pour retranscrire sa déflagration. \nPour adapter Autour du Monde il a fallu chercher une façon de suspendre quelque chose dans l'air, une fragilité, une émotion ou comment par la voix et par les mots provoquer le désir d'en entendre plus, d'en savoir plus.",
+          "link": "https://www.radiofrance.fr",
+          "publishedOn": "2021-09-12T23:00:05.000Z",
+          "wordCount": null,
+          "title": "Autour du monde de Laurent Mauvignier 6/10",
+          "itunes": {
+            "duration": "00:28:44"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/2a1afd90-422a-4e80-86c7-4b8f9956d03e/11495-13.09.2021-ITEMA_22765519-2021C3480E0105-21.mp3",
+            "length": "27616008",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "05560585-8a42-46bb-b1b2-99350a69a6c8",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:38 - Le Feuilleton - Monsieur Arroyo sait qu’être là, à l’ombre de la richesse, c’est déjà être presque riche soi-même, que l’ombre du soleil est déjà presque le soleil.\"",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-09-12T23:00:04.000Z",
+          "wordCount": null,
+          "title": "\"Autour du monde\" de Laurent Mauvignier 5/10 : Travailler à Dubaï",
+          "itunes": {
+            "duration": "00:28:38"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/616a3024-82c3-4a66-87e1-733e6b2e703f/11495-13.09.2021-ITEMA_22765519-2021C3480E0104-21.mp3",
+            "length": "27516146",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "2a7839a1-728a-47ff-a151-34ea1d847ff3",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:27:49 - Autour du monde de Laurent Mauvignier 4/10 - Laurent Mauvignier réunit une communauté d'esclaves économiques dont il devine admirablement les plaies et les espérances. Le seul lien entre les personnages, c'est l'événement vers lequel tous les regards convergent en mars 2011 : le tsunami au Japon, feuilleton médiatique donnant à tous le sentiment et l'illusion de partager le même monde. Mais si tout se fond dans la vitesse de cette globalisation où nous sommes enchaînés les uns aux autres, si chacun peut partir très loin, il reste d'abord rivé à lui-même et à ses propres histoires dans l'anonymat. \nDix ans après la catastrophe, Louise Loubrieu (adaptatrice) et Juliette Heymann (réalisatrice) ouvrent les pages de ce roman pour en faire un feuilleton radiophonique. Comment embarquer l'auditeur dans un roman qui s'arrête dès la vingtième page pour se glisser subtilement dans un autre situé à 10 000 kilomètres de là ? Comment ces quatorze histoires Autour du Monde se font tsunamis intérieurs à l'instant où la vague déferle sur la côte Est du Japon ?\nLa radio, par le seul moyen de l'écoute, permet de survoler les frontières, de dilater le temps et de traduire l'urgence de dire ce qui fait écho dans les personnages à cet instant-là : sont-ils passés à côté de cet événement ou, comme une bombe à retardement, la vague de Fukushima va-t-elle révéler un secret enfoui, un traumatisme caché ?\nLa langue babélienne de Laurent Mauvignier permet de questionner l'étrangeté, de se regarder soi à travers un autre, à travers la langue d'un autre, la nationalité d'un autre, à travers la littérature. Il faut plusieurs histoires pour parler de la catastrophe - ou plutôt, pour retranscrire sa déflagration. \nPour adapter Autour du Monde il a fallu chercher une façon de suspendre quelque chose dans l'air, une fragilité, une émotion ou comment par la voix et par les mots provoquer le désir d'en entendre plus, d'en savoir plus.",
+          "link": "https://www.radiofrance.fr",
+          "publishedOn": "2021-09-12T23:00:03.000Z",
+          "wordCount": null,
+          "title": "Autour du monde de Laurent Mauvignier 4/10",
+          "itunes": {
+            "duration": "00:27:49"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/814ea673-9438-459c-ac8e-37ded068f36d/11495-13.09.2021-ITEMA_22765519-2021C3480E0103-21.mp3",
+            "length": "26734114",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "e60cd204-c82e-4763-920a-e45308fae3c7",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:27:45 - Le Feuilleton - Salma ne pensait pas qu’une jeune fille d’à peine vingt ans pouvait savoir des choses que même des gens de sa génération à elle ignorent ou ont oubliées",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-09-12T23:00:02.000Z",
+          "wordCount": null,
+          "title": "\"Autour du monde\" de Laurent Mauvignier 3/10 : Entrer dans une ville trois fois sacrée : Salma",
+          "itunes": {
+            "duration": "00:27:45"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/b3c8fb69-3c98-4949-a0c3-9894abce1847/11495-13.09.2021-ITEMA_22765519-2021C3480E0102-21.mp3",
+            "length": "26675278",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "0bd8e021-ba27-4d29-817b-f366c19ff3e8",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:46 - Le Feuilleton - C’est une vraie horlogerie du désastre, la Terre. J’ai toujours dit qu’elle était vivante. Elle est vivante et son vieux corps grince, pas de doute.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-09-12T23:00:01.000Z",
+          "wordCount": null,
+          "title": "\"Autour du monde\" de Laurent Mauvignier 2/10 : Sauver la vie d’un homme sur un paquebot en mer du Nord",
+          "itunes": {
+            "duration": "00:28:46"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/e9683551-81c7-478f-8edf-a887fac2fa19/11495-13.09.2021-ITEMA_22765519-2021C3480E0101-21.mp3",
+            "length": "27642025",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "61c73f1c-5965-4cbf-8c12-d9eeb427fc77",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:42 - Le Feuilleton - Bientôt ce sera l’attente, la peur, et le nom de Fukushima résonnera aux oreilles du monde entier comme celui d’un cauchemar éveillé.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-09-12T23:00:00.000Z",
+          "wordCount": null,
+          "title": "\"Autour du monde\" de Laurent Mauvignier 1/10 : Rencontrer une fille tatouée au Japon",
+          "itunes": {
+            "duration": "00:28:42"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/c12d8756-61e3-48d0-92a7-80db936ded33/11495-13.09.2021-ITEMA_22765519-2021C3480E0100-21.mp3",
+            "length": "27574250",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "18da6620-a6d2-4654-a871-bb56bbfc17d2",
           "author": "podcast@radiofrance.com (Radio France)",
