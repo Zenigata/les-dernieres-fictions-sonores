@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-13T00:32:31.623Z</updated>
+    <updated>2021-09-14T00:31:08.361Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -846,36 +846,6 @@ Journaliste radio : Andréa Brusque
 See acast.com/privacy for privacy and opt-out information.]]></summary>
         <author>
             <name>Demain, Le Soleil Se Couchera Deux Fois</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CAMLANN – ÉPISODE 6]]></title>
-        <id>https://javras.fr/?p=18576</id>
-        <link href="https://javras.fr/2021/08/15/camlann-episode-6/"/>
-        <updated>2021-08-14T22:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey bande de gens merveilleux ! Ici Aibonn, oui le type qui a écrit Camlann, c’est moi. Ça faisait un moment que vous m’aviez plus entendu parler, certains pensaient que j’étais mort, d’autres que je suis devenu sain d’esprit.
-Mais je suis toujours là ! Et comme le disait un célèbre allemand : “I’m Bach.” (ou Back, je sais plus, ils ont des noms chelou ces allemands-là).
-					
-Mes petits amis, voici arriver en grandes pompes votre dose de bonheur auditive, voici un ASMR sur un tailleur, l’épisode 6 de Camlann !
-Comme dans tous mes éditos, je vais une fois de plus remercier Kayji pour son travail sur l’intro et l’outro de ma saga. Intro qui réveille mes auditeurs selon les dires de certains d’entre vous.
-Merci aussi aux acteurs qui ont prêté leurs voix pour la réalisation de cet épisode, et…]]></summary>
-        <author>
-            <name>Aibonn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saison 3 - EP. 4/7 - L'amas de la mâchoire]]></title>
-        <id>89186</id>
-        <link href="https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/"/>
-        <updated>2021-08-14T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la meilleure fiction audio de tous les temps selon son créateur) continue avec ce quatrième épisode !
-Episode 4 : L'amas de la mâchoire
-Notre équipe de contrebandiers se décide à reprendre les choses en mains... en braquant l'Empire galactique !
-Toute l'actu de la saga mp3 "Les Chroniques Galactiques" sur notre site, Facebook et Twitter !
-Ecoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/
-Les Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.]]></summary>
-        <author>
-            <name>Les Chroniques Galactiques - la Fiction audio Star Wars</name>
         </author>
     </entry>
 </feed>
