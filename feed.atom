@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-14T00:31:08.361Z</updated>
+    <updated>2021-09-15T00:30:11.566Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -777,75 +777,6 @@ et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre 
 Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
         <author>
             <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Épisode 8 – 2021, L'Odyssée de l'espèce]]></title>
-        <id>6fc3217a-0b54-4ec2-9add-dba798c08af9</id>
-        <link href="https://shows.acast.com/demain-le-soleil-se-couchera-deux-fois/episodes/episode8-2021-lodysseedelespece"/>
-        <updated>2021-08-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ANA, Müller et Sally sont parvenus à quitter le bunker de Milton Hatch en un seul morceau. Mais un dernier défi les attend pour mener à bien leur mission : désactiver le satellite de Milton Hatch. Ils se rendent sur la base de lancement de Kourou afin de monter dans la prochaine fusée en partance pour les étoiles. Le monde entier compte sur eux. Seront-ils à la hauteur ?
-
-Demain, le Soleil se couchera deux fois est une fiction audio Allianz. 
-Scénario et dialogues : Cyril Legrais
-Réalisation : Andréa Brusque
-Composition musicale : Julien Boulfray 
-Supervision musicale : Phantom Punch
-
-Production : BABABAM 
-Montage et sound-design : Célia Brondeau et Jean-Gabriel Rassat 
-Enregistrements : L’Arrière Boutique Studio
-
-Distribution : 
-Sally J.Sally : Camille Lockhart,
-Jacques Muller : François Briault,
-ANA : Ariane Brousse, 
-Milton Hatch : Stephan Druet
-Dr. René Rameaux : Philippe Mambon 
-Yegor et Mishka Poliakoff : Miglen Mirtchev, 
-Officiel : Nicolas Perrochet 
-Journaliste radio : Andréa Brusque
-
- Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.]]></summary>
-        <author>
-            <name>Demain, Le Soleil Se Couchera Deux Fois</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Épisode 8 – 2021, L'Odyssée de l'espèce]]></title>
-        <id>6fc3217a-0b54-4ec2-9add-dba798c08af9</id>
-        <link href="https://play.acast.com/s/demain-le-soleil-se-couchera-deux-fois/episode8-2021-lodysseedelespece"/>
-        <updated>2021-08-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ANA, Müller et Sally sont parvenus à quitter le bunker de Milton Hatch en un seul morceau. Mais un dernier défi les attend pour mener à bien leur mission : désactiver le satellite de Milton Hatch. Ils se rendent sur la base de lancement de Kourou afin de monter dans la prochaine fusée en partance pour les étoiles. Le monde entier compte sur eux. Seront-ils à la hauteur ?
-
-
-Demain, le Soleil se couchera deux fois est une fiction audio Allianz. 
-Scénario et dialogues : Cyril Legrais
-Réalisation : Andréa Brusque
-Composition musicale : Julien Boulfray 
-Supervision musicale : Phantom Punch
-
-
-Production : BABABAM 
-Montage et sound-design : Célia Brondeau et Jean-Gabriel Rassat 
-Enregistrements : L’Arrière Boutique Studio
-
-
-Distribution : 
-Sally J.Sally : Camille Lockhart,
-Jacques Muller : François Briault,
-ANA : Ariane Brousse, 
-Milton Hatch : Stephan Druet
-Dr. René Rameaux : Philippe Mambon 
-Yegor et Mishka Poliakoff : Miglen Mirtchev, 
-Officiel : Nicolas Perrochet 
-Journaliste radio : Andréa Brusque
- 
- 
-
-See acast.com/privacy for privacy and opt-out information.]]></summary>
-        <author>
-            <name>Demain, Le Soleil Se Couchera Deux Fois</name>
         </author>
     </entry>
 </feed>
