@@ -392,6 +392,23 @@
       "siteUrl": "https://podcast.ausha.co/les-dessous-de-savin",
       "articles": [
         {
+          "id": "d4cc940b265bbb8549f44c73dfcec576eea270fc",
+          "author": null,
+          "description": "📍S06/EP03 - \"Gelée Royale\"📍\n\nPour la première fois dans \"Le dessous de Savin\", une guest vient me donner la réplique. C'est une nouveauté de la rentrée 2021. Ces invités interviendront dans les épisodes de manière exceptionnelle. En ce mois de septembre, j'ai le plaisir d'accueillir Frédérique Lelaure.\nJ'espère que vous prendrez autant de plaisir à écouter cet épisode que nous en avons pris en l'enregistrant.\n\nRetrouvez Frédérique Lelaure sur Instagram : @fouedette \n\nVoici \"Gelée Royale\" le nouvel épisode du podcast \"Les dessous de Savin\"\n\n\"Les dessous de Savin\"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. \n\nUn épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. \nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! \nPartagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  \n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\n\"REET PETITE\" (Jackie Wilson)\n\"GLORIA\"  (Umberto Tozzi)",
+          "link": "https://podcast.ausha.co/les-dessous-de-savin/3-s06-ep03-gelee-royale",
+          "publishedOn": "2021-09-16T20:26:51.000Z",
+          "wordCount": null,
+          "title": "#3 - S06/EP03 - \"Gelée Royale\"",
+          "itunes": {
+            "duration": "08:23"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/oa20ECwNK3wW.mp3?t=1631806513",
+            "length": "8061640",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "a61f7de27d8bb62742c602c4d4d2756fedd0fb72",
           "author": null,
           "description": "📍S06/EP02 - \"Les platanes\"📍\n\nCet été comme l’année passée on s’est  tous réunis dans le mas des parents de Valérie. Un cocon loin de tout au pied des Alpilles. \nCe qui ne nous a pas épargné le sujet au top des charts français cet été, et qui a l’instar du pays a passablement écorniflé la cohésion de notre groupe…\n\nIl y a dans la vie des moments clés. Des carrefours. Là c’en est un. Soit je prends la route balisée. Que je connais par coeur, car je l’ai emprunté des milliers de fois. C’est moi qui l’ai goudronnée, j’ai mis les stations services et les platanes je sais exactement où ils sont je peux m’emplataner. \n\nVoici \"Les platanes\" le nouvel épisode du podcast \"Les dessous de Savin\"\n\n\"Les dessous de Savin\"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. \n\nUn épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. \nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! \nPartagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  📸 INSTAGRAM\n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\n\"PIRATES DES CARAIBES\" \n\"TAKE ON ME\"  (a-ha)",
@@ -950,5 +967,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.0"
+  "cliVersion": "1.11.1"
 }
