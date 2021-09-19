@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-18T00:28:33.564Z</updated>
+    <updated>2021-09-19T00:31:27.269Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Un jardin tout blanc" de Anton Tchekov]]></title>
+        <id>c15b61f6-d363-4572-b98f-2518481dabc0</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-samedi-noir/un-jardin-tout-blanc-de-anton-tchekov"/>
+        <updated>2021-09-18T19:57:54.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:55:53 - Fictions / Samedi noir - par : Blandine Masson - Anton Tchekhov, écrivain et médecin, a tenu toute sa vie une correspondance abondante, depuis son adolescence jusqu’à sa mort. Les lettres choisies ici éclairent les cinq dernières années du dramaturge, malade et déclinant "le sourire aux lèvres" alors que sa pièce "La Cerisaie" triomphe à Moscou.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#3 - S06/EP03 - "Gelée Royale"]]></title>
         <id>d4cc940b265bbb8549f44c73dfcec576eea270fc</id>
@@ -745,38 +755,6 @@ Les Chroniques Galactiques est une fanfiction sans caractère commercial, réali
         <updated>2021-08-21T16:30:00.000Z</updated>
         <author>
             <name>Audiodidact</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#7 - 🌞 Ton Pod de plage 🌞  "L'architecte" - (Rediff saison 5 part 2)]]></title>
-        <id>2ad77f8d075d94e987cdf7be6b0b72da7dc7c595</id>
-        <link href="https://podcast.ausha.co/les-dessous-de-savin/7-ton-pod-de-plage-l-architecte-rediff-saison-5-part-2"/>
-        <updated>2021-08-20T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🌞
-À l’occasion de cette pause estivale j’ai choisi de vous proposer une version « voyage » du podcast. En rediffusant les différentes saisons de l’émission. 
-Ça dure environ 1 heure, les épisodes s’enchainent, vous n’avez plus qu’à vous détendre… 
-Ça peut aussi être aussi un bon format pour faire découvrir le podcast à ceux que vous aimez.
-
-Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin www.sebastiensavin.com 
-
-🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
-
-"STATIC" composé par Stel https://www.instagram.com/stel_musique/
-
-Liste des épisodes de cette semaine:
-
-1- Sans moral, peu de morale (Part2)
-2- Sans moral, peu de morale (Fin)
-3- Coronaversaire
-4- La clandé
-5- Spoutnik
-6- L'architecte
-7- La poutre
-8- Wizard
-9- Un jour nouveau
-10- Mariage du siècle]]></summary>
-        <author>
-            <name>Les dessous de Savin</name>
         </author>
     </entry>
 </feed>
