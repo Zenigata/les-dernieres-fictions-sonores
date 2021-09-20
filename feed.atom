@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-19T00:31:27.269Z</updated>
+    <updated>2021-09-20T00:34:39.871Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Disconvention – 02 – Angers Geekfest #2]]></title>
+        <id>https://javras.fr/2021/07/25/copy-of-disconvention-01-nantes-maker-campus/</id>
+        <link href="https://javras.fr/2021/09/19/disconvention-02-angers-geekfest/"/>
+        <updated>2021-09-19T06:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonjour à tous, ici Richoult !
+Deuxième épisode de Disconvention, cette fois ci sur Angers Geekfest. On va parler un peu de Tipeee, des projets de chacun, de Monololo un auditeur qui nous suit depuis longtemps et on fait un petit jeu honteusement copié sur une mini jeu du podcast Le Duel.
+N’hésitez pas à nous faire un retour sur ce podcast et nous envoyer des mails et nous rencontrer, voir participer à ce podcast, lors de nos prochaines conventions : 
+
+Sur Les Terres de L’Unique (Enregistrement le 26 Septembre – 15h ).
+Hashtag Festival (Enregistrement le 24 Octobre – 15h).
+Chibi Rouen (Enregistrement le 31 Octobre – 15h).
+
+Vous pouvez retrouver ce podcast sur : 
+					
+			
+						Google Podcasts
+		
+					
+		
+			
+						Spotify
+		
+					
+		
+			
+						Youtube
+		
+					
+		
+			
+						Podcast Addict
+…]]></summary>
+        <author>
+            <name>Team Javras</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Un jardin tout blanc" de Anton Tchekov]]></title>
         <id>c15b61f6-d363-4572-b98f-2518481dabc0</id>
