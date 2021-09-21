@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-20T00:34:39.871Z</updated>
+    <updated>2021-09-21T00:30:37.313Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -768,30 +768,6 @@ Avec les participations de Jean-Pierre Kalfon, Yannik Landrein, Jeanne Rosa, Ama
  Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.]]></summary>
         <author>
             <name>Noises</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saison 3 - EP. 5/7 - Une saine distraction]]></title>
-        <id>91435</id>
-        <link href="https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/"/>
-        <updated>2021-08-21T22:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la meilleure fiction audio de tous les temps selon son créateur) continue avec ce quatrième épisode !
-Episode 5 : Une saine distraction
-L'étau se resserre autour de Daan, Wilhem et Trovarn. Ils vont devoir faire face à leur némésis, qui les tient entre ses mains... 
-Toute l'actu de la saga mp3 "Les Chroniques Galactiques" sur notre site, Facebook et Twitter !
-Ecoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/
-Les Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.]]></summary>
-        <author>
-            <name>Les Chroniques Galactiques - la Fiction audio Star Wars</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎧 NEW KIND | #02 - UN NOUVEAU DEPART]]></title>
-        <id>https://www.youtube.com/watch?v=2vxTBz1KPgw</id>
-        <link href="https://www.youtube.com/watch?v=2vxTBz1KPgw"/>
-        <updated>2021-08-21T16:30:00.000Z</updated>
-        <author>
-            <name>Audiodidact</name>
         </author>
     </entry>
 </feed>

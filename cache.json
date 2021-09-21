@@ -37,15 +37,6 @@
           "publishedOn": "2021-08-27T15:30:24.000Z",
           "wordCount": null,
           "title": "🎧 DIGRESSION | #05 Un digresseur sachant digresser doit savoir digresser sans son chien"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2vxTBz1KPgw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2vxTBz1KPgw",
-          "publishedOn": "2021-08-21T16:30:00.000Z",
-          "wordCount": null,
-          "title": "🎧 NEW KIND | #02 - UN NOUVEAU DEPART"
         }
       ]
     },
@@ -529,25 +520,7 @@
       "title": "Les Chroniques Galactiques - la Fiction audio Star Wars",
       "feedUrl": "https://feeds.podcastics.com/podcastics/podcasts/rss/2327_c913d2dc7b6c8298e5afd2c7e3575bc2.rss",
       "siteUrl": "https://unfandestarwars.com/les-chroniques-galactiques/",
-      "articles": [
-        {
-          "id": "91435",
-          "author": null,
-          "description": "Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la meilleure fiction audio de tous les temps selon son créateur) continue avec ce quatrième épisode !\nEpisode 5 : Une saine distraction\nL'étau se resserre autour de Daan, Wilhem et Trovarn. Ils vont devoir faire face à leur némésis, qui les tient entre ses mains... \nToute l'actu de la saga mp3 \"Les Chroniques Galactiques\" sur notre site, Facebook et Twitter !\nEcoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/\nLes Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.",
-          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
-          "publishedOn": "2021-08-21T22:40:00.000Z",
-          "wordCount": null,
-          "title": "Saison 3 - EP. 5/7 - Une saine distraction",
-          "itunes": {
-            "duration": "00:18:51"
-          },
-          "enclosure": {
-            "url": "https://www.podcastics.com/podcast/episode/91435/file.mp3?s=45375131",
-            "type": "audio/mpeg",
-            "length": "45375131"
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ASpaceMR",
