@@ -187,23 +187,6 @@
             "length": "7596333",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "ef41267a17826142dd788db694a6b1b7e6c39fa9",
-          "author": null,
-          "description": "Si vous vous demandez ce que voyait et entendait Juliette pendant sa visite de la boulangerie Pain, voilà un aperçu !\n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
-          "link": "https://podcast.ausha.co/podcut-fictions/pepites-ep-8-5-pendant-ce-temps-dans-l-esprit-de-juliette",
-          "publishedOn": "2021-08-23T04:36:00.000Z",
-          "wordCount": null,
-          "title": "Pépites - Ep 8.5 Pendant ce temps dans l'esprit de Juliette",
-          "itunes": {
-            "duration": "02:28"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/y8OgrfLWxjKo.mp3?t=1628516148",
-            "length": "2372380",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -249,23 +232,6 @@
           "enclosure": {
             "url": "https://sphinx.acast.com/p/acast/s/noises/e/6128a546f5142d00125eb25f/media.mp3",
             "length": "119382169",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "611e1f602e233c0012a94ae1",
-          "author": null,
-          "description": "Un an après le succès de \"Passage à l'acte\", voici la saison en intégralité, à découvrir en un épisode. \n\nDécouvrez la descente aux enfers des \"Lambert\" une famille de notaires. C’est une enquête familiale, qui se découvre comme une partie de Cluedo. Une enquête dans laquelle l’auditeur est directement interpellé par le narrateur qui, au fil des épisodes, lui fournit les clés pour résoudre l’énigme de cette histoire.\n\nAvec les participations de Jean-Pierre Kalfon, Yannik Landrein, Jeanne Rosa, Amaury de Crayencour, Caroline Chaniolleau, Anne Cosmao, Olivier Cruveiller, Jean-Jacques Vanier, Justin Blanckaert, Antoine Berry-Roger, Ivan Cori, Laura Boujenah. Passage à l'acte est une fiction écrite par Pierre Sérisier, réalisée par Andrea Brusque, montée par Jean-Gabriel Rassat. La musique a été composée par Jean-Marc Thurier. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
-          "link": "https://shows.acast.com/noises/episodes/passage-a-lacte-lintegrale",
-          "publishedOn": "2021-08-23T03:00:20.000Z",
-          "wordCount": null,
-          "title": "Passage à l'acte : l'intégrale",
-          "itunes": {
-            "duration": "1:01:55"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/acast/s/noises/e/611e1f602e233c0012a94ae1/media.mp3",
-            "length": "59440553",
             "type": "audio/mpeg"
           }
         }
@@ -343,23 +309,6 @@
           "enclosure": {
             "url": "https://sphinx.acast.com/p/acast/s/silencio/e/6128a43ccd91a700126b4023/media.mp3",
             "length": "119382169",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "611e213a503a890013bc8752",
-          "author": null,
-          "description": "Un an après le succès de \"Passage à l'acte\", voici la saison en intégralité, à découvrir en un épisode. \n\nDécouvrez la descente aux enfers des \"Lambert\" une famille de notaires. C’est une enquête familiale, qui se découvre comme une partie de Cluedo. Une enquête dans laquelle l’auditeur est directement interpellé par le narrateur qui, au fil des épisodes, lui fournit les clés pour résoudre l’énigme de cette histoire.\n\nAvec les participations de Jean-Pierre Kalfon, Yannik Landrein, Jeanne Rosa, Amaury de Crayencour, Caroline Chaniolleau, Anne Cosmao, Olivier Cruveiller, Jean-Jacques Vanier, Justin Blanckaert, Antoine Berry-Roger, Ivan Cori, Laura Boujenah. Passage à l'acte est une fiction écrite par Pierre Sérisier, réalisée par Andrea Brusque, montée par Jean-Gabriel Rassat. La musique a été composée par Jean-Marc Thurier. L'enregistrement a été effectué au studio L'arrière Boutique.\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
-          "link": "https://shows.acast.com/silencio/episodes/passage-a-lacte-lintegrale",
-          "publishedOn": "2021-08-23T03:00:27.000Z",
-          "wordCount": null,
-          "title": "Passage à l'acte : l'intégrale",
-          "itunes": {
-            "duration": "1:01:55"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/acast/s/silencio/e/611e213a503a890013bc8752/media.mp3",
-            "length": "59440553",
             "type": "audio/mpeg"
           }
         }
@@ -520,7 +469,59 @@
       "title": "Les Chroniques Galactiques - la Fiction audio Star Wars",
       "feedUrl": "https://feeds.podcastics.com/podcastics/podcasts/rss/2327_c913d2dc7b6c8298e5afd2c7e3575bc2.rss",
       "siteUrl": "https://unfandestarwars.com/les-chroniques-galactiques/",
-      "articles": []
+      "articles": [
+        {
+          "id": "96355",
+          "author": null,
+          "description": "Avec des dizaines d'heures de rushes, il y'a quelques petites perles qui méritent d'être partagées ! Voici donc le bêtisier de cette saison 3, citoyennes et citoyens. \nLes Chroniques Galactiques reviendront ! en attendant, n'hésitez pas à écouter les supers programmes de l'équipe et du casting !\nToute l'actu de la saga mp3 \"Les Chroniques Galactiques\" sur notre site, Facebook et Twitter !\nEcoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/\nGuilde des Contrebandiers : https://fr.tipeee.com/hyperdrive ou sur Patreon : https://www.patreon.com/Hyperdrivecorp\nnotre boutique : https://unfandestarwars.com/boutique/\nLes Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Les autres sont la propriété de son auteur. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.",
+          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
+          "publishedOn": "2021-09-19T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Saison 3 - Bêtisier",
+          "itunes": {
+            "duration": "00:12:18"
+          },
+          "enclosure": {
+            "url": "https://www.podcastics.com/podcast/episode/96355/file.mp3?s=29671109",
+            "type": "audio/mpeg",
+            "length": "29671109"
+          }
+        },
+        {
+          "id": "96103",
+          "author": null,
+          "description": "Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la fiction audio Star Wars garantie sans Jedi) tout à sa fin avec ce dernier épisode ! \nEpisode 7 : Gambit\nWilhem et Daan sont acculés. Ils ne peuvent plus que compter sur eux et les quelques personnes venues les aider. Cela suffira-t-il à faire face au nouveau leader du Soleil Noir et sauver leur ami ?\nToute l'actu de la saga mp3 \"Les Chroniques Galactiques\" sur notre site, Facebook et Twitter !\nEcoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/\nGuilde des Contrebandiers : https://fr.tipeee.com/hyperdrive\nnotre boutique : https://unfandestarwars.com/boutique/\nLes Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Les autres sont la propriété de son auteur. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.",
+          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
+          "publishedOn": "2021-09-14T19:37:00.000Z",
+          "wordCount": null,
+          "title": "Saison 3 - EP. 7/7 - Gambit",
+          "itunes": {
+            "duration": "00:30:12"
+          },
+          "enclosure": {
+            "url": "https://www.podcastics.com/podcast/episode/96103/file.mp3?s=72609268",
+            "type": "audio/mpeg",
+            "length": "72609268"
+          }
+        },
+        {
+          "id": "94463",
+          "author": null,
+          "description": "Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la fiction audio Star Wars garantie sans Jedi) reprend avec l'avant-dernier épisode !\nEpisode 6 : Quinze pour cent\nTrovarn étant en danger, Wilhem et Daan n'ont plus qu'un seul recours : aller voir Dox l'Assureur sur Coruscant et le convaincre de leur donner accès à sa réserve. \nToute l'actu de la saga mp3 \"Les Chroniques Galactiques\" sur notre site, Facebook et Twitter !\nEcoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/\nLes Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Les autres sont la propriété de son auteur. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.",
+          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
+          "publishedOn": "2021-09-03T20:27:00.000Z",
+          "wordCount": null,
+          "title": "Saison 3 - EP. 6/7 - Quinze pour cent",
+          "itunes": {
+            "duration": "00:14:23"
+          },
+          "enclosure": {
+            "url": "https://www.podcastics.com/podcast/episode/94463/file.mp3?s=34637697",
+            "type": "audio/mpeg",
+            "length": "34637697"
+          }
+        }
+      ]
     },
     {
       "title": "ASpaceMR",
