@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-23T00:31:54.925Z</updated>
+    <updated>2021-09-24T00:30:50.423Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ON A BESOIN DE VOUS !]]></title>
+        <id>614b8705785e20005d09da63</id>
+        <link href="https://adad.lepodcast.fr/on-a-besoin-de-vous"/>
+        <updated>2021-09-23T07:58:00.000Z</updated>
+        <summary type="html"><![CDATA[" ON A BESOIN DE VOUS !"
+L'épisode 15 "Sombre Dessein" a été nommé dans la catégorie "musique originale dans un podcast" par le jury du Paris Podcast Festival 2021 !
+On est super fiers de cette nomination, mais maintenant qu’on est là, autant gagner !
+Et pour ça, on a besoin de vous pour voter en masse.
+On espère vraiment que vous répondrez à cet appel, mais on vous fait confiance, on sait qu’on a la meilleure commu du monde !
+Le lien pour voter est juste ici : https://www.parispodcastfestival.com/competition-officielle-2021
+Et on vous dit à très bientôt pour l'épisode 25 et le lancement du mois de l'horreur...
+Yop & UnDixGo]]></summary>
+        <author>
+            <name>Avant d'aller dormir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saison 3 - Bêtisier]]></title>
         <id>96355</id>
