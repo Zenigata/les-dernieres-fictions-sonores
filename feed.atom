@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-25T00:30:36.700Z</updated>
+    <updated>2021-09-26T00:33:33.812Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["La métamorphose" de Franz Kafka]]></title>
+        <id>13c9ff34-4f2a-4a82-a493-53d1860a3364</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-samedi-noir/la-metamorphose-de-franz-kafka"/>
+        <updated>2021-09-25T20:01:41.000Z</updated>
+        <summary type="html"><![CDATA[durée : 01:01:40 - Fictions / Samedi noir - par : Blandine Masson - Un matin, au sortir de rêves agités, Gregor Samsa, se réveille transformé en "une énorme bestiole immonde". Jamais nommée mais décrite précisément, carapace dure et bombée, multitude de pattes lamentablement fluettes et grouillantes, la bête a un corps qui dégoûte quiconque l'aperçoit.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 25 : Au plus sombre de la forêt]]></title>
+        <id>614e202a5e5a8c7381325b6f</id>
+        <link href="https://adad.lepodcast.fr/episode-25-au-plus-sombre-de-la-foret"/>
+        <updated>2021-09-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonsoir, bienvenue dans l’épisode 25 d’Avant d’aller dormir. Toutes les histoires de cet épisodes ont été écrites et narrées par des ADADOS, merci la commu <3
+Installez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.
+Les histoires
+Au plus sombre de la forêt, par Olivier (aka Oysterlover)
+Freddy Fazbear Factory, par Valentine
+Un vol particulier, par MrY
+Prendre le thé, par Rubis
+J'ai rencontré mon lutin, par Clegot
+Merci à tous les auteurs d’avoir accepté de faire partie de cet épisode, n’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr
+Un tonnerre d'applaudissements pour la narrateurs de l'épisode : Liliy, Oak Leaf, Clegot, Neeghal.
+Les recommandations de l'épisode
+Liliy : Le film The Old Ways,…]]></summary>
+        <author>
+            <name>Avant d’aller dormir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wapx073]]></title>
+        <id>https://www.linaudible.com/?p=11118</id>
+        <link href="https://www.linaudible.com/2021/09/25/wapx073/"/>
+        <updated>2021-09-25T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[C'est le retour du Wapx, saison 8, épisode 73 !]]></summary>
+        <author>
+            <name>L'Inaudible de Walter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Découvrez : Demain, Le Soleil Se Couchera Deux Fois]]></title>
+        <id>614db8d5b739990012d6408e</id>
+        <link href="https://shows.acast.com/noises/episodes/decouvrez-demain-le-soleil-se-couchera-deux-fois"/>
+        <updated>2021-09-25T03:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Du jour au lendemain, le monde devient totalement imprévisible : les toilettes changent constamment de place, les voitures n'avancent qu'à reculons, les chiens miaulent et nul ne peut dire où les avions vont atterrir une fois qu'ils ont décollé. Pour découvrir l'origine de ces phénomènes qui sèment la panique, Müller et Sally, un duo de choc en quête de reconnaissance, mènent une enquête internationale perturbée par la constante reconfiguration du monde. Déterminés à résoudre le mystère malgré l'adversité, le prudent Müller et l'impétueuse Sally peuvent compter sur Ana, une intelligence artificielle à l'ironie mordante, pour surmonter les catastrophes qui ne tardent pas à s'accumuler.
+ 
+Demain, le Soleil se couchera deux fois est une fiction audio Allianz. 
+Scénario et dialogues : Cyril Legrais
+Réalisation : Andréa Brusque
+Composition musicale : Julien Boulfray 
+Supervision musicale : Phantom Punch
+Montage et sound-design : Célia Brondeau et Jean-Gabriel Rassat 
+Enregistrements : L’Arrière Boutique Studio
+Production : BABABAM
+
+Un podcast à écouter sur toutes les plateformes d'écoutes :
+Apple Podcasts, Spotify, Deezer, Castbox, Amazon Music, Podinstall
+
+
+
+ Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.]]></summary>
+        <author>
+            <name>Noises</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Découvrez : Demain, Le Soleil Se Couchera Deux Fois]]></title>
+        <id>614dbaa5d72d490013a10efe</id>
+        <link href="https://shows.acast.com/silencio/episodes/decouvrez-demain-le-soleil-se-couchera-deux-fois"/>
+        <updated>2021-09-25T03:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Du jour au lendemain, le monde devient totalement imprévisible : les toilettes changent constamment de place, les voitures n'avancent qu'à reculons, les chiens miaulent et nul ne peut dire où les avions vont atterrir une fois qu'ils ont décollé. Pour découvrir l'origine de ces phénomènes qui sèment la panique, Müller et Sally, un duo de choc en quête de reconnaissance, mènent une enquête internationale perturbée par la constante reconfiguration du monde. Déterminés à résoudre le mystère malgré l'adversité, le prudent Müller et l'impétueuse Sally peuvent compter sur Ana, une intelligence artificielle à l'ironie mordante, pour surmonter les catastrophes qui ne tardent pas à s'accumuler.
+ 
+Demain, le Soleil se couchera deux fois est une fiction audio Allianz. 
+Scénario et dialogues : Cyril Legrais
+Réalisation : Andréa Brusque
+Composition musicale : Julien Boulfray 
+Supervision musicale : Phantom Punch
+Montage et sound-design : Célia Brondeau et Jean-Gabriel Rassat 
+Enregistrements : L’Arrière Boutique Studio
+Production : BABABAM
+
+Un podcast à écouter sur toutes les plateformes d'écoutes :
+Apple Podcasts, Spotify, Deezer, Castbox, Amazon Music, Podinstall
+
+ Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.]]></summary>
+        <author>
+            <name>Silencio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Demain, Le Soleil Se Couchera Deux Fois : L'intégrale]]></title>
         <id>614da3143ec8840014f75c0f</id>
@@ -782,37 +873,6 @@ Il est maintenant temps de trouver le sommeil. À bientôt…]]></summary>
         <updated>2021-08-27T15:30:24.000Z</updated>
         <author>
             <name>Audiodidact</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#8 - 🌞 Ton Pod de plage 🌞 "Way back into love" - (Rediff saison 5 part 3)]]></title>
-        <id>2ea95c4d262e7fda303b4fc210f3f7e02a60a01d</id>
-        <link href="https://podcast.ausha.co/les-dessous-de-savin/redif"/>
-        <updated>2021-08-27T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🌞
-À l’occasion de cette pause estivale j’ai choisi de vous proposer une version « voyage » du podcast. En rediffusant les différentes saisons de l’émission. 
-Ça dure environ 1 heure, les épisodes s’enchainent, vous n’avez plus qu’à vous détendre… 
-Ça peut aussi être aussi un bon format pour faire découvrir le podcast à ceux que vous aimez.
-
-Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin www.sebastiensavin.com 
-
-🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
-
-"STATIC" composé par Stel https://www.instagram.com/stel_musique/
-
-Liste des épisodes de cette semaine:
-
-1- Le Baiser
-2- La coupe mulet
-3- La Tyrolienne
-4- La marâtre
-5- I love to love
-6- En slip
-7- La relation de la maturité
-8- Cliffhanger
-9- Pride]]></summary>
-        <author>
-            <name>Les dessous de Savin</name>
         </author>
     </entry>
 </feed>

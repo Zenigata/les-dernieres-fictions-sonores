@@ -4,7 +4,25 @@
       "title": "L'Inaudible de Walter",
       "feedUrl": "https://www.linaudible.com/feed/podcast/",
       "siteUrl": "https://www.linaudible.com/episodes-masonry/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.linaudible.com/?p=11118",
+          "author": null,
+          "description": "C'est le retour du Wapx, saison 8, épisode 73 !",
+          "link": "https://www.linaudible.com/2021/09/25/wapx073/",
+          "publishedOn": "2021-09-25T15:35:00.000Z",
+          "wordCount": null,
+          "title": "Wapx073",
+          "itunes": {
+            "duration": "1:08:00"
+          },
+          "enclosure": {
+            "url": "https://media.blubrry.com/linaudible_de_walter/traffic.libsyn.com/wproof/wapx073.mp3",
+            "length": "163447383",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     },
     {
       "title": "Cyrano de Bergerac",
@@ -175,6 +193,23 @@
       "siteUrl": "http://ba-ba-bam.com/marques/noises/",
       "articles": [
         {
+          "id": "614db8d5b739990012d6408e",
+          "author": null,
+          "description": "Du jour au lendemain, le monde devient totalement imprévisible : les toilettes changent constamment de place, les voitures n'avancent qu'à reculons, les chiens miaulent et nul ne peut dire où les avions vont atterrir une fois qu'ils ont décollé. Pour découvrir l'origine de ces phénomènes qui sèment la panique, Müller et Sally, un duo de choc en quête de reconnaissance, mènent une enquête internationale perturbée par la constante reconfiguration du monde. Déterminés à résoudre le mystère malgré l'adversité, le prudent Müller et l'impétueuse Sally peuvent compter sur Ana, une intelligence artificielle à l'ironie mordante, pour surmonter les catastrophes qui ne tardent pas à s'accumuler.\n \nDemain, le Soleil se couchera deux fois est une fiction audio Allianz. \nScénario et dialogues : Cyril Legrais\nRéalisation : Andréa Brusque\nComposition musicale : Julien Boulfray \nSupervision musicale : Phantom Punch\nMontage et sound-design : Célia Brondeau et Jean-Gabriel Rassat \nEnregistrements : L’Arrière Boutique Studio\nProduction : BABABAM\n\nUn podcast à écouter sur toutes les plateformes d'écoutes :\nApple Podcasts, Spotify, Deezer, Castbox, Amazon Music, Podinstall\n\n\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
+          "link": "https://shows.acast.com/noises/episodes/decouvrez-demain-le-soleil-se-couchera-deux-fois",
+          "publishedOn": "2021-09-25T03:00:53.000Z",
+          "wordCount": null,
+          "title": "Découvrez : Demain, Le Soleil Se Couchera Deux Fois",
+          "itunes": {
+            "duration": "1:24"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/acast/s/noises/e/614db8d5b739990012d6408e/media.mp3",
+            "length": "3387908",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "6130fe218d200a0012302f68",
           "author": null,
           "description": "Après \"Silencio\" et \"Passage à l'acte\", voici les 11 épisodes de la saison 1 de Noises, le podcast élu meilleur podcast de l'année 2020 au salon de la Radio. Dix épisodes à écouter d'une traite !\nC'est parti pour vivre une expérience sonore unique.\n\nEpisode 1 : Les 3 coups\nProduction: Bababam.\nRéalisation: Nathalie Bernas.\nComédiens: Florian Bayoux, Nathalie Bernas, Aurélien Gouas, Cédric Ingard, Emmanuel Strauss.\nIngénieurs du sons: Sébastien Decaux, Laurent Foucher, Jean-Gabriel Rassat.   \nEnregistré au studio Kazoo.\n\nEpisode 2 : Jeu, Set et Match\nProduction: Bababam.\nRéalisation: Nathalie Bernas.\nEcriture: Thomas Le Petit-Corps. \nComédiens: Mathilde Bourbin dans le rôle de Justine, Antoine Berry Roger dans le rôle de Quentin, Nathalie Bernas dans le rôle de la supportrice\nIngénieurs du …",
@@ -251,6 +286,23 @@
       "feedUrl": "https://rss.acast.com/silencio",
       "siteUrl": "https://podcasts.ba-ba-bam.com/bababam-silencio/",
       "articles": [
+        {
+          "id": "614dbaa5d72d490013a10efe",
+          "author": null,
+          "description": "Du jour au lendemain, le monde devient totalement imprévisible : les toilettes changent constamment de place, les voitures n'avancent qu'à reculons, les chiens miaulent et nul ne peut dire où les avions vont atterrir une fois qu'ils ont décollé. Pour découvrir l'origine de ces phénomènes qui sèment la panique, Müller et Sally, un duo de choc en quête de reconnaissance, mènent une enquête internationale perturbée par la constante reconfiguration du monde. Déterminés à résoudre le mystère malgré l'adversité, le prudent Müller et l'impétueuse Sally peuvent compter sur Ana, une intelligence artificielle à l'ironie mordante, pour surmonter les catastrophes qui ne tardent pas à s'accumuler.\n \nDemain, le Soleil se couchera deux fois est une fiction audio Allianz. \nScénario et dialogues : Cyril Legrais\nRéalisation : Andréa Brusque\nComposition musicale : Julien Boulfray \nSupervision musicale : Phantom Punch\nMontage et sound-design : Célia Brondeau et Jean-Gabriel Rassat \nEnregistrements : L’Arrière Boutique Studio\nProduction : BABABAM\n\nUn podcast à écouter sur toutes les plateformes d'écoutes :\nApple Podcasts, Spotify, Deezer, Castbox, Amazon Music, Podinstall\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
+          "link": "https://shows.acast.com/silencio/episodes/decouvrez-demain-le-soleil-se-couchera-deux-fois",
+          "publishedOn": "2021-09-25T03:00:20.000Z",
+          "wordCount": null,
+          "title": "Découvrez : Demain, Le Soleil Se Couchera Deux Fois",
+          "itunes": {
+            "duration": "1:24"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/acast/s/silencio/e/614dbaa5d72d490013a10efe/media.mp3",
+            "length": "3387908",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "6130fe881e058f00123d96cb",
           "author": null,
@@ -388,23 +440,6 @@
             "length": "3092106",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "2ea95c4d262e7fda303b4fc210f3f7e02a60a01d",
-          "author": null,
-          "description": "🌞\nÀ l’occasion de cette pause estivale j’ai choisi de vous proposer une version « voyage » du podcast. En rediffusant les différentes saisons de l’émission. \nÇa dure environ 1 heure, les épisodes s’enchainent, vous n’avez plus qu’à vous détendre… \nÇa peut aussi être aussi un bon format pour faire découvrir le podcast à ceux que vous aimez.\n\nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou ApplePodcasts! Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin www.sebastiensavin.com \n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\nListe des épisodes de cette semaine:\n\n1- Le Baiser\n2- La coupe mulet\n3- La Tyrolienne\n4- La marâtre\n5- I love to love\n6- En slip\n7- La relation de la maturité\n8- Cliffhanger\n9- Pride",
-          "link": "https://podcast.ausha.co/les-dessous-de-savin/redif",
-          "publishedOn": "2021-08-27T01:00:00.000Z",
-          "wordCount": null,
-          "title": "#8 - 🌞 Ton Pod de plage 🌞 \"Way back into love\" - (Rediff saison 5 part 3)",
-          "itunes": {
-            "duration": "1:19:58"
-          },
-          "enclosure": {
-            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/B4dqGCaQznVB.mp3?t=1625307245",
-            "length": "76779009",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -419,6 +454,23 @@
       "feedUrl": "https://adad.lepodcast.fr/rss",
       "siteUrl": "https://avantdallerdormir.fr/",
       "articles": [
+        {
+          "id": "614e202a5e5a8c7381325b6f",
+          "author": "Avant d’aller dormir",
+          "description": "Bonsoir, bienvenue dans l’épisode 25 d’Avant d’aller dormir. Toutes les histoires de cet épisodes ont été écrites et narrées par des ADADOS, merci la commu <3\nInstallez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.\nLes histoires\nAu plus sombre de la forêt, par Olivier (aka Oysterlover)\nFreddy Fazbear Factory, par Valentine\nUn vol particulier, par MrY\nPrendre le thé, par Rubis\nJ'ai rencontré mon lutin, par Clegot\nMerci à tous les auteurs d’avoir accepté de faire partie de cet épisode, n’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr\nUn tonnerre d'applaudissements pour la narrateurs de l'épisode : Liliy, Oak Leaf, Clegot, Neeghal.\nLes recommandations de l'épisode\nLiliy : Le film The Old Ways,…",
+          "link": "https://adad.lepodcast.fr/episode-25-au-plus-sombre-de-la-foret",
+          "publishedOn": "2021-09-25T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Episode 25 : Au plus sombre de la forêt",
+          "itunes": {
+            "duration": "0:58:05"
+          },
+          "enclosure": {
+            "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/episode-25-au-plus-sombre-de-la-foret/enclosure.ccca3cad918540838842b489a16597d0d16fd3af184ace99d90db606433a9fab.mp3?p=f",
+            "length": "85206780",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "614b8705785e20005d09da63",
           "author": "Avant d'aller dormir",
@@ -912,6 +964,23 @@
       "feedUrl": "https://radiofrance-podcast.net/podcast09/rss_11496.xml",
       "siteUrl": "https://www.franceculture.fr/emissions/fictions-samedi-noir",
       "articles": [
+        {
+          "id": "13c9ff34-4f2a-4a82-a493-53d1860a3364",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 01:01:40 - Fictions / Samedi noir - par : Blandine Masson - Un matin, au sortir de rêves agités, Gregor Samsa, se réveille transformé en \"une énorme bestiole immonde\". Jamais nommée mais décrite précisément, carapace dure et bombée, multitude de pattes lamentablement fluettes et grouillantes, la bête a un corps qui dégoûte quiconque l'aperçoit.",
+          "link": "https://www.franceculture.fr/emissions/fictions-samedi-noir/la-metamorphose-de-franz-kafka",
+          "publishedOn": "2021-09-25T20:01:41.000Z",
+          "wordCount": null,
+          "title": "\"La métamorphose\" de Franz Kafka",
+          "itunes": {
+            "duration": "01:01:40"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/16295750-ba5d-49ea-898c-a5825dbbb591/11496-25.09.2021-ITEMA_22786027-2021C3067E0152-21.mp3",
+            "length": "59224991",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "c15b61f6-d363-4572-b98f-2518481dabc0",
           "author": "podcast@radiofrance.com (Radio France)",
