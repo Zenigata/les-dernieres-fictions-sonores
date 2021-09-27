@@ -46,17 +46,7 @@
       "title": "Audiodidact",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvvYk2sA1XWtt3XHzA0CEWw",
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=HRLOB14VKIY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HRLOB14VKIY",
-          "publishedOn": "2021-08-27T15:30:24.000Z",
-          "wordCount": null,
-          "title": "🎧 DIGRESSION | #05 Un digresseur sachant digresser doit savoir digresser sans son chien"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "LGMP Saison 1",
@@ -69,6 +59,23 @@
       "feedUrl": "https://javras.fr/feed/podcast",
       "siteUrl": "https://javras.fr/",
       "articles": [
+        {
+          "id": "https://javras.fr/?p=18879",
+          "author": "Team Javras",
+          "description": "Salut à tous ! \nC’est Richoult, je suis ici pour vous présenter le premier bonus de notre parodie Fénix Write ! \nNous avons décidé, avec Erika, de sortir un bêtisier à chaque fois qu’une affaire est résolue. Aujourd’hui vous avez donc le premier bêtisier qui réunit l’épisode 1 et 2, ce qui couvre la première affaire : La première volte-face.\n\t\t\t\t\t\nVous trouverez donc dans ce bonus les acteurs suivants :\nPapy Al, Eva, Zarkiel, Azmar, NicoTiko et Reshkaf.\nNous espérons que ce bonus vous plaira et vous aidera à patienter jusqu’au prochain épisode de cette fiction audio. Il ne devrait plus tarder.  Vous pouvez retrouver les épisodes précédents sur la page de Fénix Write : L’as Détourné.\nBonne écoute !\n\n \n\n \n\n \n \n\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\n\n\t Fénix Write – Betisier – Affaire 1 ( 11 MB)\n Cliquez p…",
+          "link": "https://javras.fr/2021/09/26/fenix-write-betisier-affaire-1/",
+          "publishedOn": "2021-09-26T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Fénix Write – Bêtisier – Affaire 1",
+          "itunes": {
+            "duration": "4:41"
+          },
+          "enclosure": {
+            "url": "https://javras.fr/podcast-download/18879/fenix-write-betisier-affaire-1.mp3",
+            "length": "11,1",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://javras.fr/2021/07/25/copy-of-disconvention-01-nantes-maker-campus/",
           "author": "Team Javras",
@@ -1035,5 +1042,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.1"
+  "cliVersion": "1.11.2"
 }

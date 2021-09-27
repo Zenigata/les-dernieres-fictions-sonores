@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-26T00:33:33.812Z</updated>
-    <generator>osmosfeed 1.11.1</generator>
+    <updated>2021-09-27T00:30:39.576Z</updated>
+    <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fénix Write – Bêtisier – Affaire 1]]></title>
+        <id>https://javras.fr/?p=18879</id>
+        <link href="https://javras.fr/2021/09/26/fenix-write-betisier-affaire-1/"/>
+        <updated>2021-09-26T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Salut à tous ! 
+C’est Richoult, je suis ici pour vous présenter le premier bonus de notre parodie Fénix Write ! 
+Nous avons décidé, avec Erika, de sortir un bêtisier à chaque fois qu’une affaire est résolue. Aujourd’hui vous avez donc le premier bêtisier qui réunit l’épisode 1 et 2, ce qui couvre la première affaire : La première volte-face.
+					
+Vous trouverez donc dans ce bonus les acteurs suivants :
+Papy Al, Eva, Zarkiel, Azmar, NicoTiko et Reshkaf.
+Nous espérons que ce bonus vous plaira et vous aidera à patienter jusqu’au prochain épisode de cette fiction audio. Il ne devrait plus tarder.  Vous pouvez retrouver les épisodes précédents sur la page de Fénix Write : L’as Détourné.
+Bonne écoute !
+
+ 
+
+ 
+
+ 
+ 
+
+
+					
+														
+
+
+
+	 Fénix Write – Betisier – Affaire 1 ( 11 MB)
+ Cliquez p…]]></summary>
+        <author>
+            <name>Team Javras</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["La métamorphose" de Franz Kafka]]></title>
         <id>13c9ff34-4f2a-4a82-a493-53d1860a3364</id>
@@ -864,15 +897,6 @@ L'équipe
 Il est maintenant temps de trouver le sommeil. À bientôt…]]></summary>
         <author>
             <name>Avant d’aller dormir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎧 DIGRESSION | #05 Un digresseur sachant digresser doit savoir digresser sans son chien]]></title>
-        <id>https://www.youtube.com/watch?v=HRLOB14VKIY</id>
-        <link href="https://www.youtube.com/watch?v=HRLOB14VKIY"/>
-        <updated>2021-08-27T15:30:24.000Z</updated>
-        <author>
-            <name>Audiodidact</name>
         </author>
     </entry>
 </feed>
