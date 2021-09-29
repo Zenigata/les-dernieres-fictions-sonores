@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-28T00:31:42.165Z</updated>
+    <updated>2021-09-29T00:30:38.042Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 03 - Ici votre capitaine]]></title>
+        <id>61534d18845037149dae6c43</id>
+        <link href="https://styx.studiotjp.com"/>
+        <updated>2021-09-28T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Episode 03
+ ici votre capitaine
+ Ce troisième épisode de la fiction collaborative vous est proposé par votre capitaine, Amandine Coyard, à la barre du bateau le plus flippant du Styx.]]></summary>
+        <author>
+            <name>Amandine Coyard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fénix Write – Bêtisier – Affaire 1]]></title>
         <id>https://javras.fr/?p=18879</id>
@@ -725,144 +737,6 @@ Crédit Musique: 
 "STATIC" composé par Stel https://www.instagram.com/stel_music/]]></summary>
         <author>
             <name>Les dessous de Savin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silencio : l'intégrale]]></title>
-        <id>6128a546f5142d00125eb25f</id>
-        <link href="https://shows.acast.com/noises/episodes/silencio-lintegrale"/>
-        <updated>2021-08-30T03:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Redécouvrez en intégralité notre série audio Silencio, sélectionnée au festival Séries Mania. 
-
-En 2037, la défiance envers le monde politique ne cesse de s’accroître. Alors que des élections sont organisées, une jeune hacktiviste se lance dans une enquête sans précédent pour révéler au grand public la vraie nature de ce scrutin.
-
-Avec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond et Brice Borg.
-Un podcast écrit par Thomas Le Petit-Corps et réalisé par Nathalie Bernas pour Bababam.
-Musique : Simon Lauris
-Montage : Jean-Gabriel Rassat
-
- Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.]]></summary>
-        <author>
-            <name>Noises</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silencio : l'intégrale]]></title>
-        <id>6128a43ccd91a700126b4023</id>
-        <link href="https://shows.acast.com/silencio/episodes/silencio-lintegrale"/>
-        <updated>2021-08-30T03:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Redécouvrez en intégralité notre série audio Silencio, sélectionnée au festival Séries Mania. 
-
-En 2037, la défiance envers le monde politique ne cesse de s’accroître. Alors que des élections sont organisées, une jeune hacktiviste se lance dans une enquête sans précédent pour révéler au grand public la vraie nature de ce scrutin.
-
-Avec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond et Brice Borg.
-Un podcast écrit par Thomas Le Petit-Corps et réalisé par Nathalie Bernas pour Bababam.
-Musique : Simon Lauris
-Montage : Jean-Gabriel Rassat
-
- Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.]]></summary>
-        <author>
-            <name>Silencio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["La Filière" de Philippe Sands 10/10 : Plus blanc que blanc]]></title>
-        <id>18da6620-a6d2-4654-a871-bb56bbfc17d2</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-10-10"/>
-        <updated>2021-08-29T23:00:09.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:28:40 - Le Feuilleton - Tandis que Horst Wächter et sa mère Charlotte ont toujours été convaincus de la mort par empoisonnement d’Otto, Philippe Sands va chercher à étayer cette thèse en interrogeant une anthropologue biologique spécialisée dans les empoisonnements]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["La Filière" de Philippe Sands 9/10 : Agents doubles et doubles vies]]></title>
-        <id>00976df5-94c1-4a35-8693-c0bed48a1cb5</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-9-10"/>
-        <updated>2021-08-29T23:00:08.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:28:17 - Le Feuilleton - Un homme a recruté ces anciens nazis, il s’agit de Thomas Lucid, un Américain qui a participé à la création de la CIA. Or, au cours de son enquête, Philippe Sands va mettre au jour d’incroyables coïncidences concernant Karl Hass et Thomas Lucid…]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["La Filière" de Philippe Sands 8/10 : Rome, nid d'espions ?]]></title>
-        <id>fba08ba3-eafd-45d9-a03c-f72c6610f9d5</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-8-10"/>
-        <updated>2021-08-29T23:00:07.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:27:46 - Le Feuilleton - Le "vieux camarade" d’Otto Wächter avec lequel il a déjeuné peu avant sa mort, Karl Hass, était-il un agent double à la solde des Soviétiques et des Américains ?]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["La Filière" de Philippe Sands 7/10 : Mort au Vatican]]></title>
-        <id>5d044e48-23a1-4f8b-90d1-3eab818ac48a</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-7-10"/>
-        <updated>2021-08-29T23:00:06.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:28:00 - Le Feuilleton - Philippe Sands parvient à établir que Monseigneur Hudal, qui a accueilli Otto Wächter à Rome, était le pivot d’une filière d’exfiltration de nazis vers l’Amérique du Sud, mais pas seulement.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["La Filière" de Philippe Sands 6/10 : John Le Carré à la rescousse]]></title>
-        <id>36b15f7c-1d36-4d37-9799-87cadaa859cd</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-6-10"/>
-        <updated>2021-08-29T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:27:20 - Le Feuilleton - Otto Wächter tombe malade début juillet, après un déjeuner chez un mystérieux ami près de Rome et meurt quelques jours plus tard, le corps entièrement noirci. Pour savoir s’il aurait pu être assassiné, Philippe Sands fait appel à John Le Carré, qui fut espion à cette époque.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["La Filière" de Philippe Sands 5/10 : Un fugitif à Cinecitta]]></title>
-        <id>a5c91c62-3262-431b-bb63-40428160ec55</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-5-10"/>
-        <updated>2021-08-29T23:00:04.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:27:34 - Le Feuilleton - En avril 1949, Otto Wächter arrive à la gare de Rome sous un faux nom et sans un sou. Grâce à l’appui de Monseigneur Hudal, il prépare son exfiltration en Amérique du Sud.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["La Filière" de Philippe Sands 4/10 : Deux nazis en haute montagne]]></title>
-        <id>1a6a4b66-4032-46a3-b068-96fa5bea6c03</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-4-10"/>
-        <updated>2021-08-29T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:27:10 - Le Feuilleton - A la fin de la guerre, Otto Wächter se cache pendant trois ans dans les montagnes autrichiennes pour échapper à ceux qui sont alors à ses trousses. Sa femme vient régulièrement le ravitailler et ni l’un ni l’autre ne sont jamais inquiétés.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["La Filière" de Philippe Sands 3/10 : La grande Rafle]]></title>
-        <id>835ea00d-eb21-4d41-a8a4-9c587d6ed83c</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-3-10"/>
-        <updated>2021-08-29T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:28:40 - Le Feuilleton - Au fil de son enquête, Philippe Sands trouve les traces administratives des responsabilités d’Otto Wächter dans l’extermination de la famille de son grand-père Léon Buchholz en 1942.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["La Filière" de Philippe Sands 2/10 : Des jeunes gens de bonne famille]]></title>
-        <id>d11c0f01-55d8-4f77-9c6e-60c30b00fdd5</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-2-10"/>
-        <updated>2021-08-29T23:00:01.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:28:45 - Le Feuilleton - Grâce aux archives de la famille Wächter que lui a confiées Horst, Philippe Sands peut reconstituer pour partie la vie d’Otto Wächter et celle de sa femme, Charlotte, de leurs années de jeunesse jusqu’à la Seconde Guerre mondiale.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["La Filière" de Philippe Sands 1/10 : Un château en Autriche]]></title>
-        <id>33100d56-11ba-43f2-a705-6dad689bee4e</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-1-10"/>
-        <updated>2021-08-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:27:14 - Le Feuilleton - Philippe Sands a rencontré Horst Wächter, le fils d’un officier nazi, Otto Wächter, alors qu’il écrivait un livre sur Nuremberg. Il se rend chez lui, à Hagenberg près de Vienne, parce que Horst a accepté de lui confier ses archives familiales…]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
         </author>
     </entry>
 </feed>

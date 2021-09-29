@@ -232,23 +232,6 @@
             "length": "369675308",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "6128a546f5142d00125eb25f",
-          "author": null,
-          "description": "Redécouvrez en intégralité notre série audio Silencio, sélectionnée au festival Séries Mania. \n\nEn 2037, la défiance envers le monde politique ne cesse de s’accroître. Alors que des élections sont organisées, une jeune hacktiviste se lance dans une enquête sans précédent pour révéler au grand public la vraie nature de ce scrutin.\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond et Brice Borg.\nUn podcast écrit par Thomas Le Petit-Corps et réalisé par Nathalie Bernas pour Bababam.\nMusique : Simon Lauris\nMontage : Jean-Gabriel Rassat\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
-          "link": "https://shows.acast.com/noises/episodes/silencio-lintegrale",
-          "publishedOn": "2021-08-30T03:00:37.000Z",
-          "wordCount": null,
-          "title": "Silencio : l'intégrale",
-          "itunes": {
-            "duration": "2:04:21"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/acast/s/noises/e/6128a546f5142d00125eb25f/media.mp3",
-            "length": "119382169",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -274,7 +257,25 @@
       "title": "Studio TJP 💊 Fictions Sonores / Sagas MP3 / Séries Audio",
       "feedUrl": "https://studio-tjp.lepodcast.fr/rss",
       "siteUrl": "https://studiotjp.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "61534d18845037149dae6c43",
+          "author": "Amandine Coyard",
+          "description": "Episode 03\n ici votre capitaine\n Ce troisième épisode de la fiction collaborative vous est proposé par votre capitaine, Amandine Coyard, à la barre du bateau le plus flippant du Styx.",
+          "link": "https://styx.studiotjp.com",
+          "publishedOn": "2021-09-28T15:35:00.000Z",
+          "wordCount": null,
+          "title": "STYX 🚢 Fiction sonore collaborative > Episode 03 - Ici votre capitaine",
+          "itunes": {
+            "duration": "0:07:44"
+          },
+          "enclosure": {
+            "url": "https://stats.podcloud.fr/studio-tjp/styx-fiction-sonore-collaborative-episode-03-ici-votre-capitaine/enclosure.a5b87083f292b364c366605cce35fece972f4bdcde524749aa26551b82a17e7b.mp3?p=f",
+            "length": "19390718",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     },
     {
       "title": "Le ShCrok Mel Sho ?",
@@ -324,23 +325,6 @@
           "enclosure": {
             "url": "https://sphinx.acast.com/p/acast/s/silencio/e/6130fe881e058f00123d96cb/media.mp3",
             "length": "369675308",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "6128a43ccd91a700126b4023",
-          "author": null,
-          "description": "Redécouvrez en intégralité notre série audio Silencio, sélectionnée au festival Séries Mania. \n\nEn 2037, la défiance envers le monde politique ne cesse de s’accroître. Alors que des élections sont organisées, une jeune hacktiviste se lance dans une enquête sans précédent pour révéler au grand public la vraie nature de ce scrutin.\n\nAvec les participations de Zita Hanrot, Alban Lenoir, Roxane Bret, Nicolas Berno, Raphaëlle Lenoble, Thierry Frémont, Justin Blanckaert, Olivier Cruveiller, Marie Portolano, Onna Clairin, François Mariond et Brice Borg.\nUn podcast écrit par Thomas Le Petit-Corps et réalisé par Nathalie Bernas pour Bababam.\nMusique : Simon Lauris\nMontage : Jean-Gabriel Rassat\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
-          "link": "https://shows.acast.com/silencio/episodes/silencio-lintegrale",
-          "publishedOn": "2021-08-30T03:00:17.000Z",
-          "wordCount": null,
-          "title": "Silencio : l'intégrale",
-          "itunes": {
-            "duration": "2:04:21"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/acast/s/silencio/e/6128a43ccd91a700126b4023/media.mp3",
-            "length": "119382169",
             "type": "audio/mpeg"
           }
         }
@@ -774,176 +758,6 @@
           "enclosure": {
             "url": "https://rf.proxycast.org/c12d8756-61e3-48d0-92a7-80db936ded33/11495-13.09.2021-ITEMA_22765519-2021C3480E0100-21.mp3",
             "length": "27574250",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "18da6620-a6d2-4654-a871-bb56bbfc17d2",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:28:40 - Le Feuilleton - Tandis que Horst Wächter et sa mère Charlotte ont toujours été convaincus de la mort par empoisonnement d’Otto, Philippe Sands va chercher à étayer cette thèse en interrogeant une anthropologue biologique spécialisée dans les empoisonnements",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-10-10",
-          "publishedOn": "2021-08-29T23:00:09.000Z",
-          "wordCount": null,
-          "title": "\"La Filière\" de Philippe Sands 10/10 : Plus blanc que blanc",
-          "itunes": {
-            "duration": "00:28:40"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/deca0b97-4627-4344-bf7c-f89abacf93d8/11495-30.08.2021-ITEMA_22753895-2021C3480E0161.mp3",
-            "length": "27545791",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "00976df5-94c1-4a35-8693-c0bed48a1cb5",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:28:17 - Le Feuilleton - Un homme a recruté ces anciens nazis, il s’agit de Thomas Lucid, un Américain qui a participé à la création de la CIA. Or, au cours de son enquête, Philippe Sands va mettre au jour d’incroyables coïncidences concernant Karl Hass et Thomas Lucid…",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-9-10",
-          "publishedOn": "2021-08-29T23:00:08.000Z",
-          "wordCount": null,
-          "title": "\"La Filière\" de Philippe Sands 9/10 : Agents doubles et doubles vies",
-          "itunes": {
-            "duration": "00:28:17"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/edd6e76e-d4e0-40a2-bb55-26188fa4602b/11495-30.08.2021-ITEMA_22753895-2021C3480E0160.mp3",
-            "length": "27178623",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "fba08ba3-eafd-45d9-a03c-f72c6610f9d5",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:27:46 - Le Feuilleton - Le \"vieux camarade\" d’Otto Wächter avec lequel il a déjeuné peu avant sa mort, Karl Hass, était-il un agent double à la solde des Soviétiques et des Américains ?",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-8-10",
-          "publishedOn": "2021-08-29T23:00:07.000Z",
-          "wordCount": null,
-          "title": "\"La Filière\" de Philippe Sands 8/10 : Rome, nid d'espions ?",
-          "itunes": {
-            "duration": "00:27:46"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/e37003f9-5bbe-40c1-b7c8-b0fdb200109a/11495-30.08.2021-ITEMA_22753895-2021C3480E0159.mp3",
-            "length": "26690692",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "5d044e48-23a1-4f8b-90d1-3eab818ac48a",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:28:00 - Le Feuilleton - Philippe Sands parvient à établir que Monseigneur Hudal, qui a accueilli Otto Wächter à Rome, était le pivot d’une filière d’exfiltration de nazis vers l’Amérique du Sud, mais pas seulement.",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-7-10",
-          "publishedOn": "2021-08-29T23:00:06.000Z",
-          "wordCount": null,
-          "title": "\"La Filière\" de Philippe Sands 7/10 : Mort au Vatican",
-          "itunes": {
-            "duration": "00:28:00"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/23e65f92-27df-4ec4-be88-a39c5944cbc9/11495-30.08.2021-ITEMA_22753895-2021C3480E0158.mp3",
-            "length": "26917268",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "36b15f7c-1d36-4d37-9799-87cadaa859cd",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:27:20 - Le Feuilleton - Otto Wächter tombe malade début juillet, après un déjeuner chez un mystérieux ami près de Rome et meurt quelques jours plus tard, le corps entièrement noirci. Pour savoir s’il aurait pu être assassiné, Philippe Sands fait appel à John Le Carré, qui fut espion à cette époque.",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-6-10",
-          "publishedOn": "2021-08-29T23:00:05.000Z",
-          "wordCount": null,
-          "title": "\"La Filière\" de Philippe Sands 6/10 : John Le Carré à la rescousse",
-          "itunes": {
-            "duration": "00:27:20"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/d57b4aa7-0c75-497f-a2aa-396aa5b26492/11495-30.08.2021-ITEMA_22753895-2021C3480E0157.mp3",
-            "length": "26267955",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "a5c91c62-3262-431b-bb63-40428160ec55",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:27:34 - Le Feuilleton - En avril 1949, Otto Wächter arrive à la gare de Rome sous un faux nom et sans un sou. Grâce à l’appui de Monseigneur Hudal, il prépare son exfiltration en Amérique du Sud.",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-5-10",
-          "publishedOn": "2021-08-29T23:00:04.000Z",
-          "wordCount": null,
-          "title": "\"La Filière\" de Philippe Sands 5/10 : Un fugitif à Cinecitta",
-          "itunes": {
-            "duration": "00:27:34"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/a851648a-b81b-49b1-b974-2d0ccf639748/11495-30.08.2021-ITEMA_22753895-2021C3480E0156.mp3",
-            "length": "26487622",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "1a6a4b66-4032-46a3-b068-96fa5bea6c03",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:27:10 - Le Feuilleton - A la fin de la guerre, Otto Wächter se cache pendant trois ans dans les montagnes autrichiennes pour échapper à ceux qui sont alors à ses trousses. Sa femme vient régulièrement le ravitailler et ni l’un ni l’autre ne sont jamais inquiétés.",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-4-10",
-          "publishedOn": "2021-08-29T23:00:03.000Z",
-          "wordCount": null,
-          "title": "\"La Filière\" de Philippe Sands 4/10 : Deux nazis en haute montagne",
-          "itunes": {
-            "duration": "00:27:10"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/44c2cd09-5d63-4c2e-9fb5-92c0b87065c5/11495-30.08.2021-ITEMA_22753895-2021C3480E0155.mp3",
-            "length": "26117042",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "835ea00d-eb21-4d41-a8a4-9c587d6ed83c",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:28:40 - Le Feuilleton - Au fil de son enquête, Philippe Sands trouve les traces administratives des responsabilités d’Otto Wächter dans l’extermination de la famille de son grand-père Léon Buchholz en 1942.",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-3-10",
-          "publishedOn": "2021-08-29T23:00:02.000Z",
-          "wordCount": null,
-          "title": "\"La Filière\" de Philippe Sands 3/10 : La grande Rafle",
-          "itunes": {
-            "duration": "00:28:40"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/e9878204-f0b6-41f7-bfdf-032cad84f583/11495-30.08.2021-ITEMA_22753895-2021C3480E0154.mp3",
-            "length": "27553350",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "d11c0f01-55d8-4f77-9c6e-60c30b00fdd5",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:28:45 - Le Feuilleton - Grâce aux archives de la famille Wächter que lui a confiées Horst, Philippe Sands peut reconstituer pour partie la vie d’Otto Wächter et celle de sa femme, Charlotte, de leurs années de jeunesse jusqu’à la Seconde Guerre mondiale.",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-2-10",
-          "publishedOn": "2021-08-29T23:00:01.000Z",
-          "wordCount": null,
-          "title": "\"La Filière\" de Philippe Sands 2/10 : Des jeunes gens de bonne famille",
-          "itunes": {
-            "duration": "00:28:45"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/df547a1f-43f0-4666-bd49-c00c01078a58/11495-30.08.2021-ITEMA_22753895-2021C3480E0153.mp3",
-            "length": "27633310",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "33100d56-11ba-43f2-a705-6dad689bee4e",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:27:14 - Le Feuilleton - Philippe Sands a rencontré Horst Wächter, le fils d’un officier nazi, Otto Wächter, alors qu’il écrivait un livre sur Nuremberg. Il se rend chez lui, à Hagenberg près de Vienne, parce que Horst a accepté de lui confier ses archives familiales…",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/la-filiere-de-philippe-sands-1-10",
-          "publishedOn": "2021-08-29T23:00:00.000Z",
-          "wordCount": null,
-          "title": "\"La Filière\" de Philippe Sands 1/10 : Un château en Autriche",
-          "itunes": {
-            "duration": "00:27:14"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/271e5ed3-93b9-46c2-80cb-91a13232eeca/11495-30.08.2021-ITEMA_22753895-2021C3480E0152.mp3",
-            "length": "26166701",
             "type": "audio/mpeg"
           }
         }
