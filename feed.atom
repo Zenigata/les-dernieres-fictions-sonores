@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-09-30T00:34:25.600Z</updated>
+    <updated>2021-10-01T00:34:25.554Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 32 Inktober Again]]></title>
+        <id>9ee9858b744ea547e4aeb45d7b6a09b8dfd9a576</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-32-inktober-again"/>
+        <updated>2021-09-30T04:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Ce préambule vous présente le concept de cette seconde saison de la série.
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Way Too Early for a Drink - Gerhard Feng 
+https://www.youtube.com/watch?v=ZWkGgtU5U7U
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 03 - Ici votre capitaine]]></title>
         <id>61534d18845037149dae6c43</id>
@@ -713,30 +743,6 @@ et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre 
 Rendez-vous la semaine prochaine pour une nouvelle Pépite !]]></summary>
         <author>
             <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BANDE ANNONCE SAISON 6]]></title>
-        <id>5b3a46538805c28b7dabd12165c567de0801021b</id>
-        <link href="https://podcast.ausha.co/les-dessous-de-savin/bande-annonce-saison-6"/>
-        <updated>2021-08-31T14:59:40.000Z</updated>
-        <summary type="html"><![CDATA[📍BANDE ANNONCE SAISON 6📍
-
-La saison 6 du podcast "Les dessous de Savin" débutera le venredi 3 septembre et sera disponible sur toutes vos plateformes d'écoute.
-
-Aujourd'hui, j'ai le plaisir de vous présenter les premières minutes du premier épisode qui tient lieu de bande annonce de cette nouvelle saison.
-
-"Les dessous de SAVIN" 
-Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. 
-Un épisode inédit chaque vendredi dés 7h du matin.
-Abonnez-vous sur votre plateforme d'écoute pour ne pas rater la diffusion. Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Apple Podcasts! Ça fait grimper le programme dans les charts. 
-Partagez cette bande annonce,  parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin.  
-
-🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧          
-Crédit Musique: 
-"STATIC" composé par Stel https://www.instagram.com/stel_music/]]></summary>
-        <author>
-            <name>Les dessous de Savin</name>
         </author>
     </entry>
 </feed>

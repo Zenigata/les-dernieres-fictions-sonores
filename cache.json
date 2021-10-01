@@ -153,6 +153,23 @@
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
         {
+          "id": "9ee9858b744ea547e4aeb45d7b6a09b8dfd9a576",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nCe préambule vous présente le concept de cette seconde saison de la série.\n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Way Too Early for a Drink - Gerhard Feng \nhttps://www.youtube.com/watch?v=ZWkGgtU5U7U\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-32-inktober-again",
+          "publishedOn": "2021-09-30T04:36:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 32 Inktober Again",
+          "itunes": {
+            "duration": "02:08"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/bj0A1hXDJedp.mp3?t=1632901617",
+            "length": "2063661",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "2a60e6b6dce7742a723238fa49ac4a3ed81236c4",
           "author": null,
           "description": "Pépites est une fiction audio produite par le label Podcut !\n \nJuliette, une aspirante influenceuse, fait découvrir au travers de son nouveau podcast les plans les plus branchés de la capitale. Mais les créateurs qu’elle interviewe et leur concept vont s’avérer plus loufoques les uns que les autres...\n \nDans cet épisode Anouk et Zu vous présentent l'ensemble des personnes qui ont permis la réalisation de cette fiction.\n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7\n\nA très vite pour de nouvelles fictions",
@@ -412,23 +429,6 @@
           "enclosure": {
             "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/bPNPWCj1D211.mp3?t=1630534695",
             "length": "9017095",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "5b3a46538805c28b7dabd12165c567de0801021b",
-          "author": null,
-          "description": "📍BANDE ANNONCE SAISON 6📍\n\nLa saison 6 du podcast \"Les dessous de Savin\" débutera le venredi 3 septembre et sera disponible sur toutes vos plateformes d'écoute.\n\nAujourd'hui, j'ai le plaisir de vous présenter les premières minutes du premier épisode qui tient lieu de bande annonce de cette nouvelle saison.\n\n\"Les dessous de SAVIN\" \nOu les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. \nUn épisode inédit chaque vendredi dés 7h du matin.\nAbonnez-vous sur votre plateforme d'écoute pour ne pas rater la diffusion. Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Apple Podcasts! Ça fait grimper le programme dans les charts. \nPartagez cette bande annonce,  parlez-en autour de vous et retrouvons-nous sur Facebook et Instagram @sebastiensavin.  \n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧          \nCrédit Musique: \n\"STATIC\" composé par Stel https://www.instagram.com/stel_music/",
-          "link": "https://podcast.ausha.co/les-dessous-de-savin/bande-annonce-saison-6",
-          "publishedOn": "2021-08-31T14:59:40.000Z",
-          "wordCount": null,
-          "title": "BANDE ANNONCE SAISON 6",
-          "itunes": {
-            "duration": "03:13"
-          },
-          "enclosure": {
-            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/BnAR0CrzYGZe.mp3?t=1630421740",
-            "length": "3092106",
             "type": "audio/mpeg"
           }
         }
