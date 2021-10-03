@@ -2,10 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-02T00:31:12.493Z</updated>
+    <updated>2021-10-03T00:34:03.388Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Le château" de Franz kafka (partie 1)]]></title>
+        <id>58988549-b662-44e2-8748-94ee5ca83dde</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-samedi-noir/le-chateau-de-franz-kafka-partie-1"/>
+        <updated>2021-10-02T19:58:00.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:56:05 - Fictions / Samedi noir - par : Blandine Masson - Arrivé dans la nuit dans un village enfoui sous la neige, K. se présente comme le nouvel arpenteur, appelé par les autorités du Château.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chapitre 1 : Back from the grave (partie 2)]]></title>
+        <id>6156048acfb5070159b9646d</id>
+        <link href="https://adad.lepodcast.fr/chapitre-1-back-from-the-grave-partie-2"/>
+        <updated>2021-10-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vous pensiez vraiment que c'était fini ? Que vous pouviez dormir sur vos deux oreilles ? Que les histoires du premier chapitre ne reviendraient plus vous hanter ? 
+Détrompez-vous.
+Bienvenue dans le premier chapitre d’Avant d’aller dormir. 
+Installez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.
+Liens vers les histoires
+Le monstre sous mon lit, par David Maloney
+La radio, par u/gretelcat
+Le rituel Diablo Arana, par u/SZEldrichKreacher108
+Les sifflements, par u/queen_of_the_moths
+Tu mérites ta cage, par Spookypotato
+Merci à tous les auteurs d’avoir accepté de faire partie de cet épisode, n’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr
+Rejoignez-nous !
+Discord
+Instagram
+Facebook
+YouTube
+Twitch
+Notre messagerie vocale : 07 49 25 27 90
+Soutenez-nous
+En nous versant quelques deniers sur Patreon (https://patreon.com/adad), en échange vous recevrez chaque mois les épisodes en avance et du contenu exclusif !
+En nous mettant une super note sur SensCritique, Apple Podcasts ou Podcast Addict.
+Ou tout simplement en parlant de nous à tous vos proches.
+Tous ces liens sont disponibles sur https://avantdallerdormir.fr
+L'équipe
+🎙️ Vos humbles serviteurs, Yop (Instagram / Youtube / Podcasts / Twitch) & UnDixGo (Instagram / Twitch)
+🏞 Illustration : renarmaro
+Il est maintenant temps de trouver le sommeil. À bientôt…]]></summary>
+        <author>
+            <name>Avant d’aller dormir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #01 - UN OBJET RARE]]></title>
+        <id>https://www.youtube.com/watch?v=cp_Jot7ktm8</id>
+        <link href="https://www.youtube.com/watch?v=cp_Jot7ktm8"/>
+        <updated>2021-10-02T08:00:11.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 34 Costume]]></title>
+        <id>849079e8d5ff07bfc2ea87fbca59830fc0e2158c</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-34-costume"/>
+        <updated>2021-10-02T04:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 34, le mot original était "Suit" et a été traduit en "Costume". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Youth - August Bust
+https://music.youtube.com/watch?v=SOSxv2naeag&list=RDAMVMSOSxv2naeag
+
+Le logo a été réalisé par Kevin Boyer. 
+
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soldes de tout conte - Ep 33 Cristal]]></title>
         <id>ed16eb7afc9c02789a4cf347d48815dce59fa4a3</id>
@@ -720,38 +806,6 @@ Ecoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podc
 Les Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Les autres sont la propriété de son auteur. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.]]></summary>
         <author>
             <name>Les Chroniques Galactiques - la Fiction audio Star Wars</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#1 - S06/EP01 - "Effets secondaires"]]></title>
-        <id>271ed6ac24147c59831422dfc372de25cf602b35</id>
-        <link href="https://podcast.ausha.co/les-dessous-de-savin/1-s06-ep01-effets-secondaires"/>
-        <updated>2021-09-03T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[📍S06/EP01 - "Effets secondaires"📍
-
-Cela fait 2 mois que je ne vous ai pas donné de mes nouvelles. 
-Deux mois c'est long. Sauf quand on ne s’ennuit pas. Et je n’ai pas vu le temps passer car selon un proverbe Italien "L'amour fait passer le temps." La deuxième partie de ce proverbe dit aussi « Et le temps fait passer l’amour… ». Mais je ne veux pas y croire. Pas tout de suite, pas déjà… 
- J’ai rencontré Manu il y a seulement quatre mois.
-Ah mon architecte, mon bâtisseur, les pieds ancrés dans la réalité. Mon pic, mon cap, mon roc. (Edmond Rostang). Il faut que je site mes sources. C’est un important. C’est très puissant d’inclure des citations, des proverbes… Très puissant…
-
-Nous sommes en vacances en Provence. Une déconnexion totale, une bouffée d’air, à mille lieux des préoccupations sanitaires, et des jugements de valeurs qui ont animé les conversations estivales et qui divisent.
-
-Voici "Effets secondaires" le nouvel épisode du podcast "Les dessous de Savin"
-
-"Les dessous de Savin"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. 
-
-Un épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. 
-Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! 
-Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  📸 INSTAGRAM
-
-🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
-
-"STATIC" composé par Stel https://www.instagram.com/stel_musique/
-
-"MAMBO ITALIANO"  (Carla Boni)
-"TAKE ON ME"  (a-ha)]]></summary>
-        <author>
-            <name>Les dessous de Savin</name>
         </author>
     </entry>
 </feed>
