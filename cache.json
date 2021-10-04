@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WRMg0pBklzg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WRMg0pBklzg",
+          "publishedOn": "2021-10-03T08:00:07.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #02 - LES HOMMES EN COSTUME"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cp_Jot7ktm8",
           "author": null,
           "description": "",
@@ -162,6 +171,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "825afe97a3002ebcf9d537ec367974507c0d3afa",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 35, le mot original était \"Vessel\" et a été traduit en \"Vaisseau\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : To Pirate Cove - Adriel Fair\nhttps://www.youtube.com/watch?v=cr6rv6hGd7w&ab_channel=EpidemicFantasy\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-35-vaisseau",
+          "publishedOn": "2021-10-03T04:38:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 35 Vaisseau",
+          "itunes": {
+            "duration": "03:07"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/bPk3guZ5d1de.mp3?t=1632902255",
+            "length": "3003916",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "849079e8d5ff07bfc2ea87fbca59830fc0e2158c",
           "author": null,
@@ -562,23 +588,6 @@
             "url": "https://www.podcastics.com/podcast/episode/96103/file.mp3?s=72609268",
             "type": "audio/mpeg",
             "length": "72609268"
-          }
-        },
-        {
-          "id": "94463",
-          "author": null,
-          "description": "Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la fiction audio Star Wars garantie sans Jedi) reprend avec l'avant-dernier épisode !\nEpisode 6 : Quinze pour cent\nTrovarn étant en danger, Wilhem et Daan n'ont plus qu'un seul recours : aller voir Dox l'Assureur sur Coruscant et le convaincre de leur donner accès à sa réserve. \nToute l'actu de la saga mp3 \"Les Chroniques Galactiques\" sur notre site, Facebook et Twitter !\nEcoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/\nLes Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Les autres sont la propriété de son auteur. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.",
-          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
-          "publishedOn": "2021-09-03T20:27:00.000Z",
-          "wordCount": null,
-          "title": "Saison 3 - EP. 6/7 - Quinze pour cent",
-          "itunes": {
-            "duration": "00:14:23"
-          },
-          "enclosure": {
-            "url": "https://www.podcastics.com/podcast/episode/94463/file.mp3?s=34637697",
-            "type": "audio/mpeg",
-            "length": "34637697"
           }
         }
       ]
