@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=M5QEnydUM_0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M5QEnydUM_0",
+          "publishedOn": "2021-10-04T08:00:05.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #03 - UN NOUVEAU MONDE"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WRMg0pBklzg",
           "author": null,
           "description": "",
@@ -128,23 +137,6 @@
             "length": "40,1",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://javras.fr/?p=18653",
-          "author": "Reshkaf",
-          "description": "Française, Français, je vous ai compris Auditeurs, Auditrices, moi, Reshkaf, annonce que je me suis fourvoyé.\nCela fait presque 9 mois que vous avez été sans nouvelle de moi et l’un dans l’autre je ne suis pas vraiment sûr que vous ayez paniqué à ce sujet.\nEn ce dimanche, je vous livre cet antépénultième épisode de La Croisade Solitaire où nos camarades arrivent dans une ville balnéaire au milieu des montagnes.\n“Comment est-ce possible ?” vous direz-vous peut-être,\n“Il n’a pas abandonné sa saga ?” vous direz-vous sans doute,\n“Est-ce que je peux piper un dé avec de la naphtaline ?” ne s’est jamais demandé qui que ce soit au monde\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nLes réponses vont en suivant :\n– C’est expliqué dans l’épisode\n– Non\n– Je sais pas, mais la question est intéressante et ça doit sans doute dé…",
-          "link": "https://javras.fr/2021/09/05/la-croisade-solitaire-episode-12/",
-          "publishedOn": "2021-09-05T08:04:23.000Z",
-          "wordCount": null,
-          "title": "La Croisade Solitaire – Épisode 12",
-          "itunes": {
-            "duration": "2:40"
-          },
-          "enclosure": {
-            "url": "https://javras.fr/podcast-download/18653/la-croisade-solitaire-episode-12.mp3",
-            "length": "5,80",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -171,6 +163,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "e8ca3559bcb7ee17e5e51fc43c5073f6a33a58a6",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 36, le mot original était \"Knot\" et a été traduit en \"Noeud\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : May she rest - Gavin Luke\nhttps://www.youtube.com/watch?v=El0Su0dZj4g&ab_channel=EpidemicClassical\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-36-noeud",
+          "publishedOn": "2021-10-04T04:01:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 36 Nœud",
+          "itunes": {
+            "duration": "03:15"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/brQNghj8zpWy.mp3?t=1632902434",
+            "length": "3132230",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "825afe97a3002ebcf9d537ec367974507c0d3afa",
           "author": null,
@@ -869,23 +878,6 @@
           "enclosure": {
             "url": "https://rf.proxycast.org/fc40f080-0b6d-4b3e-a7f7-0e5e74230d1a/11496-11.09.2021-ITEMA_22770974-2021C3067E0150-21.mp3",
             "length": "55626368",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "2e98e0a8-15ba-49f5-9bc6-72e533f604e7",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:57:26 - Fictions / Samedi noir - par : Blandine Masson - Alfa Ndiaye et Mademba Diop, tirailleurs sénégalais et amis d'enfance, font partie d'un terrible assaut lancé un matin de la Grande Guerre. Blessé à mort, Mademba s'écroule sous les yeux d'Alfa, qui perd la raison et répand la violence sur le champ de bataille.",
-          "link": "https://www.franceculture.fr/emissions/fictions-samedi-noir/frere-d-ame-de-david-diop",
-          "publishedOn": "2021-09-04T19:58:36.000Z",
-          "wordCount": null,
-          "title": "\"Frêre d'âme\" de David Diop",
-          "itunes": {
-            "duration": "00:57:26"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/8074e024-0168-43e0-82eb-5b62c77f6d77/11496-04.09.2021-ITEMA_22763256-2021C3067E0147.mp3",
-            "length": "55168219",
             "type": "audio/mpeg"
           }
         }

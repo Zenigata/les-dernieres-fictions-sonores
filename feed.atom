@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-04T00:36:20.562Z</updated>
+    <updated>2021-10-05T00:32:37.562Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #03 - UN NOUVEAU MONDE]]></title>
+        <id>https://www.youtube.com/watch?v=M5QEnydUM_0</id>
+        <link href="https://www.youtube.com/watch?v=M5QEnydUM_0"/>
+        <updated>2021-10-04T08:00:05.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 36 Nœud]]></title>
+        <id>e8ca3559bcb7ee17e5e51fc43c5073f6a33a58a6</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-36-noeud"/>
+        <updated>2021-10-04T04:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 36, le mot original était "Knot" et a été traduit en "Noeud". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : May she rest - Gavin Luke
+https://www.youtube.com/watch?v=El0Su0dZj4g&ab_channel=EpidemicClassical
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #02 - LES HOMMES EN COSTUME]]></title>
         <id>https://www.youtube.com/watch?v=WRMg0pBklzg</id>
@@ -799,37 +838,6 @@ Comédiens: Mathilde Bourbin dans le rôle de Justine, Antoine Berry Roger dans 
 Ingénieurs du …]]></summary>
         <author>
             <name>Silencio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Croisade Solitaire – Épisode 12]]></title>
-        <id>https://javras.fr/?p=18653</id>
-        <link href="https://javras.fr/2021/09/05/la-croisade-solitaire-episode-12/"/>
-        <updated>2021-09-05T08:04:23.000Z</updated>
-        <summary type="html"><![CDATA[Française, Français, je vous ai compris Auditeurs, Auditrices, moi, Reshkaf, annonce que je me suis fourvoyé.
-Cela fait presque 9 mois que vous avez été sans nouvelle de moi et l’un dans l’autre je ne suis pas vraiment sûr que vous ayez paniqué à ce sujet.
-En ce dimanche, je vous livre cet antépénultième épisode de La Croisade Solitaire où nos camarades arrivent dans une ville balnéaire au milieu des montagnes.
-“Comment est-ce possible ?” vous direz-vous peut-être,
-“Il n’a pas abandonné sa saga ?” vous direz-vous sans doute,
-“Est-ce que je peux piper un dé avec de la naphtaline ?” ne s’est jamais demandé qui que ce soit au monde
-					
-														
-Les réponses vont en suivant :
-– C’est expliqué dans l’épisode
-– Non
-– Je sais pas, mais la question est intéressante et ça doit sans doute dé…]]></summary>
-        <author>
-            <name>Reshkaf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Frêre d'âme" de David Diop]]></title>
-        <id>2e98e0a8-15ba-49f5-9bc6-72e533f604e7</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-samedi-noir/frere-d-ame-de-david-diop"/>
-        <updated>2021-09-04T19:58:36.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:57:26 - Fictions / Samedi noir - par : Blandine Masson - Alfa Ndiaye et Mademba Diop, tirailleurs sénégalais et amis d'enfance, font partie d'un terrible assaut lancé un matin de la Grande Guerre. Blessé à mort, Mademba s'écroule sous les yeux d'Alfa, qui perd la raison et répand la violence sur le champ de bataille.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
         </author>
     </entry>
 </feed>
