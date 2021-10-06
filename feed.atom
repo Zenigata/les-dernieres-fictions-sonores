@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-05T00:32:37.562Z</updated>
+    <updated>2021-10-06T00:33:57.780Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #04 - LE NŒUD COSMIQUE]]></title>
+        <id>https://www.youtube.com/watch?v=UP-IFp52ilU</id>
+        <link href="https://www.youtube.com/watch?v=UP-IFp52ilU"/>
+        <updated>2021-10-05T08:00:07.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 37 Corbeau]]></title>
+        <id>d327529eaab6c7b00c58aa5c73bb57bef14bc0d8</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-37-corbeau"/>
+        <updated>2021-10-05T04:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 37, le mot original était "Raven" et a été traduit en "Corbeau". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : The escape plan activated - Grant Newman
+https://www.youtube.com/watch?v=1f-si1On32Q&ab_channel=GrantNewman-Topic
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #03 - UN NOUVEAU MONDE]]></title>
         <id>https://www.youtube.com/watch?v=M5QEnydUM_0</id>
@@ -788,56 +827,6 @@ https://www.patreon.com/adad
 https://www.twitch.tv/avantdallerdormir]]></summary>
         <author>
             <name>Avant d'aller dormir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noises, saison 1 : l'intégrale]]></title>
-        <id>6130fe218d200a0012302f68</id>
-        <link href="https://shows.acast.com/noises/episodes/noises-saison-1-lintegrale"/>
-        <updated>2021-09-06T03:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Après "Silencio" et "Passage à l'acte", voici les 11 épisodes de la saison 1 de Noises, le podcast élu meilleur podcast de l'année 2020 au salon de la Radio. Dix épisodes à écouter d'une traite !
-C'est parti pour vivre une expérience sonore unique.
-
-Episode 1 : Les 3 coups
-Production: Bababam.
-Réalisation: Nathalie Bernas.
-Comédiens: Florian Bayoux, Nathalie Bernas, Aurélien Gouas, Cédric Ingard, Emmanuel Strauss.
-Ingénieurs du sons: Sébastien Decaux, Laurent Foucher, Jean-Gabriel Rassat.   
-Enregistré au studio Kazoo.
-
-Episode 2 : Jeu, Set et Match
-Production: Bababam.
-Réalisation: Nathalie Bernas.
-Ecriture: Thomas Le Petit-Corps. 
-Comédiens: Mathilde Bourbin dans le rôle de Justine, Antoine Berry Roger dans le rôle de Quentin, Nathalie Bernas dans le rôle de la supportrice
-Ingénieurs du …]]></summary>
-        <author>
-            <name>Noises</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noises, saison 1 : l'intégrale]]></title>
-        <id>6130fe881e058f00123d96cb</id>
-        <link href="https://shows.acast.com/silencio/episodes/noises-saison-1-lintegrale"/>
-        <updated>2021-09-06T03:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Après "Silencio" et "Passage à l'acte", voici les 11 épisodes de la saison 1 de Noises, le podcast élu meilleur podcast de l'année 2020 au salon de la Radio. Dix épisodes à écouter d'une traite !
-C'est parti pour vivre une expérience sonore unique.
-
-Episode 1 : Les 3 coups
-Production: Bababam.
-Réalisation: Nathalie Bernas.
-Comédiens: Florian Bayoux, Nathalie Bernas, Aurélien Gouas, Cédric Ingard, Emmanuel Strauss.
-Ingénieurs du sons: Sébastien Decaux, Laurent Foucher, Jean-Gabriel Rassat.   
-Enregistré au studio Kazoo.
-
-Episode 2 : Jeu, Set et Match
-Production: Bababam.
-Réalisation: Nathalie Bernas.
-Ecriture: Thomas Le Petit-Corps. 
-Comédiens: Mathilde Bourbin dans le rôle de Justine, Antoine Berry Roger dans le rôle de Quentin, Nathalie Bernas dans le rôle de la supportrice
-Ingénieurs du …]]></summary>
-        <author>
-            <name>Silencio</name>
         </author>
     </entry>
 </feed>
