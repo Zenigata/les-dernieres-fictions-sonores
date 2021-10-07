@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Og5A7uRCxqw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Og5A7uRCxqw",
+          "publishedOn": "2021-10-06T08:00:10.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #05 - LES CORBEAUX D'ODIN"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UP-IFp52ilU",
           "author": null,
           "description": "",
@@ -172,6 +181,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "cae5db944c3bb81c2572fba6b81be1d32190bfe2",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 38, le mot original était \"Spirit\" et a été traduit en \"Esprit\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : The escape plan activated - Grant Newman\nhttps://www.youtube.com/watch?v=1f-si1On32Q&ab_channel=GrantNewman-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-38-esprit",
+          "publishedOn": "2021-10-06T04:38:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 38 Esprit",
+          "itunes": {
+            "duration": "02:49"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/B6YQ8C6LZnrx.mp3?t=1632919042",
+            "length": "2707629",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "d327529eaab6c7b00c58aa5c73bb57bef14bc0d8",
           "author": null,
