@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-07T00:33:28.861Z</updated>
+    <updated>2021-10-08T00:33:29.349Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #06 - L'ESPRIT DE LA JEUNESSE]]></title>
+        <id>https://www.youtube.com/watch?v=hWCNxuSIJxQ</id>
+        <link href="https://www.youtube.com/watch?v=hWCNxuSIJxQ"/>
+        <updated>2021-10-07T08:00:21.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 39 Ventilateur]]></title>
+        <id>95338cc75e0f4b8139602e0ae1cefcc39603cae0</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-39-ventilateur"/>
+        <updated>2021-10-07T04:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 39, le mot original était "Fan" et a été traduit en "Ventilateur". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Clean It Up - Jerry Lacey
+https://www.epidemicsound.com/track/xTqJNLG8hU/
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #05 - LES CORBEAUX D'ODIN]]></title>
         <id>https://www.youtube.com/watch?v=Og5A7uRCxqw</id>
