@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mN4WTgd2OI4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mN4WTgd2OI4",
+          "publishedOn": "2021-10-09T08:00:21.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #08 - A LA RECHERCHE DU TEMPS PERDU"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lIhCm_-4L0M",
           "author": null,
           "description": "",
@@ -199,6 +208,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "f539c7832205b8977dbd9bfacacd802aa8c6d761",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 41, le mot original était \"Pressure\" et a été traduit en \"Pression\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Traps Everywhere - Experia\nhttps://music.youtube.com/watch?v=I-fAdpeVkrM&feature=share\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-41-pression",
+          "publishedOn": "2021-10-09T04:03:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 41 Pression",
+          "itunes": {
+            "duration": "02:18"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/yk0PGhg9egwv.mp3?t=1632920494",
+            "length": "2221980",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "7b07382131cee31d84b9f90a33df64765fa3b199",
           "author": null,
@@ -546,23 +572,6 @@
             "length": "8061640",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "a61f7de27d8bb62742c602c4d4d2756fedd0fb72",
-          "author": null,
-          "description": "📍S06/EP02 - \"Les platanes\"📍\n\nCet été comme l’année passée on s’est  tous réunis dans le mas des parents de Valérie. Un cocon loin de tout au pied des Alpilles. \nCe qui ne nous a pas épargné le sujet au top des charts français cet été, et qui a l’instar du pays a passablement écorniflé la cohésion de notre groupe…\n\nIl y a dans la vie des moments clés. Des carrefours. Là c’en est un. Soit je prends la route balisée. Que je connais par coeur, car je l’ai emprunté des milliers de fois. C’est moi qui l’ai goudronnée, j’ai mis les stations services et les platanes je sais exactement où ils sont je peux m’emplataner. \n\nVoici \"Les platanes\" le nouvel épisode du podcast \"Les dessous de Savin\"\n\n\"Les dessous de Savin\"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. \n\nUn épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. \nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! \nPartagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  📸 INSTAGRAM\n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\n\"PIRATES DES CARAIBES\" \n\"TAKE ON ME\"  (a-ha)",
-          "link": "https://podcast.ausha.co/les-dessous-de-savin/2-s06-ep02-les-platanes",
-          "publishedOn": "2021-09-10T01:00:00.000Z",
-          "wordCount": null,
-          "title": "#2 - S06/EP02 - \"Les platanes\"",
-          "itunes": {
-            "duration": "08:04"
-          },
-          "enclosure": {
-            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/ykqJzIqGZ0aR.mp3?t=1630943963",
-            "length": "7748839",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -577,6 +586,23 @@
       "feedUrl": "https://adad.lepodcast.fr/rss",
       "siteUrl": "https://avantdallerdormir.fr/",
       "articles": [
+        {
+          "id": "6160062d1c82621906d95e05",
+          "author": "Avant d’aller dormir",
+          "description": "Bonsoir, bienvenue dans l’épisode 26.1 d’Avant d’aller dormir. Cet épisode est le premier d'une trilogie, la suite sortira samedi prochain !\nEn attendant, on compte sur vous pour voter pour nous pour remporter le prix du public pour le Paris Podcast Festival ❤️\nInstallez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.\nLiens vers l'histoire\nJ'ai acheté une femme sur Internet (Partie 1), par Kikito Horrors\nN’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr\nRejoignez-nous !\nInstagram\nFacebook\nYouTube\nTwitch\nNotre messagerie vocale : 07 49 25 27 90\nSoutenez-nous\nEn nous versant quelques deniers sur Patreon, en échange vous recevrez chaque mois les épisodes en avance et du contenu exclusif !\nEn nous mettant une super note sur SensCritique, Apple Podcasts ou Podcast Addict.\nOu tout simplement en parlant de nous à tous vos proches.\nTous ces liens sont disponibles sur https://avantdallerdormir.fr\nL'équipe\n🎙️ Vos humbles serviteurs, Yop (Instagram / Youtube / Podcasts) & UnDixGo (Instagram / Twitch)\n🏞 Illustration : renarmaro\nIl est maintenant temps de trouver le sommeil. À bientôt…",
+          "link": "https://adad.lepodcast.fr/episode-26-point-1-jai-achete-une-femme-sur-internet",
+          "publishedOn": "2021-10-09T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Episode 26.1 : J'ai acheté une femme sur Internet",
+          "itunes": {
+            "duration": "0:13:24"
+          },
+          "enclosure": {
+            "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/episode-26-point-1-jai-achete-une-femme-sur-internet/enclosure.7b1c2dfb5e6ecdaba0481c8610da455d233f938a8e89a30743c775ed9ae60ef0.mp3?p=f",
+            "length": "19609332",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "6156048acfb5070159b9646d",
           "author": "Avant d’aller dormir",
@@ -883,6 +909,23 @@
       "feedUrl": "https://radiofrance-podcast.net/podcast09/rss_11496.xml",
       "siteUrl": "https://www.franceculture.fr/emissions/fictions-samedi-noir",
       "articles": [
+        {
+          "id": "606f88ba-b28b-4c1a-8fa9-fdf59d061ea1",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:52:03 - Fictions / Samedi noir - par : Blandine Masson - Je suis victime, et peut-être les lois elles aussi, d’un abus épouvantable",
+          "link": "https://www.franceculture.fr/emissions/fictions-samedi-noir/le-chateau-de-franz-kafka-partie-2",
+          "publishedOn": "2021-10-09T19:53:33.000Z",
+          "wordCount": null,
+          "title": "\"Le château\" de Franz Kafka (partie 2)",
+          "itunes": {
+            "duration": "00:52:03"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/03dfd10b-2e11-4f28-a9da-7bbd30583d43/11496-09.10.2021-ITEMA_22801098-2010C3067E0006-21.mp3",
+            "length": "50003954",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "58988549-b662-44e2-8748-94ee5ca83dde",
           "author": "podcast@radiofrance.com (Radio France)",

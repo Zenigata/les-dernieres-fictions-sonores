@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-09T00:30:29.638Z</updated>
+    <updated>2021-10-10T00:33:23.185Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Le château" de Franz Kafka (partie 2)]]></title>
+        <id>606f88ba-b28b-4c1a-8fa9-fdf59d061ea1</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-samedi-noir/le-chateau-de-franz-kafka-partie-2"/>
+        <updated>2021-10-09T19:53:33.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:52:03 - Fictions / Samedi noir - par : Blandine Masson - Je suis victime, et peut-être les lois elles aussi, d’un abus épouvantable]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 26.1 : J'ai acheté une femme sur Internet]]></title>
+        <id>6160062d1c82621906d95e05</id>
+        <link href="https://adad.lepodcast.fr/episode-26-point-1-jai-achete-une-femme-sur-internet"/>
+        <updated>2021-10-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonsoir, bienvenue dans l’épisode 26.1 d’Avant d’aller dormir. Cet épisode est le premier d'une trilogie, la suite sortira samedi prochain !
+En attendant, on compte sur vous pour voter pour nous pour remporter le prix du public pour le Paris Podcast Festival ❤️
+Installez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.
+Liens vers l'histoire
+J'ai acheté une femme sur Internet (Partie 1), par Kikito Horrors
+N’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr
+Rejoignez-nous !
+Instagram
+Facebook
+YouTube
+Twitch
+Notre messagerie vocale : 07 49 25 27 90
+Soutenez-nous
+En nous versant quelques deniers sur Patreon, en échange vous recevrez chaque mois les épisodes en avance et du contenu exclusif !
+En nous mettant une super note sur SensCritique, Apple Podcasts ou Podcast Addict.
+Ou tout simplement en parlant de nous à tous vos proches.
+Tous ces liens sont disponibles sur https://avantdallerdormir.fr
+L'équipe
+🎙️ Vos humbles serviteurs, Yop (Instagram / Youtube / Podcasts) & UnDixGo (Instagram / Twitch)
+🏞 Illustration : renarmaro
+Il est maintenant temps de trouver le sommeil. À bientôt…]]></summary>
+        <author>
+            <name>Avant d’aller dormir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #08 - A LA RECHERCHE DU TEMPS PERDU]]></title>
+        <id>https://www.youtube.com/watch?v=mN4WTgd2OI4</id>
+        <link href="https://www.youtube.com/watch?v=mN4WTgd2OI4"/>
+        <updated>2021-10-09T08:00:21.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 41 Pression]]></title>
+        <id>f539c7832205b8977dbd9bfacacd802aa8c6d761</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-41-pression"/>
+        <updated>2021-10-09T04:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 41, le mot original était "Pressure" et a été traduit en "Pression". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Traps Everywhere - Experia
+https://music.youtube.com/watch?v=I-fAdpeVkrM&feature=share
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #07 - VENTILAMAX]]></title>
         <id>https://www.youtube.com/watch?v=lIhCm_-4L0M</id>
@@ -925,36 +1004,6 @@ Pour ceux qui étaient présents pendant les live où je mixais l’épisode, je
 Comment écrire le réel ?]]></summary>
         <author>
             <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#2 - S06/EP02 - "Les platanes"]]></title>
-        <id>a61f7de27d8bb62742c602c4d4d2756fedd0fb72</id>
-        <link href="https://podcast.ausha.co/les-dessous-de-savin/2-s06-ep02-les-platanes"/>
-        <updated>2021-09-10T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[📍S06/EP02 - "Les platanes"📍
-
-Cet été comme l’année passée on s’est  tous réunis dans le mas des parents de Valérie. Un cocon loin de tout au pied des Alpilles. 
-Ce qui ne nous a pas épargné le sujet au top des charts français cet été, et qui a l’instar du pays a passablement écorniflé la cohésion de notre groupe…
-
-Il y a dans la vie des moments clés. Des carrefours. Là c’en est un. Soit je prends la route balisée. Que je connais par coeur, car je l’ai emprunté des milliers de fois. C’est moi qui l’ai goudronnée, j’ai mis les stations services et les platanes je sais exactement où ils sont je peux m’emplataner. 
-
-Voici "Les platanes" le nouvel épisode du podcast "Les dessous de Savin"
-
-"Les dessous de Savin"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. 
-
-Un épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. 
-Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! 
-Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  📸 INSTAGRAM
-
-🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
-
-"STATIC" composé par Stel https://www.instagram.com/stel_musique/
-
-"PIRATES DES CARAIBES" 
-"TAKE ON ME"  (a-ha)]]></summary>
-        <author>
-            <name>Les dessous de Savin</name>
         </author>
     </entry>
 </feed>
