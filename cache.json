@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xxRyqZNRJJg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xxRyqZNRJJg",
+          "publishedOn": "2021-10-11T08:00:30.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #10 - PUISSE LE SORT VOUS ÊTRE FAVORAAABLE"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Z7PVuN_22UM",
           "author": null,
           "description": "",
@@ -191,23 +200,6 @@
             "length": "95,1",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://javras.fr/?p=18703",
-          "author": "Erika",
-          "description": "Salut à tous !\nL’été n’est pas encore terminé donc voici l’épisode 06 d’Amydale Crossing : New Life ! Je peux officiellement dire que j’ai dépassé la V1 que j’ai sorti en 2014. \nJe suis assez contente de ce que donne cette nouvelle version et des retours que j’ai dessus. Merci à tous pour votre soutien.\nParlons maintenant de cet épisode. L’épisode parle globalement d’Amy et de son passage à Tortiland. Je voulais absolument le sortir cet été vu que l’épisode entier a un thème estival avec la plage, la plongée, etc. C’était le meilleur moment pour le sortir. Aussi, cet épisode traite de la place d’Amy au sein de Zoonderland, qui est assez important pour le développement de l’héroïne.\nPour ceux qui étaient présents pendant les live où je mixais l’épisode, je me suis assez éclatée sur les prem…",
-          "link": "https://javras.fr/2021/09/12/amydale-crossing-new-life-episode-06/",
-          "publishedOn": "2021-09-12T07:30:00.000Z",
-          "wordCount": null,
-          "title": "Amydale Crossing : New Life – Épisode 06",
-          "itunes": {
-            "duration": "16:23"
-          },
-          "enclosure": {
-            "url": "https://javras.fr/podcast-download/18703/amydale-crossing-new-life-episode-06.mp3",
-            "length": "40,1",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -234,6 +226,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "55f501800dc9673214627255a63844ed19945c8d",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 43, le mot original était \"Sour\" et a été traduit en \"Acide\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Fifth Choice - Gridded\nGwaLKYM&ab_channel=Gridded-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-43-acide",
+          "publishedOn": "2021-10-11T04:41:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 43 Acide",
+          "itunes": {
+            "duration": "02:26"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/b241qupzVkGL.mp3?t=1633102896",
+            "length": "2345517",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "2393697f9b85788798c9444129ae19d93c43a564",
           "author": null,
@@ -1017,23 +1026,6 @@
           "enclosure": {
             "url": "https://rf.proxycast.org/05e03415-d5c3-477c-ae43-2d9e167dffe4/11496-18.09.2021-ITEMA_22778586-2021C3067E0148-21.mp3",
             "length": "53676161",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "7cc69bab-dc3a-45e4-8e5d-89838c04633f",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:57:55 - Fictions / Samedi noir - par : Blandine Masson - Commémoration du 11 septembre 2001 \nComment écrire le réel ?",
-          "link": "https://www.franceculture.fr/emissions/fictions-samedi-noir/trois-semaines-apres-le-paradis-de-israel-horovitz",
-          "publishedOn": "2021-09-11T19:58:55.000Z",
-          "wordCount": null,
-          "title": "\"Trois semaines après le paradis\" de Israël Horovitz",
-          "itunes": {
-            "duration": "00:57:55"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/fc40f080-0b6d-4b3e-a7f7-0e5e74230d1a/11496-11.09.2021-ITEMA_22770974-2021C3067E0150-21.mp3",
-            "length": "55626368",
             "type": "audio/mpeg"
           }
         }

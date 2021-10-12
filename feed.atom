@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-11T00:32:32.805Z</updated>
+    <updated>2021-10-12T00:33:47.333Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #10 - PUISSE LE SORT VOUS ÊTRE FAVORAAABLE]]></title>
+        <id>https://www.youtube.com/watch?v=xxRyqZNRJJg</id>
+        <link href="https://www.youtube.com/watch?v=xxRyqZNRJJg"/>
+        <updated>2021-10-11T08:00:30.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 43 Acide]]></title>
+        <id>55f501800dc9673214627255a63844ed19945c8d</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-43-acide"/>
+        <updated>2021-10-11T04:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 43, le mot original était "Sour" et a été traduit en "Acide". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Fifth Choice - Gridded
+GwaLKYM&ab_channel=Gridded-Topic
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #09 - ET LÀ VOUS AVEZ LA PRESSION ?]]></title>
         <id>https://www.youtube.com/watch?v=Z7PVuN_22UM</id>
@@ -1061,31 +1100,6 @@ Pour adapter Autour du Monde il a fallu chercher une façon de suspendre quelque
         <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
         <updated>2021-09-12T23:00:00.000Z</updated>
         <summary type="html"><![CDATA[durée : 00:28:42 - Le Feuilleton - Bientôt ce sera l’attente, la peur, et le nom de Fukushima résonnera aux oreilles du monde entier comme celui d’un cauchemar éveillé.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amydale Crossing : New Life – Épisode 06]]></title>
-        <id>https://javras.fr/?p=18703</id>
-        <link href="https://javras.fr/2021/09/12/amydale-crossing-new-life-episode-06/"/>
-        <updated>2021-09-12T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Salut à tous !
-L’été n’est pas encore terminé donc voici l’épisode 06 d’Amydale Crossing : New Life ! Je peux officiellement dire que j’ai dépassé la V1 que j’ai sorti en 2014. 
-Je suis assez contente de ce que donne cette nouvelle version et des retours que j’ai dessus. Merci à tous pour votre soutien.
-Parlons maintenant de cet épisode. L’épisode parle globalement d’Amy et de son passage à Tortiland. Je voulais absolument le sortir cet été vu que l’épisode entier a un thème estival avec la plage, la plongée, etc. C’était le meilleur moment pour le sortir. Aussi, cet épisode traite de la place d’Amy au sein de Zoonderland, qui est assez important pour le développement de l’héroïne.
-Pour ceux qui étaient présents pendant les live où je mixais l’épisode, je me suis assez éclatée sur les prem…]]></summary>
-        <author>
-            <name>Erika</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Trois semaines après le paradis" de Israël Horovitz]]></title>
-        <id>7cc69bab-dc3a-45e4-8e5d-89838c04633f</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-samedi-noir/trois-semaines-apres-le-paradis-de-israel-horovitz"/>
-        <updated>2021-09-11T19:58:55.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:57:55 - Fictions / Samedi noir - par : Blandine Masson - Commémoration du 11 septembre 2001 
-Comment écrire le réel ?]]></summary>
         <author>
             <name>podcast@radiofrance.com (Radio France)</name>
         </author>
