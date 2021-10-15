@@ -48,6 +48,24 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=D5c8XW1-76I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D5c8XW1-76I",
+          "publishedOn": "2021-10-14T08:00:02.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #13 - VISION D'AIGLE"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EwM77RirxME",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EwM77RirxME",
+          "publishedOn": "2021-10-13T08:10:14.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #12 - COLLÉ EN PLEINE NATURE"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fr4OqNewGmQ",
           "author": null,
           "description": "",
@@ -235,6 +253,40 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "34720bf96e41fc512cd4721854f420c8c40b0269",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 46, le mot original était \"Tick\" et a été traduit en \"Cocher\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Sunshine High - Isobel O'Connor\nhttps://music.youtube.com/watch?v=TMfXIrTSzeE&list=RDAMVMTMfXIrTSzeE\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-46-cocher",
+          "publishedOn": "2021-10-14T04:19:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 46 Cocher",
+          "itunes": {
+            "duration": "02:44"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/bj0A1hXXKNRp.mp3?t=1633375124",
+            "length": "2632440",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "5ac76c907fc0ff0aa6ff783116e3cb34f3069e71",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 45, le mot original était \"Roof\" et a été traduit en \"Toit\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Beer Can Chicken - Chester Malone\nhttps://www.youtube.com/watch?v=x87Z37I5UIE&ab_channel=ChesterMalone-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-45-toit",
+          "publishedOn": "2021-10-13T04:17:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 45 Toit",
+          "itunes": {
+            "duration": "02:44"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/b241quY4dDew.mp3?t=1633374940",
+            "length": "2635522",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "7ca1b1ea1512027c9843d750f48d02c6b4d7925c",
           "author": null,
@@ -755,23 +807,6 @@
             "type": "audio/mpeg",
             "length": "29671109"
           }
-        },
-        {
-          "id": "96103",
-          "author": null,
-          "description": "Citoyennes et citoyens, la saison 3 des Chroniques Galactiques (la fiction audio Star Wars garantie sans Jedi) tout à sa fin avec ce dernier épisode ! \nEpisode 7 : Gambit\nWilhem et Daan sont acculés. Ils ne peuvent plus que compter sur eux et les quelques personnes venues les aider. Cela suffira-t-il à faire face au nouveau leader du Soleil Noir et sauver leur ami ?\nToute l'actu de la saga mp3 \"Les Chroniques Galactiques\" sur notre site, Facebook et Twitter !\nEcoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/\nGuilde des Contrebandiers : https://fr.tipeee.com/hyperdrive\nnotre boutique : https://unfandestarwars.com/boutique/\nLes Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Les autres sont la propriété de son auteur. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.",
-          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
-          "publishedOn": "2021-09-14T19:37:00.000Z",
-          "wordCount": null,
-          "title": "Saison 3 - EP. 7/7 - Gambit",
-          "itunes": {
-            "duration": "00:30:12"
-          },
-          "enclosure": {
-            "url": "https://www.podcastics.com/podcast/episode/96103/file.mp3?s=72609268",
-            "type": "audio/mpeg",
-            "length": "72609268"
-          }
         }
       ]
     },
@@ -809,7 +844,263 @@
       "title": "Le Feuilleton",
       "feedUrl": "https://radiofrance-podcast.net/podcast09/rss_11495.xml",
       "siteUrl": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
-      "articles": []
+      "articles": [
+        {
+          "id": "a431d9a3-1d0b-4d6b-ad1a-4c6ce2e1b4f5",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:54 - Le Feuilleton - Il y a quelque chose de spécial ce soir-là, au Max’s, la scène est juste assez grande pour les amplis et la batterie. Il est 23h30 quand Lou Reed apparaît… !",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-10-10T23:00:04.000Z",
+          "wordCount": null,
+          "title": "Une nuit d’Août 1970",
+          "itunes": {
+            "duration": "00:24:54"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/f47b744d-22c9-496f-8341-91dc65ac202e/11495-11.10.2021-ITEMA_22784340-2017C3480E0338-21.mp3",
+            "length": "23933444",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "e63f8529-32ca-40c1-9acb-bb5099c014b4",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:32 - Le Feuilleton - Si l'album The Velvet Underground and Nico est un échec à New-York, à 5000 kilomètres de là, à Londres, Bowie en est fou…!",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-10-10T23:00:03.000Z",
+          "wordCount": null,
+          "title": "Histoire de vivre",
+          "itunes": {
+            "duration": "00:24:32"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/4f7d1b72-6525-4817-b309-4bf93f71fa2a/11495-11.10.2021-ITEMA_22784340-2017C3480E0337-21.mp3",
+            "length": "23579773",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "0c433eaf-882f-4843-afb8-405e4f945c0c",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:23 - Le Feuilleton - Andy Warhol avait été surnommé Drella, pour Dracula  et Cinderella…",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-10-10T23:00:02.000Z",
+          "wordCount": null,
+          "title": "Cendrillons électriques",
+          "itunes": {
+            "duration": "00:24:23"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/fc91d7b4-f2ab-40eb-bfc8-4b5e327a207c/11495-11.10.2021-ITEMA_22784340-2017C3480E0336-21.mp3",
+            "length": "23442166",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "288499a5-3172-40cd-a373-7d1118e4cdcf",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:31 - Le Feuilleton - Lou Reed et John Cale ont toute une panoplie d'équipements électroniques… Ils fabriquent des chambres de réverbération avec des seaux en métal remplis d'eau… Ils cherchent le \"son\"",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-10-10T23:00:01.000Z",
+          "wordCount": null,
+          "title": "\"Lou Reed, les années Velvet\" de Christine Spianti 7/5 : Réalisme Expérimental",
+          "itunes": {
+            "duration": "00:24:31"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/a2177aa4-509c-4126-aa39-ca997dd6f6ac/11495-11.10.2021-ITEMA_22784340-2017C3480E0335-21.mp3",
+            "length": "23570284",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "437ce3bf-dd16-4a83-a58d-e638cdceadc6",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:21 - Le Feuilleton - Au 56, Ludlow street à New York, au début des années 60, Lou Reed et John Cale invente le son Velvet.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-10-10T23:00:00.000Z",
+          "wordCount": null,
+          "title": "Radio Lou, l'époque en rêvait",
+          "itunes": {
+            "duration": "00:24:21"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/2fb56e66-c2bd-4888-9b4d-c60fb9f98838/11495-11.10.2021-ITEMA_22784340-2017C3480E0334-21.mp3",
+            "length": "23399199",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "a2ec8dc7-01d0-4688-8395-107783e32fd6",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:33 - Le Feuilleton - En avançant d'un pas léger sous le portique restauré de l'ancienne poste, un inspecteur à toutes les raisons d'avoir la tête haute, sachant qu'il arrive dans un lieu où la société peut réclamer son dû. Ici la justice sera rendue...!",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-10-03T23:00:04.000Z",
+          "wordCount": null,
+          "title": "Dans les entrailles de la machine judiciaire",
+          "itunes": {
+            "duration": "00:24:33"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/be78cffc-e222-4505-9e70-ce93606e041c/11495-04.10.2021-ITEMA_22784339-2020C3480E0065-21.mp3",
+            "length": "23603462",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "807ba4e7-de09-4067-a65d-62ee0055379d",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:33 - Le Feuilleton - Règle N°10 dans le manuel des homicides : le meurtre parfait ça existe bel et bien. Çà a toujours existé, et celui qui tente de prétendre le contraire ne fait que prouver qu'il est un naïf ou un romantique, un imbécile qui ignore les règles 1 à 9.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-10-03T23:00:03.000Z",
+          "wordCount": null,
+          "title": "Du crime parfait à l’institut médico-légal",
+          "itunes": {
+            "duration": "00:24:33"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/9d2d92bf-79da-468e-b08d-2d4087b7f73e/11495-04.10.2021-ITEMA_22784339-2020C3480E0064-21.mp3",
+            "length": "23603070",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "6047f77f-9217-4857-ad7a-e67b613fef7b",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:25:04 - Le Feuilleton - Tout ce que vous direz ou écrirez pourra être retenu contre vous devant un tribunal !",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-10-03T23:00:02.000Z",
+          "wordCount": null,
+          "title": "Vous avez le droit de garder le silence",
+          "itunes": {
+            "duration": "00:25:04"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/f0a77d17-1ca8-468b-8045-e6a071971eb1/11495-04.10.2021-ITEMA_22784339-2020C3480E0063-21.mp3",
+            "length": "24100531",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "76ea1e62-79e2-45ba-ad64-c6f5f79b324a",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:25:17 - Le Feuilleton - Dans une ville qui compte 240 meurtres par an, il y aura toujours un corps à examiner, si l'affaire précédente, n'a donné aucun résultat...!",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-10-03T23:00:01.000Z",
+          "wordCount": null,
+          "title": "La chaîne alimentaire policière",
+          "itunes": {
+            "duration": "00:25:17"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/417b5679-46ef-4e8f-99a7-c84c58c4a9f9/11495-04.10.2021-ITEMA_22784339-2020C3480E0062-21.mp3",
+            "length": "24295390",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "ede11e70-b413-4eb8-aaa3-0dab1728cad5",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:38 - Le Feuilleton - A l'origine de la série The Wire (Sur écoute), David Simon, journaliste au Baltimore Sun, a suivi pendant un an, jour et nuit, les inspecteurs de l’unité des homicides d’une des villes des Etats-Unis au plus fort taux de criminalité.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-10-03T23:00:00.000Z",
+          "wordCount": null,
+          "title": "L’été meurtrier",
+          "itunes": {
+            "duration": "00:24:38"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/1f0a1e16-d812-4fa7-9c62-0407a12209c2/11495-04.10.2021-ITEMA_22784339-2020C3480E0061-21.mp3",
+            "length": "23671113",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "c5ad6fe5-e73f-4740-937c-f7ebb6c7ef36",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:31 - Le Feuilleton - Les anciens se retrouvent chez Ahmed : mais cachés dans le grenier, son petit-fils et Bérénice entendent tout ce qui s’y dit. Les enquêteurs en herbe se précipitent alors à l’église pour demander au curé de les aider, pendant qu’à Bas-Vourlans les mystères s’éclaircissent enfin.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-09-26T23:00:04.000Z",
+          "wordCount": null,
+          "title": "Si leur chant tu entends… tu finiras dans l’eau",
+          "itunes": {
+            "duration": "00:28:31"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/57109d38-c56d-46e1-92d9-53a49a431355/11495-27.09.2021-ITEMA_22784338-2021C3480E0166-21.mp3",
+            "length": "27413240",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "e491f8e2-8197-42ba-8b37-c78ec55c41ec",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:46 - Le Feuilleton -  Le corbeau est revenu, terrifiant les anciens du village : l’ancien maire est pris de panique, son frère se suicide, et la ronde des habitués du bar-tabac s'affole et se perd en conjectures. Mais le corbeau d’hier n’est pas celui d’aujourd’hui.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-09-26T23:00:03.000Z",
+          "wordCount": null,
+          "title": "Chante la grive, la pluie arrive",
+          "itunes": {
+            "duration": "00:28:46"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/ca7d0132-13bd-43a8-aba2-14a9884b2bde/11495-27.09.2021-ITEMA_22784338-2021C3480E0165-21.mp3",
+            "length": "27639170",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "d7f62cb3-f91a-44b3-a93c-ee92f1f98ba9",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:42 - Le Feuilleton - Alors qu’un lien entre le corbeau de Bas-Vourlans et la disparition des époux Varod semble se dessiner, Titouan découvre avec Bérénice des photos, des coupures de presse et des lettres datant d’avant le déménagement dans le grenier de son grand-père.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-09-26T23:00:02.000Z",
+          "wordCount": null,
+          "title": "500 milliards de kilos d’eau",
+          "itunes": {
+            "duration": "00:28:42"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/c78c14a7-156b-4b06-962e-b4ced2985384/11495-27.09.2021-ITEMA_22784338-2021C3480E0164-21.mp3",
+            "length": "27579493",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "4ac49747-9b2e-42c8-9a09-9a20f7d2075c",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:02 - Le Feuilleton - Broyard, un ancien habitant de Bas-Vourlans met les jeunes enquêteurs sur la piste des époux Varod : ils seraient les amoureux de Clairlieu. Mais le mystère s’épaissit quand Titouan apprend que sa grand-mère s’est suicidée quelques jours avant le déménagement du village.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-09-26T23:00:01.000Z",
+          "wordCount": null,
+          "title": "Des corbeaux et des hommes",
+          "itunes": {
+            "duration": "00:28:02"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/e50e027a-7cac-4b51-a35e-4fbab22faf1e/11495-27.09.2021-ITEMA_22784338-2021C3480E0163-21.mp3",
+            "length": "26946240",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "0147be4e-8209-463e-924a-9bd231833456",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:28:44 - Le Feuilleton - Août 2019. La canicule qui sévit dans le Jura a asséché le lac qui recouvrait le village de Bas-Vourlans depuis 45 ans, faisant resurgir La Légende des amoureux de Clairlieu, la jeune Bérénice découvre deux squelettes au fond du lac et convainc son ami Titouan d'y retourner.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
+          "publishedOn": "2021-09-26T23:00:00.000Z",
+          "wordCount": null,
+          "title": "Les amoureux de Clairlieu",
+          "itunes": {
+            "duration": "00:28:44"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/1e8e4558-6ca7-4645-9117-f9ce1504298a/11495-27.09.2021-ITEMA_22784338-2021C3480E0162-21.mp3",
+            "length": "27618330",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
     },
     {
       "title": "Samedi noir",
