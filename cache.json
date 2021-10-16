@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kYK39mEQfsU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kYK39mEQfsU",
+          "publishedOn": "2021-10-15T08:00:27.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #14 - VOL À LA FRANÇAISE"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=D5c8XW1-76I",
           "author": null,
           "description": "",
@@ -253,6 +262,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "e7963b14bf87c80b5989c4958aa3d9f8ec154927",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 47, le mot original était \"Tick\" et a été traduit en \"Cocher\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Returned to Safety - Claude Signet\nhttps://www.youtube.com/watch?v=3O9HHzI4bA0&ab_channel=ClaudeSignet-Topic\n\nMerci à Pomme pour son aimable participation.\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-47-casque",
+          "publishedOn": "2021-10-15T04:25:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 47 Casque",
+          "itunes": {
+            "duration": "02:29"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/yk0PGhOqdl1b.mp3?t=1633375494",
+            "length": "2396294",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "34720bf96e41fc512cd4721854f420c8c40b0269",
           "author": null,
@@ -635,6 +661,23 @@
       "feedUrl": "https://feed.ausha.co/bYYk7uvg81gZ",
       "siteUrl": "https://podcast.ausha.co/les-dessous-de-savin",
       "articles": [
+        {
+          "id": "6f6ea2ca4811d989a3842b1a069642e1ac772c8d",
+          "author": null,
+          "description": "📍S06/EP07 - \"Régression\"📍\n\nComment est-il possible de vivre une pareille régression? Oui regression c'est le thème du mois.\nAlors que le train dans lequel je suis s'éloigne lentement de Paris, je me demande si j'allais y remettre un jour les pieds?\nLa vie me poussait hors de ma zone de confort. Mon psy parle de zone de panique...\n\nVoici votre nouvel épisode du podcast \"Les dessous de Savin\"\n\n\"Les dessous de Savin\"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. \n\nUn épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. \nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! \nPartagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  \n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\n\"LIFE ON MARS\" (David Bowie)\n\"STARMAN\" (David Bowie)",
+          "link": "https://podcast.ausha.co/les-dessous-de-savin/7-s06-ep07-la-regression",
+          "publishedOn": "2021-10-15T01:00:00.000Z",
+          "wordCount": null,
+          "title": "#7 - S06/EP07 - \"La régression\"",
+          "itunes": {
+            "duration": "07:51"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/yvGAvsdD3nDM.mp3?t=1634220343",
+            "length": "7552148",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "b5a1fbdedadf73849474bf9bbec5d353f8b17ae0",
           "author": null,
@@ -1178,5 +1221,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.2"
+  "cliVersion": "1.11.3"
 }
