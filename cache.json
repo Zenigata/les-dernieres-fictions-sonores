@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eKc_21ekQc0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eKc_21ekQc0",
+          "publishedOn": "2021-10-16T08:30:11.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #15 - VACANCES VIRTUELLES"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kYK39mEQfsU",
           "author": null,
           "description": "",
@@ -187,6 +196,23 @@
       "siteUrl": "https://javras.fr/",
       "articles": [
         {
+          "id": "https://javras.fr/?p=19171",
+          "author": "Aibonn",
+          "description": "Hey bande de gens de toutes formes et de toutes les couleurs ! Ici Aibonn, votre créateur de saga vénéré qui arrive pour vous donner votre dose de création sonore. Mes petits amis, pour vous seulement, je vais vous offrir l’épisode 7 de Camlann ! *Oh, mais tu es tellement génial Aibonn* Je sais, je sais, ça me fait plaisir de vous faire plaisir.\n\nEncore une fois, je vais  remercier Kayji pour son travail pour l’intro et l’outro de ma saga. Qu’on donne à cet homme tout plein d’admiration ! Merci aussi aux acteurs qui ont prêté leurs voix pour la réalisation de cet épisode. Et pour finir, un énorme merci à mon monteur Badou, ce monteur de l’extrême qui devrait être une célébrité et avoir un yacht et un manoir !\n\t\t\t\t\t\nSynopsis : Le face à face entre le Bien et le Mauvais va avoir lieu !\n\nDist…",
+          "link": "https://javras.fr/2021/10/17/camlann-episode-7/",
+          "publishedOn": "2021-10-16T22:05:00.000Z",
+          "wordCount": null,
+          "title": "CAMLANN – ÉPISODE 7",
+          "itunes": {
+            "duration": "00:09:06"
+          },
+          "enclosure": {
+            "url": "https://javras.fr/podcast-download/19171/camlann-episode-7.mp3",
+            "length": "22,7",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "https://javras.fr/2021/09/19/copy-of-disconvention-02-angers-geekfest-2/",
           "author": "Team Javras",
           "description": "Bonjour à tous, ici Richoult !\nTroisième épisode de Disconvention, cette fois ci on était à Sur Les Terres De L’Unique, à Plouha. On va parler un peu de relecture, des projets de Hesdea, Gihellcy, Foxy et Torakh. Et on rencontre Eden et Exawat, des auditeurs qui nous ont croisé sans savoir qu’on était là.\nN’hésitez pas à nous faire un retour sur ce podcast et nous envoyer des mails et nous rencontrer, voir participer à ce podcast, lors de nos prochaines conventions : \n\nHashtag Festival (Enregistrement le 24 Octobre – 15h).\nChibi Rouen (Enregistrement le 31 Octobre – 15h).\n\nVous pouvez retrouver ce podcast sur : \n\t\t\t\t\t\n\t\t\t\n\t\t\t\t\t\tGoogle Podcasts\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tSpotify\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tYoutube\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tPodcast Addict\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tRSS\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tItu…",
@@ -262,6 +288,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "6a2ef0a01c6c0317eff63b8f941deeca53d23d11",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 48, le mot original était \"Compass\" et a été traduit en \"Boussole\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Caribbean Arcade - Christian Nanzell\nhttps://www.youtube.com/watch?v=ji_h_J9GqdM&ab_channel=AlrotaMusic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-48-boussole",
+          "publishedOn": "2021-10-16T04:32:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 48 Boussole",
+          "itunes": {
+            "duration": "02:58"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/brQNghavr9Wn.mp3?t=1633793358",
+            "length": "2849373",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "e7963b14bf87c80b5989c4958aa3d9f8ec154927",
           "author": null,
@@ -728,23 +771,6 @@
             "length": "6530238",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "d4cc940b265bbb8549f44c73dfcec576eea270fc",
-          "author": null,
-          "description": "📍S06/EP03 - \"Gelée Royale\"📍\n\nPour la première fois dans \"Le dessous de Savin\", une guest vient me donner la réplique. C'est une nouveauté de la rentrée 2021. Ces invités interviendront dans les épisodes de manière exceptionnelle. En ce mois de septembre, j'ai le plaisir d'accueillir Frédérique Lelaure.\nJ'espère que vous prendrez autant de plaisir à écouter cet épisode que nous en avons pris en l'enregistrant.\n\nRetrouvez Frédérique Lelaure sur Instagram : @fouedette \n\nVoici \"Gelée Royale\" le nouvel épisode du podcast \"Les dessous de Savin\"\n\n\"Les dessous de Savin\"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. \n\nUn épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. \nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! \nPartagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  \n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\n\"REET PETITE\" (Jackie Wilson)\n\"GLORIA\"  (Umberto Tozzi)",
-          "link": "https://podcast.ausha.co/les-dessous-de-savin/3-s06-ep03-gelee-royale",
-          "publishedOn": "2021-09-16T20:26:51.000Z",
-          "wordCount": null,
-          "title": "#3 - S06/EP03 - \"Gelée Royale\"",
-          "itunes": {
-            "duration": "08:23"
-          },
-          "enclosure": {
-            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/oa20ECwNK3wW.mp3?t=1631806513",
-            "length": "8061640",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -759,6 +785,23 @@
       "feedUrl": "https://adad.lepodcast.fr/rss",
       "siteUrl": "https://avantdallerdormir.fr/",
       "articles": [
+        {
+          "id": "6168944c3ad2a20086e0cffd",
+          "author": "Avant d’aller dormir",
+          "description": "Bonsoir, bienvenue dans l’épisode 26.2 d’Avant d’aller dormir. Cet épisode est le deuxième d'une trilogie, la suite sortira samedi prochain !\nInstallez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.\nLien vers l'histoire\nJ'ai acheté une femme sur Internet (Partie 2), par Kikito Horrors\nN’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr\nRejoignez-nous !\nInstagram\nFacebook\nYouTube\nTwitch\nNotre messagerie vocale : 07 49 25 27 90\nSoutenez-nous\nEn nous versant quelques deniers sur Patreon, en échange vous recevrez chaque mois les épisodes en avance et du contenu exclusif !\nEn nous mettant une super note sur SensCritique, Apple Podcasts ou Podcast Addict.\nOu tout simplement en parlant de nous à tous vos proches.\nTous ces liens sont disponibles sur https://avantdallerdormir.fr\nL'équipe\n🎙️ Vos humbles serviteurs, Yop (Twitch / Youtube / Podcasts) & UnDixGo (Instagram / Twitch)\n🏞 Illustration : renarmaro\nIl est maintenant temps de trouver le sommeil. À bientôt…",
+          "link": "https://adad.lepodcast.fr/episode-26-point-2-jai-achete-une-femme-sur-internet",
+          "publishedOn": "2021-10-16T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Episode 26.2 : J'ai acheté une femme sur Internet",
+          "itunes": {
+            "duration": "0:21:23"
+          },
+          "enclosure": {
+            "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/episode-26-point-2-jai-achete-une-femme-sur-internet/enclosure.4a72e4856efa04a2665557d9efe2ff7ee3dd927f43d6219b9a12e34697d1dcf7.mp3?p=f",
+            "length": "31119199",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "6160062d1c82621906d95e05",
           "author": "Avant d’aller dormir",
@@ -1150,6 +1193,23 @@
       "feedUrl": "https://radiofrance-podcast.net/podcast09/rss_11496.xml",
       "siteUrl": "https://www.franceculture.fr/emissions/fictions-samedi-noir",
       "articles": [
+        {
+          "id": "f0b9ab4e-206a-4842-8ce4-1a06c63b87ff",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:58:57 - Fictions / Samedi noir - par : Blandine Masson - On fête cette année les 400 ans de La Fontaine, le poète français dont les enfants apprennent les fables à l’école, de génération en génération depuis la fin du XVIIè siècle, et les chantent souvent – oui, les fables sont mises en musique depuis les Nouvelles Poésies Morales et Fables.",
+          "link": "https://www.franceculture.fr/emissions/fictions-samedi-noir/fables-de-la-fontaine",
+          "publishedOn": "2021-10-16T19:59:26.000Z",
+          "wordCount": null,
+          "title": "\"Fables\" de la Fontaine",
+          "itunes": {
+            "duration": "00:58:57"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/29648279-65c2-413f-97cb-487dd79cf63b/11496-16.10.2021-ITEMA_22808625-2021C3067E0153-21.mp3",
+            "length": "56614374",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "606f88ba-b28b-4c1a-8fa9-fdf59d061ea1",
           "author": "podcast@radiofrance.com (Radio France)",
