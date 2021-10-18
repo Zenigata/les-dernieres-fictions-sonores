@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZJtx0-fxIt8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZJtx0-fxIt8",
+          "publishedOn": "2021-10-17T09:14:10.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #16 - L'AVENTURE DE LA BOUSSOLE"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eKc_21ekQc0",
           "author": null,
           "description": "",
@@ -288,6 +297,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "c29b2d3f7fe7fbfb451e1771fce6a7cb32bb011f",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 49, le mot original était \"Collide\" et a été traduit en \"Collision\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Car Songs - Epocha\nhttps://www.youtube.com/watch?v=HNfWE_xl-jA&ab_channel=Epocha-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-49-collision",
+          "publishedOn": "2021-10-17T04:36:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 49 Collision",
+          "itunes": {
+            "duration": "02:23"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/b5wLPcKm1Q6v.mp3?t=1633793750",
+            "length": "2300266",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "6a2ef0a01c6c0317eff63b8f941deeca53d23d11",
           "author": null,
@@ -931,6 +957,176 @@
       "feedUrl": "https://radiofrance-podcast.net/podcast09/rss_11495.xml",
       "siteUrl": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
       "articles": [
+        {
+          "id": "f5ceb8e3-5463-4fc7-94ee-c7da316b8c5d",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:47 - Le Feuilleton - Fort maltraité par l’éducation, fort bien traité par la nature, il avait la parole rare, le geste plus fréquent, Claude Gueux vola un soir de disette et se retrouva au cachot… !",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/claude-gueux-de-victor-hugo-0",
+          "publishedOn": "2021-10-17T23:00:14.000Z",
+          "wordCount": null,
+          "title": "Claude Gueux de Victor Hugo",
+          "itunes": {
+            "duration": "00:24:47"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/6e81cfc0-5160-4828-828f-a4ca4b974d1a/11495-18.10.2021-ITEMA_22795684-2012C3480E0222-21.mp3",
+            "length": "23817575",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "60daf6ae-fade-4765-8426-c021603b1302",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:22 - Le Feuilleton - Monsieur Gillenormand demande à Jean Valjean la main de Cosette pour son petit-fils Marius.Jean Valjean lui avoue être un ancien forçat. Marius lui promet de ne rien dire à Cosette. La vie va, jusqu’au jour où un homme déguisé se présente à leur porte.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-1414-episode-14",
+          "publishedOn": "2021-10-17T23:00:13.000Z",
+          "wordCount": null,
+          "title": "Episode 14",
+          "itunes": {
+            "duration": "00:24:22"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/53bde16a-9b77-471b-993f-bbd6f3ac8119/11495-18.10.2021-ITEMA_22795684-2012C3480E0221-21.mp3",
+            "length": "23427752",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "b7631cbc-0ce5-488e-bb22-ed6ce5f27c20",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:37 - Le Feuilleton - La barricade est tombée, Marius est blessé, Jean Valjean l’aide en le  portant sur son dos… !",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-1314-episode-13",
+          "publishedOn": "2021-10-17T23:00:12.000Z",
+          "wordCount": null,
+          "title": "Episode 13",
+          "itunes": {
+            "duration": "00:24:37"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/3d785277-3f79-42be-b59b-ce677b1ad92c/11495-18.10.2021-ITEMA_22795684-2012C3480E0220-21.mp3",
+            "length": "23665671",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "2b5c0d1e-a9ac-4a89-962d-f7ef1d308e61",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:41 - Le Feuilleton - Marius confie une lettre à Gavroche, à remettre à Cosette, dans laquelle il lui dit que leur mariage est impossible, et qu’il va certainement mourir au combat. Gavroche en sortant des barricades se fait tuer, Jean Valjean sauve Javert, Marius et ses amis sont en première ligne.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-1214-episode-12",
+          "publishedOn": "2021-10-17T23:00:11.000Z",
+          "wordCount": null,
+          "title": "Episode 12",
+          "itunes": {
+            "duration": "00:24:41"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/8b938917-c8f2-47de-91c6-5f0c468afbd9/11495-18.10.2021-ITEMA_22795684-2012C3480E0219-21.mp3",
+            "length": "23721212",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "a7e6751f-15cd-490b-89d1-2eb7b6afd386",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:39 - Le Feuilleton - Paris se soulève. Javert s’infiltre mais il est reconnu par Gavroche, qui le fait prisonnier. Marius sauve Gavroche, Eponime sauve Marius en s’interposant dans une fusillade, elle meurt dans ses bras en lui donnant une lettre.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-1114-episode-11",
+          "publishedOn": "2021-10-17T23:00:10.000Z",
+          "wordCount": null,
+          "title": "Episode 11",
+          "itunes": {
+            "duration": "00:24:39"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/3c698309-4d0f-4f73-a0fe-53f15e26237e/11495-18.10.2021-ITEMA_22795684-2012C3480E0218-21.mp3",
+            "length": "23701463",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "102f1f08-4ac5-492d-b87a-d28094374094",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:30 - Le Feuilleton - Marius et Cosette se sont avoués leur amour. En 1832, dans un paris menacé par le choléra, Gavroche recueille deux enfants, dans l’éléphant de la Bastille. Cosette, désespérée, dit à Marius, qu’elle va quitter Paris pour l’Angleterre avec son père.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-1014-episode-10",
+          "publishedOn": "2021-10-17T23:00:09.000Z",
+          "wordCount": null,
+          "title": "Episode 10",
+          "itunes": {
+            "duration": "00:24:30"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/1767da22-a2c7-455f-a1cb-db0bfb0c68a5/11495-18.10.2021-ITEMA_22795684-2012C3480E0217-21.mp3",
+            "length": "23549370",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "5b757a94-43f8-4c7b-9554-95c278d63268",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:49 - Le Feuilleton - Le bienfaiteur est Jean Valjean.. Marius découvre que Le Thénardier est l’homme qui a sauvé son père à Waterloo. Javert débarque avec la police,Jean Valjean s’enfuit…et vit désormais avec Cosette rue Plumet, Marius retrouve leur trace grâce à Eponime, la fille aînée des Thénardier.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-914-episode-9",
+          "publishedOn": "2021-10-17T23:00:08.000Z",
+          "wordCount": null,
+          "title": "Episode 9",
+          "itunes": {
+            "duration": "00:24:49"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/5d0ed88c-e875-400d-8a15-2da654c67040/11495-18.10.2021-ITEMA_22795684-2012C3480E0216-21.mp3",
+            "length": "23849114",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "7bb79e35-0d5e-4703-81f3-2d5ef23fd747",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:34 - Le Feuilleton - A la mort de son père Marius se fâche avec son grand père, et le quitte, il habite désormais, une chambre à côté des Thénardier. Marius tombe amoureux de Cosette, dans un trou du mur de sa chambre, ils entend les Thénardier, attendant un bienfaiteur.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-814-episode-8",
+          "publishedOn": "2021-10-17T23:00:07.000Z",
+          "wordCount": null,
+          "title": "Episode 8",
+          "itunes": {
+            "duration": "00:24:34"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/7937e100-745d-4d36-bca6-af34e9f17f68/11495-18.10.2021-ITEMA_22795684-2012C3480E0215-21.mp3",
+            "length": "23619590",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "c8e1b493-d358-4537-a407-d251c46ccf65",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:49 - Le Feuilleton - A Paris Jean Valjean et Cosette vivent ensemble. Gavroche le fils des Thénardier vit dans la rue. En 1827, le colonel d’empire Georges Pontmercy, tombe malade.  Dans une lettre il réclame son fils, Marius, alors âgé de 17 ans,qui se rend à son chevet.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-714-episode-7",
+          "publishedOn": "2021-10-17T23:00:06.000Z",
+          "wordCount": null,
+          "title": "Episode 7",
+          "itunes": {
+            "duration": "00:24:49"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/f5810eb7-5e79-4856-8b1a-426b4c9e6590/11495-18.10.2021-ITEMA_22795684-2012C3480E0214-21.mp3",
+            "length": "23861592",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "9adb84ff-236c-4428-899e-32976662e207",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:31 - Le Feuilleton - Jean Valjean, fuit Javert, et retrouve Cosette beaucoup plus tard…en 1823.  Il négocie avec les Thénardier en échange d'une certaine somme et réussit à repartir avec Cosette.",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-614-episode-6",
+          "publishedOn": "2021-10-17T23:00:05.000Z",
+          "wordCount": null,
+          "title": "Episode 6",
+          "itunes": {
+            "duration": "00:24:31"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/f179f417-b028-4c87-9856-31c719d0ca3b/11495-18.10.2021-ITEMA_22795684-2012C3480E0213-21.mp3",
+            "length": "23561760",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "a431d9a3-1d0b-4d6b-ad1a-4c6ce2e1b4f5",
           "author": "podcast@radiofrance.com (Radio France)",

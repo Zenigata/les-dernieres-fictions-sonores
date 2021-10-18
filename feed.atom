@@ -2,10 +2,149 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-17T00:32:17.207Z</updated>
+    <updated>2021-10-18T00:33:06.050Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Gueux de Victor Hugo]]></title>
+        <id>f5ceb8e3-5463-4fc7-94ee-c7da316b8c5d</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/claude-gueux-de-victor-hugo-0"/>
+        <updated>2021-10-17T23:00:14.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:47 - Le Feuilleton - Fort maltraité par l’éducation, fort bien traité par la nature, il avait la parole rare, le geste plus fréquent, Claude Gueux vola un soir de disette et se retrouva au cachot… !]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 14]]></title>
+        <id>60daf6ae-fade-4765-8426-c021603b1302</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-1414-episode-14"/>
+        <updated>2021-10-17T23:00:13.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:22 - Le Feuilleton - Monsieur Gillenormand demande à Jean Valjean la main de Cosette pour son petit-fils Marius.Jean Valjean lui avoue être un ancien forçat. Marius lui promet de ne rien dire à Cosette. La vie va, jusqu’au jour où un homme déguisé se présente à leur porte.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 13]]></title>
+        <id>b7631cbc-0ce5-488e-bb22-ed6ce5f27c20</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-1314-episode-13"/>
+        <updated>2021-10-17T23:00:12.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:37 - Le Feuilleton - La barricade est tombée, Marius est blessé, Jean Valjean l’aide en le  portant sur son dos… !]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 12]]></title>
+        <id>2b5c0d1e-a9ac-4a89-962d-f7ef1d308e61</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-1214-episode-12"/>
+        <updated>2021-10-17T23:00:11.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:41 - Le Feuilleton - Marius confie une lettre à Gavroche, à remettre à Cosette, dans laquelle il lui dit que leur mariage est impossible, et qu’il va certainement mourir au combat. Gavroche en sortant des barricades se fait tuer, Jean Valjean sauve Javert, Marius et ses amis sont en première ligne.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 11]]></title>
+        <id>a7e6751f-15cd-490b-89d1-2eb7b6afd386</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-1114-episode-11"/>
+        <updated>2021-10-17T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:39 - Le Feuilleton - Paris se soulève. Javert s’infiltre mais il est reconnu par Gavroche, qui le fait prisonnier. Marius sauve Gavroche, Eponime sauve Marius en s’interposant dans une fusillade, elle meurt dans ses bras en lui donnant une lettre.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 10]]></title>
+        <id>102f1f08-4ac5-492d-b87a-d28094374094</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-1014-episode-10"/>
+        <updated>2021-10-17T23:00:09.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:30 - Le Feuilleton - Marius et Cosette se sont avoués leur amour. En 1832, dans un paris menacé par le choléra, Gavroche recueille deux enfants, dans l’éléphant de la Bastille. Cosette, désespérée, dit à Marius, qu’elle va quitter Paris pour l’Angleterre avec son père.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 9]]></title>
+        <id>5b757a94-43f8-4c7b-9554-95c278d63268</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-914-episode-9"/>
+        <updated>2021-10-17T23:00:08.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:49 - Le Feuilleton - Le bienfaiteur est Jean Valjean.. Marius découvre que Le Thénardier est l’homme qui a sauvé son père à Waterloo. Javert débarque avec la police,Jean Valjean s’enfuit…et vit désormais avec Cosette rue Plumet, Marius retrouve leur trace grâce à Eponime, la fille aînée des Thénardier.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 8]]></title>
+        <id>7bb79e35-0d5e-4703-81f3-2d5ef23fd747</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-814-episode-8"/>
+        <updated>2021-10-17T23:00:07.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:34 - Le Feuilleton - A la mort de son père Marius se fâche avec son grand père, et le quitte, il habite désormais, une chambre à côté des Thénardier. Marius tombe amoureux de Cosette, dans un trou du mur de sa chambre, ils entend les Thénardier, attendant un bienfaiteur.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 7]]></title>
+        <id>c8e1b493-d358-4537-a407-d251c46ccf65</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-714-episode-7"/>
+        <updated>2021-10-17T23:00:06.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:49 - Le Feuilleton - A Paris Jean Valjean et Cosette vivent ensemble. Gavroche le fils des Thénardier vit dans la rue. En 1827, le colonel d’empire Georges Pontmercy, tombe malade.  Dans une lettre il réclame son fils, Marius, alors âgé de 17 ans,qui se rend à son chevet.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 6]]></title>
+        <id>9adb84ff-236c-4428-899e-32976662e207</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-614-episode-6"/>
+        <updated>2021-10-17T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:31 - Le Feuilleton - Jean Valjean, fuit Javert, et retrouve Cosette beaucoup plus tard…en 1823.  Il négocie avec les Thénardier en échange d'une certaine somme et réussit à repartir avec Cosette.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #16 - L'AVENTURE DE LA BOUSSOLE]]></title>
+        <id>https://www.youtube.com/watch?v=ZJtx0-fxIt8</id>
+        <link href="https://www.youtube.com/watch?v=ZJtx0-fxIt8"/>
+        <updated>2021-10-17T09:14:10.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 49 Collision]]></title>
+        <id>c29b2d3f7fe7fbfb451e1771fce6a7cb32bb011f</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-49-collision"/>
+        <updated>2021-10-17T04:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 49, le mot original était "Collide" et a été traduit en "Collision". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Car Songs - Epocha
+https://www.youtube.com/watch?v=HNfWE_xl-jA&ab_channel=Epocha-Topic
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CAMLANN – ÉPISODE 7]]></title>
         <id>https://javras.fr/?p=19171</id>
