@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qReTtGm8ZtE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qReTtGm8ZtE",
+          "publishedOn": "2021-10-18T08:00:15.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #17 - TU PERCUTES LÀ ?!"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZJtx0-fxIt8",
           "author": null,
           "description": "",
@@ -254,23 +263,6 @@
             "length": "11,1",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://javras.fr/2021/07/25/copy-of-disconvention-01-nantes-maker-campus/",
-          "author": "Team Javras",
-          "description": "Bonjour à tous, ici Richoult !\nDeuxième épisode de Disconvention, cette fois ci sur Angers Geekfest. On va parler un peu de Tipeee, des projets de chacun, de Monololo un auditeur qui nous suit depuis longtemps et on fait un petit jeu honteusement copié sur une mini jeu du podcast Le Duel.\nN’hésitez pas à nous faire un retour sur ce podcast et nous envoyer des mails et nous rencontrer, voir participer à ce podcast, lors de nos prochaines conventions : \n\nSur Les Terres de L’Unique (Enregistrement le 26 Septembre – 15h ).\nHashtag Festival (Enregistrement le 24 Octobre – 15h).\nChibi Rouen (Enregistrement le 31 Octobre – 15h).\n\nVous pouvez retrouver ce podcast sur : \n\t\t\t\t\t\n\t\t\t\n\t\t\t\t\t\tGoogle Podcasts\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tSpotify\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tYoutube\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tPodcast Addict\n…",
-          "link": "https://javras.fr/2021/09/19/disconvention-02-angers-geekfest/",
-          "publishedOn": "2021-09-19T06:49:00.000Z",
-          "wordCount": null,
-          "title": "Disconvention – 02 – Angers Geekfest #2",
-          "itunes": {
-            "duration": "51:51"
-          },
-          "enclosure": {
-            "url": "https://javras.fr/podcast-download/18794/disconvention-02-angers-geekfest.mp3",
-            "length": "95,1",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -297,6 +289,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "a344d82c329a7edaf64db9d19ed06feaa6b86f90",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 50, le mot original était \"Moon\" et a été traduit en \"Lune\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Identity - Velvet Moon\nhttps://www.youtube.com/watch?v=aVA1LzezVuM&ab_channel=Epidemic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-50-lune",
+          "publishedOn": "2021-10-18T04:39:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 50 Lune",
+          "itunes": {
+            "duration": "02:36"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/Bxr8mHqEYz3L.mp3?t=1633793972",
+            "length": "2505801",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "c29b2d3f7fe7fbfb451e1771fce6a7cb32bb011f",
           "author": null,
@@ -1454,23 +1463,6 @@
           "enclosure": {
             "url": "https://rf.proxycast.org/16295750-ba5d-49ea-898c-a5825dbbb591/11496-25.09.2021-ITEMA_22786027-2021C3067E0152-21.mp3",
             "length": "59224991",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "c15b61f6-d363-4572-b98f-2518481dabc0",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:55:53 - Fictions / Samedi noir - par : Blandine Masson - Anton Tchekhov, écrivain et médecin, a tenu toute sa vie une correspondance abondante, depuis son adolescence jusqu’à sa mort. Les lettres choisies ici éclairent les cinq dernières années du dramaturge, malade et déclinant \"le sourire aux lèvres\" alors que sa pièce \"La Cerisaie\" triomphe à Moscou.",
-          "link": "https://www.franceculture.fr/emissions/fictions-samedi-noir/un-jardin-tout-blanc-de-anton-tchekov",
-          "publishedOn": "2021-09-18T19:57:54.000Z",
-          "wordCount": null,
-          "title": "\"Un jardin tout blanc\" de Anton Tchekov",
-          "itunes": {
-            "duration": "00:55:53"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/05e03415-d5c3-477c-ae43-2d9e167dffe4/11496-18.09.2021-ITEMA_22778586-2021C3067E0148-21.mp3",
-            "length": "53676161",
             "type": "audio/mpeg"
           }
         }

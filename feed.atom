@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-18T00:33:06.050Z</updated>
+    <updated>2021-10-19T00:32:38.691Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #17 - TU PERCUTES LÀ ?!]]></title>
+        <id>https://www.youtube.com/watch?v=qReTtGm8ZtE</id>
+        <link href="https://www.youtube.com/watch?v=qReTtGm8ZtE"/>
+        <updated>2021-10-18T08:00:15.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 50 Lune]]></title>
+        <id>a344d82c329a7edaf64db9d19ed06feaa6b86f90</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-50-lune"/>
+        <updated>2021-10-18T04:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 50, le mot original était "Moon" et a été traduit en "Lune". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Identity - Velvet Moon
+https://www.youtube.com/watch?v=aVA1LzezVuM&ab_channel=Epidemic
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Gueux de Victor Hugo]]></title>
         <id>f5ceb8e3-5463-4fc7-94ee-c7da316b8c5d</id>
@@ -1458,53 +1497,6 @@ notre boutique : https://unfandestarwars.com/boutique/
 Les Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Les autres sont la propriété de son auteur. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.]]></summary>
         <author>
             <name>Les Chroniques Galactiques - la Fiction audio Star Wars</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disconvention – 02 – Angers Geekfest #2]]></title>
-        <id>https://javras.fr/2021/07/25/copy-of-disconvention-01-nantes-maker-campus/</id>
-        <link href="https://javras.fr/2021/09/19/disconvention-02-angers-geekfest/"/>
-        <updated>2021-09-19T06:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Bonjour à tous, ici Richoult !
-Deuxième épisode de Disconvention, cette fois ci sur Angers Geekfest. On va parler un peu de Tipeee, des projets de chacun, de Monololo un auditeur qui nous suit depuis longtemps et on fait un petit jeu honteusement copié sur une mini jeu du podcast Le Duel.
-N’hésitez pas à nous faire un retour sur ce podcast et nous envoyer des mails et nous rencontrer, voir participer à ce podcast, lors de nos prochaines conventions : 
-
-Sur Les Terres de L’Unique (Enregistrement le 26 Septembre – 15h ).
-Hashtag Festival (Enregistrement le 24 Octobre – 15h).
-Chibi Rouen (Enregistrement le 31 Octobre – 15h).
-
-Vous pouvez retrouver ce podcast sur : 
-					
-			
-						Google Podcasts
-		
-					
-		
-			
-						Spotify
-		
-					
-		
-			
-						Youtube
-		
-					
-		
-			
-						Podcast Addict
-…]]></summary>
-        <author>
-            <name>Team Javras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Un jardin tout blanc" de Anton Tchekov]]></title>
-        <id>c15b61f6-d363-4572-b98f-2518481dabc0</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-samedi-noir/un-jardin-tout-blanc-de-anton-tchekov"/>
-        <updated>2021-09-18T19:57:54.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:55:53 - Fictions / Samedi noir - par : Blandine Masson - Anton Tchekhov, écrivain et médecin, a tenu toute sa vie une correspondance abondante, depuis son adolescence jusqu’à sa mort. Les lettres choisies ici éclairent les cinq dernières années du dramaturge, malade et déclinant "le sourire aux lèvres" alors que sa pièce "La Cerisaie" triomphe à Moscou.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
         </author>
     </entry>
 </feed>
