@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-19T00:32:38.691Z</updated>
+    <updated>2021-10-20T00:33:33.548Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #18 - MUTATION GÉNÉTIQUE]]></title>
+        <id>https://www.youtube.com/watch?v=An9DZjmd6Yw</id>
+        <link href="https://www.youtube.com/watch?v=An9DZjmd6Yw"/>
+        <updated>2021-10-19T08:00:03.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 51 Boucle]]></title>
+        <id>23330977c23d083bb898d97c0be92e0dd8eee4c2</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-51-boucle"/>
+        <updated>2021-10-19T04:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 51, le mot original était "Loop" et a été traduit en "Boucle". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Enjoying the loop - Tomas Skyldeberg
+https://www.youtube.com/watch?v=nBh7kdzjn8Q&ab_channel=EpidemicElectronic
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #17 - TU PERCUTES LÀ ?!]]></title>
         <id>https://www.youtube.com/watch?v=qReTtGm8ZtE</id>
@@ -1481,22 +1520,6 @@ Et on vous dit à très bientôt pour l'épisode 25 et le lancement du mois de l
 Yop & UnDixGo]]></summary>
         <author>
             <name>Avant d'aller dormir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saison 3 - Bêtisier]]></title>
-        <id>96355</id>
-        <link href="https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/"/>
-        <updated>2021-09-19T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Avec des dizaines d'heures de rushes, il y'a quelques petites perles qui méritent d'être partagées ! Voici donc le bêtisier de cette saison 3, citoyennes et citoyens. 
-Les Chroniques Galactiques reviendront ! en attendant, n'hésitez pas à écouter les supers programmes de l'équipe et du casting !
-Toute l'actu de la saga mp3 "Les Chroniques Galactiques" sur notre site, Facebook et Twitter !
-Ecoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/
-Guilde des Contrebandiers : https://fr.tipeee.com/hyperdrive ou sur Patreon : https://www.patreon.com/Hyperdrivecorp
-notre boutique : https://unfandestarwars.com/boutique/
-Les Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Les autres sont la propriété de son auteur. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.]]></summary>
-        <author>
-            <name>Les Chroniques Galactiques - la Fiction audio Star Wars</name>
         </author>
     </entry>
 </feed>

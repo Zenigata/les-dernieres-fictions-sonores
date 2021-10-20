@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=An9DZjmd6Yw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=An9DZjmd6Yw",
+          "publishedOn": "2021-10-19T08:00:03.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #18 - MUTATION GÉNÉTIQUE"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qReTtGm8ZtE",
           "author": null,
           "description": "",
@@ -289,6 +298,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "23330977c23d083bb898d97c0be92e0dd8eee4c2",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 51, le mot original était \"Loop\" et a été traduit en \"Boucle\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Enjoying the loop - Tomas Skyldeberg\nhttps://www.youtube.com/watch?v=nBh7kdzjn8Q&ab_channel=EpidemicElectronic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-51-boucle",
+          "publishedOn": "2021-10-19T04:24:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 51 Boucle",
+          "itunes": {
+            "duration": "02:10"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/omeJ0crYxdWq.mp3?t=1633794226",
+            "length": "2094529",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "a344d82c329a7edaf64db9d19ed06feaa6b86f90",
           "author": null,
@@ -911,25 +937,7 @@
       "title": "Les Chroniques Galactiques - la Fiction audio Star Wars",
       "feedUrl": "https://feeds.podcastics.com/podcastics/podcasts/rss/2327_c913d2dc7b6c8298e5afd2c7e3575bc2.rss",
       "siteUrl": "https://unfandestarwars.com/les-chroniques-galactiques/",
-      "articles": [
-        {
-          "id": "96355",
-          "author": null,
-          "description": "Avec des dizaines d'heures de rushes, il y'a quelques petites perles qui méritent d'être partagées ! Voici donc le bêtisier de cette saison 3, citoyennes et citoyens. \nLes Chroniques Galactiques reviendront ! en attendant, n'hésitez pas à écouter les supers programmes de l'équipe et du casting !\nToute l'actu de la saga mp3 \"Les Chroniques Galactiques\" sur notre site, Facebook et Twitter !\nEcoutez Hyperdrive, le podcast 100% Star Wars : https://www.podcastics.com/podcast/1834/link/\nGuilde des Contrebandiers : https://fr.tipeee.com/hyperdrive ou sur Patreon : https://www.patreon.com/Hyperdrivecorp\nnotre boutique : https://unfandestarwars.com/boutique/\nLes Chroniques Galactiques est une fanfiction sans caractère commercial, réalisée pour le fun. Certains personnages présentés et issus de la saga Star Wars sont la propriété directe de Lucasfilm/Disney. Les autres sont la propriété de son auteur. Cette fiction audio n'est en aucun cas liée aux entreprises susmentionnées.",
-          "link": "https://unfandestarwars.com/les-chroniques-galactiques-fiction-audio/",
-          "publishedOn": "2021-09-19T22:00:00.000Z",
-          "wordCount": null,
-          "title": "Saison 3 - Bêtisier",
-          "itunes": {
-            "duration": "00:12:18"
-          },
-          "enclosure": {
-            "url": "https://www.podcastics.com/podcast/episode/96355/file.mp3?s=29671109",
-            "type": "audio/mpeg",
-            "length": "29671109"
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ASpaceMR",
