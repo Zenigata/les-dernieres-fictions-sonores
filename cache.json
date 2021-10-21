@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CdVMX9a1RTE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CdVMX9a1RTE",
+          "publishedOn": "2021-10-20T08:00:05.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #19 - SEULS AU MONDE"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=An9DZjmd6Yw",
           "author": null,
           "description": "",
@@ -298,6 +307,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "b6d61b0ce88c076b2a15ecfb39b9d40061ed14e5",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 52, le mot original était \"Sprout\" et a été traduit en \"Jeune Pousse\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Tune in baby - Alexandra Woodward\nhttps://www.youtube.com/watch?v=DBI8_nGc37w&ab_channel=AlexandraWoodward-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-52-jeune-pousse",
+          "publishedOn": "2021-10-20T04:27:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 52 Jeune Pousse",
+          "itunes": {
+            "duration": "02:03"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/yEwnGc8K7W4V.mp3?t=1633794437",
+            "length": "1983750",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "23330977c23d083bb898d97c0be92e0dd8eee4c2",
           "author": null,
