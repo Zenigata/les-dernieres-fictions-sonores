@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-21T00:36:24.495Z</updated>
+    <updated>2021-10-22T00:36:54.336Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #20 - JEUNE POUSSE]]></title>
+        <id>https://www.youtube.com/watch?v=VTSQcUqHyL8</id>
+        <link href="https://www.youtube.com/watch?v=VTSQcUqHyL8"/>
+        <updated>2021-10-21T08:00:19.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 53 Flou]]></title>
+        <id>75b812f417afbc00d67cdf3489b1b40d1b36de8f</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-53-flou"/>
+        <updated>2021-10-21T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 53, le mot original était "Fuzzy" et a été traduit en "Flou". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Zero Hour - Reynard Seidel
+https://www.youtube.com/watch?v=onI7pQqKP9Y&ab_channel=ReynardSeidel-Topic
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #19 - SEULS AU MONDE]]></title>
         <id>https://www.youtube.com/watch?v=CdVMX9a1RTE</id>

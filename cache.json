@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VTSQcUqHyL8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VTSQcUqHyL8",
+          "publishedOn": "2021-10-21T08:00:19.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #20 - JEUNE POUSSE"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CdVMX9a1RTE",
           "author": null,
           "description": "",
@@ -307,6 +316,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "75b812f417afbc00d67cdf3489b1b40d1b36de8f",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 53, le mot original était \"Fuzzy\" et a été traduit en \"Flou\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Zero Hour - Reynard Seidel\nhttps://www.youtube.com/watch?v=onI7pQqKP9Y&ab_channel=ReynardSeidel-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-53-flou",
+          "publishedOn": "2021-10-21T04:30:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 53 Flou",
+          "itunes": {
+            "duration": "01:45"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/od8egu08lv9j.mp3?t=1633794605",
+            "length": "1682819",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "b6d61b0ce88c076b2a15ecfb39b9d40061ed14e5",
           "author": null,
