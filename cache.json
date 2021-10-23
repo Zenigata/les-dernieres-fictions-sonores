@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=F8aiXv46nLw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F8aiXv46nLw",
+          "publishedOn": "2021-10-22T08:00:04.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #21 - JE VOUS AIME - MOI NON PLUS"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VTSQcUqHyL8",
           "author": null,
           "description": "",
@@ -316,6 +325,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "a95d679e2a702ebeaaf9b05d3d4ab3f2a9fbaf33",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 54, le mot original était \"Open\" et a été traduit en \"Ouvert\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : The Golden Spiral - Yi Nantiro\nhttps://www.youtube.com/watch?v=7cp56kPBBF8&ab_channel=EpidemicRelax\n\nLe logo a été réalisé par Kevin Boyer. \nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-54-ouvert",
+          "publishedOn": "2021-10-22T03:33:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 54 Ouvert",
+          "itunes": {
+            "duration": "03:15"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/b5wLPcPXmkap.mp3?t=1634675535",
+            "length": "3123105",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "75b812f417afbc00d67cdf3489b1b40d1b36de8f",
           "author": null,
@@ -818,6 +844,23 @@
       "siteUrl": "https://podcast.ausha.co/les-dessous-de-savin",
       "articles": [
         {
+          "id": "b3bb60aacfcbf8dfcb6dc3b3b91d3134ae5c66f3",
+          "author": null,
+          "description": "📍S06/EP08 - \"La fête de la Turgoule\"📍\n\nÇa fait 1 mois et demi que je suis retourné vivre chez ma mère en Normandie... J'ai trouvé du travail, je mets en scène les évènements de mon village d'enfance, ce soir c'est diner spectacle en l'honneur de la fête de la Turgoule.\n\nVoici votre nouvel épisode du podcast \"Les dessous de Savin\"\n\n\"Les dessous de Savin\"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. \n\nUn épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. \nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! \nPartagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  \n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\n\"NEVER TOO LATE\" (Elton John)\n\"WHATEVER LOLA WANTS\" (Sarah Vaugan)\n\"ELEPHANT LOVE MEDLEY\" (Moulin Rouge the musical)",
+          "link": "https://podcast.ausha.co/les-dessous-de-savin/8-s06-ep08-la-fete-de-la-turgoule",
+          "publishedOn": "2021-10-22T06:04:18.000Z",
+          "wordCount": null,
+          "title": "#8 - S06/EP08 - \"La fête de la Turgoule\"",
+          "itunes": {
+            "duration": "09:10"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/BG3Jdf9zgNpK.mp3?t=1634881722",
+            "length": "8805190",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "6f6ea2ca4811d989a3842b1a069642e1ac772c8d",
           "author": null,
           "description": "📍S06/EP07 - \"Régression\"📍\n\nComment est-il possible de vivre une pareille régression? Oui regression c'est le thème du mois.\nAlors que le train dans lequel je suis s'éloigne lentement de Paris, je me demande si j'allais y remettre un jour les pieds?\nLa vie me poussait hors de ma zone de confort. Mon psy parle de zone de panique...\n\nVoici votre nouvel épisode du podcast \"Les dessous de Savin\"\n\n\"Les dessous de Savin\"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. \n\nUn épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. \nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! \nPartagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  \n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\n\"LIFE ON MARS\" (David Bowie)\n\"STARMAN\" (David Bowie)",
@@ -963,23 +1006,6 @@
           "enclosure": {
             "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/episode-25-au-plus-sombre-de-la-foret/enclosure.ccca3cad918540838842b489a16597d0d16fd3af184ace99d90db606433a9fab.mp3?p=f",
             "length": "85206780",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "614b8705785e20005d09da63",
-          "author": "Avant d'aller dormir",
-          "description": "\" ON A BESOIN DE VOUS !\"\nL'épisode 15 \"Sombre Dessein\" a été nommé dans la catégorie \"musique originale dans un podcast\" par le jury du Paris Podcast Festival 2021 !\nOn est super fiers de cette nomination, mais maintenant qu’on est là, autant gagner !\nEt pour ça, on a besoin de vous pour voter en masse.\nOn espère vraiment que vous répondrez à cet appel, mais on vous fait confiance, on sait qu’on a la meilleure commu du monde !\nLe lien pour voter est juste ici : https://www.parispodcastfestival.com/competition-officielle-2021\nEt on vous dit à très bientôt pour l'épisode 25 et le lancement du mois de l'horreur...\nYop & UnDixGo",
-          "link": "https://adad.lepodcast.fr/on-a-besoin-de-vous",
-          "publishedOn": "2021-09-23T07:58:00.000Z",
-          "wordCount": null,
-          "title": "ON A BESOIN DE VOUS !",
-          "itunes": {
-            "duration": "0:01:44"
-          },
-          "enclosure": {
-            "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/on-a-besoin-de-vous/enclosure.15c6e9982be1aa4b0818f005cf1014e09068e172261f4bd1df17f770c20a1246.mp3?p=f",
-            "length": "3337739",
             "type": "audio/mpeg"
           }
         }

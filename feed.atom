@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-22T00:36:54.336Z</updated>
+    <updated>2021-10-23T00:34:51.954Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #21 - JE VOUS AIME - MOI NON PLUS]]></title>
+        <id>https://www.youtube.com/watch?v=F8aiXv46nLw</id>
+        <link href="https://www.youtube.com/watch?v=F8aiXv46nLw"/>
+        <updated>2021-10-22T08:00:04.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#8 - S06/EP08 - "La fête de la Turgoule"]]></title>
+        <id>b3bb60aacfcbf8dfcb6dc3b3b91d3134ae5c66f3</id>
+        <link href="https://podcast.ausha.co/les-dessous-de-savin/8-s06-ep08-la-fete-de-la-turgoule"/>
+        <updated>2021-10-22T06:04:18.000Z</updated>
+        <summary type="html"><![CDATA[📍S06/EP08 - "La fête de la Turgoule"📍
+
+Ça fait 1 mois et demi que je suis retourné vivre chez ma mère en Normandie... J'ai trouvé du travail, je mets en scène les évènements de mon village d'enfance, ce soir c'est diner spectacle en l'honneur de la fête de la Turgoule.
+
+Voici votre nouvel épisode du podcast "Les dessous de Savin"
+
+"Les dessous de Savin"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. 
+
+Un épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. 
+Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! 
+Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  
+
+🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
+
+"STATIC" composé par Stel https://www.instagram.com/stel_musique/
+
+"NEVER TOO LATE" (Elton John)
+"WHATEVER LOLA WANTS" (Sarah Vaugan)
+"ELEPHANT LOVE MEDLEY" (Moulin Rouge the musical)]]></summary>
+        <author>
+            <name>Les dessous de Savin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 54 Ouvert]]></title>
+        <id>a95d679e2a702ebeaaf9b05d3d4ab3f2a9fbaf33</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-54-ouvert"/>
+        <updated>2021-10-22T03:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 54, le mot original était "Open" et a été traduit en "Ouvert". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : The Golden Spiral - Yi Nantiro
+https://www.youtube.com/watch?v=7cp56kPBBF8&ab_channel=EpidemicRelax
+
+Le logo a été réalisé par Kevin Boyer. 
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #20 - JEUNE POUSSE]]></title>
         <id>https://www.youtube.com/watch?v=VTSQcUqHyL8</id>
@@ -1581,23 +1647,6 @@ Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagr
 "HIGH HOPES" - Filous remix (Kodaline, filous)]]></summary>
         <author>
             <name>Les dessous de Savin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ON A BESOIN DE VOUS !]]></title>
-        <id>614b8705785e20005d09da63</id>
-        <link href="https://adad.lepodcast.fr/on-a-besoin-de-vous"/>
-        <updated>2021-09-23T07:58:00.000Z</updated>
-        <summary type="html"><![CDATA[" ON A BESOIN DE VOUS !"
-L'épisode 15 "Sombre Dessein" a été nommé dans la catégorie "musique originale dans un podcast" par le jury du Paris Podcast Festival 2021 !
-On est super fiers de cette nomination, mais maintenant qu’on est là, autant gagner !
-Et pour ça, on a besoin de vous pour voter en masse.
-On espère vraiment que vous répondrez à cet appel, mais on vous fait confiance, on sait qu’on a la meilleure commu du monde !
-Le lien pour voter est juste ici : https://www.parispodcastfestival.com/competition-officielle-2021
-Et on vous dit à très bientôt pour l'épisode 25 et le lancement du mois de l'horreur...
-Yop & UnDixGo]]></summary>
-        <author>
-            <name>Avant d'aller dormir</name>
         </author>
     </entry>
 </feed>
