@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-23T00:34:51.954Z</updated>
+    <updated>2021-10-24T00:32:54.433Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Episode 26.3 : J'ai acheté une femme sur Internet]]></title>
+        <id>617186ef04088f141776c8ce</id>
+        <link href="https://adad.lepodcast.fr/episode-26-point-3-jai-achete-une-femme-sur-internet"/>
+        <updated>2021-10-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonsoir, bienvenue dans l’épisode 26.3 d’Avant d’aller dormir. Cet épisode est le dernier de la trilogie "J'ai acheté une femme sur Internet". On espère que vous avez aimé cette petite série et que vous passez un très bon mois de l'horreur !
+Installez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.
+Lien vers l'histoire
+J'ai acheté une femme sur Internet (Partie 3), par Kikito Horrors
+N’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr
+Rejoignez-nous !
+Instagram
+Facebook
+YouTube
+Twitch
+Notre messagerie vocale : 07 49 25 27 90
+Soutenez-nous
+En nous versant quelques deniers sur Patreon, en échange vous recevrez chaque mois les épisodes en avance et du contenu exclusif !
+En nous mettant une super note sur SensCritique, Apple Podcasts ou Podcast Addict.
+Ou tout simplement en parlant de nous à tous vos proches.
+Tous ces liens sont disponibles sur https://avantdallerdormir.fr
+L'équipe
+🎙️ Vos humbles serviteurs, Yop (Twitch / Youtube / Podcasts) & UnDixGo (Instagram / Twitch)
+🏞 Illustration : renarmaro
+Il est maintenant temps de trouver le sommeil. À bientôt…]]></summary>
+        <author>
+            <name>Avant d’aller dormir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wapx074]]></title>
+        <id>https://www.linaudible.com/?p=11193</id>
+        <link href="https://www.linaudible.com/2021/10/23/wapx074/"/>
+        <updated>2021-10-23T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[C'est le Walter Proof Experiment, saison 8, épisode 74 ! Et il faut que ça se sache !]]></summary>
+        <author>
+            <name>L'Inaudible de Walter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #22 - LA FAILLE]]></title>
+        <id>https://www.youtube.com/watch?v=hk3A89WHFRY</id>
+        <link href="https://www.youtube.com/watch?v=hk3A89WHFRY"/>
+        <updated>2021-10-23T08:00:14.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 55 Fuite]]></title>
+        <id>fb1c5ad78832332e7be068a476090ab1c8b56514</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-55-fuite"/>
+        <updated>2021-10-23T03:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 55, le mot original était "Leak" et a été traduit en "Fuite". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Lobster Polska - Rune Dale
+https://www.youtube.com/watch?v=gC3n9c35OaE&ab_channel=RuneDale-Topic
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #21 - JE VOUS AIME - MOI NON PLUS]]></title>
         <id>https://www.youtube.com/watch?v=F8aiXv46nLw</id>
@@ -1577,76 +1655,6 @@ Apple Podcasts, Spotify, Deezer, Castbox, Amazon Music, Podinstall
  Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.]]></summary>
         <author>
             <name>Silencio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demain, Le Soleil Se Couchera Deux Fois : L'intégrale]]></title>
-        <id>614da3143ec8840014f75c0f</id>
-        <link href="https://shows.acast.com/demain-le-soleil-se-couchera-deux-fois/episodes/demain-le-soleil-se-couchera-deux-fois-lintegrale"/>
-        <updated>2021-09-24T10:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Redécouvrez Demain, Le Soleil Se Couchera Deux Fois, en version intégrale.
-
-Du jour au lendemain, le monde devient totalement imprévisible : les toilettes changent constamment de place, les voitures n'avancent qu'à reculons, les chiens miaulent et nul ne peut dire où les avions vont atterrir une fois qu'ils ont décollé. Pour découvrir l'origine de ces phénomènes qui sèment la panique, Müller et Sally, un duo de choc en quête de reconnaissance, mènent une enquête internationale perturbée par la constante reconfiguration du monde. Déterminés à résoudre le mystère malgré l'adversité, le prudent Müller et l'impétueuse Sally peuvent compter sur Ana, une intelligence artificielle à l'ironie mordante, pour surmonter les catastrophes qui ne tardent pas à s'accumuler.
-
-Demain, le Soleil se couchera deux fois est une fiction audio Allianz. 
-Scénario et dialogues : Cyril Legrais
-Réalisation : Andréa Brusque
-Composition musicale : Julien Boulfray 
-Supervision musicale : Phantom Punch
-Montage et sound-design : Célia Brondeau et Jean-Gabriel Rassat 
-Enregistrements : L’Arrière Boutique Studio
-Production : BABABAM
-
-Distribution :
-Sally J.Sally : Camille Lockhart
-Jacques Muller : François Briault
-ANA : Ariane Brousse
-Mr. AZ : Olivier Cruveiller 
-Taxi Driver, Pilote : Nicolas Perrochet 
-Réceptionniste : Capucine Lespinas
-Journaliste radio : Andréa Brusque
-Yegor et Mishka Poliakoff : Miglen Mirtchev
-Dr. René Rameaux : Philippe Mambon
-Cheffe de bord : Dalia Bonnet 
-Hôtesse de l’air : Capucine Lespinas
-Milton Hatch : Stephan Druet
-Homme de Milton : Justin Blanckaert 
-Officiel : Nicolas Perrochet
-
-
-
- Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.]]></summary>
-        <author>
-            <name>Demain, Le Soleil Se Couchera Deux Fois</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#4 - S06/EP04 - "Le mauvais oeil"]]></title>
-        <id>fd122d78e88afb85e20ada6a7265a37144f89607</id>
-        <link href="https://podcast.ausha.co/les-dessous-de-savin/4-s06-ep04-le-mauvais-oeil"/>
-        <updated>2021-09-24T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[📍S06/EP04 - "Le mauvais oeil"📍
-
-Et voilà c’est la deuxième partie des vacances. Après un séjour tout à fait charmant en Provence, Manu m’emmène visiter l’Italie. Venise, Florence, Pise, Rome…Si ça c’est pas romantique je veux bien qu’on m’appelle Jean-Pierre…
-Nous voici donc sur la route, à la frontière Italienne. Une route pleine d'embuches.
-Ce qui n’était que la suite logique de cette journée un peu bizarre commencée il y a quelques heures plus tôt... Et si Manu avait le mauvais oeil?
-
-Voici votre nouvel épisode du podcast "Les dessous de Savin"
-
-"Les dessous de Savin"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. 
-
-Un épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. 
-Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! 
-Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  
-
-🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
-
-"STATIC" composé par Stel https://www.instagram.com/stel_musique/
-
-"I DROVE ALL NIGHT" (Roy Orbison)
-"HIGH HOPES" - Filous remix (Kodaline, filous)]]></summary>
-        <author>
-            <name>Les dessous de Savin</name>
         </author>
     </entry>
 </feed>
