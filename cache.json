@@ -65,6 +65,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kLWRcMhCAKI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kLWRcMhCAKI",
+          "publishedOn": "2021-10-24T08:00:26.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #23 - ISSUE DE SECOURS"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hk3A89WHFRY",
           "author": null,
           "description": "",
@@ -276,6 +285,23 @@
       "siteUrl": "https://javras.fr/",
       "articles": [
         {
+          "id": "https://javras.fr/?p=19254",
+          "author": "Erika",
+          "description": "Salut à tous ! Ici Erika pour inaugurer les épisodes de la deuxième affaire de la saga parodique “Fénix Write : l’As Détourné” que j’écris avec Richoult.\nCette deuxième affaire est totalement écrite et à l’heure où je vous parle, 4 sur 5 épisodes sont montés et le mixage de l’épisode 04 commence bientôt (Richoult aimerait se concentrer sur un autre de ses projets, genre : Erika et les princes en détresses).\nComme cette affaire est entièrement écrite et vu qu’on a tous les enregistrements pour les quatre prochains épisodes, on ne pourra pas trop suivre les critiques (comme pour les deux premiers épisodes, on les suivra qu’à partir de la prochaine affaire).\nOn a lu les critiques et on a essayé de faire au mieux pour se détacher un peu de l’histoire originale en se donnant quelques libertés s…",
+          "link": "https://javras.fr/2021/10/22/fenix-write-las-detourne-episode-03/",
+          "publishedOn": "2021-10-22T08:28:16.000Z",
+          "wordCount": null,
+          "title": "Fénix Write : l’As Détourné – Épisode 03",
+          "itunes": {
+            "duration": "0:00"
+          },
+          "enclosure": {
+            "url": "https://javras.fr/podcast-download/19254/fenix-write-las-detourne-episode-03.mp3",
+            "length": "1",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "https://javras.fr/?p=19171",
           "author": "Aibonn",
           "description": "Hey bande de gens de toutes formes et de toutes les couleurs ! Ici Aibonn, votre créateur de saga vénéré qui arrive pour vous donner votre dose de création sonore. Mes petits amis, pour vous seulement, je vais vous offrir l’épisode 7 de Camlann ! *Oh, mais tu es tellement génial Aibonn* Je sais, je sais, ça me fait plaisir de vous faire plaisir.\n\nEncore une fois, je vais  remercier Kayji pour son travail pour l’intro et l’outro de ma saga. Qu’on donne à cet homme tout plein d’admiration ! Merci aussi aux acteurs qui ont prêté leurs voix pour la réalisation de cet épisode. Et pour finir, un énorme merci à mon monteur Badou, ce monteur de l’extrême qui devrait être une célébrité et avoir un yacht et un manoir !\n\t\t\t\t\t\nSynopsis : Le face à face entre le Bien et le Mauvais va avoir lieu !\n\nDist…",
@@ -351,6 +377,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "a1bcb1222d7029efba0bf0d43a0c124fbf43c83f",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 56, le mot original était \"Extinct\" et a été traduit en \"Eteint\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : No second chance - Mac Taboel\nhttps://www.youtube.com/watch?v=P2wPj_pI3ZM&ab_channel=MacTaboel-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-56-eteint",
+          "publishedOn": "2021-10-24T03:39:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 56 Eteint",
+          "itunes": {
+            "duration": "02:14"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/bYXRqsvknQR4.mp3?t=1634675977",
+            "length": "2146778",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "fb1c5ad78832332e7be068a476090ab1c8b56514",
           "author": null,
@@ -771,25 +814,7 @@
       "title": "Noises",
       "feedUrl": "https://rss.acast.com/noises",
       "siteUrl": "http://ba-ba-bam.com/marques/noises/",
-      "articles": [
-        {
-          "id": "614db8d5b739990012d6408e",
-          "author": null,
-          "description": "Du jour au lendemain, le monde devient totalement imprévisible : les toilettes changent constamment de place, les voitures n'avancent qu'à reculons, les chiens miaulent et nul ne peut dire où les avions vont atterrir une fois qu'ils ont décollé. Pour découvrir l'origine de ces phénomènes qui sèment la panique, Müller et Sally, un duo de choc en quête de reconnaissance, mènent une enquête internationale perturbée par la constante reconfiguration du monde. Déterminés à résoudre le mystère malgré l'adversité, le prudent Müller et l'impétueuse Sally peuvent compter sur Ana, une intelligence artificielle à l'ironie mordante, pour surmonter les catastrophes qui ne tardent pas à s'accumuler.\n \nDemain, le Soleil se couchera deux fois est une fiction audio Allianz. \nScénario et dialogues : Cyril Legrais\nRéalisation : Andréa Brusque\nComposition musicale : Julien Boulfray \nSupervision musicale : Phantom Punch\nMontage et sound-design : Célia Brondeau et Jean-Gabriel Rassat \nEnregistrements : L’Arrière Boutique Studio\nProduction : BABABAM\n\nUn podcast à écouter sur toutes les plateformes d'écoutes :\nApple Podcasts, Spotify, Deezer, Castbox, Amazon Music, Podinstall\n\n\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
-          "link": "https://shows.acast.com/noises/episodes/decouvrez-demain-le-soleil-se-couchera-deux-fois",
-          "publishedOn": "2021-09-25T03:00:53.000Z",
-          "wordCount": null,
-          "title": "Découvrez : Demain, Le Soleil Se Couchera Deux Fois",
-          "itunes": {
-            "duration": "1:24"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/acast/s/noises/e/614db8d5b739990012d6408e/media.mp3",
-            "length": "3387908",
-            "type": "audio/mpeg"
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Red Universe",
@@ -849,25 +874,7 @@
       "title": "Silencio",
       "feedUrl": "https://rss.acast.com/silencio",
       "siteUrl": "https://podcasts.ba-ba-bam.com/bababam-silencio/",
-      "articles": [
-        {
-          "id": "614dbaa5d72d490013a10efe",
-          "author": null,
-          "description": "Du jour au lendemain, le monde devient totalement imprévisible : les toilettes changent constamment de place, les voitures n'avancent qu'à reculons, les chiens miaulent et nul ne peut dire où les avions vont atterrir une fois qu'ils ont décollé. Pour découvrir l'origine de ces phénomènes qui sèment la panique, Müller et Sally, un duo de choc en quête de reconnaissance, mènent une enquête internationale perturbée par la constante reconfiguration du monde. Déterminés à résoudre le mystère malgré l'adversité, le prudent Müller et l'impétueuse Sally peuvent compter sur Ana, une intelligence artificielle à l'ironie mordante, pour surmonter les catastrophes qui ne tardent pas à s'accumuler.\n \nDemain, le Soleil se couchera deux fois est une fiction audio Allianz. \nScénario et dialogues : Cyril Legrais\nRéalisation : Andréa Brusque\nComposition musicale : Julien Boulfray \nSupervision musicale : Phantom Punch\nMontage et sound-design : Célia Brondeau et Jean-Gabriel Rassat \nEnregistrements : L’Arrière Boutique Studio\nProduction : BABABAM\n\nUn podcast à écouter sur toutes les plateformes d'écoutes :\nApple Podcasts, Spotify, Deezer, Castbox, Amazon Music, Podinstall\n\n Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.",
-          "link": "https://shows.acast.com/silencio/episodes/decouvrez-demain-le-soleil-se-couchera-deux-fois",
-          "publishedOn": "2021-09-25T03:00:20.000Z",
-          "wordCount": null,
-          "title": "Découvrez : Demain, Le Soleil Se Couchera Deux Fois",
-          "itunes": {
-            "duration": "1:24"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/acast/s/silencio/e/614dbaa5d72d490013a10efe/media.mp3",
-            "length": "3387908",
-            "type": "audio/mpeg"
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Ma Langue au chat",
@@ -1509,6 +1516,23 @@
       "feedUrl": "https://radiofrance-podcast.net/podcast09/rss_11496.xml",
       "siteUrl": "https://www.franceculture.fr/emissions/fictions-samedi-noir",
       "articles": [
+        {
+          "id": "038ecf2d-33e0-473d-ae43-14be7ff366b5",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:58:03 - Fictions / Samedi noir - par : Blandine Masson - Dans le Saint-Pétersbourg des années 1920, Sofia et Trofim, couple sans enfant, voient leur union se fissurer peu à peu. Sofia décide d’adopter une jeune orpheline du voisinage, Ganka. Ce qui devait préserver son mariage va amener la catastrophe.",
+          "link": "https://www.franceculture.fr/emissions/fictions-samedi-noir/l-inondation-de-evgueni-zamiatine-en-direct",
+          "publishedOn": "2021-10-23T19:58:45.000Z",
+          "wordCount": null,
+          "title": "\"L’Inondation\" de Evgueni Zamiatine...EN DIRECT",
+          "itunes": {
+            "duration": "00:58:03"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/fd81ee4f-7767-4db5-ab05-171f6e23fd99/11496-23.10.2021-ITEMA_22816227-2021C3067S0296-21.mp3",
+            "length": "55763821",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "f0b9ab4e-206a-4842-8ce4-1a06c63b87ff",
           "author": "podcast@radiofrance.com (Radio France)",

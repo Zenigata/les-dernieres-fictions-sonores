@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-24T00:32:54.433Z</updated>
+    <updated>2021-10-25T00:34:17.900Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #23 - ISSUE DE SECOURS]]></title>
+        <id>https://www.youtube.com/watch?v=kLWRcMhCAKI</id>
+        <link href="https://www.youtube.com/watch?v=kLWRcMhCAKI"/>
+        <updated>2021-10-24T08:00:26.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 56 Eteint]]></title>
+        <id>a1bcb1222d7029efba0bf0d43a0c124fbf43c83f</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-56-eteint"/>
+        <updated>2021-10-24T03:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 56, le mot original était "Extinct" et a été traduit en "Eteint". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : No second chance - Mac Taboel
+https://www.youtube.com/watch?v=P2wPj_pI3ZM&ab_channel=MacTaboel-Topic
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["L’Inondation" de Evgueni Zamiatine...EN DIRECT]]></title>
+        <id>038ecf2d-33e0-473d-ae43-14be7ff366b5</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-samedi-noir/l-inondation-de-evgueni-zamiatine-en-direct"/>
+        <updated>2021-10-23T19:58:45.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:58:03 - Fictions / Samedi noir - par : Blandine Masson - Dans le Saint-Pétersbourg des années 1920, Sofia et Trofim, couple sans enfant, voient leur union se fissurer peu à peu. Sofia décide d’adopter une jeune orpheline du voisinage, Ganka. Ce qui devait préserver son mariage va amener la catastrophe.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Episode 26.3 : J'ai acheté une femme sur Internet]]></title>
         <id>617186ef04088f141776c8ce</id>
@@ -82,6 +131,19 @@ Si vous souhaitez encourager le label : https://www.patreon.com/podcut
 et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
         <author>
             <name>Podcut Fictions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fénix Write : l’As Détourné – Épisode 03]]></title>
+        <id>https://javras.fr/?p=19254</id>
+        <link href="https://javras.fr/2021/10/22/fenix-write-las-detourne-episode-03/"/>
+        <updated>2021-10-22T08:28:16.000Z</updated>
+        <summary type="html"><![CDATA[Salut à tous ! Ici Erika pour inaugurer les épisodes de la deuxième affaire de la saga parodique “Fénix Write : l’As Détourné” que j’écris avec Richoult.
+Cette deuxième affaire est totalement écrite et à l’heure où je vous parle, 4 sur 5 épisodes sont montés et le mixage de l’épisode 04 commence bientôt (Richoult aimerait se concentrer sur un autre de ses projets, genre : Erika et les princes en détresses).
+Comme cette affaire est entièrement écrite et vu qu’on a tous les enregistrements pour les quatre prochains épisodes, on ne pourra pas trop suivre les critiques (comme pour les deux premiers épisodes, on les suivra qu’à partir de la prochaine affaire).
+On a lu les critiques et on a essayé de faire au mieux pour se détacher un peu de l’histoire originale en se donnant quelques libertés s…]]></summary>
+        <author>
+            <name>Erika</name>
         </author>
     </entry>
     <entry>
@@ -1605,56 +1667,6 @@ Liliy : Le film The Old Ways,…]]></summary>
         <summary type="html"><![CDATA[C'est le retour du Wapx, saison 8, épisode 73 !]]></summary>
         <author>
             <name>L'Inaudible de Walter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Découvrez : Demain, Le Soleil Se Couchera Deux Fois]]></title>
-        <id>614db8d5b739990012d6408e</id>
-        <link href="https://shows.acast.com/noises/episodes/decouvrez-demain-le-soleil-se-couchera-deux-fois"/>
-        <updated>2021-09-25T03:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Du jour au lendemain, le monde devient totalement imprévisible : les toilettes changent constamment de place, les voitures n'avancent qu'à reculons, les chiens miaulent et nul ne peut dire où les avions vont atterrir une fois qu'ils ont décollé. Pour découvrir l'origine de ces phénomènes qui sèment la panique, Müller et Sally, un duo de choc en quête de reconnaissance, mènent une enquête internationale perturbée par la constante reconfiguration du monde. Déterminés à résoudre le mystère malgré l'adversité, le prudent Müller et l'impétueuse Sally peuvent compter sur Ana, une intelligence artificielle à l'ironie mordante, pour surmonter les catastrophes qui ne tardent pas à s'accumuler.
- 
-Demain, le Soleil se couchera deux fois est une fiction audio Allianz. 
-Scénario et dialogues : Cyril Legrais
-Réalisation : Andréa Brusque
-Composition musicale : Julien Boulfray 
-Supervision musicale : Phantom Punch
-Montage et sound-design : Célia Brondeau et Jean-Gabriel Rassat 
-Enregistrements : L’Arrière Boutique Studio
-Production : BABABAM
-
-Un podcast à écouter sur toutes les plateformes d'écoutes :
-Apple Podcasts, Spotify, Deezer, Castbox, Amazon Music, Podinstall
-
-
-
- Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.]]></summary>
-        <author>
-            <name>Noises</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Découvrez : Demain, Le Soleil Se Couchera Deux Fois]]></title>
-        <id>614dbaa5d72d490013a10efe</id>
-        <link href="https://shows.acast.com/silencio/episodes/decouvrez-demain-le-soleil-se-couchera-deux-fois"/>
-        <updated>2021-09-25T03:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Du jour au lendemain, le monde devient totalement imprévisible : les toilettes changent constamment de place, les voitures n'avancent qu'à reculons, les chiens miaulent et nul ne peut dire où les avions vont atterrir une fois qu'ils ont décollé. Pour découvrir l'origine de ces phénomènes qui sèment la panique, Müller et Sally, un duo de choc en quête de reconnaissance, mènent une enquête internationale perturbée par la constante reconfiguration du monde. Déterminés à résoudre le mystère malgré l'adversité, le prudent Müller et l'impétueuse Sally peuvent compter sur Ana, une intelligence artificielle à l'ironie mordante, pour surmonter les catastrophes qui ne tardent pas à s'accumuler.
- 
-Demain, le Soleil se couchera deux fois est une fiction audio Allianz. 
-Scénario et dialogues : Cyril Legrais
-Réalisation : Andréa Brusque
-Composition musicale : Julien Boulfray 
-Supervision musicale : Phantom Punch
-Montage et sound-design : Célia Brondeau et Jean-Gabriel Rassat 
-Enregistrements : L’Arrière Boutique Studio
-Production : BABABAM
-
-Un podcast à écouter sur toutes les plateformes d'écoutes :
-Apple Podcasts, Spotify, Deezer, Castbox, Amazon Music, Podinstall
-
- Voir Acast.com/privacy pour les informations sur la vie privée et l'opt-out.]]></summary>
-        <author>
-            <name>Silencio</name>
         </author>
     </entry>
 </feed>
