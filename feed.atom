@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-25T00:34:17.900Z</updated>
+    <updated>2021-10-26T00:30:39.178Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #24 - A LA RECHERCHE D'XDDL]]></title>
+        <id>https://www.youtube.com/watch?v=r0_vwnseVIo</id>
+        <link href="https://www.youtube.com/watch?v=r0_vwnseVIo"/>
+        <updated>2021-10-25T08:00:30.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 57 Splash]]></title>
+        <id>c4748fa47c90a84435d94e859be589a7c12f1e53</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/ep-57-splash"/>
+        <updated>2021-10-25T03:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 57, le mot original était "Splat" et a été traduit en "Splash". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Enjoying the loop - Tomas Skyldeberg
+https://www.youtube.com/watch?v=nBh7kdzjn8Q&ab_channel=EpidemicElectronic
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #23 - ISSUE DE SECOURS]]></title>
         <id>https://www.youtube.com/watch?v=kLWRcMhCAKI</id>
@@ -1593,80 +1632,6 @@ et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre 
         <summary type="html"><![CDATA[durée : 00:28:44 - Le Feuilleton - Août 2019. La canicule qui sévit dans le Jura a asséché le lac qui recouvrait le village de Bas-Vourlans depuis 45 ans, faisant resurgir La Légende des amoureux de Clairlieu, la jeune Bérénice découvre deux squelettes au fond du lac et convainc son ami Titouan d'y retourner.]]></summary>
         <author>
             <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fénix Write – Bêtisier – Affaire 1]]></title>
-        <id>https://javras.fr/?p=18879</id>
-        <link href="https://javras.fr/2021/09/26/fenix-write-betisier-affaire-1/"/>
-        <updated>2021-09-26T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Salut à tous ! 
-C’est Richoult, je suis ici pour vous présenter le premier bonus de notre parodie Fénix Write ! 
-Nous avons décidé, avec Erika, de sortir un bêtisier à chaque fois qu’une affaire est résolue. Aujourd’hui vous avez donc le premier bêtisier qui réunit l’épisode 1 et 2, ce qui couvre la première affaire : La première volte-face.
-					
-Vous trouverez donc dans ce bonus les acteurs suivants :
-Papy Al, Eva, Zarkiel, Azmar, NicoTiko et Reshkaf.
-Nous espérons que ce bonus vous plaira et vous aidera à patienter jusqu’au prochain épisode de cette fiction audio. Il ne devrait plus tarder.  Vous pouvez retrouver les épisodes précédents sur la page de Fénix Write : L’as Détourné.
-Bonne écoute !
-
- 
-
- 
-
- 
- 
-
-
-					
-														
-
-
-
-	 Fénix Write – Betisier – Affaire 1 ( 11 MB)
- Cliquez p…]]></summary>
-        <author>
-            <name>Team Javras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["La métamorphose" de Franz Kafka]]></title>
-        <id>13c9ff34-4f2a-4a82-a493-53d1860a3364</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-samedi-noir/la-metamorphose-de-franz-kafka"/>
-        <updated>2021-09-25T20:01:41.000Z</updated>
-        <summary type="html"><![CDATA[durée : 01:01:40 - Fictions / Samedi noir - par : Blandine Masson - Un matin, au sortir de rêves agités, Gregor Samsa, se réveille transformé en "une énorme bestiole immonde". Jamais nommée mais décrite précisément, carapace dure et bombée, multitude de pattes lamentablement fluettes et grouillantes, la bête a un corps qui dégoûte quiconque l'aperçoit.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Episode 25 : Au plus sombre de la forêt]]></title>
-        <id>614e202a5e5a8c7381325b6f</id>
-        <link href="https://adad.lepodcast.fr/episode-25-au-plus-sombre-de-la-foret"/>
-        <updated>2021-09-25T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bonsoir, bienvenue dans l’épisode 25 d’Avant d’aller dormir. Toutes les histoires de cet épisodes ont été écrites et narrées par des ADADOS, merci la commu <3
-Installez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.
-Les histoires
-Au plus sombre de la forêt, par Olivier (aka Oysterlover)
-Freddy Fazbear Factory, par Valentine
-Un vol particulier, par MrY
-Prendre le thé, par Rubis
-J'ai rencontré mon lutin, par Clegot
-Merci à tous les auteurs d’avoir accepté de faire partie de cet épisode, n’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr
-Un tonnerre d'applaudissements pour la narrateurs de l'épisode : Liliy, Oak Leaf, Clegot, Neeghal.
-Les recommandations de l'épisode
-Liliy : Le film The Old Ways,…]]></summary>
-        <author>
-            <name>Avant d’aller dormir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wapx073]]></title>
-        <id>https://www.linaudible.com/?p=11118</id>
-        <link href="https://www.linaudible.com/2021/09/25/wapx073/"/>
-        <updated>2021-09-25T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[C'est le retour du Wapx, saison 8, épisode 73 !]]></summary>
-        <author>
-            <name>L'Inaudible de Walter</name>
         </author>
     </entry>
 </feed>
