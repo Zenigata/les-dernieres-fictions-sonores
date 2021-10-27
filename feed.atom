@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-26T00:30:39.178Z</updated>
+    <updated>2021-10-27T00:31:01.012Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #25 - A TOUTE BERZINGUE]]></title>
+        <id>https://www.youtube.com/watch?v=OQsKKgeS2Kw</id>
+        <link href="https://www.youtube.com/watch?v=OQsKKgeS2Kw"/>
+        <updated>2021-10-26T08:00:06.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 58 Connecter]]></title>
+        <id>9f681f099efcec73628e276564194945d791a240</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-58-connecter"/>
+        <updated>2021-10-26T03:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 58, le mot original était "Connect" et a été traduit en "Connecter". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Karaoké Il suffira d'un signe - Jean-Jacques Goldman
+https://www.youtube.com/watch?v=If-mJDwIzho&ab_channel=KaraFunFrance-Karaoke
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #24 - A LA RECHERCHE D'XDDL]]></title>
         <id>https://www.youtube.com/watch?v=r0_vwnseVIo</id>
@@ -1582,56 +1621,6 @@ et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre 
  Ce troisième épisode de la fiction collaborative vous est proposé par votre capitaine, Amandine Coyard, à la barre du bateau le plus flippant du Styx.]]></summary>
         <author>
             <name>Amandine Coyard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Si leur chant tu entends… tu finiras dans l’eau]]></title>
-        <id>c5ad6fe5-e73f-4740-937c-f7ebb6c7ef36</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-09-26T23:00:04.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:28:31 - Le Feuilleton - Les anciens se retrouvent chez Ahmed : mais cachés dans le grenier, son petit-fils et Bérénice entendent tout ce qui s’y dit. Les enquêteurs en herbe se précipitent alors à l’église pour demander au curé de les aider, pendant qu’à Bas-Vourlans les mystères s’éclaircissent enfin.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chante la grive, la pluie arrive]]></title>
-        <id>e491f8e2-8197-42ba-8b37-c78ec55c41ec</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-09-26T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:28:46 - Le Feuilleton -  Le corbeau est revenu, terrifiant les anciens du village : l’ancien maire est pris de panique, son frère se suicide, et la ronde des habitués du bar-tabac s'affole et se perd en conjectures. Mais le corbeau d’hier n’est pas celui d’aujourd’hui.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500 milliards de kilos d’eau]]></title>
-        <id>d7f62cb3-f91a-44b3-a93c-ee92f1f98ba9</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-09-26T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:28:42 - Le Feuilleton - Alors qu’un lien entre le corbeau de Bas-Vourlans et la disparition des époux Varod semble se dessiner, Titouan découvre avec Bérénice des photos, des coupures de presse et des lettres datant d’avant le déménagement dans le grenier de son grand-père.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Des corbeaux et des hommes]]></title>
-        <id>4ac49747-9b2e-42c8-9a09-9a20f7d2075c</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-09-26T23:00:01.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:28:02 - Le Feuilleton - Broyard, un ancien habitant de Bas-Vourlans met les jeunes enquêteurs sur la piste des époux Varod : ils seraient les amoureux de Clairlieu. Mais le mystère s’épaissit quand Titouan apprend que sa grand-mère s’est suicidée quelques jours avant le déménagement du village.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les amoureux de Clairlieu]]></title>
-        <id>0147be4e-8209-463e-924a-9bd231833456</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-09-26T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:28:44 - Le Feuilleton - Août 2019. La canicule qui sévit dans le Jura a asséché le lac qui recouvrait le village de Bas-Vourlans depuis 45 ans, faisant resurgir La Légende des amoureux de Clairlieu, la jeune Bérénice découvre deux squelettes au fond du lac et convainc son ami Titouan d'y retourner.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
         </author>
     </entry>
 </feed>
