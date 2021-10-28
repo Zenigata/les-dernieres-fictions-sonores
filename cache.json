@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=270i6pyBBmA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=270i6pyBBmA",
+          "publishedOn": "2021-10-27T08:00:41.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #26 - POUR TOUJOURS ET A JAMAIS"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OQsKKgeS2Kw",
           "author": null,
           "description": "",
@@ -361,6 +370,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "4d7b5e5aecd0ff8102fbea7c4277bd5cf23e935a",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 59, le mot original était \"Spark\" et a été traduit en \"Etincelle\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Enjoying the loop - Tomas Skyldeberg\nhttps://www.youtube.com/watch?v=nBh7kdzjn8Q&ab_channel=EpidemicElectronic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-59-etincelle",
+          "publishedOn": "2021-10-27T03:55:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 59 Etincelle",
+          "itunes": {
+            "duration": "02:40"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/BDD90sMrRAJn.mp3?t=1634676943",
+            "length": "2576206",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "9f681f099efcec73628e276564194945d791a240",
           "author": null,
