@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ksi1HcnB4IA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ksi1HcnB4IA",
+          "publishedOn": "2021-10-28T08:00:04.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #27 - QUE LA LUMIÈRE SOIT"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=270i6pyBBmA",
           "author": null,
           "description": "",
@@ -370,6 +379,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "5f452d3bb15f6a486771c2ecd7173c9ca1e35c38",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 60, le mot original était \"Crispy\" et a été traduit en \"Croustillant\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Early Mornin' Lover - The best ofs\nhttps://www.youtube.com/watch?v=xePlEtdXHZ4&ab_channel=TheBestOfs-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-60-croustillant",
+          "publishedOn": "2021-10-28T03:08:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 60 Croustillant",
+          "itunes": {
+            "duration": "02:43"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/yk0PGhE77Rqw.mp3?t=1634893656",
+            "length": "2622074",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "4d7b5e5aecd0ff8102fbea7c4277bd5cf23e935a",
           "author": null,
@@ -882,25 +908,7 @@
       "title": "Studio TJP 💊 Fictions Sonores / Sagas MP3 / Séries Audio",
       "feedUrl": "https://studio-tjp.lepodcast.fr/rss",
       "siteUrl": "https://studiotjp.com",
-      "articles": [
-        {
-          "id": "61534d18845037149dae6c43",
-          "author": "Amandine Coyard",
-          "description": "Episode 03\n ici votre capitaine\n Ce troisième épisode de la fiction collaborative vous est proposé par votre capitaine, Amandine Coyard, à la barre du bateau le plus flippant du Styx.",
-          "link": "https://styx.studiotjp.com",
-          "publishedOn": "2021-09-28T15:35:00.000Z",
-          "wordCount": null,
-          "title": "STYX 🚢 Fiction sonore collaborative > Episode 03 - Ici votre capitaine",
-          "itunes": {
-            "duration": "0:07:44"
-          },
-          "enclosure": {
-            "url": "https://stats.podcloud.fr/studio-tjp/styx-fiction-sonore-collaborative-episode-03-ici-votre-capitaine/enclosure.a5b87083f292b364c366605cce35fece972f4bdcde524749aa26551b82a17e7b.mp3?p=f",
-            "length": "19390718",
-            "type": "audio/mpeg"
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Le ShCrok Mel Sho ?",

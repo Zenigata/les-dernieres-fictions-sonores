@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-28T00:31:24.329Z</updated>
+    <updated>2021-10-29T00:30:02.227Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #27 - QUE LA LUMIÈRE SOIT]]></title>
+        <id>https://www.youtube.com/watch?v=Ksi1HcnB4IA</id>
+        <link href="https://www.youtube.com/watch?v=Ksi1HcnB4IA"/>
+        <updated>2021-10-28T08:00:04.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 60 Croustillant]]></title>
+        <id>5f452d3bb15f6a486771c2ecd7173c9ca1e35c38</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-60-croustillant"/>
+        <updated>2021-10-28T03:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 60, le mot original était "Crispy" et a été traduit en "Croustillant". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Early Mornin' Lover - The best ofs
+https://www.youtube.com/watch?v=xePlEtdXHZ4&ab_channel=TheBestOfs-Topic
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #26 - POUR TOUJOURS ET A JAMAIS]]></title>
         <id>https://www.youtube.com/watch?v=270i6pyBBmA</id>
@@ -1648,18 +1687,6 @@ Si vous souhaitez encourager le label : https://www.patreon.com/podcut
 et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
         <author>
             <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STYX 🚢 Fiction sonore collaborative > Episode 03 - Ici votre capitaine]]></title>
-        <id>61534d18845037149dae6c43</id>
-        <link href="https://styx.studiotjp.com"/>
-        <updated>2021-09-28T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Episode 03
- ici votre capitaine
- Ce troisième épisode de la fiction collaborative vous est proposé par votre capitaine, Amandine Coyard, à la barre du bateau le plus flippant du Styx.]]></summary>
-        <author>
-            <name>Amandine Coyard</name>
         </author>
     </entry>
 </feed>
