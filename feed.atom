@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-29T00:30:02.227Z</updated>
+    <updated>2021-10-30T00:30:29.579Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #28 - CHOUCAPOPS REQUIEM]]></title>
+        <id>https://www.youtube.com/watch?v=PmBpxOamdiY</id>
+        <link href="https://www.youtube.com/watch?v=PmBpxOamdiY"/>
+        <updated>2021-10-29T08:00:18.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 61 Rapiécer]]></title>
+        <id>2545abbb03b6e68092cc3135c32124b4757c3186</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-61-rapiecer"/>
+        <updated>2021-10-29T03:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 53, le mot original était "Patch" et a été traduit en "Rapiécer". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Neverblue - Christophe Gorman
+https://www.youtube.com/watch?v=gOeByEp2tcI&ab_channel=ChristopheGorman-Topic
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #27 - QUE LA LUMIÈRE SOIT]]></title>
         <id>https://www.youtube.com/watch?v=Ksi1HcnB4IA</id>
@@ -1657,36 +1696,6 @@ Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagr
 "LES 4 SAISONS - SUMMER" (Max Richter)]]></summary>
         <author>
             <name>Les dessous de Savin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soldes de tout conte - Ep 32 Inktober Again]]></title>
-        <id>9ee9858b744ea547e4aeb45d7b6a09b8dfd9a576</id>
-        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-32-inktober-again"/>
-        <updated>2021-09-30T04:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
-
-Ce préambule vous présente le concept de cette seconde saison de la série.
-
-Musique du générique : Supermarket - Gerhard Feng 
-https://www.youtube.com/watch?v=KxeC9bWtSWs
-
-Fond sonore de l'épisode : Way Too Early for a Drink - Gerhard Feng 
-https://www.youtube.com/watch?v=ZWkGgtU5U7U
-
-Le logo a été réalisé par Kevin Boyer. 
-
-Soldes de tout conte est une fiction produite par le label Podcut. 
-
-Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
-Facebook https://www.facebook.com/podcut/
-Twitter https://twitter.com/Podcut_label/
-Instagram https://www.instagram.com/podcut_label/
-
-Si vous souhaitez encourager le label : https://www.patreon.com/podcut
-et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
-        <author>
-            <name>Podcut Fictions</name>
         </author>
     </entry>
 </feed>

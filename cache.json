@@ -48,6 +48,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PmBpxOamdiY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PmBpxOamdiY",
+          "publishedOn": "2021-10-29T08:00:18.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #28 - CHOUCAPOPS REQUIEM"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ksi1HcnB4IA",
           "author": null,
           "description": "",
@@ -379,6 +388,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "2545abbb03b6e68092cc3135c32124b4757c3186",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 53, le mot original était \"Patch\" et a été traduit en \"Rapiécer\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Neverblue - Christophe Gorman\nhttps://www.youtube.com/watch?v=gOeByEp2tcI&ab_channel=ChristopheGorman-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-61-rapiecer",
+          "publishedOn": "2021-10-29T03:12:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 61 Rapiécer",
+          "itunes": {
+            "duration": "01:55"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/yk0PGhKZr6nm.mp3?t=1634893810",
+            "length": "1841242",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "5f452d3bb15f6a486771c2ecd7173c9ca1e35c38",
           "author": null,
@@ -852,23 +878,6 @@
           "enclosure": {
             "url": "https://audio.ausha.co/BDD90sl9xXEB.mp3?t=1632901839",
             "length": "3040941",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "9ee9858b744ea547e4aeb45d7b6a09b8dfd9a576",
-          "author": null,
-          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nCe préambule vous présente le concept de cette seconde saison de la série.\n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Way Too Early for a Drink - Gerhard Feng \nhttps://www.youtube.com/watch?v=ZWkGgtU5U7U\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
-          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-32-inktober-again",
-          "publishedOn": "2021-09-30T04:36:00.000Z",
-          "wordCount": null,
-          "title": "Soldes de tout conte - Ep 32 Inktober Again",
-          "itunes": {
-            "duration": "02:08"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/bj0A1hXDJedp.mp3?t=1632901617",
-            "length": "2063661",
             "type": "audio/mpeg"
           }
         }
