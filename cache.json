@@ -6,6 +6,23 @@
       "siteUrl": "https://www.linaudible.com/episodes-masonry/",
       "articles": [
         {
+          "id": "https://www.linaudible.com/?p=11180",
+          "author": null,
+          "description": "sur une question de Fanny",
+          "link": "https://www.linaudible.com/2021/10/30/pompidou-dis-nous-tout-28/",
+          "publishedOn": "2021-10-30T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Pompidou dis-nous tout 28",
+          "itunes": {
+            "duration": "6:27"
+          },
+          "enclosure": {
+            "url": "https://media.blubrry.com/linaudible_de_walter/traffic.libsyn.com/secure/wproof/ppddnt28.mp3",
+            "length": "9652476",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "https://www.linaudible.com/?p=11193",
           "author": null,
           "description": "C'est le Walter Proof Experiment, saison 8, épisode 74 ! Et il faut que ça se sache !",
@@ -47,6 +64,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvvYk2sA1XWtt3XHzA0CEWw",
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=bngl1Jh6Cvk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bngl1Jh6Cvk",
+          "publishedOn": "2021-10-30T08:00:09.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #29 - PILE OU FACE"
+        },
         {
           "id": "https://www.youtube.com/watch?v=PmBpxOamdiY",
           "author": null,
@@ -313,6 +339,23 @@
       "siteUrl": "https://javras.fr/",
       "articles": [
         {
+          "id": "https://javras.fr/?p=19343",
+          "author": "Adelyx",
+          "description": "Chères petites et grandes oreilles, Camille et Josselin reviennent pour de nouvelles aventures !\nEt oui, après La Petite Souris  et Le Lapin de Pâques, on se retrouve aujourd’hui pour un petit mono d’Halloween. Préparez-vous à frissonner !\nD’ailleurs, qu’est-ce qui vous donnait des sueurs froides, plus jeunes ?\nPour ma part, enfant, j’ai habité près d’un musée spécialisé en égyptologie, et j’ai souvent redouté  de me faire hanter par les momies qui y sont conservées.  J’ai essayé de retranscrire ce sentiment dans cet épisode de Dis, ça existe ?  tout en gardant des moments plus légers.\nUn grand merci à toutes les personnes qui ont contribué de près ou de loin à ce projet, en particulier la Team Javras et Fafodill, qui a une fois de plus très bien représenté l’état d’esprit du mono !\n\t\t\t\t\t\n…",
+          "link": "https://javras.fr/2021/10/31/maman-y-a-une-momie/",
+          "publishedOn": "2021-10-30T22:02:00.000Z",
+          "wordCount": null,
+          "title": "Maman, y a une momie !",
+          "itunes": {
+            "duration": "11:08"
+          },
+          "enclosure": {
+            "url": "https://javras.fr/podcast-download/19343/maman-y-a-une-momie.mp3",
+            "length": "27,8",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "https://javras.fr/?p=19254",
           "author": "Erika",
           "description": "Salut à tous ! Ici Erika pour inaugurer les épisodes de la deuxième affaire de la saga parodique “Fénix Write : l’As Détourné” que j’écris avec Richoult.\nCette deuxième affaire est totalement écrite et à l’heure où je vous parle, 4 sur 5 épisodes sont montés et le mixage de l’épisode 04 commence bientôt (Richoult aimerait se concentrer sur un autre de ses projets, genre : Erika et les princes en détresses).\nComme cette affaire est entièrement écrite et vu qu’on a tous les enregistrements pour les quatre prochains épisodes, on ne pourra pas trop suivre les critiques (comme pour les deux premiers épisodes, on les suivra qu’à partir de la prochaine affaire).\nOn a lu les critiques et on a essayé de faire au mieux pour se détacher un peu de l’histoire originale en se donnant quelques libertés s…",
@@ -388,6 +431,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "e03c4b14dc5b7101d24f22dbea81668490454d3c",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 62, le mot original était \"Slither\" et a été traduit en \"Serpenter\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Blind Date - Jerry Lacey\nhttps://www.youtube.com/watch?v=KvoHA_w-obc&ab_channel=JerryLacey-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-62-serpenter",
+          "publishedOn": "2021-10-30T03:15:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 62 Serpenter",
+          "itunes": {
+            "duration": "02:09"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/yvnYQSXzjEMM.mp3?t=1634894080",
+            "length": "2079046",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "2545abbb03b6e68092cc3135c32124b4757c3186",
           "author": null,
@@ -863,23 +923,6 @@
             "length": "2391981",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "ed16eb7afc9c02789a4cf347d48815dce59fa4a3",
-          "author": null,
-          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 33, le mot original était \"Crystal\" et a été traduit en \"Cristal\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : The Portal - Bonnie Grace\nhttps://www.youtube.com/watch?v=7Ib14k1MXtc&ab_channel=BonnieGrace-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
-          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-33-cristal",
-          "publishedOn": "2021-10-01T04:34:00.000Z",
-          "wordCount": null,
-          "title": "Soldes de tout conte - Ep 33 Cristal",
-          "itunes": {
-            "duration": "03:10"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/BDD90sl9xXEB.mp3?t=1632901839",
-            "length": "3040941",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -1002,23 +1045,6 @@
           "enclosure": {
             "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/oZQMqhGeEd4P.mp3?t=1633625436",
             "length": "8743582",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "84e779c72b1667f3510d68ff432082c4e8dbb7ae",
-          "author": null,
-          "description": "📍S06/EP05 - \"L'affaire Corentin Flapin\"📍\n\nMontmartre! Jeudi 26 août 2021. 21h37! \n\nQuel enfer… \n \nJe regarde défiler mon quartier par la fenêtre de la voiture. Ce quartier que je considérais être le plus apaisant, le plus beau de Paris, ma maison. Ma maison se transformait sous mes yeux en abomination… \nJe me repassais en boucle cette courte phrase, cinglante... Ces quelques mots qui allaient tout changer.\nComme tout le monde, j’ai subi des pertes, affronté des deuils et des chocs… Mais de toutes les merveilleuses aventures que la vie m’avait permis d’expérimenter, je crois que là c’était le fucking pompon.…\n\nVoici votre nouvel épisode du podcast \"Les dessous de Savin\"\n\n\"Les dessous de Savin\"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. \n\nUn épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. \nPour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! \nPartagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  \n\n🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                \n\n\"STATIC\" composé par Stel https://www.instagram.com/stel_musique/\n\n\"LES 4 SAISONS - SPRING\" (Max Richter)\n\"LES 4 SAISONS - SUMMER\" (Max Richter)",
-          "link": "https://podcast.ausha.co/les-dessous-de-savin/5-s06-ep05-l-affaire-corentin-flapin",
-          "publishedOn": "2021-10-01T01:00:00.000Z",
-          "wordCount": null,
-          "title": "#5 - S06/EP05 - \"L'affaire Corentin Flapin\"",
-          "itunes": {
-            "duration": "06:33"
-          },
-          "enclosure": {
-            "url": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/BnAR0Cw37nKV.mp3?t=1632990827",
-            "length": "6290747",
             "type": "audio/mpeg"
           }
         }
@@ -1475,6 +1501,23 @@
       "feedUrl": "https://radiofrance-podcast.net/podcast09/rss_11496.xml",
       "siteUrl": "https://www.franceculture.fr/emissions/fictions-samedi-noir",
       "articles": [
+        {
+          "id": "86ea1f51-ddd2-4ea7-a79a-6f9f297b8c90",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:51:00 - Fictions / Samedi noir - par : Blandine Masson - A l’occasion de l’anniversaire de la publication de L’homme révolté et dans le cadre de l’Estival Albert Camus à Lourmarin le 26 juin 2021, Abd Al Malik a conçu cette lecture musicale, accompagné au piano par Didier Davidas,",
+          "link": "https://www.franceculture.fr/emissions/fictions-samedi-noir/l-art-et-la-revolte-de-albert-camus-lu-par-abd-al-malik",
+          "publishedOn": "2021-10-30T19:52:32.000Z",
+          "wordCount": null,
+          "title": "\"L'Art et la révolte\" d'Albert Camus lu par Abd Al Malik",
+          "itunes": {
+            "duration": "00:51:00"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/3ba4d0c9-af6f-4c36-b802-79dfc6c0d646/11496-30.10.2021-ITEMA_22823140-2021C3067E0151-21.mp3",
+            "length": "48993665",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "038ecf2d-33e0-473d-ae43-14be7ff366b5",
           "author": "podcast@radiofrance.com (Radio France)",

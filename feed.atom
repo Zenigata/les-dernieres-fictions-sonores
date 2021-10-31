@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-30T00:30:29.579Z</updated>
+    <updated>2021-10-31T00:33:02.915Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maman, y a une momie !]]></title>
+        <id>https://javras.fr/?p=19343</id>
+        <link href="https://javras.fr/2021/10/31/maman-y-a-une-momie/"/>
+        <updated>2021-10-30T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Chères petites et grandes oreilles, Camille et Josselin reviennent pour de nouvelles aventures !
+Et oui, après La Petite Souris  et Le Lapin de Pâques, on se retrouve aujourd’hui pour un petit mono d’Halloween. Préparez-vous à frissonner !
+D’ailleurs, qu’est-ce qui vous donnait des sueurs froides, plus jeunes ?
+Pour ma part, enfant, j’ai habité près d’un musée spécialisé en égyptologie, et j’ai souvent redouté  de me faire hanter par les momies qui y sont conservées.  J’ai essayé de retranscrire ce sentiment dans cet épisode de Dis, ça existe ?  tout en gardant des moments plus légers.
+Un grand merci à toutes les personnes qui ont contribué de près ou de loin à ce projet, en particulier la Team Javras et Fafodill, qui a une fois de plus très bien représenté l’état d’esprit du mono !
+					
+…]]></summary>
+        <author>
+            <name>Adelyx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["L'Art et la révolte" d'Albert Camus lu par Abd Al Malik]]></title>
+        <id>86ea1f51-ddd2-4ea7-a79a-6f9f297b8c90</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-samedi-noir/l-art-et-la-revolte-de-albert-camus-lu-par-abd-al-malik"/>
+        <updated>2021-10-30T19:52:32.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:51:00 - Fictions / Samedi noir - par : Blandine Masson - A l’occasion de l’anniversaire de la publication de L’homme révolté et dans le cadre de l’Estival Albert Camus à Lourmarin le 26 juin 2021, Abd Al Malik a conçu cette lecture musicale, accompagné au piano par Didier Davidas,]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pompidou dis-nous tout 28]]></title>
+        <id>https://www.linaudible.com/?p=11180</id>
+        <link href="https://www.linaudible.com/2021/10/30/pompidou-dis-nous-tout-28/"/>
+        <updated>2021-10-30T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[sur une question de Fanny]]></summary>
+        <author>
+            <name>L'Inaudible de Walter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #29 - PILE OU FACE]]></title>
+        <id>https://www.youtube.com/watch?v=bngl1Jh6Cvk</id>
+        <link href="https://www.youtube.com/watch?v=bngl1Jh6Cvk"/>
+        <updated>2021-10-30T08:00:09.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 62 Serpenter]]></title>
+        <id>e03c4b14dc5b7101d24f22dbea81668490454d3c</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-62-serpenter"/>
+        <updated>2021-10-30T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 62, le mot original était "Slither" et a été traduit en "Serpenter". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : Blind Date - Jerry Lacey
+https://www.youtube.com/watch?v=KvoHA_w-obc&ab_channel=JerryLacey-Topic
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #28 - CHOUCAPOPS REQUIEM]]></title>
         <id>https://www.youtube.com/watch?v=PmBpxOamdiY</id>
@@ -1633,69 +1708,6 @@ Si vous souhaitez encourager le label : https://www.patreon.com/podcut
 et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
         <author>
             <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soldes de tout conte - Ep 33 Cristal]]></title>
-        <id>ed16eb7afc9c02789a4cf347d48815dce59fa4a3</id>
-        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-33-cristal"/>
-        <updated>2021-10-01T04:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
-
-Pour l'épisode 33, le mot original était "Crystal" et a été traduit en "Cristal". 
-
-Musique du générique : Supermarket - Gerhard Feng 
-https://www.youtube.com/watch?v=KxeC9bWtSWs
-
-Fond sonore de l'épisode : The Portal - Bonnie Grace
-https://www.youtube.com/watch?v=7Ib14k1MXtc&ab_channel=BonnieGrace-Topic
-
-Le logo a été réalisé par Kevin Boyer. 
-
-Soldes de tout conte est une fiction produite par le label Podcut. 
-
-Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
-Facebook https://www.facebook.com/podcut/
-Twitter https://twitter.com/Podcut_label/
-Instagram https://www.instagram.com/podcut_label/
-
-Si vous souhaitez encourager le label : https://www.patreon.com/podcut
-et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
-        <author>
-            <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#5 - S06/EP05 - "L'affaire Corentin Flapin"]]></title>
-        <id>84e779c72b1667f3510d68ff432082c4e8dbb7ae</id>
-        <link href="https://podcast.ausha.co/les-dessous-de-savin/5-s06-ep05-l-affaire-corentin-flapin"/>
-        <updated>2021-10-01T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[📍S06/EP05 - "L'affaire Corentin Flapin"📍
-
-Montmartre! Jeudi 26 août 2021. 21h37! 
-
-Quel enfer… 
- 
-Je regarde défiler mon quartier par la fenêtre de la voiture. Ce quartier que je considérais être le plus apaisant, le plus beau de Paris, ma maison. Ma maison se transformait sous mes yeux en abomination… 
-Je me repassais en boucle cette courte phrase, cinglante... Ces quelques mots qui allaient tout changer.
-Comme tout le monde, j’ai subi des pertes, affronté des deuils et des chocs… Mais de toutes les merveilleuses aventures que la vie m’avait permis d’expérimenter, je crois que là c’était le fucking pompon.…
-
-Voici votre nouvel épisode du podcast "Les dessous de Savin"
-
-"Les dessous de Savin"Ou les tribulations et réflexions de Sébastien Savin, un Parisien quarantenaire gay et célibataire qui incarne sans le savoir mais avec perfection les émois de sa génération. 
-
-Un épisode inédit chaque vendredi. Abonnez-vous sur votre plateforme d'écoute pour ne rater aucune diffusion. 
-Pour soutenir l'émission et la faire connaître au plus grand nombre, mettez ⭐⭐⭐⭐⭐ (5 étoiles NDLR) ainsi qu'un avis sur Itunes ou Apple Podcasts! 
-Partagez cet épisode et parlez-en autour de vous et retrouvons-nous sur Instagram @sebastiensavin.  
-
-🎧🎶 Retrouvez la Playlist des chansons de l'émission sur #Spotify 🎶🎧                
-
-"STATIC" composé par Stel https://www.instagram.com/stel_musique/
-
-"LES 4 SAISONS - SPRING" (Max Richter)
-"LES 4 SAISONS - SUMMER" (Max Richter)]]></summary>
-        <author>
-            <name>Les dessous de Savin</name>
         </author>
     </entry>
 </feed>
