@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-10-31T00:33:02.915Z</updated>
+    <updated>2021-11-01T00:33:36.216Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #30 - EN ATTENDANT LA CHUTE]]></title>
+        <id>https://www.youtube.com/watch?v=el3NCe8rRW0</id>
+        <link href="https://www.youtube.com/watch?v=el3NCe8rRW0"/>
+        <updated>2021-10-31T08:00:29.000Z</updated>
+        <author>
+            <name>Audiodidact</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldes de tout conte - Ep 63 Risque]]></title>
+        <id>a5659531b358b3b6f66e8ad090d3948ddfba0f05</id>
+        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-63-risque"/>
+        <updated>2021-10-31T04:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
+
+Pour l'épisode 63, le mot original était "Risk" et a été traduit en "Risque". 
+
+Musique du générique : Supermarket - Gerhard Feng 
+https://www.youtube.com/watch?v=KxeC9bWtSWs
+
+Fond sonore de l'épisode : The surge - Jon Sumner
+https://www.epidemicsound.com/track/ixScHIoQYW/
+
+Le logo a été réalisé par Kevin Boyer. 
+
+Soldes de tout conte est une fiction produite par le label Podcut. 
+
+Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
+Facebook https://www.facebook.com/podcut/
+Twitter https://twitter.com/Podcut_label/
+Instagram https://www.instagram.com/podcut_label/
+
+Si vous souhaitez encourager le label : https://www.patreon.com/podcut
+et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
+        <author>
+            <name>Podcut Fictions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maman, y a une momie !]]></title>
         <id>https://javras.fr/?p=19343</id>
@@ -1668,46 +1707,6 @@ L'équipe
 Il est maintenant temps de trouver le sommeil. À bientôt…]]></summary>
         <author>
             <name>Avant d’aller dormir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #01 - UN OBJET RARE]]></title>
-        <id>https://www.youtube.com/watch?v=cp_Jot7ktm8</id>
-        <link href="https://www.youtube.com/watch?v=cp_Jot7ktm8"/>
-        <updated>2021-10-02T08:00:11.000Z</updated>
-        <author>
-            <name>Audiodidact</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soldes de tout conte - Ep 34 Costume]]></title>
-        <id>849079e8d5ff07bfc2ea87fbca59830fc0e2158c</id>
-        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-34-costume"/>
-        <updated>2021-10-02T04:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
-
-Pour l'épisode 34, le mot original était "Suit" et a été traduit en "Costume". 
-
-Musique du générique : Supermarket - Gerhard Feng 
-https://www.youtube.com/watch?v=KxeC9bWtSWs
-
-Fond sonore de l'épisode : Youth - August Bust
-https://music.youtube.com/watch?v=SOSxv2naeag&list=RDAMVMSOSxv2naeag
-
-Le logo a été réalisé par Kevin Boyer. 
-
-
-Soldes de tout conte est une fiction produite par le label Podcut. 
-
-Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
-Facebook https://www.facebook.com/podcut/
-Twitter https://twitter.com/Podcut_label/
-Instagram https://www.instagram.com/podcut_label/
-
-Si vous souhaitez encourager le label : https://www.patreon.com/podcut
-et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
-        <author>
-            <name>Podcut Fictions</name>
         </author>
     </entry>
 </feed>

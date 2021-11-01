@@ -65,6 +65,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=el3NCe8rRW0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=el3NCe8rRW0",
+          "publishedOn": "2021-10-31T08:00:29.000Z",
+          "wordCount": null,
+          "title": "🎧 DIGRESSIONTOBER | #30 - EN ATTENDANT LA CHUTE"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bngl1Jh6Cvk",
           "author": null,
           "description": "",
@@ -315,15 +324,6 @@
           "publishedOn": "2021-10-03T08:00:07.000Z",
           "wordCount": null,
           "title": "🎧 DIGRESSIONTOBER | #02 - LES HOMMES EN COSTUME"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cp_Jot7ktm8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cp_Jot7ktm8",
-          "publishedOn": "2021-10-02T08:00:11.000Z",
-          "wordCount": null,
-          "title": "🎧 DIGRESSIONTOBER | #01 - UN OBJET RARE"
         }
       ]
     },
@@ -431,6 +431,23 @@
       "feedUrl": "https://feed.ausha.co/Zb30tRPGX70B",
       "siteUrl": "https://podcast.ausha.co/podcut-fictions",
       "articles": [
+        {
+          "id": "a5659531b358b3b6f66e8ad090d3948ddfba0f05",
+          "author": null,
+          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 63, le mot original était \"Risk\" et a été traduit en \"Risque\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : The surge - Jon Sumner\nhttps://www.epidemicsound.com/track/ixScHIoQYW/\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
+          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-63-risque",
+          "publishedOn": "2021-10-31T04:18:00.000Z",
+          "wordCount": null,
+          "title": "Soldes de tout conte - Ep 63 Risque",
+          "itunes": {
+            "duration": "01:51"
+          },
+          "enclosure": {
+            "url": "https://audio.ausha.co/B4wZ1cDq8vMp.mp3?t=1634894263",
+            "length": "1778114",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "e03c4b14dc5b7101d24f22dbea81668490454d3c",
           "author": null,
@@ -904,23 +921,6 @@
           "enclosure": {
             "url": "https://audio.ausha.co/bPk3guZ5d1de.mp3?t=1632902255",
             "length": "3003916",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "849079e8d5ff07bfc2ea87fbca59830fc0e2158c",
-          "author": null,
-          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 34, le mot original était \"Suit\" et a été traduit en \"Costume\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Youth - August Bust\nhttps://music.youtube.com/watch?v=SOSxv2naeag&list=RDAMVMSOSxv2naeag\n\nLe logo a été réalisé par Kevin Boyer. \n\n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
-          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-34-costume",
-          "publishedOn": "2021-10-02T04:33:00.000Z",
-          "wordCount": null,
-          "title": "Soldes de tout conte - Ep 34 Costume",
-          "itunes": {
-            "duration": "02:29"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/yenlqS6NZ16R.mp3?t=1632901989",
-            "length": "2391981",
             "type": "audio/mpeg"
           }
         }
