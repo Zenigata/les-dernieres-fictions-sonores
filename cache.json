@@ -65,6 +65,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCvvYk2sA1XWtt3XHzA0CEWw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EPQG28HwlSs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EPQG28HwlSs",
+          "publishedOn": "2021-11-01T09:00:05.000Z",
+          "wordCount": null,
+          "title": "🎧🎃 DIGRESSIONTOBER | #31 - HALLOWEEN THE MUSICAL"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=el3NCe8rRW0",
           "author": null,
           "description": "",
@@ -315,15 +324,6 @@
           "publishedOn": "2021-10-04T08:00:05.000Z",
           "wordCount": null,
           "title": "🎧 DIGRESSIONTOBER | #03 - UN NOUVEAU MONDE"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WRMg0pBklzg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WRMg0pBklzg",
-          "publishedOn": "2021-10-03T08:00:07.000Z",
-          "wordCount": null,
-          "title": "🎧 DIGRESSIONTOBER | #02 - LES HOMMES EN COSTUME"
         }
       ]
     },
@@ -906,23 +906,6 @@
             "length": "3132230",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "825afe97a3002ebcf9d537ec367974507c0d3afa",
-          "author": null,
-          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 35, le mot original était \"Vessel\" et a été traduit en \"Vaisseau\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : To Pirate Cove - Adriel Fair\nhttps://www.youtube.com/watch?v=cr6rv6hGd7w&ab_channel=EpidemicFantasy\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
-          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-35-vaisseau",
-          "publishedOn": "2021-10-03T04:38:00.000Z",
-          "wordCount": null,
-          "title": "Soldes de tout conte - Ep 35 Vaisseau",
-          "itunes": {
-            "duration": "03:07"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/bPk3guZ5d1de.mp3?t=1632902255",
-            "length": "3003916",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -1109,23 +1092,6 @@
           "enclosure": {
             "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/episode-26-point-1-jai-achete-une-femme-sur-internet/enclosure.7b1c2dfb5e6ecdaba0481c8610da455d233f938a8e89a30743c775ed9ae60ef0.mp3?p=f",
             "length": "19609332",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "6156048acfb5070159b9646d",
-          "author": "Avant d’aller dormir",
-          "description": "Vous pensiez vraiment que c'était fini ? Que vous pouviez dormir sur vos deux oreilles ? Que les histoires du premier chapitre ne reviendraient plus vous hanter ? \nDétrompez-vous.\nBienvenue dans le premier chapitre d’Avant d’aller dormir. \nInstallez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.\nLiens vers les histoires\nLe monstre sous mon lit, par David Maloney\nLa radio, par u/gretelcat\nLe rituel Diablo Arana, par u/SZEldrichKreacher108\nLes sifflements, par u/queen_of_the_moths\nTu mérites ta cage, par Spookypotato\nMerci à tous les auteurs d’avoir accepté de faire partie de cet épisode, n’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr\nRejoignez-nous !\nDiscord\nInstagram\nFacebook\nYouTube\nTwitch\nNotre messagerie vocale : 07 49 25 27 90\nSoutenez-nous\nEn nous versant quelques deniers sur Patreon (https://patreon.com/adad), en échange vous recevrez chaque mois les épisodes en avance et du contenu exclusif !\nEn nous mettant une super note sur SensCritique, Apple Podcasts ou Podcast Addict.\nOu tout simplement en parlant de nous à tous vos proches.\nTous ces liens sont disponibles sur https://avantdallerdormir.fr\nL'équipe\n🎙️ Vos humbles serviteurs, Yop (Instagram / Youtube / Podcasts / Twitch) & UnDixGo (Instagram / Twitch)\n🏞 Illustration : renarmaro\nIl est maintenant temps de trouver le sommeil. À bientôt…",
-          "link": "https://adad.lepodcast.fr/chapitre-1-back-from-the-grave-partie-2",
-          "publishedOn": "2021-10-02T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Chapitre 1 : Back from the grave (partie 2)",
-          "itunes": {
-            "duration": "0:42:27"
-          },
-          "enclosure": {
-            "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/chapitre-1-back-from-the-grave-partie-2/enclosure.a796013fee35aa1009021968045b0b6849e5fd04a67587c4dc66175f0832bc70.mp3?p=f",
-            "length": "62184042",
             "type": "audio/mpeg"
           }
         }
@@ -1566,23 +1532,6 @@
           "enclosure": {
             "url": "https://rf.proxycast.org/03dfd10b-2e11-4f28-a9da-7bbd30583d43/11496-09.10.2021-ITEMA_22801098-2010C3067E0006-21.mp3",
             "length": "50003954",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "58988549-b662-44e2-8748-94ee5ca83dde",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:56:05 - Fictions / Samedi noir - par : Blandine Masson - Arrivé dans la nuit dans un village enfoui sous la neige, K. se présente comme le nouvel arpenteur, appelé par les autorités du Château.",
-          "link": "https://www.franceculture.fr/emissions/fictions-samedi-noir/le-chateau-de-franz-kafka-partie-1",
-          "publishedOn": "2021-10-02T19:58:00.000Z",
-          "wordCount": null,
-          "title": "\"Le château\" de Franz kafka (partie 1)",
-          "itunes": {
-            "duration": "00:56:05"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/4636b3c3-0a29-4699-a4a3-fc65f19f08ea/11496-02.10.2021-ITEMA_22793515-2009C3067E0358-21.mp3",
-            "length": "53872711",
             "type": "audio/mpeg"
           }
         }
