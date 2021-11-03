@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-11-02T00:33:05.743Z</updated>
+    <updated>2021-11-03T00:31:22.266Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -1542,95 +1542,6 @@ Si vous souhaitez encourager le label : https://www.patreon.com/podcut
 et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
         <author>
             <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #03 - UN NOUVEAU MONDE]]></title>
-        <id>https://www.youtube.com/watch?v=M5QEnydUM_0</id>
-        <link href="https://www.youtube.com/watch?v=M5QEnydUM_0"/>
-        <updated>2021-10-04T08:00:05.000Z</updated>
-        <author>
-            <name>Audiodidact</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soldes de tout conte - Ep 36 Nœud]]></title>
-        <id>e8ca3559bcb7ee17e5e51fc43c5073f6a33a58a6</id>
-        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-36-noeud"/>
-        <updated>2021-10-04T04:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
-
-Pour l'épisode 36, le mot original était "Knot" et a été traduit en "Noeud". 
-
-Musique du générique : Supermarket - Gerhard Feng 
-https://www.youtube.com/watch?v=KxeC9bWtSWs
-
-Fond sonore de l'épisode : May she rest - Gavin Luke
-https://www.youtube.com/watch?v=El0Su0dZj4g&ab_channel=EpidemicClassical
-
-Le logo a été réalisé par Kevin Boyer. 
-
-Soldes de tout conte est une fiction produite par le label Podcut. 
-
-Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
-Facebook https://www.facebook.com/podcut/
-Twitter https://twitter.com/Podcut_label/
-Instagram https://www.instagram.com/podcut_label/
-
-Si vous souhaitez encourager le label : https://www.patreon.com/podcut
-et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
-        <author>
-            <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dans les entrailles de la machine judiciaire]]></title>
-        <id>a2ec8dc7-01d0-4688-8395-107783e32fd6</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-10-03T23:00:04.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:24:33 - Le Feuilleton - En avançant d'un pas léger sous le portique restauré de l'ancienne poste, un inspecteur à toutes les raisons d'avoir la tête haute, sachant qu'il arrive dans un lieu où la société peut réclamer son dû. Ici la justice sera rendue...!]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Du crime parfait à l’institut médico-légal]]></title>
-        <id>807ba4e7-de09-4067-a65d-62ee0055379d</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-10-03T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:24:33 - Le Feuilleton - Règle N°10 dans le manuel des homicides : le meurtre parfait ça existe bel et bien. Çà a toujours existé, et celui qui tente de prétendre le contraire ne fait que prouver qu'il est un naïf ou un romantique, un imbécile qui ignore les règles 1 à 9.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vous avez le droit de garder le silence]]></title>
-        <id>6047f77f-9217-4857-ad7a-e67b613fef7b</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-10-03T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:25:04 - Le Feuilleton - Tout ce que vous direz ou écrirez pourra être retenu contre vous devant un tribunal !]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La chaîne alimentaire policière]]></title>
-        <id>76ea1e62-79e2-45ba-ad64-c6f5f79b324a</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-10-03T23:00:01.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:25:17 - Le Feuilleton - Dans une ville qui compte 240 meurtres par an, il y aura toujours un corps à examiner, si l'affaire précédente, n'a donné aucun résultat...!]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’été meurtrier]]></title>
-        <id>ede11e70-b413-4eb8-aaa3-0dab1728cad5</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-10-03T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:24:38 - Le Feuilleton - A l'origine de la série The Wire (Sur écoute), David Simon, journaliste au Baltimore Sun, a suivi pendant un an, jour et nuit, les inspecteurs de l’unité des homicides d’une des villes des Etats-Unis au plus fort taux de criminalité.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
         </author>
     </entry>
 </feed>

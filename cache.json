@@ -315,15 +315,6 @@
           "publishedOn": "2021-10-05T08:00:07.000Z",
           "wordCount": null,
           "title": "🎧 DIGRESSIONTOBER | #04 - LE NŒUD COSMIQUE"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M5QEnydUM_0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M5QEnydUM_0",
-          "publishedOn": "2021-10-04T08:00:05.000Z",
-          "wordCount": null,
-          "title": "🎧 DIGRESSIONTOBER | #03 - UN NOUVEAU MONDE"
         }
       ]
     },
@@ -889,23 +880,6 @@
             "length": "3395373",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "e8ca3559bcb7ee17e5e51fc43c5073f6a33a58a6",
-          "author": null,
-          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 36, le mot original était \"Knot\" et a été traduit en \"Noeud\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : May she rest - Gavin Luke\nhttps://www.youtube.com/watch?v=El0Su0dZj4g&ab_channel=EpidemicClassical\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
-          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-36-noeud",
-          "publishedOn": "2021-10-04T04:01:00.000Z",
-          "wordCount": null,
-          "title": "Soldes de tout conte - Ep 36 Nœud",
-          "itunes": {
-            "duration": "03:15"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/brQNghj8zpWy.mp3?t=1632902434",
-            "length": "3132230",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -1372,91 +1346,6 @@
           "enclosure": {
             "url": "https://rf.proxycast.org/2fb56e66-c2bd-4888-9b4d-c60fb9f98838/11495-11.10.2021-ITEMA_22784340-2017C3480E0334-21.mp3",
             "length": "23399199",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "a2ec8dc7-01d0-4688-8395-107783e32fd6",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:24:33 - Le Feuilleton - En avançant d'un pas léger sous le portique restauré de l'ancienne poste, un inspecteur à toutes les raisons d'avoir la tête haute, sachant qu'il arrive dans un lieu où la société peut réclamer son dû. Ici la justice sera rendue...!",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
-          "publishedOn": "2021-10-03T23:00:04.000Z",
-          "wordCount": null,
-          "title": "Dans les entrailles de la machine judiciaire",
-          "itunes": {
-            "duration": "00:24:33"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/be78cffc-e222-4505-9e70-ce93606e041c/11495-04.10.2021-ITEMA_22784339-2020C3480E0065-21.mp3",
-            "length": "23603462",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "807ba4e7-de09-4067-a65d-62ee0055379d",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:24:33 - Le Feuilleton - Règle N°10 dans le manuel des homicides : le meurtre parfait ça existe bel et bien. Çà a toujours existé, et celui qui tente de prétendre le contraire ne fait que prouver qu'il est un naïf ou un romantique, un imbécile qui ignore les règles 1 à 9.",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
-          "publishedOn": "2021-10-03T23:00:03.000Z",
-          "wordCount": null,
-          "title": "Du crime parfait à l’institut médico-légal",
-          "itunes": {
-            "duration": "00:24:33"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/9d2d92bf-79da-468e-b08d-2d4087b7f73e/11495-04.10.2021-ITEMA_22784339-2020C3480E0064-21.mp3",
-            "length": "23603070",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "6047f77f-9217-4857-ad7a-e67b613fef7b",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:25:04 - Le Feuilleton - Tout ce que vous direz ou écrirez pourra être retenu contre vous devant un tribunal !",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
-          "publishedOn": "2021-10-03T23:00:02.000Z",
-          "wordCount": null,
-          "title": "Vous avez le droit de garder le silence",
-          "itunes": {
-            "duration": "00:25:04"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/f0a77d17-1ca8-468b-8045-e6a071971eb1/11495-04.10.2021-ITEMA_22784339-2020C3480E0063-21.mp3",
-            "length": "24100531",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "76ea1e62-79e2-45ba-ad64-c6f5f79b324a",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:25:17 - Le Feuilleton - Dans une ville qui compte 240 meurtres par an, il y aura toujours un corps à examiner, si l'affaire précédente, n'a donné aucun résultat...!",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
-          "publishedOn": "2021-10-03T23:00:01.000Z",
-          "wordCount": null,
-          "title": "La chaîne alimentaire policière",
-          "itunes": {
-            "duration": "00:25:17"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/417b5679-46ef-4e8f-99a7-c84c58c4a9f9/11495-04.10.2021-ITEMA_22784339-2020C3480E0062-21.mp3",
-            "length": "24295390",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "ede11e70-b413-4eb8-aaa3-0dab1728cad5",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:24:38 - Le Feuilleton - A l'origine de la série The Wire (Sur écoute), David Simon, journaliste au Baltimore Sun, a suivi pendant un an, jour et nuit, les inspecteurs de l’unité des homicides d’une des villes des Etats-Unis au plus fort taux de criminalité.",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
-          "publishedOn": "2021-10-03T23:00:00.000Z",
-          "wordCount": null,
-          "title": "L’été meurtrier",
-          "itunes": {
-            "duration": "00:24:38"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/1f0a1e16-d812-4fa7-9c62-0407a12209c2/11495-04.10.2021-ITEMA_22784339-2020C3480E0061-21.mp3",
-            "length": "23671113",
             "type": "audio/mpeg"
           }
         }
