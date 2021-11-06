@@ -288,15 +288,6 @@
           "publishedOn": "2021-10-08T08:00:14.000Z",
           "wordCount": null,
           "title": "🎧 DIGRESSIONTOBER | #07 - VENTILAMAX"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hWCNxuSIJxQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hWCNxuSIJxQ",
-          "publishedOn": "2021-10-07T08:00:21.000Z",
-          "wordCount": null,
-          "title": "🎧 DIGRESSIONTOBER | #06 - L'ESPRIT DE LA JEUNESSE"
         }
       ]
     },
@@ -809,23 +800,6 @@
           "enclosure": {
             "url": "https://audio.ausha.co/y0wkKc6VaVOn.mp3?t=1633683796",
             "length": "2382077",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "95338cc75e0f4b8139602e0ae1cefcc39603cae0",
-          "author": null,
-          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 39, le mot original était \"Fan\" et a été traduit en \"Ventilateur\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Clean It Up - Jerry Lacey\nhttps://www.epidemicsound.com/track/xTqJNLG8hU/\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
-          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-39-ventilateur",
-          "publishedOn": "2021-10-07T04:44:00.000Z",
-          "wordCount": null,
-          "title": "Soldes de tout conte - Ep 39 Ventilateur",
-          "itunes": {
-            "duration": "02:24"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/oKPYZugV701p.mp3?t=1632920092",
-            "length": "2311419",
             "type": "audio/mpeg"
           }
         }
