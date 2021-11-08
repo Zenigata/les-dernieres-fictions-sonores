@@ -287,15 +287,6 @@
           "publishedOn": "2021-10-10T08:00:18.000Z",
           "wordCount": null,
           "title": "🎧 DIGRESSIONTOBER | #09 - ET LÀ VOUS AVEZ LA PRESSION ?"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mN4WTgd2OI4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mN4WTgd2OI4",
-          "publishedOn": "2021-10-09T08:00:21.000Z",
-          "wordCount": null,
-          "title": "🎧 DIGRESSIONTOBER | #08 - A LA RECHERCHE DU TEMPS PERDU"
         }
       ]
     },
@@ -310,6 +301,23 @@
       "feedUrl": "https://javras.fr/feed/podcast",
       "siteUrl": "https://javras.fr/",
       "articles": [
+        {
+          "id": "https://javras.fr/?p=19510",
+          "author": "Erika",
+          "description": "Salut à tous ! Ça fait un moment que la saga mp3 “Por] [tail 2” est terminée et que ce bonus devait sortir. Après de la motivation et beaucoup de temps, le dernier bonus de cette saga. J’ai donc sorti officiellement tous les bonus et épisodes de la saga “Por] [tail 2“. Cependant, un spin-off commencera à sortir mais seulement quand j’aurais terminé mon autre saga “Amydale Crossing : New Life“.\n\n\n\nDe base, je devais sortir ce bonus pour Halloween en 2020 mais je n’étais pas satisfaite du rendu (plein de fausses notes, pas forcément en rythme, certains enregistrements sonnaient bizarrement, etc). Du coup, j’ai préféré laisser ce bonus de côté pour me concentrer sur “Amydale Crossing” au point de l’oublier. Halloween était il y a une semaine donc c’est le bon moment pour le sortir.\nÀ l’origine, c’est une chanson qui parodie “This is Halloween” du film “L’étrange Noël de Monsieur Jack“.  Et une version de Portal est sorti  et a encore une fois été faite par le talentueux “Harry Callaghan” alias “Harry101UK” qui a aussi fait l’instrumental de “Voler les jouets de Noël” et le “Wheatley Blues“. Je ne pense pas que je ferai d’autres bonus pour cette saga donc profitez bien !\n \t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ndocument.createElement('audio');\nhttp://www.teamjavras.fr/javras/Audio/SagasMP3/Portail%202/Por%5D%20%5Btail%202%20-%20Bienvenue%20%C3%A0%20Fermeture%20%28Bonus%20-%20Chanson%29.mp3\t\t\n\n\n\n\t Por] [tail 2 – Bienvenue à Fermeture (Bonus – Chanson) ( 7 MB)\n Cliquez pour télécharger –\t90 téléchargements\n\n\n \nDécouvrir cette fiction audio\n\t\t\t\t\t\nOn peut entendre dans ce bonus : Erika (CRaDOS, Tourelle et Tourelle défectueuse), Hesdea (Wheatley) et Baagy (Cave Johnson). Merci à Anya Kristen, Jillyne et Stellatsu pour avoir interprété les tourelles, ainsi que Bigaston, Darkspriteangels, Lokydu93 et QuasimodoWorld pour les tourelles défectueuses.",
+          "link": "https://javras.fr/2021/11/07/portail-2-bienvenue-a-fermeture-bonus-chanson/",
+          "publishedOn": "2021-11-07T11:28:00.000Z",
+          "wordCount": null,
+          "title": "Por] [tail 2 – Bienvenue à Fermeture (Bonus – Chanson)",
+          "itunes": {
+            "duration": "3:02"
+          },
+          "enclosure": {
+            "url": "https://javras.fr/podcast-download/19510/portail-2-bienvenue-a-fermeture-bonus-chanson.mp3",
+            "length": "7,37",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://javras.fr/?p=19343",
           "author": "Adelyx",
@@ -776,23 +784,6 @@
             "length": "2660483",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "f539c7832205b8977dbd9bfacacd802aa8c6d761",
-          "author": null,
-          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 41, le mot original était \"Pressure\" et a été traduit en \"Pression\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Traps Everywhere - Experia\nhttps://music.youtube.com/watch?v=I-fAdpeVkrM&feature=share\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
-          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-41-pression",
-          "publishedOn": "2021-10-09T04:03:00.000Z",
-          "wordCount": null,
-          "title": "Soldes de tout conte - Ep 41 Pression",
-          "itunes": {
-            "duration": "02:18"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/yk0PGhg9egwv.mp3?t=1632920494",
-            "length": "2221980",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -1007,6 +998,91 @@
       "feedUrl": "https://radiofrance-podcast.net/podcast09/rss_11495.xml",
       "siteUrl": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
       "articles": [
+        {
+          "id": "f37cb221-a0d1-407d-ad42-ddddedcf9be7",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:35 - Le Feuilleton - \"Si c’était un film noir, le plan d’ouverture cadrerait le vent. Rien d’autre. Le vent faisant ployer la cime des eucalyptus\"",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/marilyn-dernieres-seances-de-michel-schneider-10-4-aout-1962",
+          "publishedOn": "2021-11-08T00:00:09.000Z",
+          "wordCount": null,
+          "title": "4 Août 1962",
+          "itunes": {
+            "duration": "00:24:35"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/106c9edc-a1be-478a-8e5d-e42358146ff5/11495-08.11.2021-ITEMA_22795685-2012C3480E0025-21.mp3",
+            "length": "23629805",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "52b19ea8-52c6-4296-949a-97e1e83cc442",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:34 - Le Feuilleton - \"Quelques semaines avant la mort de Marilyn Monroe, Truman Capote lui avait rendu visite dans sa maison de Brentwood\"",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/marilyn-dernieres-seances-de-michel-schneider-9-juillet-1962",
+          "publishedOn": "2021-11-08T00:00:08.000Z",
+          "wordCount": null,
+          "title": "Juillet 1962",
+          "itunes": {
+            "duration": "00:24:34"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/1fcd27c4-b729-4d3e-b18d-880fead4b1b6/11495-08.11.2021-ITEMA_22795685-2012C3480E0024-21.mp3",
+            "length": "23615858",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "543d0c91-9754-423b-8e1a-69b18ed8a050",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:28 - Le Feuilleton - \"Les dernières images de Marilyn Monroe gravées sur une pellicule sont muettes. Il n’existe que 35 minutes de Quelque chose doit craquer tournées par Georges Cukor en 1962. Ces images montrent un visage d’une beauté indiciblement cruelle, une femme dans un dénuement radical\"",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/marilyn-dernieres-seances-de-michel-schneider-8-dernieres-images-tournees",
+          "publishedOn": "2021-11-08T00:00:07.000Z",
+          "wordCount": null,
+          "title": "Dernières images tournées",
+          "itunes": {
+            "duration": "00:24:28"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/42b4ac43-e780-4c32-bb85-1ae14182ccb5/11495-08.11.2021-ITEMA_22795685-2012C3480E0023-21.mp3",
+            "length": "23516030",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "bb896576-d4f7-4c4e-a025-6493b2103bc8",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:23:47 - Le Feuilleton - \"Un jour de mai 1962, un énorme hélicoptère se pose sur la piste du Studio de la Fox, près du plateau 14. Peter Lawford se précipite dans la loge de Marilyn pour l’escorter jusqu’à l’engin bleu royal qui doit l’emmener à l’anniversaire de John Fitzgerald Kennedy\"",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/marilyn-dernieres-seances-de-michel-schneider-7-happy-birthday-mr-president",
+          "publishedOn": "2021-11-08T00:00:06.000Z",
+          "wordCount": null,
+          "title": "\"Happy birthday, Mr President”",
+          "itunes": {
+            "duration": "00:23:47"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/3282d9a9-0811-41e6-ba1a-0a984f1d838b/11495-08.11.2021-ITEMA_22795685-2012C3480E0022-21.mp3",
+            "length": "22865254",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "2593d9af-932f-4ba7-8b32-8cb2f1a238ee",
+          "author": "podcast@radiofrance.com (Radio France)",
+          "description": "durée : 00:24:02 - Le Feuilleton - \"En plein tournage du film Quelque chose doit craquer dirigé par Georges Cukor, Marilyn arrive à sa séance chez son analyste Ralph Greenson décomposée : « Il paraît que ça y est, que vous allez vraiment partir et me quitter. Cest Joannie qui me l’a appris avant-hier\"",
+          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton/marilyn-dernieres-seances-de-michel-schneider-6-mai-1962",
+          "publishedOn": "2021-11-08T00:00:05.000Z",
+          "wordCount": null,
+          "title": "Mai 1962",
+          "itunes": {
+            "duration": "00:24:02"
+          },
+          "enclosure": {
+            "url": "https://rf.proxycast.org/d72d4972-df64-42d4-ae5c-306f5095582b/11495-08.11.2021-ITEMA_22795685-2012C3480E0021-21.mp3",
+            "length": "23104279",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "f5ceb8e3-5463-4fc7-94ee-c7da316b8c5d",
           "author": "podcast@radiofrance.com (Radio France)",
