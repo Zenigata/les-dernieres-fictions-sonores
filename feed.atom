@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-11-08T00:32:12.946Z</updated>
+    <updated>2021-11-10T00:31:57.277Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La Mémoire Arrangée – Intro]]></title>
+        <id>https://javras.fr/?post_type=podcast&amp;p=19603</id>
+        <link href="https://javras.fr/podcast/la-memoire-arrangee-intro/"/>
+        <updated>2021-11-08T15:25:28.000Z</updated>
+        <author>
+            <name>Team Javras</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Août 1962]]></title>
         <id>f37cb221-a0d1-407d-ad42-ddddedcf9be7</id>
@@ -1229,219 +1238,6 @@ Si vous souhaitez encourager le label : https://www.patreon.com/podcut
 et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
         <author>
             <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #10 - PUISSE LE SORT VOUS ÊTRE FAVORAAABLE]]></title>
-        <id>https://www.youtube.com/watch?v=xxRyqZNRJJg</id>
-        <link href="https://www.youtube.com/watch?v=xxRyqZNRJJg"/>
-        <updated>2021-10-11T08:00:30.000Z</updated>
-        <author>
-            <name>Audiodidact</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soldes de tout conte - Ep 43 Acide]]></title>
-        <id>55f501800dc9673214627255a63844ed19945c8d</id>
-        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-43-acide"/>
-        <updated>2021-10-11T04:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
-
-Pour l'épisode 43, le mot original était "Sour" et a été traduit en "Acide". 
-
-Musique du générique : Supermarket - Gerhard Feng 
-https://www.youtube.com/watch?v=KxeC9bWtSWs
-
-Fond sonore de l'épisode : Fifth Choice - Gridded
-GwaLKYM&ab_channel=Gridded-Topic
-
-Le logo a été réalisé par Kevin Boyer. 
-
-Soldes de tout conte est une fiction produite par le label Podcut. 
-
-Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
-Facebook https://www.facebook.com/podcut/
-Twitter https://twitter.com/Podcut_label/
-Instagram https://www.instagram.com/podcut_label/
-
-Si vous souhaitez encourager le label : https://www.patreon.com/podcut
-et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
-        <author>
-            <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Une nuit d’Août 1970]]></title>
-        <id>a431d9a3-1d0b-4d6b-ad1a-4c6ce2e1b4f5</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-10-10T23:00:04.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:24:54 - Le Feuilleton - Il y a quelque chose de spécial ce soir-là, au Max’s, la scène est juste assez grande pour les amplis et la batterie. Il est 23h30 quand Lou Reed apparaît… !]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Histoire de vivre]]></title>
-        <id>e63f8529-32ca-40c1-9acb-bb5099c014b4</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-10-10T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:24:32 - Le Feuilleton - Si l'album The Velvet Underground and Nico est un échec à New-York, à 5000 kilomètres de là, à Londres, Bowie en est fou…!]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cendrillons électriques]]></title>
-        <id>0c433eaf-882f-4843-afb8-405e4f945c0c</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-10-10T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:24:23 - Le Feuilleton - Andy Warhol avait été surnommé Drella, pour Dracula  et Cinderella…]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Lou Reed, les années Velvet" de Christine Spianti 7/5 : Réalisme Expérimental]]></title>
-        <id>288499a5-3172-40cd-a373-7d1118e4cdcf</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-10-10T23:00:01.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:24:31 - Le Feuilleton - Lou Reed et John Cale ont toute une panoplie d'équipements électroniques… Ils fabriquent des chambres de réverbération avec des seaux en métal remplis d'eau… Ils cherchent le "son"]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radio Lou, l'époque en rêvait]]></title>
-        <id>437ce3bf-dd16-4a83-a58d-e638cdceadc6</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
-        <updated>2021-10-10T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:24:21 - Le Feuilleton - Au 56, Ludlow street à New York, au début des années 60, Lou Reed et John Cale invente le son Velvet.]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #09 - ET LÀ VOUS AVEZ LA PRESSION ?]]></title>
-        <id>https://www.youtube.com/watch?v=Z7PVuN_22UM</id>
-        <link href="https://www.youtube.com/watch?v=Z7PVuN_22UM"/>
-        <updated>2021-10-10T08:00:18.000Z</updated>
-        <author>
-            <name>Audiodidact</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disconvention – 03 – Sur Les Terres De L’Unique]]></title>
-        <id>https://javras.fr/2021/09/19/copy-of-disconvention-02-angers-geekfest-2/</id>
-        <link href="https://javras.fr/2021/10/10/disconvention-03-sur-les-terres-de-lunique/"/>
-        <updated>2021-10-10T06:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Bonjour à tous, ici Richoult !
-Troisième épisode de Disconvention, cette fois ci on était à Sur Les Terres De L’Unique, à Plouha. On va parler un peu de relecture, des projets de Hesdea, Gihellcy, Foxy et Torakh. Et on rencontre Eden et Exawat, des auditeurs qui nous ont croisé sans savoir qu’on était là.
-N’hésitez pas à nous faire un retour sur ce podcast et nous envoyer des mails et nous rencontrer, voir participer à ce podcast, lors de nos prochaines conventions : 
-
-Hashtag Festival (Enregistrement le 24 Octobre – 15h).
-Chibi Rouen (Enregistrement le 31 Octobre – 15h).
-
-Vous pouvez retrouver ce podcast sur : 
-					
-			
-						Google Podcasts
-		
-					
-		
-			
-						Spotify
-		
-					
-		
-			
-						Youtube
-		
-					
-		
-			
-						Podcast Addict
-		
-					
-		
-			
-						RSS
-		
-					
-		
-			
-						Itu…]]></summary>
-        <author>
-            <name>Team Javras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soldes de tout conte - Ep 42 Choisir]]></title>
-        <id>2393697f9b85788798c9444129ae19d93c43a564</id>
-        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-42-choisir"/>
-        <updated>2021-10-10T04:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
-
-Pour l'épisode 42, le mot original était "Pick" et a été traduit en "Choisir". 
-
-Musique du générique : Supermarket - Gerhard Feng 
-https://www.youtube.com/watch?v=KxeC9bWtSWs
-
-Fond sonore de l'épisode : Fifth Choice - Gridded
-GwaLKYM&ab_channel=Gridded-Topic
-
-Le logo a été réalisé par Kevin Boyer. 
-
-Soldes de tout conte est une fiction produite par le label Podcut. 
-
-Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
-Facebook https://www.facebook.com/podcut/
-Twitter https://twitter.com/Podcut_label/
-Instagram https://www.instagram.com/podcut_label/
-
-Si vous souhaitez encourager le label : https://www.patreon.com/podcut
-et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
-        <author>
-            <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Le château" de Franz Kafka (partie 2)]]></title>
-        <id>606f88ba-b28b-4c1a-8fa9-fdf59d061ea1</id>
-        <link href="https://www.franceculture.fr/emissions/fictions-samedi-noir/le-chateau-de-franz-kafka-partie-2"/>
-        <updated>2021-10-09T19:53:33.000Z</updated>
-        <summary type="html"><![CDATA[durée : 00:52:03 - Fictions / Samedi noir - par : Blandine Masson - Je suis victime, et peut-être les lois elles aussi, d’un abus épouvantable]]></summary>
-        <author>
-            <name>podcast@radiofrance.com (Radio France)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Episode 26.1 : J'ai acheté une femme sur Internet]]></title>
-        <id>6160062d1c82621906d95e05</id>
-        <link href="https://adad.lepodcast.fr/episode-26-point-1-jai-achete-une-femme-sur-internet"/>
-        <updated>2021-10-09T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bonsoir, bienvenue dans l’épisode 26.1 d’Avant d’aller dormir. Cet épisode est le premier d'une trilogie, la suite sortira samedi prochain !
-En attendant, on compte sur vous pour voter pour nous pour remporter le prix du public pour le Paris Podcast Festival ❤️
-Installez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.
-Liens vers l'histoire
-J'ai acheté une femme sur Internet (Partie 1), par Kikito Horrors
-N’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr
-Rejoignez-nous !
-Instagram
-Facebook
-YouTube
-Twitch
-Notre messagerie vocale : 07 49 25 27 90
-Soutenez-nous
-En nous versant quelques deniers sur Patreon, en échange vous recevrez chaque mois les épisodes en avance et du contenu exclusif !
-En nous mettant une super note sur SensCritique, Apple Podcasts ou Podcast Addict.
-Ou tout simplement en parlant de nous à tous vos proches.
-Tous ces liens sont disponibles sur https://avantdallerdormir.fr
-L'équipe
-🎙️ Vos humbles serviteurs, Yop (Instagram / Youtube / Podcasts) & UnDixGo (Instagram / Twitch)
-🏞 Illustration : renarmaro
-Il est maintenant temps de trouver le sommeil. À bientôt…]]></summary>
-        <author>
-            <name>Avant d’aller dormir</name>
         </author>
     </entry>
 </feed>

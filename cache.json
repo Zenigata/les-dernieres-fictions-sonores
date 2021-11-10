@@ -269,24 +269,6 @@
           "publishedOn": "2021-10-12T08:00:10.000Z",
           "wordCount": null,
           "title": "🎧 DIGRESSIONTOBER | #11 - BAIN D'ACIDE"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xxRyqZNRJJg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xxRyqZNRJJg",
-          "publishedOn": "2021-10-11T08:00:30.000Z",
-          "wordCount": null,
-          "title": "🎧 DIGRESSIONTOBER | #10 - PUISSE LE SORT VOUS ÊTRE FAVORAAABLE"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z7PVuN_22UM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z7PVuN_22UM",
-          "publishedOn": "2021-10-10T08:00:18.000Z",
-          "wordCount": null,
-          "title": "🎧 DIGRESSIONTOBER | #09 - ET LÀ VOUS AVEZ LA PRESSION ?"
         }
       ]
     },
@@ -301,6 +283,23 @@
       "feedUrl": "https://javras.fr/feed/podcast",
       "siteUrl": "https://javras.fr/",
       "articles": [
+        {
+          "id": "https://javras.fr/?post_type=podcast&p=19603",
+          "author": "Team Javras",
+          "description": "",
+          "link": "https://javras.fr/podcast/la-memoire-arrangee-intro/",
+          "publishedOn": "2021-11-08T15:25:28.000Z",
+          "wordCount": null,
+          "title": "La Mémoire Arrangée – Intro",
+          "itunes": {
+            "duration": "0:00"
+          },
+          "enclosure": {
+            "url": "https://javras.fr/podcast-download/19603/la-memoire-arrangee-intro.mp3",
+            "length": "1",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://javras.fr/?p=19510",
           "author": "Erika",
@@ -366,23 +365,6 @@
           "enclosure": {
             "url": "https://javras.fr/podcast-download/19171/camlann-episode-7.mp3",
             "length": "22,7",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "https://javras.fr/2021/09/19/copy-of-disconvention-02-angers-geekfest-2/",
-          "author": "Team Javras",
-          "description": "Bonjour à tous, ici Richoult !\nTroisième épisode de Disconvention, cette fois ci on était à Sur Les Terres De L’Unique, à Plouha. On va parler un peu de relecture, des projets de Hesdea, Gihellcy, Foxy et Torakh. Et on rencontre Eden et Exawat, des auditeurs qui nous ont croisé sans savoir qu’on était là.\nN’hésitez pas à nous faire un retour sur ce podcast et nous envoyer des mails et nous rencontrer, voir participer à ce podcast, lors de nos prochaines conventions : \n\nHashtag Festival (Enregistrement le 24 Octobre – 15h).\nChibi Rouen (Enregistrement le 31 Octobre – 15h).\n\nVous pouvez retrouver ce podcast sur : \n\t\t\t\t\t\n\t\t\t\n\t\t\t\t\t\tGoogle Podcasts\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tSpotify\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tYoutube\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tPodcast Addict\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tRSS\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\t\tItu…",
-          "link": "https://javras.fr/2021/10/10/disconvention-03-sur-les-terres-de-lunique/",
-          "publishedOn": "2021-10-10T06:49:00.000Z",
-          "wordCount": null,
-          "title": "Disconvention – 03 – Sur Les Terres De L’Unique",
-          "itunes": {
-            "duration": "32:36"
-          },
-          "enclosure": {
-            "url": "https://javras.fr/podcast-download/19011/disconvention-03-sur-les-terres-de-lunique.mp3",
-            "length": "60",
             "type": "audio/mpeg"
           }
         }
@@ -750,40 +732,6 @@
             "length": "3000727",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "55f501800dc9673214627255a63844ed19945c8d",
-          "author": null,
-          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 43, le mot original était \"Sour\" et a été traduit en \"Acide\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Fifth Choice - Gridded\nGwaLKYM&ab_channel=Gridded-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
-          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-43-acide",
-          "publishedOn": "2021-10-11T04:41:00.000Z",
-          "wordCount": null,
-          "title": "Soldes de tout conte - Ep 43 Acide",
-          "itunes": {
-            "duration": "02:26"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/b241qupzVkGL.mp3?t=1633102896",
-            "length": "2345517",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "2393697f9b85788798c9444129ae19d93c43a564",
-          "author": null,
-          "description": "Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules\n\nPour l'épisode 42, le mot original était \"Pick\" et a été traduit en \"Choisir\". \n\nMusique du générique : Supermarket - Gerhard Feng \nhttps://www.youtube.com/watch?v=KxeC9bWtSWs\n\nFond sonore de l'épisode : Fifth Choice - Gridded\nGwaLKYM&ab_channel=Gridded-Topic\n\nLe logo a été réalisé par Kevin Boyer. \n\nSoldes de tout conte est une fiction produite par le label Podcut. \n\nSi ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.\nFacebook https://www.facebook.com/podcut/\nTwitter https://twitter.com/Podcut_label/\nInstagram https://www.instagram.com/podcut_label/\n\nSi vous souhaitez encourager le label : https://www.patreon.com/podcut\net si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7",
-          "link": "https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-42-choisir",
-          "publishedOn": "2021-10-10T04:36:00.000Z",
-          "wordCount": null,
-          "title": "Soldes de tout conte - Ep 42 Choisir",
-          "itunes": {
-            "duration": "02:46"
-          },
-          "enclosure": {
-            "url": "https://audio.ausha.co/Bxr8mHkrEAQZ.mp3?t=1633102534",
-            "length": "2660483",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -953,23 +901,6 @@
           "enclosure": {
             "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/episode-26-point-2-jai-achete-une-femme-sur-internet/enclosure.4a72e4856efa04a2665557d9efe2ff7ee3dd927f43d6219b9a12e34697d1dcf7.mp3?p=f",
             "length": "31119199",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "6160062d1c82621906d95e05",
-          "author": "Avant d’aller dormir",
-          "description": "Bonsoir, bienvenue dans l’épisode 26.1 d’Avant d’aller dormir. Cet épisode est le premier d'une trilogie, la suite sortira samedi prochain !\nEn attendant, on compte sur vous pour voter pour nous pour remporter le prix du public pour le Paris Podcast Festival ❤️\nInstallez-vous confortablement au fond de votre lit, remontez la couette jusqu'au menton et fermez les yeux.\nLiens vers l'histoire\nJ'ai acheté une femme sur Internet (Partie 1), par Kikito Horrors\nN’hésitez pas, vous aussi, à nous envoyer vos histoires, par mail sur hello@avantdallerdormir.fr\nRejoignez-nous !\nInstagram\nFacebook\nYouTube\nTwitch\nNotre messagerie vocale : 07 49 25 27 90\nSoutenez-nous\nEn nous versant quelques deniers sur Patreon, en échange vous recevrez chaque mois les épisodes en avance et du contenu exclusif !\nEn nous mettant une super note sur SensCritique, Apple Podcasts ou Podcast Addict.\nOu tout simplement en parlant de nous à tous vos proches.\nTous ces liens sont disponibles sur https://avantdallerdormir.fr\nL'équipe\n🎙️ Vos humbles serviteurs, Yop (Instagram / Youtube / Podcasts) & UnDixGo (Instagram / Twitch)\n🏞 Illustration : renarmaro\nIl est maintenant temps de trouver le sommeil. À bientôt…",
-          "link": "https://adad.lepodcast.fr/episode-26-point-1-jai-achete-une-femme-sur-internet",
-          "publishedOn": "2021-10-09T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Episode 26.1 : J'ai acheté une femme sur Internet",
-          "itunes": {
-            "duration": "0:13:24"
-          },
-          "enclosure": {
-            "url": "https://chtbl.com/track/5278G5/dts.podtrac.com/redirect.mp3/stats.podcloud.fr/adad/episode-26-point-1-jai-achete-une-femme-sur-internet/enclosure.7b1c2dfb5e6ecdaba0481c8610da455d233f938a8e89a30743c775ed9ae60ef0.mp3?p=f",
-            "length": "19609332",
             "type": "audio/mpeg"
           }
         }
@@ -1269,91 +1200,6 @@
             "length": "23561760",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "a431d9a3-1d0b-4d6b-ad1a-4c6ce2e1b4f5",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:24:54 - Le Feuilleton - Il y a quelque chose de spécial ce soir-là, au Max’s, la scène est juste assez grande pour les amplis et la batterie. Il est 23h30 quand Lou Reed apparaît… !",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
-          "publishedOn": "2021-10-10T23:00:04.000Z",
-          "wordCount": null,
-          "title": "Une nuit d’Août 1970",
-          "itunes": {
-            "duration": "00:24:54"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/f47b744d-22c9-496f-8341-91dc65ac202e/11495-11.10.2021-ITEMA_22784340-2017C3480E0338-21.mp3",
-            "length": "23933444",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "e63f8529-32ca-40c1-9acb-bb5099c014b4",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:24:32 - Le Feuilleton - Si l'album The Velvet Underground and Nico est un échec à New-York, à 5000 kilomètres de là, à Londres, Bowie en est fou…!",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
-          "publishedOn": "2021-10-10T23:00:03.000Z",
-          "wordCount": null,
-          "title": "Histoire de vivre",
-          "itunes": {
-            "duration": "00:24:32"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/4f7d1b72-6525-4817-b309-4bf93f71fa2a/11495-11.10.2021-ITEMA_22784340-2017C3480E0337-21.mp3",
-            "length": "23579773",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "0c433eaf-882f-4843-afb8-405e4f945c0c",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:24:23 - Le Feuilleton - Andy Warhol avait été surnommé Drella, pour Dracula  et Cinderella…",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
-          "publishedOn": "2021-10-10T23:00:02.000Z",
-          "wordCount": null,
-          "title": "Cendrillons électriques",
-          "itunes": {
-            "duration": "00:24:23"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/fc91d7b4-f2ab-40eb-bfc8-4b5e327a207c/11495-11.10.2021-ITEMA_22784340-2017C3480E0336-21.mp3",
-            "length": "23442166",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "288499a5-3172-40cd-a373-7d1118e4cdcf",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:24:31 - Le Feuilleton - Lou Reed et John Cale ont toute une panoplie d'équipements électroniques… Ils fabriquent des chambres de réverbération avec des seaux en métal remplis d'eau… Ils cherchent le \"son\"",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
-          "publishedOn": "2021-10-10T23:00:01.000Z",
-          "wordCount": null,
-          "title": "\"Lou Reed, les années Velvet\" de Christine Spianti 7/5 : Réalisme Expérimental",
-          "itunes": {
-            "duration": "00:24:31"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/a2177aa4-509c-4126-aa39-ca997dd6f6ac/11495-11.10.2021-ITEMA_22784340-2017C3480E0335-21.mp3",
-            "length": "23570284",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "437ce3bf-dd16-4a83-a58d-e638cdceadc6",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:24:21 - Le Feuilleton - Au 56, Ludlow street à New York, au début des années 60, Lou Reed et John Cale invente le son Velvet.",
-          "link": "https://www.franceculture.fr/emissions/fictions-le-feuilleton",
-          "publishedOn": "2021-10-10T23:00:00.000Z",
-          "wordCount": null,
-          "title": "Radio Lou, l'époque en rêvait",
-          "itunes": {
-            "duration": "00:24:21"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/2fb56e66-c2bd-4888-9b4d-c60fb9f98838/11495-11.10.2021-ITEMA_22784340-2017C3480E0334-21.mp3",
-            "length": "23399199",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -1427,23 +1273,6 @@
           "enclosure": {
             "url": "https://rf.proxycast.org/29648279-65c2-413f-97cb-487dd79cf63b/11496-16.10.2021-ITEMA_22808625-2021C3067E0153-21.mp3",
             "length": "56614374",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "606f88ba-b28b-4c1a-8fa9-fdf59d061ea1",
-          "author": "podcast@radiofrance.com (Radio France)",
-          "description": "durée : 00:52:03 - Fictions / Samedi noir - par : Blandine Masson - Je suis victime, et peut-être les lois elles aussi, d’un abus épouvantable",
-          "link": "https://www.franceculture.fr/emissions/fictions-samedi-noir/le-chateau-de-franz-kafka-partie-2",
-          "publishedOn": "2021-10-09T19:53:33.000Z",
-          "wordCount": null,
-          "title": "\"Le château\" de Franz Kafka (partie 2)",
-          "itunes": {
-            "duration": "00:52:03"
-          },
-          "enclosure": {
-            "url": "https://rf.proxycast.org/03dfd10b-2e11-4f28-a9da-7bbd30583d43/11496-09.10.2021-ITEMA_22801098-2010C3067E0006-21.mp3",
-            "length": "50003954",
             "type": "audio/mpeg"
           }
         }
