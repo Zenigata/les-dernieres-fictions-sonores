@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenigata.github.io/les-dernieres-fictions-sonores/index.html</id>
     <title>Fictions sonores : nouveaux épisodes</title>
-    <updated>2021-11-10T00:31:57.277Z</updated>
+    <updated>2021-11-11T00:32:06.147Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://zenigata.github.io/les-dernieres-fictions-sonores/index.html"/>
     <link rel="self" href="https://zenigata.github.io/les-dernieres-fictions-sonores/feed.atom"/>
@@ -46,6 +46,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA["Happy birthday, Mr President"]]></title>
+        <id>bb896576-d4f7-4c4e-a025-6493b2103bc8</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-11-08T00:00:06.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:23:47 - Le Feuilleton - Un jour de mai 1962, un énorme hélicoptère se pose sur la piste du Studio de la Fox, près du plateau 14. Peter Lawford se précipite dans la loge de Marilyn pour l’escorter jusqu’à l’engin bleu royal qui doit l’emmener à l’anniversaire de John Fitzgerald Kennedy.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["Happy birthday, Mr President”]]></title>
         <id>bb896576-d4f7-4c4e-a025-6493b2103bc8</id>
         <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/marilyn-dernieres-seances-de-michel-schneider-7-happy-birthday-mr-president"/>
@@ -58,9 +68,69 @@
     <entry>
         <title type="html"><![CDATA[Mai 1962]]></title>
         <id>2593d9af-932f-4ba7-8b32-8cb2f1a238ee</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-11-08T00:00:05.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:02 - Le Feuilleton - En plein tournage du film Quelque chose doit craquer dirigé par Georges Cukor, Marilyn arrive à sa séance chez son analyste Ralph Greenson décomposée : "Il paraît que ça y est, que vous allez vraiment partir et me quitter. C'est Joannie qui me l’a appris avant-hier."]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mai 1962]]></title>
+        <id>2593d9af-932f-4ba7-8b32-8cb2f1a238ee</id>
         <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/marilyn-dernieres-seances-de-michel-schneider-6-mai-1962"/>
         <updated>2021-11-08T00:00:05.000Z</updated>
         <summary type="html"><![CDATA[durée : 00:24:02 - Le Feuilleton - "En plein tournage du film Quelque chose doit craquer dirigé par Georges Cukor, Marilyn arrive à sa séance chez son analyste Ralph Greenson décomposée : « Il paraît que ça y est, que vous allez vraiment partir et me quitter. Cest Joannie qui me l’a appris avant-hier"]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juin 1961]]></title>
+        <id>bc073906-135e-4a19-b3ff-26109c460933</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-11-08T00:00:04.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:25 - Le Feuilleton - Marilyn Monroe adresse à son psychanalyste Ralph Greenson un télégramme où elle annonce son propre anniversaire, comme on se fait à soi-même un cadeau de peur que les autres ne vous oublient ce jour-là.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Novembre 1960]]></title>
+        <id>3abf744d-9821-4f2f-8862-3a9eb9aa1d03</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-11-08T00:00:03.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:23:58 - Le Feuilleton - La reprise du tournage des Désaxés de John Huston remet Marilyn face à Monthy Clift. Les deux acteurs n’arrivent pas à dire leurs répliques comme Huston le leur indique. Leurs mots sont comme des caresses qu’échangeraient des animaux blessés.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Août 1960]]></title>
+        <id>acfff7e7-d256-4d5c-8a79-05e6b77bd91b</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-11-08T00:00:02.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:39 - Le Feuilleton - Les difficultés liées aux tournages continuent. Après Le Milliardaire, John Huston propose à Marilyn le rôle féminin des Désaxés, scénario tiré d’une pièce d’Arthur Miller, avec Clark Gable et Monthy Clift. Les extérieurs doivent être tournés à Reno. Marilyn n’est pas là. On l’attend.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Février 1960]]></title>
+        <id>c20a7750-d657-4522-bbb0-5c293147e981</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-11-08T00:00:01.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:15 - Le Feuilleton - Durant les presque six mois du tournage du Milliardaire, Marilyn quittera le plateau tous les après-midi pour se rendre chez son psychanalyste, Ralph Greenson, North Roxbury Drive, à mi-chemin entre le studio de la Fox sur Pico Boulevard et son hôtel sur Sunset Boulevard.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C’est toujours par la fin que les choses commencent]]></title>
+        <id>79b16adc-3f29-4b8d-80a2-2d9d514a2b4c</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-11-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:23:38 - Le Feuilleton - Ralph Greenson, son psychanalyste, est la dernière personne qui a vu Marilyn Monroe vivante et la première qui l’a trouvée morte. A mots voilés, on l’accusait de meurtre.]]></summary>
         <author>
             <name>podcast@radiofrance.com (Radio France)</name>
         </author>
@@ -811,11 +881,31 @@ et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Claude Gueux]]></title>
+        <id>f5ceb8e3-5463-4fc7-94ee-c7da316b8c5d</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:14.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:47 - Le Feuilleton - Fort maltraité par l’éducation, fort bien traité par la nature, il avait la parole rare, le geste plus fréquent, il vola un soir de disette et se retrouva au cachot]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Claude Gueux de Victor Hugo]]></title>
         <id>f5ceb8e3-5463-4fc7-94ee-c7da316b8c5d</id>
         <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/claude-gueux-de-victor-hugo-0"/>
         <updated>2021-10-17T23:00:14.000Z</updated>
         <summary type="html"><![CDATA[durée : 00:24:47 - Le Feuilleton - Fort maltraité par l’éducation, fort bien traité par la nature, il avait la parole rare, le geste plus fréquent, Claude Gueux vola un soir de disette et se retrouva au cachot… !]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La vérité]]></title>
+        <id>60daf6ae-fade-4765-8426-c021603b1302</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:13.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:22 - Le Feuilleton - Marius et Cosette se marient le 16 février 1833. Le lendemain, Jean Valjean avoue à Marius qu’il est un ancien forçat .]]></summary>
         <author>
             <name>podcast@radiofrance.com (Radio France)</name>
         </author>
@@ -841,11 +931,31 @@ et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[La défaite]]></title>
+        <id>b7631cbc-0ce5-488e-bb22-ed6ce5f27c20</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:12.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:37 - Le Feuilleton - La barricade est tombée. Le révolutionnaire Enjolras et ses amis sont fusillés. Jean Valjean sauve Marius blessé en s’enfuyant par les égouts.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Episode 13]]></title>
         <id>b7631cbc-0ce5-488e-bb22-ed6ce5f27c20</id>
         <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-1314-episode-13"/>
         <updated>2021-10-17T23:00:12.000Z</updated>
         <summary type="html"><![CDATA[durée : 00:24:37 - Le Feuilleton - La barricade est tombée, Marius est blessé, Jean Valjean l’aide en le  portant sur son dos… !]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gavroche]]></title>
+        <id>2b5c0d1e-a9ac-4a89-962d-f7ef1d308e61</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:11.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:41 - Le Feuilleton - Gavroche meurt sur les barricades alors que Marius vient de lui confier une lettre pour Cosette. Jean Valjean prête main-forte aux révolutionnaires.]]></summary>
         <author>
             <name>podcast@radiofrance.com (Radio France)</name>
         </author>
@@ -861,11 +971,31 @@ et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Barricades]]></title>
+        <id>a7e6751f-15cd-490b-89d1-2eb7b6afd386</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:39 - Le Feuilleton - Au printemps de 1832, la colère emporte le peuple de Paris en une insurrection qui fait du centre de la capitale une citadelle inextricable.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Episode 11]]></title>
         <id>a7e6751f-15cd-490b-89d1-2eb7b6afd386</id>
         <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-1114-episode-11"/>
         <updated>2021-10-17T23:00:10.000Z</updated>
         <summary type="html"><![CDATA[durée : 00:24:39 - Le Feuilleton - Paris se soulève. Javert s’infiltre mais il est reconnu par Gavroche, qui le fait prisonnier. Marius sauve Gavroche, Eponime sauve Marius en s’interposant dans une fusillade, elle meurt dans ses bras en lui donnant une lettre.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choléra]]></title>
+        <id>102f1f08-4ac5-492d-b87a-d28094374094</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:09.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:30 - Le Feuilleton - En 1832, le choléra menace Paris. Jean Valjean veut partir en Angleterre pour protéger Cosette. La jeune femme est désespérée à l’idée de quitter Marius.]]></summary>
         <author>
             <name>podcast@radiofrance.com (Radio France)</name>
         </author>
@@ -881,11 +1011,31 @@ et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Secrets]]></title>
+        <id>5b757a94-43f8-4c7b-9554-95c278d63268</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:08.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:49 - Le Feuilleton - Marius peut enfin lui dévoiler son amour à Cosette. Les deux jeunes gens se retrouvent en cachette de Jean valjean.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Episode 9]]></title>
         <id>5b757a94-43f8-4c7b-9554-95c278d63268</id>
         <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-914-episode-9"/>
         <updated>2021-10-17T23:00:08.000Z</updated>
         <summary type="html"><![CDATA[durée : 00:24:49 - Le Feuilleton - Le bienfaiteur est Jean Valjean.. Marius découvre que Le Thénardier est l’homme qui a sauvé son père à Waterloo. Javert débarque avec la police,Jean Valjean s’enfuit…et vit désormais avec Cosette rue Plumet, Marius retrouve leur trace grâce à Eponime, la fille aînée des Thénardier.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marius est amoureux]]></title>
+        <id>7bb79e35-0d5e-4703-81f3-2d5ef23fd747</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:07.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:34 - Le Feuilleton - Marius a retrouvé la jeune fille inconnue du Luxembourg par hasard et décide de ne plus la perdre de vue avant de savoir où elle demeure.]]></summary>
         <author>
             <name>podcast@radiofrance.com (Radio France)</name>
         </author>
@@ -901,6 +1051,16 @@ et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Marius]]></title>
+        <id>c8e1b493-d358-4537-a407-d251c46ccf65</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:06.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:49 - Le Feuilleton - A la mort de son père, Marius découvre ce que son grand-père lui a toujours caché et se rapproche des étudiants révolutionnaires.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Episode 7]]></title>
         <id>c8e1b493-d358-4537-a407-d251c46ccf65</id>
         <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-714-episode-7"/>
@@ -911,11 +1071,71 @@ et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Un refuge pour Jean Valjean et Cosette]]></title>
+        <id>9adb84ff-236c-4428-899e-32976662e207</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:31 - Le Feuilleton - Jean Valjean et Cosette sont recueillis à Paris dans le couvent du Petit Picpus où l’enfant s’épanouit sous les yeux attendris du forçat devenu jardinier.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Episode 6]]></title>
         <id>9adb84ff-236c-4428-899e-32976662e207</id>
         <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton/les-miserables-de-victor-hugo-614-episode-6"/>
         <updated>2021-10-17T23:00:05.000Z</updated>
         <summary type="html"><![CDATA[durée : 00:24:31 - Le Feuilleton - Jean Valjean, fuit Javert, et retrouve Cosette beaucoup plus tard…en 1823.  Il négocie avec les Thénardier en échange d'une certaine somme et réussit à repartir avec Cosette.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jean Valjean est rattrapé par son passé]]></title>
+        <id>6e23566d-ded3-4f6f-b972-74eae58019b0</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:04.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:48 - Le Feuilleton - Javert dénonce Jean Valjean et dévoile sa véritable identité à l’heure où un homme va être jugé à sa place.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantine]]></title>
+        <id>9c9b0da7-7e85-40e7-86b0-c8382661808c</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:23:29 - Le Feuilleton - L’inspecteur Javert arrête Fantine qui se livre à la prostitution après avoir été renvoyée de la fabrique sans que Monsieur Madeleine ne le sache.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’alouette]]></title>
+        <id>842d5418-3bd7-4082-b981-160a09e72a72</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:26 - Le Feuilleton - Pour payer la pension de Cosette aux Thénardier, Fantine trouve du travail dans la fabrique de Monsieur Madeleine alias Jean Valjean. devenu maire de la ville.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La pièce de quarante sous]]></title>
+        <id>6a7509d5-e25c-40b5-b61d-c262768c51d7</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:01.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:57 - Le Feuilleton - Sur la route Jean Valjean a détroussé un petit ramoneur, il repense à la phrase de l’évêque et s’en va honteux, désespéré.]]></summary>
+        <author>
+            <name>podcast@radiofrance.com (Radio France)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’empereur, l’évêque et le vagabond]]></title>
+        <id>8e944bef-b1aa-475d-963c-33c9533b8f49</id>
+        <link href="https://www.franceculture.fr/emissions/fictions-le-feuilleton"/>
+        <updated>2021-10-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[durée : 00:24:17 - Le Feuilleton - Jean Valjean, condamné pour le vol d’un pain est libéré après 20 ans de Bagne, en 1815. Il arrive dans la ville de Dignes.]]></summary>
         <author>
             <name>podcast@radiofrance.com (Radio France)</name>
         </author>
@@ -1185,45 +1405,6 @@ https://www.youtube.com/watch?v=KxeC9bWtSWs
 
 Fond sonore de l'épisode : Beer Can Chicken - Chester Malone
 https://www.youtube.com/watch?v=x87Z37I5UIE&ab_channel=ChesterMalone-Topic
-
-Le logo a été réalisé par Kevin Boyer. 
-
-Soldes de tout conte est une fiction produite par le label Podcut. 
-
-Si ça vous a plu n’hésitez pas à nous le dire sur les réseaux du label.
-Facebook https://www.facebook.com/podcut/
-Twitter https://twitter.com/Podcut_label/
-Instagram https://www.instagram.com/podcut_label/
-
-Si vous souhaitez encourager le label : https://www.patreon.com/podcut
-et si vous voulez venir discuter de l'épisode avec nous, rendez-vous sur notre serveur discord : https://discord.gg/9NMb66z2C7]]></summary>
-        <author>
-            <name>Podcut Fictions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎧 DIGRESSIONTOBER | #11 - BAIN D'ACIDE]]></title>
-        <id>https://www.youtube.com/watch?v=fr4OqNewGmQ</id>
-        <link href="https://www.youtube.com/watch?v=fr4OqNewGmQ"/>
-        <updated>2021-10-12T08:00:10.000Z</updated>
-        <author>
-            <name>Audiodidact</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soldes de tout conte - Ep 44 Bloqué]]></title>
-        <id>7ca1b1ea1512027c9843d750f48d02c6b4d7925c</id>
-        <link href="https://podcast.ausha.co/podcut-fictions/soldes-de-tout-conte-ep-44-bloque"/>
-        <updated>2021-10-12T04:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Durant tout le mois d'octobre, Zu se lance le défi de vous raconter une histoire en suivant les mots du défi de dessin Inktober. https://inktober.com/rules
-
-Pour l'épisode 44, le mot original était "Stuck" et a été traduit en "Bloqué". 
-
-Musique du générique : Supermarket - Gerhard Feng 
-https://www.youtube.com/watch?v=KxeC9bWtSWs
-
-Fond sonore de l'épisode : Fifth Choice - Gridded
-GwaLKYM&ab_channel=Gridded-Topic
 
 Le logo a été réalisé par Kevin Boyer. 
 
