@@ -2,7 +2,8 @@ cacheUrl: https://zenigata.github.io/les-dernieres-fictions-sonores/cache.json
 sources:
   - href: https://www.linaudible.com/feed/podcast/ # L'inaudible
   - href: https://cyranodebergerac.lepodcast.fr/rss # Cyrano
-  - href: https://audioblog.arteradio.com/blog/158604/rss # Hectore
+  #- href: https://audioblog.arteradio.com/blog/158604/rss # Hectore
+  - href: https://hector-ou-les-chroniques-dun-rastronaute.lepodcast.fr/rss # Hectore
   - href: https://seasons.lepodcast.fr/rss # Seasons
   #- href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvvYk2sA1XWtt3XHzA0CEWw # Audiodidact
   - href: https://multifeed.podcloud.fr/6196afb686baa65796335c21 # Audiodidact
