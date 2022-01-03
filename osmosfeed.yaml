@@ -32,5 +32,6 @@ sources:
   - href: https://radiofrance-podcast.net/podcast09/rss_11495.xml # Le Feuilleton de France Culture
   - href: https://radiofrance-podcast.net/podcast09/rss_11496.xml # Samedi Noir de France Culture
   - href: https://styx.lepodcast.fr/rss # Styx
+  - href: https://oriog-creations.lepodcast.fr/rss # Oriog
 
 siteTitle: "Fictions sonores : nouveaux épisodes"
